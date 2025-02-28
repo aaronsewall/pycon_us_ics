@@ -80,5 +80,5 @@ events = [
     + (poster_schedule_items if posters_session_item.sessions else [])
 ]
 c = Calendar(events=events)
-with open("../events.ics", "w") as f:
+with open("../docs/events.ics", "w") as f:
     f.write(c.serialize())
