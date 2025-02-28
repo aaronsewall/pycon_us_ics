@@ -1,0 +1,178 @@
+[tool.poetry]
+name = "pycon_us_ics"
+version = "0.0.1"
+description = "TODO"
+authors = ["Aaron Sewall"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10"
+pydantic = "^2.10.6"
+pandas = "^2.2.3"
+requests = "^2.32.3"
+ics = "^0.7.2"
+
+[tool.poetry.group.test]
+optional = true
+
+[tool.poetry.group.test.dependencies]
+
+[tool.poetry.group.dev]
+optional = true
+
+[tool.poetry.group.dev.dependencies]
+black = "*"
+mypy = "^1.15"
+isort = "^6"
+ruff = "^0.9"
+datamodel-code-generator = "^0.28"
+
+[tool.black]
+line-length = 100
+target-version = ['py310']
+skip-magic-trailing-comma = true
+
+[tool.isort]
+multi_line_output = 3
+include_trailing_comma = true
+force_grid_wrap = 0
+line_length = 100
+use_parentheses = true
+skip = ["./venv", "./.venv"]
+known_first_party = ""
+extra_standard_library = "setuptools,typing_extensions"
+
+[tool.mypy]
+plugins = "pydantic.mypy"
+mypy_path = ".:test"
+disallow_untyped_calls = true
+disallow_any_explicit = false
+disallow_any_generics = true
+disallow_subclassing_any = true
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+check_untyped_defs = true
+no_implicit_optional = true
+warn_unused_ignores = true
+warn_return_any = true
+allow_redefinition = false
+warn_incomplete_stub = true
+warn_redundant_casts = true
+scripts_are_modules = true
+strict_optional = true
+ignore_missing_imports = true
+
+[tool.pydantic-mypy]
+init_forbid_extra = true
+init_typed = true
+warn_required_dynamic_aliases = true
+warn_untyped_fields = true
+
+[tool.ruff]
+target-version = "py310"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["ALL"]
+external = [
+    "DOC", # pydoclint
+    "SIG" # docsig
+]
+ignore = [
+    # incompatible with skip-magic-trailing-comma=true in black
+    "COM812", # missing-trailing-comma
+
+    # We don't put newlines after classes
+    "D203", # incorrect-blank-line-before-class
+
+    # These are handled by pydoclint and docsig
+    "D107", # undocumented-public-init
+    "D205", # missing-blank-line-after-summary
+    "D212", # multi-line-summary-first-line
+    "D213", # multi-line-summary-second-line
+
+    # I understand the sentiment here but this is a LOT of stuff to fix
+    "D401", # non-imperative-mood
+
+    # Boolean related
+    "FBT001", # boolean-type-hint-positional-argument
+    "FBT002", # boolean-default-value-positional-argument
+
+    # I understand the spirit here, but we're pretty careful when using isEnabledFor
+    "G004", # logging-f-string
+
+    # Running isort independently
+    "I001", # unsorted-imports
+
+    # We had this disabled in pylint previously
+    "RET505", # superfluous-else-return
+
+    # Can't be used in tests, and it's incompatible with mypy type narrowing
+    # See https://github.com/astral-sh/ruff/issues/6051
+    "S101", # assert
+
+    # Checks related to TODOs
+    "FIX002", # line-contains-todo
+    # Probably not a bad convention to pick up
+    "TD002", # missing-todo-author
+    # This is the right check, but the wrong format. It doesn't allow TODO with the issue code
+    "TD003", # missing-todo-link
+    # Not our current convention but we could start using this
+    "TD004", # missing-todo-colon
+
+    # This one is kind of annoying to fix, I'd rather leave it
+    "TRY301", # raise-within-try
+
+    # Conflicts with DOC502 in pydoclint
+    # Function/method has a “Raises” section in the docstring, but there are not “raise” statements
+    # in the body
+    # TODO Consider removing when ruff supports sphinx directly
+    #  See https://github.com/astral-sh/ruff/pull/13286
+    "TRY203", # useless-try-except
+
+    # Conflicts with pylint
+    "UP015", # redundant-open-modes
+
+    # Boo explicit Any
+    "ANN401", # any-type
+]
+
+[tool.ruff.lint.pyupgrade]
+# Preserve types, even if a file imports `from __future__ import annotations`.
+keep-runtime-typing = true
+
+[tool.ruff.lint.pep8-naming]
+classmethod-decorators = [
+    # Allow Pydantic's `@validator` decorator to trigger class method treatment.
+    "pydantic.validator",
+]
+
+[tool.ruff.lint.per-file-ignores]
+"test/*" = [
+    "ARG001", # unused-function-argument
+    "D103", # undocumented-public-function
+    "PLR2004", # magic-value-comparison
+    "PLR0913", # too-many-arguments
+    "PLR0915", # too-many-statements
+]
+"__init__.py" = [
+    "D104", # undocumented-public-package
+]
+
+[tool.ruff.lint.pylint]
+max-args = 11
+max-bool-expr = 5
+max-branches = 12
+max-locals = 20
+max-nested-blocks = 5
+max-positional-args = 5
+max-public-methods = 20
+max-returns = 6
+max-statements = 50
+
+[tool.ruff.lint.isort]
+known-first-party = []
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
