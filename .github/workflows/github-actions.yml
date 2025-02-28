@@ -30,8 +30,3 @@ jobs:
           git add events.ics
           git commit -m "update calendar file"
           git push
-defaults:
-permissions:
-env:
-run-name:
-concurrency:
