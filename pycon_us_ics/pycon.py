@@ -1,4 +1,5 @@
 import numpy as np
+import uuid
 import pandas as pd
 import requests
 from ics import Calendar, Event
@@ -63,17 +64,21 @@ def format_description(schedule_item: ScheduleItem) -> str:
     return desc
 
 
+def generate_ical_uid(short_id: str) -> str:
+    return str(uuid.uuid5(uuid.NAMESPACE_URL, short_id))
+
+
 events = [
     Event(
         name=f"[{schedule_item.kind}] {schedule_item.name}",
         begin=schedule_item.start,
         end=schedule_item.end,
         location=schedule_item.room,
-        uid=str(schedule_item.conf_key),
+        uid=generate_ical_uid(str(schedule_item.conf_key)),
         categories=[schedule_item.section, schedule_item.kind],
         description=format_description(schedule_item),
         transparent=False,
-        status="CANCELLED" if schedule_item.cancelled is None else "CONFIRMED",
+        status="CANCELLED" if schedule_item.cancelled else "CONFIRMED",
         url=schedule_item.conf_url,
     )
     for schedule_item in schedule_items
