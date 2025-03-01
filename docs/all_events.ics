@@ -16,7 +16,7 @@ UID:bffa3522-4629-5e7c-ac08-0433874a4508
 URL:https://us.pycon.org/2025/schedule/presentation/103/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Event Sourcing From The Ground Up\nhttps://us.pycon.org/2025/schedule/presentation/60/\n<p>We often think about data in terms of storing the current state of our models. If a chess player moves a piece\, we update the state of the board and persist it. This makes it easy to query the current state of the game\, but also poses some challenges: How do we know which moves led up to the current state? And how do we ensure that the state remains consistent\, even in a distributed system?</p>\n<p><strong>Event Sourcing</strong> takes a different approach to storing state. Instead of storing the current state as-is\, we store the <em>sequence of events</em> that led to the current state. If we need to know the current state\, we can replay this immutable record of events to reconstruct it. Not only does this give us an immutable audit log\, this also promotes loose coupling and enables optimistic concurrency.</p>\n<p>In this tutorial\, we are going to build an “Event Sourcing”-based backend for a game of Connect Four from the ground up. Rather than using a framework that abstracts away some of the core principles\, we are going to implement the mechanisms ourselves to help us understand the core principles.</p>\n<h3>Audience &amp\; Preparation</h3>\n<p>This tutorial is for you if you’re interested in Event Sourcing but don’t have any real experience with it yet. We do expect you to have at least an intermediate level in Python\, with some experience in writing (simple) classes.</p>\n<p>Do make sure to bring your laptop\, with the following tools installed:\n- Python 3.12 or 3.13\n- Docker\, podman\, or another container runtime\n- Git\n- Your favorite editor</p>\n<p><em><strong>Caution:</strong> This tutorial is a well-balanced combination of theory and hands-on exercises. You will have to write some actual code!</em></p>\nSpeakers:\nSebastiaan Zeeff\n<p>Sebastiaan is a Python enthusiast who likes to think about good software design and engineering. He is a fellow of the EuroPython Society and the Python Software Foundation\, works as a Principal Expert for the Pythoneers at Sopra Steria Netherlands\, and frequently speaks at conferences around the world.</p>
 DTEND:20250515T163000Z
 LOCATION:Room 319
@@ -28,7 +28,7 @@ UID:071beeb1-b1ed-5e7c-87e3-30a0877942b4
 URL:https://us.pycon.org/2025/schedule/presentation/60/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Discover 3D graphics with WebGL and PyScript\nhttps://us.pycon.org/2025/schedule/presentation/24/\n<p>WebGL is a wonderful set of APIs inside every modern Web browser that allow us to generate interactive 3D scenes. Thanks to PyScript\, we can explore WebGL without writing JavaScript. This tutorial will be a deep dive into a single topic: how to use PyScript with WebGL to harness the graphical power of the Web browser. By the end of the tutorial\, I expect you to gain confidence that you can do it\, too\, and be inspired to try!</p>\n<p>The tutorial assumes familiarity with Python and high-school math. PyScript experience helpful but not required.</p>\nSpeakers:\nŁukasz Langa\n<p>Failed comedian. CPython Developer in Residence. Wannabe musician. Python 3.8 &amp\; 3.9 release manager. Co-host of the core.py podcast. Original creator of Black. Dad.</p>
 DTEND:20250515T163000Z
 LOCATION:Room 320
@@ -74,7 +74,7 @@ UID:b420fd97-db8e-5fe3-a020-238c8e5ba39c
 URL:https://us.pycon.org/2025/schedule/presentation/102/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T163000Z
 LOCATION:Room 308
@@ -131,7 +131,7 @@ UID:8b2678de-cdc9-523f-9b74-5362b4ce6c92
 URL:https://us.pycon.org/2025/schedule/presentation/16/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:charla,talks
+CATEGORIES:talks,charla
 DESCRIPTION:Section: talks\nKind: charla\nName: Automatizando el Rendimiento de Código Python\nhttps://us.pycon.org/2025/schedule/presentation/66/\n<p>Optimizar el código para mejorar el rendimiento requiere experiencia y un esfuerzo manual considerable. Debido a esta barrera\, la mayoría del software permanece sin optimizar\, lo que da lugar a las aplicaciones lentas que comúnmente experimentamos. En esta charla\, veremos cómo las herramientas modernas impulsadas por IA pueden ahora optimizar continuamente el código Python de formas que antes estaban limitadas a programadores expertos.</p>\n<p>En esta charla\, exploraremos los pasos que los desarrolladores de aplicaciones siguen al optimizar su código y analizaremos cómo cada uno de estos pasos puede ser automatizado. En particular:\n    •   Cómo los Modelos de Lenguaje de Gran Escala pueden generar optimizaciones efectivas para el código.\n    •   Cómo el nuevo código generado se verifica exhaustivamente para garantizar que sea funcionalmente correcto.\n    •   Cómo automatizar las pruebas de rendimiento para asegurarse de que las optimizaciones realmente mejoren el rendimiento.</p>\n<p>A través de demostraciones en vivo de optimización de código con Codeflash\, mostraremos las capacidades de este enfoque. Presentaremos varias categorías de optimizaciones posibles analizando código integrado en proyectos populares de código abierto\, como Pydantic. Finalmente\, veremos cómo podemos comenzar a optimizar automáticamente nuestro código Python existente y futuro con estas herramientas. Esto permite a los desarrolladores centrarse en escribir nuevas funcionalidades\, mientras que los optimizadores impulsados por IA determinan la implementación más eficiente en Python.</p>\nSpeakers:\nKevin Rodriguez\n<p>passionate software engineer with a strong focus on open-source contributions and performance optimization in Python. \ndedicated to helping Spanish-speaking programming communities grow by sharing knowledge and providing support.</p>
 DTEND:20250516T161500Z
 LOCATION:Room 310/311
@@ -213,7 +213,7 @@ TRANSP:OPAQUE
 UID:2eda13b2-8ccd-5ab7-a305-3813c83432e2
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: High-Performance Python: Faster Type Checking and Free Threaded Execution (Sponsor: Meta)\nhttps://us.pycon.org/2025/schedule/presentation/118/\n<p><em>Meta's Commitment to the Python Community: Empowering Innovation and Collaboration</em></p>\n<p>At Meta\, we're dedicated to advancing the Python ecosystem through open-source contributions and community engagement. Our mission is to improve the tooling and runtime\, making the language more efficient\, scalable\, and accessible for developers worldwide.</p>\n<p><em>Introducing Pyrefly: A Scalable Type Checker for a Unified IDE Experience</em></p>\n<p>We're excited to introduce Pyrefly\, a new type checker designed with scalability in mind. Built from the ground up using Rust\, Pyrefly provides a faster and more efficient type checking experience\, enabling developers to write better code with confidence. With Pyrefly\, we aim to deliver a unified IDE experience power type hints and code navigation on a new type checking engine.</p>\n<p><em>Unlocking Better Performance with Free-Threaded Python</em></p>\n<p>In collaboration with the Python community\, we've been working on making free-threaded Python (No-GIL) available in Python 3.13. This significant milestone allows developers to take full advantage of modern multi-core processors directly from Python. More recently\, our efforts have focused on improving the single-threaded performance of the free threading build\, ensuring that Python remains a top choice for developers seeking high-performance capabilities.</p>\nSpeakers:\nSam Gross\n<p>-</p>\nNeil Mitchell\n<p>Programmer at Meta\, working on improving the Python developer experience.</p>
 DTEND:20250515T183000Z
 LOCATION:Room 315
@@ -249,7 +249,7 @@ UID:c9e8e711-4c57-57f0-9376-095d44e81a07
 URL:https://us.pycon.org/2025/schedule/presentation/114/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:charla,talks
+CATEGORIES:talks,charla
 DESCRIPTION:Section: talks\nKind: charla\nName: Descifrando emociones desde arte a memes: un sistema multimodal de imágenes y textos\nhttps://us.pycon.org/2025/schedule/presentation/41/\n<p>El mundo que nos rodea está lleno de información de muchos tipos\, y aunque muchas personas nos comunicamos de manera verbal para transmitir información muchas veces perdemos información del contexto o la intención si no va acompañado de imágenes. Lo mismo ocurre con los modelos cuando intentamos solucionar problemas muy complejos con modelos que solo pueden contener información de un tipo específico. </p>\n<p>Por ese motivo es necesario soluciones que puedan integrar diferentes tipos de datos\, como imágenes\, texto\, video o audio: los modelos multimodales. Estos sistemas combinan múltiples entradas de tipos de datos y hacen los sistemas más robustos\, ayudando en áreas de la salud\, seguridad\, criminología\, comercial\, etc.</p>\n<p>El objetivo de esta charla es mostrar cómo crear un sistema que sea capaz de identificar emociones de diverso tipo de imágenes\, y en paralelo extraer emociones de textos con ese resultado (con diferentes modelos) y asociar textos a las imágenes con los textos extraídos.</p>\n<p>En esta charla\, los asistentes aprenderán paso a paso cómo implementar un sistema multimodal que incluya imágenes y texto\, con datos de libre acceso\, y entender cómo los multimodales son una buena opción para solventar problemas complejos. Además\, se compartirá el rol de Python del proceso\, la aplicación de módulos externos para tener una implementación simple\, para facilitar el realizar el proceso de multimodal.</p>\nSpeakers:\nMaria Jose Molina Contreras\n<p>TBD</p>
 DTEND:20250516T200000Z
 LOCATION:Room 310/311
@@ -321,7 +321,7 @@ UID:aca52640-2607-5fad-a9ff-fb5312de53af
 URL:https://us.pycon.org/2025/schedule/presentation/31/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:charla,talks
+CATEGORIES:talks,charla
 DESCRIPTION:Section: talks\nKind: charla\nName: Honrando las Narrativas de Braceros: Un Enfoque Pythonico para Minería de Textos de Historias de Trabajo Arduo\, Migración y Resiliencia\nhttps://us.pycon.org/2025/schedule/presentation/15/\n<p>Entre 1942 y 1964\, el Programa Bracero llevó a más de 4.5 millones de trabajadores mexicanos a los Estados Unidos para hacer frente a la escasez de mano de obra. Sin embargo\, las experiencias personales de estos trabajadores a menudo permanecen en la sombra\, aunque sus relatos capturan historias de trabajo incansable\, migración\, discriminación y resiliencia. Honrar estas narrativas requiere no solo un reconocimiento histórico\, sino también un método para descubrir y analizar sistemáticamente sus relatos matizados. Aprovechando la minería de texto y el procesamiento de lenguaje natural mediante bibliotecas de Python como <em>beautiful soup</em>\, <em>Sentence Transformers</em> y <em>BERTopic</em>\, esta charla tiene como objetivo destacar los temas\, luchas y resiliencia que definen las experiencias de braceros.</p>\n<p>Esta sesión explorará cómo estas bibliotecas de Python pueden utilizarse para realizar un análisis sistemático de grandes cuerpos de texto\, revelando temas recurrentes y el sentimiento en historias orales y entrevistas. Profundizaremos en técnicas basadas en código para el modelado de temas\, la extracción de palabras clave y el análisis de sentimiento que dan vida a las historias de los Braceros. Al examinar cómo Python puede facilitar la comprensión del lenguaje del trabajo\, la migración y las dificultades\, esta charla demostrará cómo la ciencia de datos puede desempeñar un papel en la valoración de narrativas culturales e históricas. Al hacerlo\, esta presentación también busca mostrar el potencial de Python para unir los campos de las humanidades digitales\, la etnografía y la tecnología\, allanando el camino hacia una mayor comprensión y reconocimiento de las voces subrepresentadas en la historia compartida de trabajo y migración entre México y Estados Unidos.</p>\nSpeakers:\nRodrigo Silva Ferreira\n<p>Rodrigo Silva Ferreira was born and raised in Salvador\, Brazil. He obtained a BSc. in Chemistry with minors in Applied Math and Arabic from NYU Abu Dhabi\, and a MSc. in Analytical Chemistry from the University of Pittsburgh. Rodrigo currently works as a software quality engineer at a statistical software company in central Pennsylvania. When he is not busy testing statistical products\, Rodrigo enjoys learning about how statistics and data can be used to develop a deeper understanding of topics at the intersection of STEM\, society\, and public policy. He is passionate about using statistics and data to understand and improve the world.</p>
 DTEND:20250517T150000Z
 LOCATION:Room 310/311
@@ -333,7 +333,7 @@ UID:2b9b14ba-b4bc-565a-b23d-122fcf78e6f4
 URL:https://us.pycon.org/2025/schedule/presentation/15/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: The A-B-Cs of Regression Analysis\nhttps://us.pycon.org/2025/schedule/presentation/95/\n<p>We all want to do great work with real data\, determine causality and generate predictions\, but determining the appropriate methods for a situation\, and doing estimation on the relationships between variables is hard. In this tutorial\, we’ll take a deep dive into regression analysis\, which is a set of statistical methods for estimating relationships between dependent (or outcome) variables and independent variables (or covariates or regressors or predictors). </p>\n<p>We’ll start with the method of linear regression (finding a best-fit line for a data)\, then move to regressions more appropriate for settings where the dependent variable takes a particular given set of values\, such as binary outcomes and logistic regressions. Along the way\, we’ll pay close attention to statistical definitions that teach us what we can and can’t infer from our data regarding real world causality. We’ll also talk about scientific writing\, and how to accurately document and communicate our results. The tutorial will feature a mix of instruction and discussing the mathematical background of each regression model\, and hands-on exploration of real datasets and real world data questions using Jupyter notebooks.</p>\nSpeakers:\nNeha\n<p>I’m a PhD student at Carnegie Mellon University in Statistics\, Data Science\, and Public Policy. My research interests include machine learning policy and causal inference\, and I’m the primary owner and maintainer of dame-flame\, a Python package for matching in causal inference. In the past\, I’ve worked for the United Nations as an AI and Data Science Research Fellow\, and briefly as a software engineer. My Python teaching experience includes TAing introductory programming classes in Python\, and Girls Who Code clubs for middle school students. </p>\n<p>I have a large variety of hobbies\, including swimming\, playing music\, and arts.</p>
 DTEND:20250515T163000Z
 LOCATION:Room 321
@@ -427,7 +427,7 @@ UID:eba453ca-db1c-51d8-b9d4-0c09adf52b9c
 URL:https://us.pycon.org/2025/schedule/presentation/92/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Comprehending comprehensions\nhttps://us.pycon.org/2025/schedule/presentation/106/\n<p>Comprehensions are one of the most important — and misunderstood — parts of Python. In this tutorial\, I'll walk you through comprehensions\, including how to write them\, and why you would want to do so. By the time you finish this tutorial\, you'll fully understand list\, set and dict comprehensions\, as well as nested comprehensions and generator expressions. You'll understand the differences between regular "for" loops and comprehensions\, and where to use them.</p>\nSpeakers:\nReuven M. Lerner\n<p>Reuven is a full-time instructor in Python and Pandas\, in business since 1995. He teaches at companies around the world\, offers video courses\, and writes books — most recently\, Python Workout and Pandas Workout\, both published by Manning. He writes about Python for his "Better Developers" newsletter\, and poses Pandas puzzles based on current events in "Bamboo Weekly." Reuven lives with his wife and three children in Modi'in\, Israel.</p>
 DTEND:20250514T163000Z
 LOCATION:Room 310/311
@@ -439,7 +439,7 @@ UID:b80c8fef-a677-5340-85fb-2c162d75df03
 URL:https://us.pycon.org/2025/schedule/presentation/106/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Snakes in a Grid: Working with spreadsheets in Python + Python in Excel\nhttps://us.pycon.org/2025/schedule/presentation/37/\n<p>Spreadsheets are one of the most common ways to share data\, and thankfully Python has lots of tools to help! In this tutorial\, we will cover some helpful packages like <a href="https://pypi.org/project/openpyxl/">openpyxl</a> and <a href="https://pypi.org/project/pandas/">pandas</a> that make working with spreadsheets in Python a breeze. We will also approach the task from the other direction and explore how you can use Python directly in a spreadsheet in Excel to analyze and visualize your data. The session will include practical exercises where attendees will learn how to load\, manipulate\, and export spreadsheet data using Python. </p>\n<p>By the end of this tutorial\, participants will be equipped with the skills to efficiently handle spreadsheet tasks in Python as well as leverage Excel to run and share Python code directly in a spreadsheet.</p>\nSpeakers:\nSarah Kaiser\n<p>Sarah has spent most of her career developing technology in the lab\, from virtual reality hardware to satellites. She got her PhD in Physics by starting plasma fires with lasers\, Python\, and Jupyter Notebooks. She has also written tech books for folks of all ages\, including ABCs of Engineering and Learn Quantum Computing with Python and Q#. As a Cloud Developer Advocate for Python at Microsoft and a Python Software Foundation Fellow\, she finds all kinds of new ways to build and break OSS tools for data science and machine learning. When not at her split ergo keyboard\, she loves boating in the Seattle area\, laser cutting everything\, and playing with her German Shepard\, Chewie.</p>
 DTEND:20250514T210000Z
 LOCATION:Room 317
@@ -451,7 +451,7 @@ UID:b756dcb0-3600-525d-bacb-285c0f1a07e2
 URL:https://us.pycon.org/2025/schedule/presentation/37/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Practical PyScript\nhttps://us.pycon.org/2025/schedule/presentation/8/\n<p><a href="https://pyscript.net/">PyScript</a> is a fast growing and vibrant open source platform for Python in the browser. Thanks to PyScript\, <a href="https://python.org/">CPython</a> and <a href="https://micropython.org/">MicroPython</a> run anywhere a browser runs\, which is everywhere!</p>\n<p>This tutorial\, aimed at all levels of experience and delivered by PyScript core developers\, will take you through initial steps needed to get PyScript working (hint: it's a single line added to an HTML <code>&lt\;head&gt\;</code> element). Afterwards we'll explore the many APIs\, modules\, libraries\, frameworks and tooling that have coalesced around PyScript since its announcement at PyCon three years ago. This will involve a guided tour of the potpourri of PyScript: tooling\, idiomatic PyScript\, core browser capabilities\, writing games with PyGame\, data science\, artificial intelligence\, application frameworks and UI toolkits\, and Internet of Things / robotics. We'll finish with an extended opportunity for folks to get their hands dirty with PyScript based explorations and conclude with a friendly and supportive "show and tell" session where folks can demo their work and share their experiences.</p>\n<p>By the end of the tutorial you'll be a confident user of PyScript\, understand its expanding ecosystem and know where the community signposts and gatherings can be found. But most of all\, it's going to be a lot of stimulating supportive fun.</p>\n<p>This tutorial complements and would be excellent prep for Łukasz Langa's advanced\, and frankly mind-blowing\, PyScript / WebGL tutorial later in the conference.</p>\nSpeakers:\nNicholas H.Tollervey\n<p>Music\, philosophy\, teaching\, writing &amp\; computing. Just like this bio: concise\, honest and full of useful information. Home is: <a href="https://ntoll.org">ntoll.org</a></p>\nChris  Laffra\n<p>Chris Laffra is a seasoned professional with extensive experience in leadership\, communication\, and technology. He is a contributor to PyScript and created the Reactive LTK framework. Having worked at leading tech companies like Google and Uber and major financial institutions such as Bank of America and JP Morgan\, Chris has built a career focused on fostering effective communication and leadership within engineering teams.</p>\n<p>Chris is also an accomplished author with books on communication that cater specifically to engineers\, aiming to make them more effective\, productive\, impactful\, and happy in their roles. Additionally\, Chris has taught numerous day-long masterclasses that delve into these topics\, empowering engineers to excel individually and as part of a team.</p>
 DTEND:20250514T210000Z
 LOCATION:Room 320
@@ -474,7 +474,7 @@ TRANSP:OPAQUE
 UID:3fb5eb5f-71f9-55de-8c4c-4792d4269ff5
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:charla,talks
+CATEGORIES:talks,charla
 DESCRIPTION:Section: talks\nKind: charla\nName: "GeoMonitoreo con Python: Soluciones Innovadoras para los Desafíos de Latinoamérica"\nhttps://us.pycon.org/2025/schedule/presentation/67/\n<p>En esta charla\, contaremos la experiencia de subirse al ‘tren Python’ que prometía ser una tecnología en expansión allá por el 2015\, cuando comenzamos a utilizar este lenguaje para la implementación de soluciones basadas en procesamiento de imágenes de video y satelitales para aplicaciones científicas en casos reales. Desde ese entonces\, junto con su ecosistema compuesto por bibliotecas en constante actualización\, Python continúa revolucionando el monitoreo ambiental en Latinoamérica. \nCon aplicaciones como el análisis de imágenes satelitales para evaluar los cambios de uso y cobertura de suelo hasta la detección de aumento o disminución de humedales o la presencia de cianobacterias en lagos\, ríos o embalses\, esta herramienta ha permitido implementar soluciones accesibles y escalables frente a desafíos como el cambio climático\, la gestión de recursos hídricos y la conservación de ecosistemas. Compartiremos casos de estudio exitosos y herramientas clave\, mostrando cómo la comunidad puede contribuir al cuidado ambiental y la sostenibilidad ambiental en la región. Python es más que un lenguaje de programación\, es una interacción continua entre documentación\, desarrolladores y la comunidad que pone a disposición infinidad de herramientas para que cualquier persona con una idea para cuidar el planeta pueda generar su aporte y divulgarlo globalmente\, algo que resultaba difícil de imaginar en nuestros comienzos.</p>\nSpeakers:\nNatalia V. Revollo\n<p>Doctor en Ingeniería por la Universidad Nacional del Sur e Ingeniera en Informática por la UNJU\, Argentina. Actualmente es profesora  e investigadora del Instituto de Ciencias e Ingeniería de la Computación (ICIC-UNS-CONICET) en el área de proyectos de desarrollo tecnológico y social. Es especialista en el desarrollo de algoritmos y software basados ​​en el procesamiento digital de imágenes y el estudio de sistemas inteligentes. Ha realizado cursos de especialización en diferentes universidades de la Argentina y del exterior\, y ha presentado publicaciones en el ámbito de la automatización de sistemas de clasificación y medición no supervisada de imágenes satelitales y videos de características relacionadas con la superficie terrestre. Ha participado en proyectos de transferencia tecnológica aplicada en áreas ambientales y geociencias como analista y desarrollador de algoritmos y modelos de aprendizaje automático. Fue autora del primer estudio sobre Capacidad de Carga de Playa utilizando algoritmos basados ​​en visión por computadora realizado en Argentina. Su trabajo más reciente aborda temas relacionados con el monitoreo no invasivo de los Recursos Hídricos y su interacción con el medio ambiente\, desde el monitoreo de playas en zonas costeras\, la teledetección de cuencas hídricas y la clasificación de humedales.</p>\nCarlos E. Berger\n<p>I am an Electronic Engineer and Ph.D. in Control of Systems\, deeply engaged in research and education\, particularly in the application of programming languages to scientific and multidisciplinary fields. I am a full professor at two universities in Argentina\, and I also work as an independent developer\, actively seeking new opportunities and positions.</p>
 DTEND:20250516T153000Z
 LOCATION:Room 310/311
@@ -508,7 +508,7 @@ TRANSP:OPAQUE
 UID:7afb5aa3-54df-586b-a82e-5d375db7b406
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: What is the magic of magic methods in the Python language?\nhttps://us.pycon.org/2025/schedule/presentation/6/\n<p>Welcome to this tutorial on Python's magic methods\, often underestimated or overlooked in programming practice. And yet\, magic methods make it easy to write code that implements often very complex algorithms in a readable way.</p>\n<p>Python allows you to equip created classes with special methods\, also known as magic methods or dunder methods. To recognize a special method\, you should know that it is a method whose name begins and ends with a double underscore. But it's not the name that their magic lies in\, because these methods have a special meaning for Python.</p>\n<p>Python calls magic methods in response to fundamental operations\, such as creating class instances\, indexing sequences\, comparing objects\, managing attribute access\, and more\, so knowing how to create them is fundamental for any Pythonista.</p>\n<p>During this tutorial\, you’ll:\n* Find out what Python magic methods are\,\n* Understand the magic behind Python magic methods\,\n* Learn how to create and use magic methods\,\n* Customize various behaviors of classes using magic method.\n* Talk about some interesting non-trivial magic methods.</p>\n<p>To fully benefit from this tutorial\, you should be familiar with object-oriented programming in Python.</p>\n<p>This tutorial will have classroom exercises\, post class homeworks as well as complimentary readings. All the presentation\, code\, exercises will be shared in advance and the solutions of the exercise will be shared after the tutorial is completed.</p>\nSpeakers:\nPaweł Żal\n<p>Paweł Żal - software developer\, system architect with 20 years of experience in IT. A proponent of distributed solutions\, recently fascinated by time series databases. An avid kayaker and tinkerer.</p>
 DTEND:20250515T163000Z
 LOCATION:Room 310/311
@@ -556,7 +556,7 @@ UID:88d39dc9-3c4b-5bb4-afef-b92b34a5f62d
 URL:https://us.pycon.org/2025/schedule/presentation/122/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:charla,talks
+CATEGORIES:talks,charla
 DESCRIPTION:Section: talks\nKind: charla\nName: Pruebas E2E automatizadas con Playwright y Python\nhttps://us.pycon.org/2025/schedule/presentation/94/\n<p>En un mundo donde necesitamos garantizar la calidad de nuestro producto\, automatizar pruebas para poder seguir flujos de trabajo en ambientes ágiles es fundamental.</p>\n<p>En esta charla de 30 minutos\, te invito a conocer el universo de Playwright combinado con el poder de Python\, la cual es una herramienta con mucha proyección en el mercado.</p>\n<p>Comenzaremos explorando los fundamentos de Playwright\, desvelando por qué lo hace tan único\, cómo podemos instalarlo y automatizar de manera sencilla un caso de prueba de la mano con PyTest.</p>\n<p>Exploraremos juntos las opciones que nos da Playwright para la posibilidad de ejecutar nuestras pruebas en múltiples navegadores\, tomar capturas de pantalla\, video y emular vistas móviles para probar diseños responsivos.</p>\n<p>Pero no terminaremos ahí\, exploraremos cómo potenciar tus scripts de prueba con el patrón de diseño "Page Object Model"\, una práctica que mejora la mantenibilidad del código y facilita la colaboración en los equipos de desarrollo. Además\, cómo podemos consumir información por medio de los "fixtures" facilitados por PyTest.</p>\n<p>Ya seas un ingeniero de QA o un desarrollador buscando mejorar la calidad de tus proyectos\, esta charla te proporcionará herramientas prácticas y conocimientos esenciales para agregar pruebas E2E eficientes en tu flujo de desarrollo.</p>\nSpeakers:\nJoan Alejandro Esquivel Montero\n<p>I have been working in Software Quality Assurance for the last 7+ years experiencing different projects &amp\; tools during my professional trip. I also create testing &amp\; automation free content in my Youtube Channel "JoanMedia".</p>
 DTEND:20250517T181500Z
 LOCATION:Room 310/311
@@ -568,7 +568,7 @@ UID:c0a650ff-d9ec-59fb-a183-eb0635fe3346
 URL:https://us.pycon.org/2025/schedule/presentation/94/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:charla,talks
+CATEGORIES:talks,charla
 DESCRIPTION:Section: talks\nKind: charla\nName: Rust + Python = Poder Ilimitado: Introducción a PyO3\nhttps://us.pycon.org/2025/schedule/presentation/109/\n<h1><strong>Creando Bibliotecas de Python con Rust: Introducción a PyO3</strong></h1>\n<p>¿Te imaginas combinar la <strong>velocidad y seguridad</strong> de Rust con la <strong>flexibilidad y facilidad</strong> de Python? En esta charla\, exploraremos cómo lograrlo utilizando <strong>PyO3</strong>\, una herramienta que permite construir bibliotecas de Rust que se integran perfectamente en aplicaciones Python.  </p>\n<p>Presentaré un extracto de un <strong>proyecto personal en desarrollo</strong>\, donde utilizo Rust para optimizar tareas críticas de desempeño y las expongo como módulos accesibles desde Python. Compartiré mi experiencia sobre los retos y ventajas de unir estos dos mundos tecnológicos.  </p>\n<h3><strong>Estructura de la Charla</strong></h3>\n<ol>\n<li><strong>Introducción:</strong>  </li>\n<li>\n<p>Qué es PyO3 y por qué combinar Rust y Python puede transformar tus proyectos.  </p>\n</li>\n<li>\n<p><strong>Fundamentos y Configuración:</strong>  </p>\n</li>\n<li>\n<p>Cómo iniciar un proyecto con PyO3 y preparar un entorno de desarrollo eficiente.  </p>\n</li>\n<li>\n<p><strong>Demostración Práctica:</strong>  </p>\n</li>\n<li>Creación paso a paso de una biblioteca simple en Rust\, expuesta a Python.  </li>\n<li>Demostración de proyecto personal</li>\n</ol>\n<h3><strong>Conclusión</strong></h3>\n<p>Se hará un análisis de resultados\, haciendo una reflexión sobre el impacto del proyecto y las lecciones obtenidas\, para pasar a las dudas de la audiencia.</p>\nSpeakers:\nDaniel Hernández Méndez\n<p>Apasionado por los datos y amante del nuevo conocimiento\, actualmente me desempeño como <strong>Data Steward en Scotiabank</strong>\, donde trabajo en la gestión y gobernanza de la información para apoyar procesos clave.  </p>\n<p>Soy un miembro activo de <strong>Python Chile</strong>\, una comunidad dedicada a la difusión y crecimiento del lenguaje Python en el país. Mi contribución abarca tanto el lado organizativo\, participando en la planificación de eventos como <strong>meetups\, PyCon y PyDay</strong>\, como el lado expositivo\, compartiendo mi conocimiento en charlas dirigidas a desarrolladores y entusiastas de la tecnología.  </p>\n<p>Creo firmemente en el poder del <strong>aprendizaje colectivo</strong> y la <strong>colaboración</strong> para impulsar el desarrollo personal y profesional\, lo que me motiva a seguir aportando a la comunidad tecnológica en cada oportunidad que se presenta.</p>
 DTEND:20250517T190000Z
 LOCATION:Room 310/311
@@ -591,7 +591,7 @@ TRANSP:OPAQUE
 UID:4880bf5f-79a6-5c6d-b720-2bc74613dbaf
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T183000Z
 LOCATION:Room 308
@@ -614,7 +614,7 @@ UID:348ce11b-f9ba-5931-a93b-cd5546c2ba63
 URL:https://us.pycon.org/2025/schedule/presentation/129/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:charla,talks
+CATEGORIES:talks,charla
 DESCRIPTION:Section: talks\nKind: charla\nName: Transformando la atención médica: RPA al servicio de pacientes y médicos.\nhttps://us.pycon.org/2025/schedule/presentation/33/\n<p>En el ámbito de la salud\, cada minuto cuenta. Cuando llegamos a una consulta o enfrentamos una emergencia médica\, lo último que esperamos es ser detenidos por barreras administrativas. Sé lo frustrante que es estar en una situación donde lo único que se desea es atención inmediata\, pero en cambio\, nos encontramos atrapados en largos procesos administrativos. En esta charla\, exploraremos cómo la Automatización Robótica de Procesos (RPA) puede ser la clave para transformar estas experiencias\, devolviendo tiempo a los pacientes\, reduciendo el estrés y mejorando la calidad de atención en hospitales. \nAl reducir hasta un 80% de las tareas repetitivas y administrativas\, médicos y personal de la salud pueden concentrarse en lo realmente importante\, la atención al paciente.</p>\nSpeakers:\nNadia Ayala Hernández\n<p>Nadia Ayala Hernández es una apasionada de la tecnología especializada en desarrollo de software\, Robotic Process Automation (RPA)\, Optical Character Recognition (OCR) y soluciones en la nube. Colabora estrechamente con equipos multidisciplinarios para implementar soluciones robustas que impulsen la transformación digital.\nSu enfoque va más allá de la tecnología. Nadia cree firmemente en el poder de la tecnología para empoderar a las personas\, permitiéndoles dedicar su tiempo a actividades de alto valor estratégico. Este compromiso con la mejora de vida a través de soluciones a la medida se refleja en cada proyecto que lidera\, donde prioriza tanto el impacto humano como el organizacional.</p>
 DTEND:20250517T204500Z
 LOCATION:Room 310/311
@@ -649,7 +649,7 @@ TRANSP:OPAQUE
 UID:6470e91b-5a2f-55cc-a74e-286dfa161143
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,plenary
+CATEGORIES:plenary,tutorials
 DESCRIPTION:Section: tutorials\nKind: plenary\nName: Opening Reception\n<p>Opening Reception</p>\n
 DTEND:20250515T230000Z
 LOCATION:Hall A
@@ -672,7 +672,7 @@ UID:4905e95e-da65-51e6-97af-5003dcf070c1
 URL:https://us.pycon.org/2025/schedule/presentation/42/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Polars: Faster\, Simpler\, Smarter Python Analytics\nhttps://us.pycon.org/2025/schedule/presentation/107/\n<p>Designed for Python users familiar with pandas\, this session will bridge the gap between what you know and what’s possible with Polars’ power-packed features.</p>\n<p>We’ll begin by understanding the fundamentals of Polars: its lazy execution engine\, multi-threading capabilities\, and how it leverages Apache Arrow for performance. You’ll learn how to convert existing pandas workflows to Polars and write concise\, blazing-fast queries that process large datasets effortlessly. From there\, we’ll dive into real-world examples and unlock advanced features\, including expressions\, group-by operations\, and streaming data pipelines.</p>\nSpeakers:\nMatt Harrison\n<p>Matt Harrison helps the largest companies in the world to leverage Python and apply data science. When he is not providing corporate training\, he can be found writing books or out in the mountains. He is the author of the best-selling books Effective Pandas\, Effective XGBoost\, and more.</p>
 DTEND:20250515T163000Z
 LOCATION:Room 318
@@ -684,7 +684,7 @@ UID:7fb92d73-86ec-5509-ba7b-7be21db93784
 URL:https://us.pycon.org/2025/schedule/presentation/107/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Handcrafting Your Own Language Processor: The Art of Writing Recursive Descent Parsers\nhttps://us.pycon.org/2025/schedule/presentation/65/\n<p>In this tutorial\, you will learn the fundamental principles of creating a language processor by hand\, focusing specifically on <em>recursive descent parsers</em>. A recursive descent parser is a program used for analyzing the structure of some input language through a series of functions that represent its grammatical rules.</p>\n<p>Knowing how to write a parser from scratch is incredibly useful for anyone interested in understanding how programming languages work under the hood. It also provides valuable insights into compiler design\, interpreters\, and any form of automatic text analysis. By mastering this skill\, you can create your own mini-languages\, customize existing ones\, or simply satisfy your curiosity about the inner workings of language processors.</p>\n<p>Throughout this tutorial\, you will:</p>\n<ul>\n<li>Gain a clear understanding of what a recursive descent parser is and how it operates.</li>\n<li>Learn the step-by-step process of building in Python your own language processor from the ground up.</li>\n<li>Improve your problem-solving skills by designing and implementing parsing algorithms.</li>\n<li>Explore practical examples and hands-on exercises to solidify your understanding.</li>\n</ul>\n<p>By the end of the tutorial\, you will have the knowledge and confidence to craft your own language processor and appreciate the elegance and power of recursive descent parsing.</p>\nSpeakers:\nAriel Ortiz\n<p>Ariel Ortiz is a programming languages enthusiast. Since 1994\, he has been a full-time faculty member at the Tecnológico de Monterrey in Mexico\, where he primarily teaches undergraduate computer science courses. His first encounter with Python was in 2001\, and since then\, he has integrated it into several of his classes\, including Advanced Algorithms and Compiler Design. He is an active member of ACM’s Special Interest Group on Computer Science Education (SIGCSE) and has been a speaker at PyCon US\, PyCon Latam\, Python Brasil\, and EuroPython conferences. Additionally\, he is the main author of the Spanish-language websites <a href="https://edupython.blogspot.com/">EduPython</a> and <a href="https://arielortiz.info/rip3/">RIP3</a>.</p>
 DTEND:20250515T210000Z
 LOCATION:Room 319
@@ -696,7 +696,7 @@ UID:1fdaa47a-21ac-5365-934a-42c53f6d327f
 URL:https://us.pycon.org/2025/schedule/presentation/65/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T183000Z
 LOCATION:Room 309
@@ -754,7 +754,7 @@ UID:9d660b4d-1c7b-5223-8f2f-240444e0bd45
 URL:https://us.pycon.org/2025/schedule/presentation/76/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,break
+CATEGORIES:break,tutorials
 DESCRIPTION:Section: tutorials\nKind: break\nName: Lunch\n<p>Lunch</p>\n
 DTEND:20250514T173000Z
 LOCATION:Ballroom A
@@ -789,7 +789,7 @@ UID:1ddb8ad9-67a1-5fdf-a5c4-bf5937d983a1
 URL:https://us.pycon.org/2025/schedule/presentation/75/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T143000Z
 LOCATION:Room 309
@@ -800,7 +800,7 @@ TRANSP:OPAQUE
 UID:31c1fa49-8635-5943-b57e-c7e667e181db
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Analyzing Survey Data with Pandas and StatsModels\nhttps://us.pycon.org/2025/schedule/presentation/53/\n<p>Whether you are working with customer data or tracking election polls\, Pandas and StatsModels provide powerful tools for getting insights from survey data. In this tutorial\, we'll start with the basics and work up to age-period-cohort analysis and logistic regression. As examples\, we'll use data from the General Social Survey to see how political beliefs have changed over the last 50 years in the United States. We'll follow the essential steps of a data science project\, from loading and validating data\, exploring and visualizing\, modeling and predicting\, and communicating results.</p>\nSpeakers:\nAllen  Downey\n<p>Allen Downey is a professor emeritus at Olin College and Principal Data Scientist at PyMC Labs. He is the author of several books -- including <em>Think Python</em>\, <em>Think Stats</em>\, and <em>Probably Overthinking It</em> -- and a blog about programming and data science. He is a consultant and instructor specializing in Bayesian statistics. He received a Ph.D. in computer science from the University of California\, Berkeley\, and Bachelor's and Masters degrees from MIT.</p>
 DTEND:20250515T210000Z
 LOCATION:Room 318
@@ -812,7 +812,7 @@ UID:b515d77a-1629-5856-9697-c82f3c839a7d
 URL:https://us.pycon.org/2025/schedule/presentation/53/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T203000Z
 LOCATION:Room 316
@@ -835,7 +835,7 @@ UID:709d58ce-53b1-592d-8432-89e7f93c97e5
 URL:https://us.pycon.org/2025/schedule/presentation/63/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:charla,talks
+CATEGORIES:talks,charla
 DESCRIPTION:Section: talks\nKind: charla\nName: Más allá de Try-Except: La frontera de Python en el manejo de errores con Monadas y Railway Magic\nhttps://us.pycon.org/2025/schedule/presentation/90/\n<p>Quiero que lleves tus habilidades de manejo de errores en Python a un nivel superior\, haciendo que tu código sea más limpio\, mantenible y menos propenso a fallos\, incluso a medida que crezca en complejidad.</p>\n<p>Las estrategias tradicionales de manejo de excepciones en Python\, como LBYL ("Look Before You Leap") y EAFP ("Easier to Ask for Forgiveness than Permission")\, funcionan bien en contextos simples\, pero rápidamente se vuelven difíciles de manejar a medida que las bases de código crecen. Esto resulta en problemas de legibilidad\, complejidad innecesaria y riesgo de errores no manejados adecuadamente\, lo cual puede llevar a fallos inesperados.</p>\n<p>En mi charla\, "Más allá de Try-Except: La frontera de Python en el manejo de errores con Monads y Railway Magic"\, exploraremos un enfoque innovador para la gestión de errores en Python. Utilizaremos los monads\, específicamente con la Results Library\, y el método Railway-Driven Development\, que nos permitirá adoptar conceptos de programación funcional para construir una estructura sólida y predecible para el manejo de errores.</p>\n<p>A través de ejemplos prácticos\, demostraré cómo este enfoque facilita la integración de características avanzadas de Python\, como pattern matching\, haciendo que la gestión de errores sea más clara y eficiente. Al final de la charla\, tendrás las herramientas necesarias para implementar un sistema de manejo de errores más robusto y mantenible en tus propios proyectos\, superando las limitaciones de las prácticas tradicionales y mejorando significativamente la calidad de tu código.</p>\nSpeakers:\nSebastian Arias\n<p>I am Sebastian Arias\, an Ecuadorian Software Engineer with 7 years of experience in Python web development\, TDD\, and Functional Programming and IA enthusiast. As a Senior Developer and Consultant for a US based consultancy\, I have worked extensively with US-based companies\, and my passion lies in helping people explore new ideas and adopt code best practices. When I'm not coding\, you can often find me blending my own coffee mix. As a coffee enthusiast\, I take the 'bean to cup' journey quite seriously!</p>
 DTEND:20250517T154500Z
 LOCATION:Room 310/311
@@ -871,7 +871,7 @@ UID:00924338-d1f8-5b7c-95af-2faea3728e0d
 URL:https://us.pycon.org/2025/schedule/presentation/5/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Decorators Demystified\nhttps://us.pycon.org/2025/schedule/presentation/123/\n<p>You know that the <code>@</code> symbol applies a decorator to a function\, but what does that really <em>mean</em>?</p>\n<p>Let's learn about decorators by writing our own.</p>\n<p>During this tutorial we'll learn:</p>\n<ul>\n<li>The super powers hiding in Python's functions (which power decorators)</li>\n<li>The oddly simple purpose of the decorator syntax</li>\n<li>Common applications of decorators in Python</li>\n<li>When and how to use (and when to avoid) decorators</li>\n</ul>\nSpeakers:\nTrey Hunner\n<p>Trey Hunner helps individuals and teams level-up their Python skills through <a href="http://pythonmorsels.com">Python Morsels</a> courses/exercises and his <a href="https://www.pythonmorsels.com/newsletter/">weekly Python tips newsletter</a>.</p>
 DTEND:20250514T210000Z
 LOCATION:Room 310/311
@@ -942,7 +942,7 @@ UID:fc13841d-8ea7-5f38-a819-5ae8e6605a41
 URL:https://us.pycon.org/2025/schedule/presentation/124/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Reproducible Dependency Management with pixi\nhttps://us.pycon.org/2025/schedule/presentation/131/\n<p>Learn how to manage your conda- and pip-based Python dependencies with pixi.\nWith its declarative approach\, pixi provides a reliable way for reproducible\nPython environments.\nIts design is based on experiences drawn from tools such as <code>pip</code>\,\n<code>conda</code> and <code>mamba</code> as well as Rust's <code>cargo</code>.</p>\n<p>Managing dependencies can be a complex task\,\nespecially when it comes to multi-platform support and extensions written in\ncompiled languages\, such as C/C++ or Rust\, are involved.\nThere are many tools for Python that can help to take care of different aspects\nof this problem.\nThese tools are external Python packages that are not distributed with Python\nitself.\nOnly <code>pip</code> is installed by default.\nOther\, more recent languages such as Rust\, include the tooling for dependency\nmanagement as part of the core language.\nOn the other hand\, the Python ecosystem for dependency management is very\nfragmented.\nIn general\, there are two main approaches\n(a) based on pip packages and\n(b) based on conda packages.\nPixi offers an approach that can work with both package types.\nIts design is inspired by Rust's cargo.\nIn addition to Python packages\, pixi can also manage software written in other\nlanguages.\nFor example\, using conda-forge as the default conda repository\,\npixi can install tools such as <code>gcc</code>\, <code>pandoc</code>\, or <code>git</code>.\nPixi can work tother with existing tools such as <code>setuptools</code> or <code>poetry</code>.\nIn fact\, it uses <code>uv</code> internally to install pip packages.</p>\nSpeakers:\nMike Müller\n<p>I've been a Python user since 1999\, teaching Python professionally since 2004.\nI am also active in the community\, organizing Python conferences such as\nPyCon DE\, EuroSciPy\, and BarCamps.\nI am a PSF Fellow\, PSF Community Service Award winner\,\nand chair of the German Python Software Verband.</p>
 DTEND:20250515T163000Z
 LOCATION:Room 317
@@ -954,7 +954,7 @@ UID:6d5f64e6-d53b-5df6-8005-7d9a26547399
 URL:https://us.pycon.org/2025/schedule/presentation/131/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T203000Z
 LOCATION:Room 308
@@ -965,7 +965,7 @@ TRANSP:OPAQUE
 UID:c3eb1b7d-7032-541e-bbdf-315d26c85ef1
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:charla,talks
+CATEGORIES:talks,charla
 DESCRIPTION:Section: talks\nKind: charla\nName: Usando Python y Gemini para visualizar alertas sanitarias en una web accesible\nhttps://us.pycon.org/2025/schedule/presentation/26/\n<p>En esta charla se expondrá cómo se usa Flask y Gemini para obtener información de interés desde distintos sitios web no estructurados. Adicionalmente\, se discutirán atajos para web-scraping con Python\, en un formato legible para Gemini. Esta sesión está dirigida a  personas interesadas en IA y con conocimiento básico de Python\, así como para profesionales curiosos\, en busca de nuevas aplicaciones de IA. \nLa motivación de este proyecto surge pues en Chile las alertas sanitarias en medicamentos\, especialmente en anticonceptivos\, han sido un problema grave que impacta con más énfasis a mujeres y sus derechos reproductivos. Por ejemplo\, alrededor de 200 mujeres fueron afectadas sólo en el primer fallo documentado de anticonceptivos en el segundo semestre de 2020. La solución del gobierno de la época fue indemnizar a las afectadas que demandaron\, con 80.000 pesos Chilenos\, (80 USD app). Desafortunadamente no fue el único caso\, de hecho la última alerta informada de anticonceptivos defectuosos data de septiembre de 2024. \nEn esta charla se presentará una web app para resolver el problema del acceso a la información sobre las alertas sanitarias de medicamentos defectuosos en Chile\, usando IA generativa y frameworks web.</p>\nSpeakers:\nLÍA DA SILVA ROJAS\n<p>-</p>
 DTEND:20250517T213000Z
 LOCATION:Room 310/311
@@ -977,7 +977,7 @@ UID:158d6c29-2bad-531e-b59d-5197be05a1cf
 URL:https://us.pycon.org/2025/schedule/presentation/26/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T163000Z
 LOCATION:Room 316
@@ -988,7 +988,7 @@ TRANSP:OPAQUE
 UID:3577af1c-295a-539f-91ff-f17ef3a95447
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Codyssey: A playful control system workshop\nhttps://us.pycon.org/2025/schedule/presentation/38/\n<p>Control systems are pervasive in our world and play a crucial role in many aspects of our lives\, from keeping satellites in the right altitude and heading to monitoring patients and making medication adjustments to keep them healthy. Sometimes\, tricky problems can be simplified by applying a control system lens\; but the programming model for a digital control system is not immediately obvious.</p>\n<p><strong>Codyssey</strong> is a 3-hour workshop where you’ll learn about the control system programming model and implement simple systems in Python to autonomously play various games. You’ll observe the behavior of your system in a visual environment\, and compete with other participants to solve as many games as you can. Along the way\, you’ll have to think creatively and practice translating your intuition into code.</p>\n<p>During the workshop I’ll mentor individual participants / pairs\; in-between those mentoring sessions I’ll live-code solutions for chosen challenges while demonstrating how to apply the control system programming model.</p>\n<p><strong>Target audience</strong>: only basic Python knowledge is required - variables\, operators\, conditions\, loops\, functions and lists. The workshop can be challenging for experienced programmers as well as fun and instructive for juniors.</p>\n<p>Each challenge will have you implementing a function that runs dozens of times a second\, deciding which action to take. <em>The challenges you’ll face include</em>:\n* Navigating a ship through a winding strait\n* Helping Sisyphus finally get that rock to the top\, saving him from his eternal punishment\n* Saving Icarus from his hubris-induced watery fate\n* And more</p>\n<p>Come hone your Python skills\, adapt to a new way of thinking\, and tackle some epic challenges!</p>\nSpeakers:\nDaniel Anderson\n<p>Hi! I'm Daniel\, a machine learning research engineer from Israel.</p>\n<p>I started my career as a programmer\, and had the opportunity to take on a range of roles: FS developer\, team lead\, and course instructor.<br />\nI then got into the world of data science / ML\, in a nutrition startup that was later acquired by Medtronic.</p>\n<p>After that I ventured out on my own as a freelance machine learning practitioner\; now I work with several startups on ML / vision problems. I also work with an Israeli non-profit\, helping to create and improve tech-ed programs for youth.</p>\n<p>Bachelor's degree in computer science from the Open University\, Master's degree in machine learning &amp\; data science from Reichman University.</p>\n<p>Partial list of things I'm excited about:\n* Algorithms and optimizations\n* Translating experts’ domain knowledge and intuition into concrete methods and metrics\n* Designing ad-hoc models that make the most of little data (mostly because that involves designing custom metrics and coming up with creative ways of optimizing them)\n* Finding patterns in behavior\n* Creating interactive visualizations to explore complex data and interactions</p>\n<p>Also\, I have a <a href="(https://andersource.dev)">blog</a>!</p>
 DTEND:20250514T210000Z
 LOCATION:Room 319
@@ -1024,7 +1024,7 @@ UID:6186515d-3998-59f2-b07a-4efc424ed936
 URL:https://us.pycon.org/2025/schedule/presentation/87/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,break
+CATEGORIES:break,tutorials
 DESCRIPTION:Section: tutorials\nKind: break\nName: Lunch\n<p>Lunch</p>\n
 DTEND:20250515T173000Z
 LOCATION:Ballroom A
@@ -1047,7 +1047,7 @@ UID:84713bd0-d2f4-50f6-a878-cf62266c8079
 URL:https://us.pycon.org/2025/schedule/presentation/134/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Slot\n\n
 DTEND:20250515T210000Z
 LOCATION:Room 321
@@ -1082,7 +1082,7 @@ UID:4a0c945a-afa8-5189-89c6-2deccebd8adb
 URL:https://us.pycon.org/2025/schedule/presentation/74/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Building software on top of Large Language Models\nhttps://us.pycon.org/2025/schedule/presentation/25/\n<p>Large Language Models such as GPT-4o\, Claude and Google Gemini provide APIs that can be used to develop features that were almost impossibly difficult to build in the past\, spanning areas that include human language understanding\, image recognition and structured data extraction.</p>\n<p>Building software that uses these APIs reliably and responsibly is a topic with a great deal of depth and a <em>lot</em> of hidden traps.</p>\n<p>In this workshop we'll explore a range of proven techniques for building useful software on top of this wildly powerful but unreliable substrate.</p>\n<p>Topics we will cover include:</p>\n<ul>\n<li>A review of the best currently available models</li>\n<li>Using multi-modal LLMs to analyze images\, audio and video</li>\n<li>Use-cases that LLMs can be effectively applied to</li>\n<li>How to access the most capable models via their various APIs</li>\n<li>Prompt engineering</li>\n<li>Retrieval Augmented Generation (RAG)</li>\n<li>LLM tool usage</li>\n<li>Automated evaluations for LLM applications</li>\n<li>The latest options for running local models.</li>\n</ul>\n<p>Participants will obtain hands-on experience of building applications on LLMs. Necessary API keys will be provided.</p>\nSpeakers:\nSimon Willison\n<p>Simon Willison is the creator of <a href="https://datasette.io/">Datasette</a>\, an open source tool for exploring and publishing data\, and <a href="https://llm.datasette.io/">LLM</a>\, a command-line tool and Python library for interacting with Large Language Models. He currently works full-time developing open source tools for data journalism\, built around Datasette and SQLite.</p>\n<p>Simon has spent the last three years deeply immersed in the world of Large Language Models\, trying to solve the fascinating problems of how to responsibly use the technology in the two fields he knows best: journalism and software engineering.</p>\n<p>Prior to becoming an independent open source developer\, Simon was an engineering director at Eventbrite. Simon joined Eventbrite through their acquisition of Lanyrd\, a Y Combinator funded company he co-founded in 2010.</p>\n<p>He is a board member of the Python Software Foundation and a co-creator of the Django Web Framework\, and has been blogging about web development and programming since 2002 at https://simonwillison.net/</p>
 DTEND:20250514T210000Z
 LOCATION:Room 318
@@ -1106,7 +1106,7 @@ UID:bfdfa523-8a62-56a2-8a6a-a0afdd7f04f6
 URL:https://us.pycon.org/2025/schedule/presentation/136/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Back to foundations: Automated testing with Python\nhttps://us.pycon.org/2025/schedule/presentation/132/\n<p>In the era of A.I.\, automatic testing is often tedious\, time-consuming\, and rarely given the attention it deserves. But is there a more engaging way to prove that your code works as expected?</p>\n<p>This tutorial will showcase how to harness Python tools to write automated tests\, ranging from fundamental techniques to advanced approaches that make testing truly effective.\nThrough a hands-on live-coding session\, we will follow a top-down approach: starting with principles\, we will begin by testing simple functions. From there\, we will move on to mocking external dependencies we can control and measuring the effectiveness of those tests. Finally\, we will integrate everything tested so far\, unveiling a complete testing strategy. The workshop will conclude with a recap and a brief handbook full of tips and more topics to explore.</p>\n<p>Throughout the session\, we will embrace the entire philosophy of testing: beyond merely spotting bugs\, we will see how testing is a powerful tool for designing\, understanding\, and uncovering hidden issues in our implementation. We will introduce and practice test-driven development (TDD) while also exploring alternative approaches.</p>\n<p>Neither extensive knowledge of Python (just some familiarity with classes and basic functions and ability to run Python scripts) nor special tools are required to attend the workshop: a little confidence with the basics is enough to participate\, and a working Python environment is all we will need. Instructions will be provided throughout the workshop.</p>\n<p>Let's make testing engaging and impactful together. Long live testing!</p>\nSpeakers:\nFrancesco Bruni\n<p>Software engineers for a few years\, working with geospatial data now.\nIn love with Python\, even if I feel comfortable with other languages as well. \nI strongly believe that the approach to the problem is much more relevant than being very tool-oriented.</p>
 DTEND:20250514T163000Z
 LOCATION:Room 317
@@ -1130,7 +1130,7 @@ UID:1604bfeb-dd14-52d5-87d5-922dea42209d
 URL:https://us.pycon.org/2025/schedule/presentation/55/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:charla,talks
+CATEGORIES:talks,charla
 DESCRIPTION:Section: talks\nKind: charla\nName: Construyendo un Buscador Multimodal: Combinando Texto e Imágenes para una Búsqueda Inteligente.\nhttps://us.pycon.org/2025/schedule/presentation/35/\n<p>En el mundo actual basado en datos\, procesar y analizar eficientemente grandes volúmenes de datos es crucial para muchas aplicaciones. Exploremos juntos cómo crear y administrar embeddings de texto e imágenes para búsqueda de similitudes en una base de datos PostgreSQL. Nos sumergiremos en un ejemplo práctico utilizando Python para demostrar cómo pueden crear buscadores que empleen  lenguaje natural.</p>\nSpeakers:\nElizabeth Fuentes\n<p>As a Data Analytics and Machine Learning/Artificial Intelligence (ML/AI) Specialist\, my mission is to break down complex concepts into easily understandable terms. I strive to develop innovative solutions that tackle real-world challenges effectively. By sharing my knowledge and experience through conferences and educational resources\, I aim to empower developers in expanding their skill sets and achieving their professional goals.</p>
 DTEND:20250516T191500Z
 LOCATION:Room 310/311
@@ -1142,7 +1142,7 @@ UID:b0d51db1-d570-5537-9e1e-65c692c2f32c
 URL:https://us.pycon.org/2025/schedule/presentation/35/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:charla,talks
+CATEGORIES:talks,charla
 DESCRIPTION:Section: talks\nKind: charla\nName: Django Asíncrono: Desbloqueando el Poder de la Programación Async\nhttps://us.pycon.org/2025/schedule/presentation/36/\n<p>Con la llegada de Django 3.1\, el framework dio un gran salto hacia el futuro al integrar soporte para asincronismo. Pero\, ¿qué significa esto para quienes desarrollamos aplicaciones web? En esta charla\, te voy a enseñar cómo usar las herramientas de asincronismo en Django para construir aplicaciones más rápidas y eficientes.</p>\n<p>Empezaremos con una breve introducción a asyncio\, la base del asincronismo en Python. ¿Qué son los event loops? ¿Qué hacen async y await? Si nunca has trabajado con código asíncrono\, no te preocupes\, aquí lo explicaremos de forma simple.</p>\n<p>Después\, entraremos directo en el mundo de Django:\n- Escribiremos vistas asíncronas (async def) y exploraremos casos prácticos donde el asincronismo realmente marca la diferencia.\n- Veremos cómo Django adopta la convención de agregar una “a” a métodos asíncronos (aget\, apost) para diferenciarlos de las versiones síncronas.\n- Compararemos el rendimiento entre vistas síncronas y asíncronas mediante pruebas reales\, mostrando cómo manejar múltiples peticiones a APIs externas de manera eficiente.\n- Discutiremos las limitaciones actuales del ORM de Django (spoiler: sigue siendo síncrono) y cómo manejarlas en proyectos modernos.</p>\n<p>Para cerrar\, incluiré una demostración práctica y ejemplos de código reales que puedes llevarte a casa. Esta charla está pensada para desarrolladores de nivel intermedio que quieran llevar sus proyectos Django al siguiente nivel y entender cómo el asincronismo puede transformar la manera en que construimos aplicaciones web.</p>\nSpeakers:\nLuis Martinez\n<p>I have been working in software development since 2014\, I am a technologist in informatics\, and web python developer. I also like to learn more about development\, I worked remotely at Swapps.com as Full Stack Software Engineer\, after that I worked at Platzi.com as a Backend software engineer with Python / Django also I was a Cloud Engineer with AWS.</p>\n<p>I am also the teacher of the Django\, Django Rest Framework courses in Platzi.com</p>
 DTEND:20250516T214500Z
 LOCATION:Room 310/311
@@ -1214,7 +1214,7 @@ UID:76ec6198-b83d-5cd6-9da7-61096298b7b7
 URL:https://us.pycon.org/2025/schedule/presentation/86/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: (Pre-)Commit to Better Code\nhttps://us.pycon.org/2025/schedule/presentation/61/\n<p>Maintaining code quality can be challenging\, no matter the size of your project or number of contributors. Different team members may have different opinions on code styling and preferences for code structure\, while solo contributors might find themselves spending a considerable amount of time making sure the code conforms to accepted conventions. However\, manually inspecting and fixing issues in files is both tedious and error-prone. As such\, computers are much more suited to this task than humans. Pre-commit hooks are a great way to have a computer handle this for you.</p>\n<p>Pre-commit hooks are code checks that run whenever you attempt to commit your changes with Git. They can detect and\, in some cases\, automatically correct code-quality issues <em>before</em> they make it to your codebase. In this tutorial\, you will learn how to install and configure pre-commit hooks for your repository to ensure that only code that passes your checks makes it into your code base. We will also explore how to build custom pre-commit hooks for novel use cases.</p>\nSpeakers:\nStefanie Molin\n<p><a href="https://stefaniemolin.com">Stefanie Molin</a> is a software engineer at Bloomberg in New York City\, where she tackles tough problems in information security\, particularly those revolving around data wrangling/visualization\, building tools for gathering data\, and knowledge sharing. She is also a core developer of <a href="https://github.com/numpy/numpydoc">numpydoc</a> and the author of “<a href="https://www.amazon.com/Hands-Data-Analysis-Pandas-visualization/dp/1800563450">Hands-On Data Analysis with Pandas: A Python data science handbook for data collection\, wrangling\, analysis\, and visualization</a>\,” which is currently in its second edition and has been translated into Korean and Chinese. She holds a bachelor’s of science degree in operations research from Columbia University's Fu Foundation School of Engineering and Applied Science\, as well as a master’s degree in computer science\, with a specialization in machine learning\, from Georgia Tech. In her free time\, she enjoys traveling the world\, inventing new recipes\, and learning new languages spoken among both people and computers.</p>
 DTEND:20250515T210000Z
 LOCATION:Room 317
@@ -1226,7 +1226,7 @@ UID:51e4ac9a-92ed-5ca5-95ab-f9260e15f813
 URL:https://us.pycon.org/2025/schedule/presentation/61/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: AI crash course for Python developers\nhttps://us.pycon.org/2025/schedule/presentation/77/\n<p>This crash-course tutorial is for Python developers that want to get up to speed with AI development quickly. \nWe will cover the what and how of language models\, learn about concepts like tokens\, markov chains\, and vector similarity with games and exercises. Each introduction to a concept will be explained by your experienced instructor in terms that don’t assume formal CS education. We’ll build demos\, apps and discuss pitfalls and challenges with AI development in 2025.</p>\nSpeakers:\nAnthony Shaw\n<p>-</p>
 DTEND:20250514T163000Z
 LOCATION:Room 320
@@ -1332,7 +1332,7 @@ UID:77a518ae-f6ee-5192-bb05-665bdbfb4a28
 URL:https://us.pycon.org/2025/schedule/presentation/29/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:charla,talks
+CATEGORIES:talks,charla
 DESCRIPTION:Section: talks\nKind: charla\nName: Cómo llevar tus presentaciones técnicas al siguiente nivel con Python + Quarto\nhttps://us.pycon.org/2025/schedule/presentation/62/\n<p>Da lo mismo si trabajas como dev o haciendo ciencia de datos: crear buenas presentaciones es un aspecto clave para dar a conocer lo que haces. Una buena presentación nos permite mostrar la relevancia de nuestro trabajo de una forma clara y convincente\, y destacar el valor de nuestras contribuciones técnicas. En este contexto\, un elemento fundamental de cualquier presentación es un set de slides que se destaque. \nEn esta charla presentaremos 10 simples reglas para crear slides en formato HTML usando Python y Quarto\, un sistema de publicación técnico y científico de código abierto. La audiencia se llevará sugerencias concretas sobre cómo mejorar sus próximo set de slides y el código para implementarlas. </p>\n<p>¿Por qué Quarto?\nQuarto es una excelente herramienta para crear slides sobre contenido técnico porque permite integrar código\, datos y texto en un solo archivo. A lo largo de la presentación nos enfocaremos en la creación de slides en formato HTML\, ya que este tiene características que lo hacen particularmente útil para presentar contenido técnico. Por ejemplo\, ofrece opciones flexibles para mostrar y ocultar código y para ajustar la cantidad de información mostrada\, lo que nos permite crear "capas" de contenido. Así\, es posible presentar ideas claves para una audiencia no técnica y al mismo tiempo incluir código que se muestra solo si es necesario. Incluso\, gracias al poder de WebAssembly + pyodide\, es posible hacer que aparezca un intérprete de Python directamente en nuestra presentación\, para poder hacer una demostración de algo en el momento\, si es necesario. \nTodas estas opciones nos permiten crear presentaciones adaptables a públicos con distintos niveles de experiencia o conocimiento técnico.</p>\nSpeakers:\nRiva Quiroga\n<p>Hi! My name is Riva\, and I'm a Data Scientist / Research Software Engineer based in Valparaíso\, Chile. I am a Software Sustainability Institute Fellow\, a Women Techmakers Ambassador\, and a serial volunteer: I co-organize PyLadies Valparaíso\, serve on the Leadership Team of R-Ladies\, and am an editor at Programming Historian\, among other community-led projects.</p>\n<ul>\n<li>info: https://rivaquiroga.cl/now</li>\n</ul>
 DTEND:20250516T183000Z
 LOCATION:Room 310/311
@@ -1356,7 +1356,7 @@ UID:c26dd0f0-5088-5a0c-8d7c-2cd7b0aba927
 URL:https://us.pycon.org/2025/schedule/presentation/52/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T143000Z
 LOCATION:Room 308
@@ -1378,7 +1378,7 @@ TRANSP:OPAQUE
 UID:3d930c8b-a9eb-525d-8dcd-ff696fd2e68a
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: NanoDash: Writing a Web-based Data Visualization Framework from Scratch\nhttps://us.pycon.org/2025/schedule/presentation/89/\n<p>This tutorial will demonstrate how interactive web dashboard frameworks like Plotly Dash work\, by building a simplified version of Dash itself from scratch using Python\, the Flask framework\, and just a little bit of vanilla JavaScript. Along the way\, we will introduce some key elements of event-driven programming\, discuss client-server communication\, and demonstrate some ways to make debugging a little less painful.</p>\nSpeakers:\nMartha Cryan\n<p>Martha Cryan is a software engineer at Plotly\, where she works on open source libraries (including Dash). She is a distinguished contributor to the Jupyter project\, dog-mom to Lou\, and lives in Austin\, TX.</p>\nEmily Kellison-Linn\n<p>Emily is a software engineer at Plotly\, where she works on open-source data visualization libraries\, including Plotly.js\, Plotly.py\, and Dash. She has been programming in Python for many years\, and her interests include design\, data visualization\, linguistics\, and music. She lives in Montréal\, Québec.</p>
 DTEND:20250514T210000Z
 LOCATION:Room 321
@@ -1390,7 +1390,7 @@ UID:12f18104-36a2-5810-a811-e616e5314449
 URL:https://us.pycon.org/2025/schedule/presentation/89/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T203000Z
 LOCATION:Room 309
@@ -1401,7 +1401,7 @@ TRANSP:OPAQUE
 UID:5c2b23de-4bad-58ee-a4b3-f22f3b9cfd7d
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:charla,talks
+CATEGORIES:talks,charla
 DESCRIPTION:Section: talks\nKind: charla\nName: Transformando Gafas en Asistentes Inteligentes: Open Source Vision Language Models\nhttps://us.pycon.org/2025/schedule/presentation/11/\n<p>En esta charla\, aprenderemos cómo transformar unas gafas comunes en un Asistente Inteligente por menos de 30 dólares\, utilizando hardware accesible y modelos Open Source. Aprovecharemos los Vision Language Models (VLM)\, una tecnología que integra visión por computadora y procesamiento del lenguaje natural para crear inteligencia artificial multimodal\, capaz de analizar imágenes y texto simultáneamente y generar respuestas en lenguaje natural.</p>\n<p>Exploraremos el origen y desarrollo de los Open VLMs\, analizando su impacto\, evolución y el enorme potencial que representan. Profundizaremos en su arquitectura\, componentes esenciales y aplicaciones prácticas. Los asistentes aprenderán a crear sus propias gafas inteligentes\, conociendo los requisitos técnicos necesarios\, y podrán interactuar con varios prototipos funcionales disponibles durante la charla. Esto les permitirá probar las gafas en tiempo real y experimentar de primera mano como estos modelos responden y se adaptan a diversos escenarios. Además\, se ofrecerá una guía práctica para configurar los modelos\, realizar inferencias en sus computadoras y optimizarlos para funcionar con menos de 3 GB de memoria\, haciendo esta tecnología más accesible y replicable para todos.</p>\n<p>Finalmente\, exploraremos los desafíos actuales en la implementación de estos sistemas\, incluyendo la optimización del uso de memoria y el desarrollo de técnicas de cuantización más eficientes. A partir de este análisis\, reflexionaremos sobre el futuro de estas tecnologías en aplicaciones de inteligencia artificial\, subrayando el papel clave de la colaboración en la comunidad Open Source. Concluiremos destacando el potencial transformador de estos dispositivos y su capacidad para redefinir nuestra interacción con el entorno en la vida cotidiana.</p>\nSpeakers:\nAlejandro Núñez Arroyo\n<p>Alejandro Núñez Arroyo es Ingeniero Mecatrónico con más de tres años de experiencia en la ejecución de proyectos basados en inteligencia artificial. Actualmente\, se desempeña como Investigador en Inteligencia Artificial en Fogsphere\, una empresa con sede en el Reino Unido\, donde se especializa en modelos multimodales.</p>\n<p>Su trayectoria incluye proyectos en visión por computadora y modelos de lenguaje. Como líder activo en la comunidad tecnológica\, Alejandro es organizador del Google Developers Group Sucre\, donde coordina eventos enfocados en inteligencia artificial. </p>\n<p>Participó en la primera hackathon de inteligencia artificial en Latinoamérica organizada por OpenAI en Chile\, así como en varias ediciones de la hackathon de LLAMA de Facebook. Apasionado por la robótica\, ha representado a Bolivia en prestigiosas competencias internacionales como el FIRST Global Challenge en Washington\, D.C. y Atenas\, y el NASA Human Exploration Rover Challenge en Huntsville.</p>\n<p>Actualmente\, comparte su conocimiento en inteligencia artificial a través de blogs en Medium\, videos educativos en YouTube\, y mediante charlas y talleres en comunidades locales e internacionales en Bolivia\, Perú\, Guatemala y Colombia. Su trabajo refleja un compromiso constante con la difusión tecnológica y la formación de nuevos talentos en el campo de la inteligencia artificial.</p>
 DTEND:20250517T194500Z
 LOCATION:Room 310/311
@@ -1494,7 +1494,7 @@ TRANSP:OPAQUE
 UID:22de3257-778e-5f1e-b4e9-84c844967a4f
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Building Scalable AI Tool Servers with Model Context Protocol (MCP) and Heroku (Sponsor: Heroku)\nhttps://us.pycon.org/2025/schedule/presentation/3/\n<p>Large Language Models (LLMs) become vastly more powerful when given the ability to call external tools to gather information and take real-world actions - such as querying APIs\, modifying databases\, or kicking off workflows. This talk explores how to build and scale these tool servers using Python and the Model Context Protocol (MCP).</p>\n<p>MCP is an open-source protocol that provides a standardized request format and response structure for LLMs interacting with external tools\, ensuring consistency while allowing flexible execution under the hood. We’ll walk through implementing an MCP-compliant tool server in Python\, covering topics like transport types\, the connection lifecycle\, and best practices.</p>\n<p>LLM tool servers must handle increasing traffic efficiently\, requiring strategies for load balancing\, container orchestration\, and cloud deployment. We’ll discuss scaling Python services horizontally using load balancing and container orchestration. This includes practical considerations for deploying on 12-Factor App platforms like Heroku.</p>\n<p>Through live coding\, we’ll implement\, deploy\, and scale an MCP-compliant tool server using Python. We’ll also demonstrate how an LLM can interact with MCP tool servers\, enabling you to build powerful\, API-driven AI agents.</p>\n<p>Attendees will gain hands-on knowledge of building\, deploying\, and scaling Python-based MCP tool servers and AI agents\, made simple with Heroku’s streamlined deployment process.</p>\nSpeakers:\nKen Alger\n<p>-</p>
 DTEND:20250515T203000Z
 LOCATION:Room 315
@@ -1518,7 +1518,7 @@ UID:b30256b4-082a-5d1a-9cef-8e13e9b9c050
 URL:https://us.pycon.org/2025/schedule/presentation/125/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:charla,talks
+CATEGORIES:talks,charla
 DESCRIPTION:Section: talks\nKind: charla\nName: NLP para la preservación del lenguaje indígena Quechua\nhttps://us.pycon.org/2025/schedule/presentation/59/\n<h3><em>NLP para la preservación del lenguaje indígena Quechua en Bolivia</em></h3>\n<p>El quechua\, hablado por más de 2.8 millones de personas en Bolivia\, es uno de los idiomas indígenas más importantes del país. Sin embargo\, enfrenta serias amenazas debido a la modernización y la globalización. Esta charla explora cómo las técnicas de Procesamiento de Lenguaje Natural (NLP) pueden ser una herramienta crucial para la revitalización y preservación del quechua\, asegurando su uso en el ámbito digital y su transmisión a futuras generaciones.</p>\n<h4>Contenido principal:</h4>\n<ul>\n<li><strong>Contexto y relevancia:</strong> En Bolivia\, el 21% de la población habla quechua\, lo que lo convierte en un idioma vital para la cultura del país. Sin embargo\, el uso del quechua está en declive\, especialmente entre los jóvenes.</li>\n<li>\n<p><strong>Datos lingüísticos en quechua:</strong> Existen pocos recursos digitales y corpus disponibles en quechua\, lo que dificulta la creación de tecnologías lingüísticas. Sin embargo\, algunos esfuerzos están comenzando a surgir en la comunidad.</p>\n</li>\n<li>\n<p><strong>Desafíos técnicos:</strong> Los modelos preentrenados para lenguas de bajo recurso como el quechua siguen siendo un reto debido a la falta de datos estructurados y herramientas de procesamiento.</p>\n</li>\n<li><strong>Impacto social y cultural:</strong> La preservación del quechua a través de tecnologías NLP puede tener un impacto significativo en comunidades bolivianas\, promoviendo el acceso a la información en su lengua materna y mejorando la visibilidad de su cultura.</li>\n</ul>\n<h4>Objetivo:</h4>\n<p>Inspirar a la comunidad de Python y NLP a participar en proyectos que utilicen la tecnología para revitalizar el quechua en Bolivia\, un idioma con una rica herencia cultural que necesita urgentemente soluciones digitales para su preservación y expansión.</p>\nSpeakers:\nCarla Marcela Florida Román\n<p><em>Carla</em> es una apasionada de la Inteligencia Artificial con una destacada participación en comunidades locales e internacionales de Machine Learning y Data Science. Su trayectoria incluye su labor como investigadora en el Instituto de Inteligencia Artificial de la Universidad Privada Boliviana y su rol como Head of AI en Dapta. Actualmente\, Carla es profesora en Platzi\, donde cuenta con cursos de Python e inteligencia artificial. Carla también es cofundadora de Menti Academy\, una academia de enseñanza online para niños. Además\, Women Techmaker Ambassador y creadora de contenido en redes sociales como TikTok e Instagram a través de su comunidad CarliCode\, donde ayuda a las personas a iniciarse en la programación\, especialmente en Python y en inteligencia artificial.</p>
 DTEND:20250517T163000Z
 LOCATION:Room 310/311
@@ -1530,7 +1530,7 @@ UID:f0c79aa1-3202-50aa-8c5a-4f67d64891d8
 URL:https://us.pycon.org/2025/schedule/presentation/59/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Build a Synthesizer with Python\nhttps://us.pycon.org/2025/schedule/presentation/19/\n<p>This tutorial aims to break down the abstractions that make up a synthesizer by building one using Python\, its scientific computing libraries\, &amp\; Librosa. We will discuss how to build the basic components that make up a modern digital synth from scratch! In the process\, learn some DSP and audio programming concepts! By the end\, you’ll be able to make your own tunes with Python! We will start with theory\, then work through Jupyter notebooks both individually and as a group.</p>\n<p>This tutorial will be a lot of fun if you’re a musically inclined Python programmer. As someone interested in music\, you will discover the components that make up a synthesizer by literally building &amp\; making music with it and as someone interested in Python\, you’ll learn a lot about audio programming and signal processing techniques.</p>\nSpeakers:\nSangarshanan\n<p>My name is Sangarshanan and I am a Software Engineer from planet Earth. I love making stuff that helps and amuses me in equal measure and standing upside down while holding a banana. When I'm bored you can find me making absurdist memes\, yet another spotify playlist or staring straight into the void</p>
 DTEND:20250515T210000Z
 LOCATION:Room 320
@@ -1542,7 +1542,7 @@ UID:163990cd-9f59-57e1-acf2-23648195c146
 URL:https://us.pycon.org/2025/schedule/presentation/19/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:charla,talks
+CATEGORIES:talks,charla
 DESCRIPTION:Section: talks\nKind: charla\nName: Diseñando y Construyendo Teclados ⌨️ Personalizados con Python\nhttps://us.pycon.org/2025/schedule/presentation/10/\n<p>Como programadores\, pasamos mucho tiempo tecleando\, pero a menudo pasamos por alto cómo el diseño de nuestros teclados afecta nuestra comodidad y productividad. En esta charla\, exploraremos los teclados personalizados y cómo Python puede ayudarnos a crear nuestras propias experiencias de typing.</p>\n<p>Comenzaremos analizando la historia del diseño de teclados y las limitaciones de las distribuciones estándar como el QWERTY. Luego\, hablaremos de las ventajas de distribuciones alternativas\, como diseños ortolineales y split/divididos\, que pueden ayudar a reducir la tensión y mejorar la velocidad de escritura.</p>\n<p>A continuación\, revisaremos cómo diseñar el PCB (placa de circuito impreso) de un teclado personalizado y aprenderemos a utilizar herramientas de Python como GDSFactory. Aprenderás a colocar las teclas según la forma de tus manos y a crear una distribución que se enfoque en las teclas que más utilizas en tus lenguajes de programación preferidos.</p>\n<p>Una vez que tengamos el diseño del PCB\, pasaremos a la construcción de nuestro teclado personalizado. Cubriremos los aspectos básicos del ensamblaje para convertir nuestro diseño en un dispositivo real. Finalmente\, hablaremos sobre cómo adaptarnos a nuestra nueva distribución de teclado. Veremos herramientas en línea y scripts de Python para analizar nuestros hábitos de mecanografía\, ayudándonos a identificar nuestras teclas más comunes y a monitorear nuestro progreso mientras reentrenamos nuestros dedos.</p>\n<p>No se requiere experiencia previa en construcción de teclados o diseño de PCB\; solo trae tu curiosidad y ganas de crear una experiencia de escritura personalizada. Al final de esta charla\, sabrás cuestionar el diseño de tu teclado actual y quizá te animes a construir y mejorar tu propio teclado personalizado usando Python.</p>\nSpeakers:\nCarlos A Aranibar\n<p>Carlos Aranibar is a Data Scientist 📊 from Bolivia 🇧🇴 who now lives in Chicago.</p>\n<p>He has a background in Economics and Statistics and holds a Master's in Data Science.\nCarlos is skilled in querying data\, process optimization\, and automation.\nHe loves to learn and actively participates in multiple Meetups\, discussing new developments in tech/software/data. Carlos is also a volunteer for PostgreSQL.</p>\n<p>Fluent in both English and Spanish!</p>\n<p><a href="https://www.linkedin.com/in/carlos-aranibar/">Carlos' LinkedIn</a>\, feel free to reach out!</p>
 DTEND:20250516T210000Z
 LOCATION:Room 310/311
@@ -1576,7 +1576,7 @@ TRANSP:OPAQUE
 UID:3d04c8a6-cc47-53ca-acab-6be3481dca5f
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Reinventing the `itertools` wheel for fun and profit\nhttps://us.pycon.org/2025/schedule/presentation/93/\n<p>In this hands-on tutorial we will reinvent the wheel and implement the module <code>itertools</code> in plain Python.</p>\n<p>We'll do that because that will teach us a lot about Python:</p>\n<ul>\n<li>how generators and lazy iteration work\;</li>\n<li>the difference between iterables and iterators\;</li>\n<li>what the built-ins <code>iter</code> and <code>next</code> do\;</li>\n<li>how Python handles iteration and <code>for</code> loops under the hood\;</li>\n<li>what the iterator protocol is\;</li>\n<li>how the dunder methods <code>__iter__</code> and <code>__next__</code> play a part in all this\; and</li>\n<li>we'll also learn about the functions inside <code>itertools</code>\, a module with plenty of useful tools for your day-to-day iterations.</li>\n</ul>\n<p>And most importantly\, we'll do it because it's genuinely fun!</p>\nSpeakers:\nRodrigo Girão Serrão\n<p>Rodrigo Girão Serrão is the author of <a href="https://mathspp.com/books">multiple independently published books</a> on Python\, programming\, and mathematics\, and <a href="https://mathspp.com/blog">frequently blogs</a> about those same topics.\nRodrigo has also <a href="https://mathspp.com/talks">presented talks and tutorials at some of the largest Python conferences in the world</a>\, including PyCon US\, EuroPython\, and multiple European PyCons.</p>\n<p>As a fun fact\, Rodrigo also <a href="https://mathspp.com/blog/teaching-the-worlds-largest-programming-lesson">taught “the largest programming lesson in the world”</a>\, a Guinness World Record established in late 2024.</p>\n<p>When he is not working or writing\, Rodrigo can be found playing board games\, walking his dog\, or exercising at the gym.</p>
 DTEND:20250515T210000Z
 LOCATION:Room 310/311
@@ -1588,7 +1588,7 @@ UID:2c6e5af1-5b9d-5891-90d2-786607a2882e
 URL:https://us.pycon.org/2025/schedule/presentation/93/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: What good is an AI coding assistant to a professional? (Sponsor: Google)\nhttps://us.pycon.org/2025/schedule/presentation/58/\n<p>You're a professional\, using Python for real\, serious work. Why would you even consider using an AI coding assistant? Even suggesting it sounds kind of fishy. Maybe even insulting.</p>\n<p>But there are good times and places for an AI coding assistant - <em>perhaps even for you!</em> Are you:</p>\n<ul>\n<li>tossing together a web experiment that could stand to look a little nicer than your CSS and JavaScript skills usually allow?</li>\n<li>exploring a new library or platform that could have better documentation and examples?</li>\n<li>tired of going back and forth from your IDE to searching for needed details like function signatures and argument types?</li>\n</ul>\n<p>These are all great times for even expert Python programmers to leverage an AI coding assistant. And the assistants are improving at a fast clip.</p>\n<p>This talk will show you how to get started with an AI assistant and go through examples of scenarios where it can help. You'll leave the session knowing whether one can be valuable to you\, and if so\, where and when it's worth trying.</p>\nSpeakers:\nCharlie Engelke\n<p>Charlie Engelke is a developer relations engineer at Google Cloud. His focus is in helping Python developers build\, deploy\, and run cloud applications and using the ever-increasing number of tools and APIs available there.</p>\n<p>Before Google\, Charlie was CTO at Infotech\, Inc.\, a midsized software and Saas provider.</p>
 DTEND:20250515T163000Z
 LOCATION:Room 315
@@ -1646,7 +1646,7 @@ UID:0216aff8-5cd5-58b0-861f-3d66c1248d03
 URL:https://us.pycon.org/2025/schedule/presentation/113/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T143000Z
 LOCATION:Room 315
@@ -1657,7 +1657,7 @@ TRANSP:OPAQUE
 UID:80798e70-401c-5194-a03a-d707995ba3d6
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:charla,talks
+CATEGORIES:talks,charla
 DESCRIPTION:Section: talks\nKind: charla\nName: Cambiando el guión: No estamos solas - DataSoul Podcast\nhttps://us.pycon.org/2025/schedule/presentation/21/\n<p>¡Hola! Somos Valen y Laura creadoras y hosts de DataSoul Podcast\, un espacio seguro para compartir experiencias trabajando en la industria tech\, así como hablar de temas de los que poco se habla pero que todos enfrentamos en algún momento. Este podcast quiere ser parte de Pycon US con la presentación de un episodio en vivo donde hablaremos de retos\, miedos y la importancia de la  comunidad\, al momento de hacer un cambio de carrera hacia el mundo de los datos.</p>\nSpeakers:\nLaura López\n<p>Soy científica de datos\, WomenTechMaker Ambassador\, y Co-host de DataSoul Podcast. Interesada en el entendimiento y aplicación de machine learning y análisis de datos para obtener resultados y soluciones de valor. Me gusta la fotografía\, los libros y los datos.</p>\nValentina Ariza\n<p>Soy Senior Data Engineer\,  embajadora de google women techmaker\, Co-Lider de la comunidad Pyladies Medellin y Co-host del podcast DataSoul. Con +4 años de experiencia trabajando en el mundo de los datos\, he desarrollados diversas soluciones usando herramientas cloud\, esto incluye datalakes\, datawarehouses y lakehouses con gobierno de datos que garantizan la calidad\, seguridad y disponibilidad de la información para la toma de decisiones estratégicas.</p>
 DTEND:20250516T170000Z
 LOCATION:Room 310/311
@@ -1680,7 +1680,7 @@ TRANSP:OPAQUE
 UID:2adf3b5e-40d7-5589-9b9f-3dd3895e55e4
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T143000Z
 LOCATION:Room 316
@@ -1761,7 +1761,7 @@ UID:4805bf62-8ba1-51dd-bcac-8d03077bfac5
 URL:https://us.pycon.org/2025/schedule/presentation/14/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: DataComPy - Dataframe Comparisons made Explicit (Sponsor: Capital One)\nhttps://us.pycon.org/2025/schedule/presentation/73/\n<p>DataComPy is a widely used validation tool with over 1.1 million monthly installations\, written to quickly and comprehensively compare a pair of dataframes. Designed to help make differences between schemas and data clear and explicit\, DataComPy generates a comprehensive report at the completion of all comparisons\, providing useful metrics such as match percentages\, maximal differences\, and sample mismatches between comparable columns. In addition\, it supports various forms of input data types for both native (Pandas\, Polars\, Spark\, Snowpark) and indirect (Dask\, Ray) comparisons. It also supports comparison of certain types of database tables\, including Snowflake and DuckDB. Over the course of the presentation\, we'll be delving further into how DataComPy works\, what features it provides\, and what types of practical use cases it is designed to help address.</p>\nSpeakers:\nAkshay Gupta\n<p>-</p>\nRaymond Haffar\n<p>UWaterloo Comp Eng undergrad\, data science @ Capital One. Interested in building practical and resilient solutions for data tooling!</p>
 DTEND:20250515T183000Z
 LOCATION:Room 316
@@ -1808,7 +1808,7 @@ UID:a7d7e5e1-98c8-502d-bbfd-4c7ab64e1bc4
 URL:https://us.pycon.org/2025/schedule/presentation/137/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T163000Z
 LOCATION:Room 309
@@ -1819,7 +1819,7 @@ TRANSP:OPAQUE
 UID:7c6a3a8e-cf58-5e71-8987-5a59385334f7
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Building machine learning pipelines that scale: a case study using Ibis and IbisML\nhttps://us.pycon.org/2025/schedule/presentation/121/\n<p>Tabular data is everywhere. As Python has become the language of choice for data science\, pandas and scikit-learn have become staples in the machine learning (ML) toolkit for processing and modeling this data. However\, when data size scales up\, these tools become unwieldy (slow) or altogether untenable (running out of memory). Ibis provides a unified\, Pythonic\, dataframe interface to 20+ execution backends\, including dataframe libraries\, databases\, and analytics engines. Local backends\, such as Polars\, DuckDB\, and DataFusion\, perform orders of magnitude faster than pandas while using less memory. Ibis further enables users to scale using distributed backends like Spark or cloud data warehouses like Snowflake and BigQuery without changing their code\, giving them the power to choose the right engine for any scale.</p>\n<p>IbisML extends the intrinsic benefits of using Ibis to the ML workflow. It lets users preprocess their data at scale on any Ibis-supported backend—users create IbisML recipes defining sequences of last-mile preprocessing steps to get their data ready for modeling. A recipe and any scikit-learn estimator can be chained together into a pipeline\, so IbisML seamlessly integrates with scikit-learn\, XGBoost (using the scikit-learn estimator interface)\, and PyTorch (using skorch) models. At inference time\, Ibis/IbisML once again takes the feature preprocessing to the efficient backend\, and user-defined functions (UDFs) enable prediction while minimizing data transfer. This completes an end-to-end ML workflow that scales with data size.</p>\n<p>In this tutorial\, you'll build an end-to-end ML project to predict the live win probability at any given move during a chess game. You’ll be using actual\, recent games from the largest free chess server (Lichess). We’ll be using GitHub Codespaces\, so you don’t need to download or configure anything\; however\, please bring a laptop!</p>\nSpeakers:\nAnjali Datta\n<p>Anjali is a postdoc at Stanford Medicine working on MRI processing to identify neurosurgical targets. She also has a PhD in Electrical Engineering from Stanford\, during which she developed MRI acquisition and reconstruction methods. Medical imaging is of course a field where ML is taking over\, and Anjali is now interested in the applications of deep learning to MRI and other signal processing.</p>\nDeepyaman Datta\n<p>Deepyaman is a software engineer at <a href="https://dagster.io/">Dagster Labs</a>. He joined from Voltron Data\, where he was a Senior Staff Software Engineer on the <a href="https://ibis-project.org/">Ibis</a> team. Before their acquisition by Voltron Data\, he was a Founding Machine Learning Engineer at Claypot AI\, working on their real-time feature engineering platform. Prior to that\, he led data engineering teams and asset development across a range of industries at QuantumBlack\, AI by McKinsey.</p>\n<p>Deepyaman is passionate about building and contributing to the broader open-source data ecosystem. Outside of his day job\, he helps maintain <a href="https://kedro.org/">Kedro</a>\, an open-source Python framework for building production-ready data science pipelines.</p>
 DTEND:20250514T163000Z
 LOCATION:Room 318
@@ -1866,7 +1866,7 @@ UID:89f80e02-1c58-5567-b4f6-42edbe185319
 URL:https://us.pycon.org/2025/schedule/presentation/83/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Python project packaging: from zero to hero\nhttps://us.pycon.org/2025/schedule/presentation/72/\n<p>Packaging your code is an essential skill that empowers you to share your Python projects with the world. However\, the packaging process can appear complex and overwhelming\, and it can be difficult to know where to begin.</p>\n<p>This hands-on tutorial will demystify packaging and get you started with the fundamentals of Python packaging. We’ll cover how to structure projects and follow best practices for project layouts\, specify project metadata\, make your package installable\, and publish it to PyPI. We’ll use the modern and easy-to-use packaging tool <em>uv</em>\, but most of the topics covered will also apply to any modern packaging tool (like PDM\, Hatch or Poetry). </p>\n<p>Every new concept will be introduced as a group\, practised individually through practical exercises and then reflected on together as a group. The materials will be available on GitHub\, and a compressed packaging cheat sheet will be provided as assistance for the exercises and future reference. </p>\n<p>By the end of this tutorial\, participants will have created a properly structured Python package\, and learned how to manage dependencies effectively with packaging tools such as uv\, publish a package to PyPI\, and set up basic CI/CD for the project on GitHub.</p>\n<p><strong>Audience:</strong><br />\nThis tutorial assumes you are familiar with basic Python syntax\, have some experience creating (smaller or larger) Python programs\, and want to learn how to package and share your code. Whether you’re a beginner Pythonista eager to start sharing your code or an experienced developer who wants to be brought up to speed with the current state of packaging\, this is the tutorial for you. </p>\n<p><strong>Prerequisites:</strong><br />\nFor this tutorial\, you will need a laptop with Python installed.</p>\nSpeakers:\nMarie Roald\n<p>Marie Roald is a researcher\, data scientist and educator. For the past years\, she has developed and taught programming courses with the goal of empowering teachers to apply programming in their classrooms and has taught courses both digitally and physically at major cities all across Norway. Marie also has experience with academic conferences and science communication.</p>\nYngve Mardal Moe\n<p>Yngve is an experienced Python educator\, Python developer open source enthusiast. He is a co-creator of TurtleThread and has taught Python to professionals\, university students and academics. He is currently tech lead working on safely automating the Norwegian power grid. While working at the Norwegian University of Life Sciences\, Yngve headed a project transforming introduction to Python into a tutorial-based course focusing on active learning.</p>
 DTEND:20250514T163000Z
 LOCATION:Room 319
@@ -1890,7 +1890,7 @@ UID:30f2511f-e7f2-59e5-b55a-e1687813f809
 URL:https://us.pycon.org/2025/schedule/presentation/115/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,tutorial
+CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Speed Up Your Code by 50x: A Guide to Moving from NumPy to JAX\nhttps://us.pycon.org/2025/schedule/presentation/54/\n<p>JAX is more than just "NumPy for the GPU"—it offers advanced features but also presents unique challenges. This hands-on tutorial provides a practical introduction to JAX through interactive exercises covering key concepts such as:</p>\n<ul>\n<li><code>jit</code> compilation for performance optimization</li>\n<li>Native control flow using loop primitives</li>\n<li>Efficient function mapping with vmap</li>\n<li>Performance profiling techniques</li>\n<li><code>jax</code> random number generation design and usage</li>\n</ul>\n<p>Participants will then deepen their understanding by iteratively migrating a <strong>Gaussian Mixture Model</strong> from a pure <code>numpy</code> implementation to an optimized <code>jax</code> version\, highlighting a real-world use-case.</p>\n<p>This tutorial distills lessons the authors found invaluable during their own migration from <code>numpy</code> to <code>jax</code>\, achieving over an order-of-magnitude speedup in real-world applications. Designed to provide attendees with a jumpstart on adopting <code>jax</code>\, this session—along with its comprehensive set of notebooks—aims to be a one-stop resource for anyone looking to leverage <code>jax</code> for numerical computing and machine learning.</p>\nSpeakers:\nIan Quah\n<p>I am a second-year Ph.D. student in the Neural Systems and Behavior program at the University of Washington. My research integrates Neuroscience\, Psychology\, and Machine Learning\, aiming to use machine learning techniques to gain insights into biological processes and leverage those insights to refine and enhance model performance.</p>\n<p>In addition\, I work on privacy-preserving machine learning\, specializing in homomorphic encryption for secure computations. I contribute to the OpenFHE lattice-cryptography library\, where I serve as the Head of Technical Outreach.</p>\nBryan Quah\n<p>Bryan works as researcher at Cedars Sinai Medical Center in Los Angeles where he develops machine learning methods for neuroimaging.</p>
 DTEND:20250514T163000Z
 LOCATION:Room 321

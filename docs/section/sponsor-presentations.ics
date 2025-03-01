@@ -4,7 +4,7 @@ X-WR-CALNAME:PyCon 2025 Sponsor-presentations
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T143000Z
 LOCATION:Room 315
@@ -15,7 +15,7 @@ TRANSP:OPAQUE
 UID:80798e70-401c-5194-a03a-d707995ba3d6
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T143000Z
 LOCATION:Room 308
@@ -26,7 +26,7 @@ TRANSP:OPAQUE
 UID:ab827ed2-86c2-5c7f-8eee-0326d169f0da
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T163000Z
 LOCATION:Room 316
@@ -37,7 +37,7 @@ TRANSP:OPAQUE
 UID:3577af1c-295a-539f-91ff-f17ef3a95447
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T143000Z
 LOCATION:Room 316
@@ -48,7 +48,7 @@ TRANSP:OPAQUE
 UID:dcf7bebe-2ae8-53d7-8569-e39a2aae958d
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T203000Z
 LOCATION:Room 309
@@ -59,7 +59,7 @@ TRANSP:OPAQUE
 UID:5c2b23de-4bad-58ee-a4b3-f22f3b9cfd7d
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T163000Z
 LOCATION:Room 308
@@ -81,7 +81,7 @@ TRANSP:OPAQUE
 UID:bf2f7049-cd29-5282-a613-06cca4ef34d0
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: DataComPy - Dataframe Comparisons made Explicit (Sponsor: Capital One)\nhttps://us.pycon.org/2025/schedule/presentation/73/\n<p>DataComPy is a widely used validation tool with over 1.1 million monthly installations\, written to quickly and comprehensively compare a pair of dataframes. Designed to help make differences between schemas and data clear and explicit\, DataComPy generates a comprehensive report at the completion of all comparisons\, providing useful metrics such as match percentages\, maximal differences\, and sample mismatches between comparable columns. In addition\, it supports various forms of input data types for both native (Pandas\, Polars\, Spark\, Snowpark) and indirect (Dask\, Ray) comparisons. It also supports comparison of certain types of database tables\, including Snowflake and DuckDB. Over the course of the presentation\, we'll be delving further into how DataComPy works\, what features it provides\, and what types of practical use cases it is designed to help address.</p>\nSpeakers:\nAkshay Gupta\n<p>-</p>\nRaymond Haffar\n<p>UWaterloo Comp Eng undergrad\, data science @ Capital One. Interested in building practical and resilient solutions for data tooling!</p>
 DTEND:20250515T183000Z
 LOCATION:Room 316
@@ -93,7 +93,7 @@ UID:4ffb1b16-8d69-5ec6-bd66-ce11767a98e1
 URL:https://us.pycon.org/2025/schedule/presentation/73/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T183000Z
 LOCATION:Room 308
@@ -104,7 +104,7 @@ TRANSP:OPAQUE
 UID:760d67d4-fb66-5bee-be6a-eb44ed90baa4
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Building Scalable AI Tool Servers with Model Context Protocol (MCP) and Heroku (Sponsor: Heroku)\nhttps://us.pycon.org/2025/schedule/presentation/3/\n<p>Large Language Models (LLMs) become vastly more powerful when given the ability to call external tools to gather information and take real-world actions - such as querying APIs\, modifying databases\, or kicking off workflows. This talk explores how to build and scale these tool servers using Python and the Model Context Protocol (MCP).</p>\n<p>MCP is an open-source protocol that provides a standardized request format and response structure for LLMs interacting with external tools\, ensuring consistency while allowing flexible execution under the hood. We’ll walk through implementing an MCP-compliant tool server in Python\, covering topics like transport types\, the connection lifecycle\, and best practices.</p>\n<p>LLM tool servers must handle increasing traffic efficiently\, requiring strategies for load balancing\, container orchestration\, and cloud deployment. We’ll discuss scaling Python services horizontally using load balancing and container orchestration. This includes practical considerations for deploying on 12-Factor App platforms like Heroku.</p>\n<p>Through live coding\, we’ll implement\, deploy\, and scale an MCP-compliant tool server using Python. We’ll also demonstrate how an LLM can interact with MCP tool servers\, enabling you to build powerful\, API-driven AI agents.</p>\n<p>Attendees will gain hands-on knowledge of building\, deploying\, and scaling Python-based MCP tool servers and AI agents\, made simple with Heroku’s streamlined deployment process.</p>\nSpeakers:\nKen Alger\n<p>-</p>
 DTEND:20250515T203000Z
 LOCATION:Room 315
@@ -116,7 +116,7 @@ UID:bf8d3ce7-6778-5d87-a7f9-67e16dabc7c3
 URL:https://us.pycon.org/2025/schedule/presentation/3/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T163000Z
 LOCATION:Room 309
@@ -127,7 +127,7 @@ TRANSP:OPAQUE
 UID:7c6a3a8e-cf58-5e71-8987-5a59385334f7
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: High-Performance Python: Faster Type Checking and Free Threaded Execution (Sponsor: Meta)\nhttps://us.pycon.org/2025/schedule/presentation/118/\n<p><em>Meta's Commitment to the Python Community: Empowering Innovation and Collaboration</em></p>\n<p>At Meta\, we're dedicated to advancing the Python ecosystem through open-source contributions and community engagement. Our mission is to improve the tooling and runtime\, making the language more efficient\, scalable\, and accessible for developers worldwide.</p>\n<p><em>Introducing Pyrefly: A Scalable Type Checker for a Unified IDE Experience</em></p>\n<p>We're excited to introduce Pyrefly\, a new type checker designed with scalability in mind. Built from the ground up using Rust\, Pyrefly provides a faster and more efficient type checking experience\, enabling developers to write better code with confidence. With Pyrefly\, we aim to deliver a unified IDE experience power type hints and code navigation on a new type checking engine.</p>\n<p><em>Unlocking Better Performance with Free-Threaded Python</em></p>\n<p>In collaboration with the Python community\, we've been working on making free-threaded Python (No-GIL) available in Python 3.13. This significant milestone allows developers to take full advantage of modern multi-core processors directly from Python. More recently\, our efforts have focused on improving the single-threaded performance of the free threading build\, ensuring that Python remains a top choice for developers seeking high-performance capabilities.</p>\nSpeakers:\nSam Gross\n<p>-</p>\nNeil Mitchell\n<p>Programmer at Meta\, working on improving the Python developer experience.</p>
 DTEND:20250515T183000Z
 LOCATION:Room 315
@@ -139,7 +139,7 @@ UID:dea2dfca-1957-5934-8fcf-5d473cee64eb
 URL:https://us.pycon.org/2025/schedule/presentation/118/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T183000Z
 LOCATION:Room 309
@@ -150,7 +150,7 @@ TRANSP:OPAQUE
 UID:33921e54-21da-5617-8c8e-27ab8e5716f6
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T143000Z
 LOCATION:Room 309
@@ -172,7 +172,7 @@ TRANSP:OPAQUE
 UID:3fb5eb5f-71f9-55de-8c4c-4792d4269ff5
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: What good is an AI coding assistant to a professional? (Sponsor: Google)\nhttps://us.pycon.org/2025/schedule/presentation/58/\n<p>You're a professional\, using Python for real\, serious work. Why would you even consider using an AI coding assistant? Even suggesting it sounds kind of fishy. Maybe even insulting.</p>\n<p>But there are good times and places for an AI coding assistant - <em>perhaps even for you!</em> Are you:</p>\n<ul>\n<li>tossing together a web experiment that could stand to look a little nicer than your CSS and JavaScript skills usually allow?</li>\n<li>exploring a new library or platform that could have better documentation and examples?</li>\n<li>tired of going back and forth from your IDE to searching for needed details like function signatures and argument types?</li>\n</ul>\n<p>These are all great times for even expert Python programmers to leverage an AI coding assistant. And the assistants are improving at a fast clip.</p>\n<p>This talk will show you how to get started with an AI assistant and go through examples of scenarios where it can help. You'll leave the session knowing whether one can be valuable to you\, and if so\, where and when it's worth trying.</p>\nSpeakers:\nCharlie Engelke\n<p>Charlie Engelke is a developer relations engineer at Google Cloud. His focus is in helping Python developers build\, deploy\, and run cloud applications and using the ever-increasing number of tools and APIs available there.</p>\n<p>Before Google\, Charlie was CTO at Infotech\, Inc.\, a midsized software and Saas provider.</p>
 DTEND:20250515T163000Z
 LOCATION:Room 315
@@ -184,7 +184,7 @@ UID:c64e6ce6-4549-5b73-ab53-6746ec8714af
 URL:https://us.pycon.org/2025/schedule/presentation/58/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T203000Z
 LOCATION:Room 308
@@ -195,7 +195,7 @@ TRANSP:OPAQUE
 UID:c3eb1b7d-7032-541e-bbdf-315d26c85ef1
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-workshop,sponsor-presentations
+CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T203000Z
 LOCATION:Room 316
