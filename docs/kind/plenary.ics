@@ -68,7 +68,7 @@ TRANSP:OPAQUE
 UID:6470e91b-5a2f-55cc-a74e-286dfa161143
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,plenary
+CATEGORIES:plenary,tutorials
 DESCRIPTION:Section: tutorials\nKind: plenary\nName: Opening Reception\n<p>Opening Reception</p>\n
 DTEND:20250515T230000Z
 LOCATION:Hall A
@@ -123,7 +123,7 @@ TRANSP:OPAQUE
 UID:7c2b9fda-1449-536d-aa63-f6ea01836442
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-presentations,plenary
+CATEGORIES:plenary,sponsor-presentations
 DESCRIPTION:Section: sponsor-presentations\nKind: plenary\nName: Opening Reception\n<p>Opening Reception</p>\n
 DTEND:20250515T230000Z
 LOCATION:Hall A

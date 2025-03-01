@@ -99,18 +99,6 @@ URL:https://us.pycon.org/2025/schedule/presentation/18/
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:talk,talks
-DESCRIPTION:Section: talks\nKind: talk\nName: How to build a cross-platform graphical user interface with Python\nhttps://us.pycon.org/2025/schedule/presentation/78/\n<p>If you need to build a user interface for your Python code\, many guides will tell you that your only options are to use the command line\, or wrap your code in a web interface. However\, there is another option - building a native GUI interface. In fact for some use cases\, a GUI app may be your <em>only</em> option. </p>\n<p>In this talk\, you'll learn how to build and run a graphical user interface (GUI) that can run on your desktop\, on your phone\, or in a browser. You'll learn how you can use the BeeWare suite of tools to bootstrap a new GUI project\, develop a GUI interface\, and deploy that app to multiple desktop and mobile platforms\, without making any code changes. You'll learn how to access device hardware like GPS and cameras\; and you'll learn how to distribute your application - including all runtimes and third-party libraries - to others. Lastly\, you'll get a brief introduction to how you can access native platform APIs that don't have a Python API.</p>\nSpeakers:\nRussell Keith-Magee\n<p>Dr Russell Keith-Magee is the founder of the BeeWare project\, a project developing GUI tools and libraries to support the development of Python software on desktop and mobile platforms. He joined the Django core team in 2006\, and was the President of the Django Software Foundation for 5 years. He joined the CPython core team in 2024. He is a frequent speaker at Python and Django conferences around the globe\, sharing his experience as a FLOSS developer\, community maintainer\, and (unsuccessful) startup founder. In his day job\, he is a Principal Engineer at Anaconda\, working on BeeWare in the OSS team.</p>
-DTEND:20250517T163000Z
-LOCATION:Ballroom A
-DTSTART:20250517T160000Z
-STATUS:CONFIRMED
-SUMMARY:[talk] How to build a cross-platform graphical user interface with Python
-TRANSP:OPAQUE
-UID:76803812-39d4-52d9-a62b-acb5ea25d73d
-URL:https://us.pycon.org/2025/schedule/presentation/78/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:talk,talks
 DESCRIPTION:Section: talks\nKind: talk\nName: Python: The Architect's Secret Weapon\nhttps://us.pycon.org/2025/schedule/presentation/87/\n<p>The built environment is undergoing a digital revolution\, and Python is at the forefront. This talk will explore how Python\, combined with open-source tools like Blender\, OpenUSD\, and Dynamo\, is transforming the way we design\, analyze\, and construct buildings.</p>\n<p>We'll delve into practical applications\, from generating 3D models to performing energy simulations and creating stunning visualizations. You'll learn how to harness the power of Python to address pressing challenges in the construction industry\, such as climate change\, resource scarcity\, and urban development.</p>\n<p>So if you're interested in how Python can shape the built environment then come and see for yourself!</p>\n<p>Key Takeaways:</p>\n<ul>\n<li>Understand the role of Python in the Architecture and Construction industry.</li>\n<li>Learn how professionals use Python to automate design and analysis tasks.</li>\n<li>Explore the potential of open-source tools like Blender\, OpenUSD\, and Dynamo.</li>\n<li>Discover how Python is used to create stunning visualizations and simulations of buildings.</li>\n<li>Gain insights into the future of digital design and construction.</li>\n</ul>\nSpeakers:\nTadeh Hakopian\n<p>With a background in Architecture and Development Tadeh has supported building large scale projects with diverse teams for over 10 years. By promoting open dialogue\, systems thinking\, and long term planning he has improved operational efficiencies in all his endeavors. He is a course author\, trainer\, and open source contributor as well as a speaker at national conferences in technology\, architecture\, design. He loves to talk about the new possibilities with technology and innovation at everyone’s disposal while building communities along the way.</p>
 DTEND:20250516T200000Z
 LOCATION:Ballroom A
@@ -120,6 +108,18 @@ SUMMARY:[talk] Python: The Architect's Secret Weapon
 TRANSP:OPAQUE
 UID:6186515d-3998-59f2-b07a-4efc424ed936
 URL:https://us.pycon.org/2025/schedule/presentation/87/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:talk,talks
+DESCRIPTION:Section: talks\nKind: talk\nName: How to build a cross-platform graphical user interface with Python\nhttps://us.pycon.org/2025/schedule/presentation/78/\n<p>If you need to build a user interface for your Python code\, many guides will tell you that your only options are to use the command line\, or wrap your code in a web interface. However\, there is another option - building a native GUI interface. In fact for some use cases\, a GUI app may be your <em>only</em> option. </p>\n<p>In this talk\, you'll learn how to build and run a graphical user interface (GUI) that can run on your desktop\, on your phone\, or in a browser. You'll learn how you can use the BeeWare suite of tools to bootstrap a new GUI project\, develop a GUI interface\, and deploy that app to multiple desktop and mobile platforms\, without making any code changes. You'll learn how to access device hardware like GPS and cameras\; and you'll learn how to distribute your application - including all runtimes and third-party libraries - to others. Lastly\, you'll get a brief introduction to how you can access native platform APIs that don't have a Python API.</p>\nSpeakers:\nRussell Keith-Magee\n<p>Dr Russell Keith-Magee is the founder of the BeeWare project\, a project developing GUI tools and libraries to support the development of Python software on desktop and mobile platforms. He joined the Django core team in 2006\, and was the President of the Django Software Foundation for 5 years. He joined the CPython core team in 2024. He is a frequent speaker at Python and Django conferences around the globe\, sharing his experience as a FLOSS developer\, community maintainer\, and (unsuccessful) startup founder. In his day job\, he is a Principal Engineer at Anaconda\, working on BeeWare in the OSS team.</p>
+DTEND:20250517T163000Z
+LOCATION:Ballroom A
+DTSTART:20250517T160000Z
+STATUS:CONFIRMED
+SUMMARY:[talk] How to build a cross-platform graphical user interface with Python
+TRANSP:OPAQUE
+UID:76803812-39d4-52d9-a62b-acb5ea25d73d
+URL:https://us.pycon.org/2025/schedule/presentation/78/
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:talk,talks

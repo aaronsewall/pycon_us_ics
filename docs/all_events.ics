@@ -94,17 +94,6 @@ TRANSP:OPAQUE
 UID:b8c8050b-3989-53e7-a8b2-e70e9a7fd126
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:break,talks
-DESCRIPTION:Section: talks\nKind: break\nName: Lunch\n<p>Lunch</p>\n
-DTEND:20250516T180000Z
-LOCATION:Hall A
-DTSTART:20250516T170000Z
-STATUS:CONFIRMED
-SUMMARY:[break] Lunch
-TRANSP:OPAQUE
-UID:88b3db78-860e-5864-9897-9fff803e3de1
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:talk,talks
 DESCRIPTION:Section: talks\nKind: talk\nName: Memory Efficient Iteration with Python's itertools- A Deep Dive\nhttps://us.pycon.org/2025/schedule/presentation/117/\n<p>In today’s data-driven world\, handling large datasets efficiently is crucial for any developer or data scientist. Python's itertools module offers a suite of fast and memory efficient tools to handle extensive data iteration\, making it a great solution for managing large datasets without exhausting system resources. This talk will dive into several key functions of itertools comparing them to native Python iterations. Attendees will learn how to streamline their code and reduce memory usage while maintaining high performance.</p>\n<p>While itertools is part of Python’s standard library\, it is often overlooked by many developers in favor of more familiar\, but less efficient\, native methods. This talk will emphasize the importance of understanding and using these memory-efficient tools\, particularly when working with large datasets\, where performance and resource management are critical. We’ll begin with a discussion of common challenges developers face when handling large-scale data and why default iteration methods can lead to memory exhaustion or slow performance.</p>\n<p>Next\, we’ll explore key itertools functions like chain\, islice\, and cycle\, demonstrating how they can drastically reduce memory usage while maintaining high speed. More advanced tools like groupby\, product\, and permutations will also be covered\, showing their relevance in complex data processing scenarios. Real-world examples and benchmarks will clearly illustrate how itertools outperforms native Python approaches in both memory efficiency and speed.</p>\n<p>By the end of this session\, attendees will not only understand how to incorporate itertools into their workflows but will also gain actionable strategies to write more efficient and optimized Python code. This knowledge will empower them to tackle large datasets with confidence\, leading to faster\, more scalable applications in data science\, software development\, and beyond.</p>\nSpeakers:\nKalyan Prasad\n<p>Kalyan is a Data and AI scientist with a background as a former data science and analytics manager\, effectively balancing both academia and industry. He has presented talks at various international PyCon's \,  Data Science\,  AI conferences\, showcasing his expertise. As a community leader\, Kalyan currently serves as the Chair for PyConf Hyderabad 2025 and has held the role of Co-chair for PyConf India 2023 and PyConf Hyderabad from 2022 to 2024. In addition to these leadership positions\, he is an active contributor to numerous Python\, data science\, and scientific communities worldwide.</p>
 DTEND:20250517T213000Z
@@ -115,6 +104,17 @@ SUMMARY:[talk] Memory Efficient Iteration with Python's itertools- A Deep Dive
 TRANSP:OPAQUE
 UID:2646a198-b51a-5f11-8dff-19bef528655d
 URL:https://us.pycon.org/2025/schedule/presentation/117/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:break,talks
+DESCRIPTION:Section: talks\nKind: break\nName: Lunch\n<p>Lunch</p>\n
+DTEND:20250516T180000Z
+LOCATION:Hall A
+DTSTART:20250516T170000Z
+STATUS:CONFIRMED
+SUMMARY:[break] Lunch
+TRANSP:OPAQUE
+UID:88b3db78-860e-5864-9897-9fff803e3de1
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:talk,talks
@@ -461,6 +461,17 @@ UID:3a8b9d4c-b292-5153-b160-70f43a18999e
 URL:https://us.pycon.org/2025/schedule/presentation/8/
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:plenary,sponsor-presentations
+DESCRIPTION:Section: sponsor-presentations\nKind: plenary\nName: Opening Reception\n<p>Opening Reception</p>\n
+DTEND:20250515T230000Z
+LOCATION:Hall A
+DTSTART:20250515T210000Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] Opening Reception
+TRANSP:OPAQUE
+UID:3fb5eb5f-71f9-55de-8c4c-4792d4269ff5
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:charla,talks
 DESCRIPTION:Section: talks\nKind: charla\nName: "GeoMonitoreo con Python: Soluciones Innovadoras para los Desafíos de Latinoamérica"\nhttps://us.pycon.org/2025/schedule/presentation/67/\n<p>En esta charla\, contaremos la experiencia de subirse al ‘tren Python’ que prometía ser una tecnología en expansión allá por el 2015\, cuando comenzamos a utilizar este lenguaje para la implementación de soluciones basadas en procesamiento de imágenes de video y satelitales para aplicaciones científicas en casos reales. Desde ese entonces\, junto con su ecosistema compuesto por bibliotecas en constante actualización\, Python continúa revolucionando el monitoreo ambiental en Latinoamérica. \nCon aplicaciones como el análisis de imágenes satelitales para evaluar los cambios de uso y cobertura de suelo hasta la detección de aumento o disminución de humedales o la presencia de cianobacterias en lagos\, ríos o embalses\, esta herramienta ha permitido implementar soluciones accesibles y escalables frente a desafíos como el cambio climático\, la gestión de recursos hídricos y la conservación de ecosistemas. Compartiremos casos de estudio exitosos y herramientas clave\, mostrando cómo la comunidad puede contribuir al cuidado ambiental y la sostenibilidad ambiental en la región. Python es más que un lenguaje de programación\, es una interacción continua entre documentación\, desarrolladores y la comunidad que pone a disposición infinidad de herramientas para que cualquier persona con una idea para cuidar el planeta pueda generar su aporte y divulgarlo globalmente\, algo que resultaba difícil de imaginar en nuestros comienzos.</p>\nSpeakers:\nNatalia V. Revollo\n<p>Doctor en Ingeniería por la Universidad Nacional del Sur e Ingeniera en Informática por la UNJU\, Argentina. Actualmente es profesora  e investigadora del Instituto de Ciencias e Ingeniería de la Computación (ICIC-UNS-CONICET) en el área de proyectos de desarrollo tecnológico y social. Es especialista en el desarrollo de algoritmos y software basados ​​en el procesamiento digital de imágenes y el estudio de sistemas inteligentes. Ha realizado cursos de especialización en diferentes universidades de la Argentina y del exterior\, y ha presentado publicaciones en el ámbito de la automatización de sistemas de clasificación y medición no supervisada de imágenes satelitales y videos de características relacionadas con la superficie terrestre. Ha participado en proyectos de transferencia tecnológica aplicada en áreas ambientales y geociencias como analista y desarrollador de algoritmos y modelos de aprendizaje automático. Fue autora del primer estudio sobre Capacidad de Carga de Playa utilizando algoritmos basados ​​en visión por computadora realizado en Argentina. Su trabajo más reciente aborda temas relacionados con el monitoreo no invasivo de los Recursos Hídricos y su interacción con el medio ambiente\, desde el monitoreo de playas en zonas costeras\, la teledetección de cuencas hídricas y la clasificación de humedales.</p>\nCarlos E. Berger\n<p>I am an Electronic Engineer and Ph.D. in Control of Systems\, deeply engaged in research and education\, particularly in the application of programming languages to scientific and multidisciplinary fields. I am a full professor at two universities in Argentina\, and I also work as an independent developer\, actively seeking new opportunities and positions.</p>
 DTEND:20250516T153000Z
@@ -471,17 +482,6 @@ SUMMARY:[charla] "GeoMonitoreo con Python: Soluciones Innovadoras para los Desaf
 TRANSP:OPAQUE
 UID:7f8da4f9-2af1-5075-be8a-06481bbeeafc
 URL:https://us.pycon.org/2025/schedule/presentation/67/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:sponsor-presentations,plenary
-DESCRIPTION:Section: sponsor-presentations\nKind: plenary\nName: Opening Reception\n<p>Opening Reception</p>\n
-DTEND:20250515T230000Z
-LOCATION:Hall A
-DTSTART:20250515T210000Z
-STATUS:CONFIRMED
-SUMMARY:[plenary] Opening Reception
-TRANSP:OPAQUE
-UID:3fb5eb5f-71f9-55de-8c4c-4792d4269ff5
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:plenary,talks
@@ -647,7 +647,7 @@ TRANSP:OPAQUE
 UID:6470e91b-5a2f-55cc-a74e-286dfa161143
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,plenary
+CATEGORIES:plenary,tutorials
 DESCRIPTION:Section: tutorials\nKind: plenary\nName: Opening Reception\n<p>Opening Reception</p>\n
 DTEND:20250515T230000Z
 LOCATION:Hall A
@@ -773,6 +773,18 @@ SUMMARY:[talk] Python for Dark Sky Conservation in National Parks
 TRANSP:OPAQUE
 UID:2afb56dc-31ce-5c09-9cde-6b07ac2bebaf
 URL:https://us.pycon.org/2025/schedule/presentation/64/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:talk,talks
+DESCRIPTION:Section: talks\nKind: talk\nName: Going faster in all directions at once: How two teams are working together to make Python better for all\nhttps://us.pycon.org/2025/schedule/presentation/75/\n<p>Two separate\, but related\, projects to make CPython faster are currently happening at the same time.  The first\, funded by Microsoft\, aims to improve the single-threaded performance of CPython (PEP 659\, PEP 744).  The second\, funded by Meta\, aims to remove the global interpreter lock so multiple threads can make better use of all processor cores (PEP 703).  There are technical challenges to achieving both of these goals simultaneously.  We will describe how we collaborate to nonetheless make both projects a success.  This includes (a) regular and open lines of communication\, (b) sharing the same code for benchmarking\, (c) leaving space for each of these projects to develop on their own\, and (d) allocating time to directly tackle the intersection of the two problems.</p>\n<p>This talk is intended for a general audience. It will cover technical topics related to language runtimes at a high level\, and also include people-management topics related to open source communities.</p>\nSpeakers:\nMichael Droettboom\n<p>Michael Droettboom is a Principal Software Engineering Manager at Microsoft\, leading the CPython Performance Engineering team.  He is also a former lead maintainer of matplotlib\, and creator of airspeed velocity (asv) and Pyodide (CPython on WebAssembly).</p>\nDino Viehland\n<p>I'm a software engineer at Meta working on Cinder\, our performance focused fork of CPython that runs Instagram and AI workloads. Previously I've worked on Python Tools for Visual Studio and IronPython and have been a core CPython developer since 2010.</p>
+DTEND:20250518T173000Z
+LOCATION:Room 301-305
+DTSTART:20250518T170000Z
+STATUS:CONFIRMED
+SUMMARY:[talk] Going faster in all directions at once: How two teams are working together to make Python better for all
+TRANSP:OPAQUE
+UID:1ddb8ad9-67a1-5fdf-a5c4-bf5937d983a1
+URL:https://us.pycon.org/2025/schedule/presentation/75/
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:sponsor-presentations,sponsor-workshop
@@ -984,18 +996,6 @@ SUMMARY:[tutorial] Codyssey: A playful control system workshop
 TRANSP:OPAQUE
 UID:2342aa20-6cb6-53c8-9764-61bcac17bdcc
 URL:https://us.pycon.org/2025/schedule/presentation/38/
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:tutorial,tutorials
-DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Speed Up Your Code by 50x: A Guide to Moving from NumPy to JAX\nhttps://us.pycon.org/2025/schedule/presentation/54/\n<p>JAX is more than just "NumPy for the GPU"—it offers advanced features but also presents unique challenges. This hands-on tutorial provides a practical introduction to JAX through interactive exercises covering key concepts such as:</p>\n<ul>\n<li><code>jit</code> compilation for performance optimization</li>\n<li>Native control flow using loop primitives</li>\n<li>Efficient function mapping with vmap</li>\n<li>Performance profiling techniques</li>\n<li><code>jax</code> random number generation design and usage</li>\n</ul>\n<p>Participants will then deepen their understanding by iteratively migrating a <strong>Gaussian Mixture Model</strong> from a pure <code>numpy</code> implementation to an optimized <code>jax</code> version\, highlighting a real-world use-case.</p>\n<p>This tutorial distills lessons the authors found invaluable during their own migration from <code>numpy</code> to <code>jax</code>\, achieving over an order-of-magnitude speedup in real-world applications. Designed to provide attendees with a jumpstart on adopting <code>jax</code>\, this session—along with its comprehensive set of notebooks—aims to be a one-stop resource for anyone looking to leverage <code>jax</code> for numerical computing and machine learning.</p>\nSpeakers:\nIan Quah\n<p>I am a second-year Ph.D. student in the Neural Systems and Behavior program at the University of Washington. My research integrates Neuroscience\, Psychology\, and Machine Learning\, aiming to use machine learning techniques to gain insights into biological processes and leverage those insights to refine and enhance model performance.</p>\n<p>In addition\, I work on privacy-preserving machine learning\, specializing in homomorphic encryption for secure computations. I contribute to the OpenFHE lattice-cryptography library\, where I serve as the Head of Technical Outreach.</p>\nBryan Quah\n<p>Bryan works as researcher at Cedars Sinai Medical Center in Los Angeles where he develops machine learning methods for neuroimaging.</p>
-DTEND:20250514T163000Z
-LOCATION:Room 321
-DTSTART:20250514T130000Z
-STATUS:CONFIRMED
-SUMMARY:[tutorial] Speed Up Your Code by 50x: A Guide to Moving from NumPy to JAX
-TRANSP:OPAQUE
-UID:c6577abe-8c0f-5a02-ac84-aa94c2247b1e
-URL:https://us.pycon.org/2025/schedule/presentation/54/
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:talk,talks
@@ -1212,16 +1212,16 @@ UID:76ec6198-b83d-5cd6-9da7-61096298b7b7
 URL:https://us.pycon.org/2025/schedule/presentation/86/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talk,talks
-DESCRIPTION:Section: talks\nKind: talk\nName: Going From Notebooks to Scalable Systems\nhttps://us.pycon.org/2025/schedule/presentation/51/\n<p>Jupyter Notebooks are a fantastic tool that make it very easy to get started on a project. But often\, you’ll reach a point where you want to make your code part of a larger system\, and you’ll need to change your way of working. You’ll need to go from code that gives you some insights or results to robust\, reproducible code that runs automatically. In this talk\, I’ll explain strategies that will help you smoothly refactor your code. I’ll introduce tools that will help you\, and discuss the skills that you’ll need. Whether you're a data scientist looking to productionize your models or a developer working with data-heavy applications\, you'll gain practical knowledge to help you move from exploratory notebooks to robust\, scalable systems.</p>\nSpeakers:\nCatherine Nelson\n<p>Catherine Nelson is a freelance data scientist and the author of two O'Reilly books\, this year’s Software Engineering for Data Scientists\, and her 2020 book Building Machine Learning Pipelines. Previously\, she was a Principal Data Scientist at SAP Concur where she worked on production NLP systems. Catherine has a PhD in geophysics from Durham University and a Masters of Earth Sciences from Oxford University. She is currently consulting for startups in the Generative AI space.</p>
-DTEND:20250516T161500Z
-LOCATION:Ballroom BC
-DTSTART:20250516T154500Z
+CATEGORIES:tutorial,tutorials
+DESCRIPTION:Section: tutorials\nKind: tutorial\nName: (Pre-)Commit to Better Code\nhttps://us.pycon.org/2025/schedule/presentation/61/\n<p>Maintaining code quality can be challenging\, no matter the size of your project or number of contributors. Different team members may have different opinions on code styling and preferences for code structure\, while solo contributors might find themselves spending a considerable amount of time making sure the code conforms to accepted conventions. However\, manually inspecting and fixing issues in files is both tedious and error-prone. As such\, computers are much more suited to this task than humans. Pre-commit hooks are a great way to have a computer handle this for you.</p>\n<p>Pre-commit hooks are code checks that run whenever you attempt to commit your changes with Git. They can detect and\, in some cases\, automatically correct code-quality issues <em>before</em> they make it to your codebase. In this tutorial\, you will learn how to install and configure pre-commit hooks for your repository to ensure that only code that passes your checks makes it into your code base. We will also explore how to build custom pre-commit hooks for novel use cases.</p>\nSpeakers:\nStefanie Molin\n<p><a href="https://stefaniemolin.com">Stefanie Molin</a> is a software engineer at Bloomberg in New York City\, where she tackles tough problems in information security\, particularly those revolving around data wrangling/visualization\, building tools for gathering data\, and knowledge sharing. She is also a core developer of <a href="https://github.com/numpy/numpydoc">numpydoc</a> and the author of “<a href="https://www.amazon.com/Hands-Data-Analysis-Pandas-visualization/dp/1800563450">Hands-On Data Analysis with Pandas: A Python data science handbook for data collection\, wrangling\, analysis\, and visualization</a>\,” which is currently in its second edition and has been translated into Korean and Chinese. She holds a bachelor’s of science degree in operations research from Columbia University's Fu Foundation School of Engineering and Applied Science\, as well as a master’s degree in computer science\, with a specialization in machine learning\, from Georgia Tech. In her free time\, she enjoys traveling the world\, inventing new recipes\, and learning new languages spoken among both people and computers.</p>
+DTEND:20250515T210000Z
+LOCATION:Room 317
+DTSTART:20250515T173000Z
 STATUS:CONFIRMED
-SUMMARY:[talk] Going From Notebooks to Scalable Systems
+SUMMARY:[tutorial] (Pre-)Commit to Better Code
 TRANSP:OPAQUE
-UID:5bccf91e-aec8-5b2d-b5e9-376e477ba198
-URL:https://us.pycon.org/2025/schedule/presentation/51/
+UID:51e4ac9a-92ed-5ca5-95ab-f9260e15f813
+URL:https://us.pycon.org/2025/schedule/presentation/61/
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:tutorial,tutorials
@@ -1236,16 +1236,16 @@ UID:afca48e9-59ea-5a28-b8a4-88e0cc6eda1c
 URL:https://us.pycon.org/2025/schedule/presentation/77/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorial,tutorials
-DESCRIPTION:Section: tutorials\nKind: tutorial\nName: (Pre-)Commit to Better Code\nhttps://us.pycon.org/2025/schedule/presentation/61/\n<p>Maintaining code quality can be challenging\, no matter the size of your project or number of contributors. Different team members may have different opinions on code styling and preferences for code structure\, while solo contributors might find themselves spending a considerable amount of time making sure the code conforms to accepted conventions. However\, manually inspecting and fixing issues in files is both tedious and error-prone. As such\, computers are much more suited to this task than humans. Pre-commit hooks are a great way to have a computer handle this for you.</p>\n<p>Pre-commit hooks are code checks that run whenever you attempt to commit your changes with Git. They can detect and\, in some cases\, automatically correct code-quality issues <em>before</em> they make it to your codebase. In this tutorial\, you will learn how to install and configure pre-commit hooks for your repository to ensure that only code that passes your checks makes it into your code base. We will also explore how to build custom pre-commit hooks for novel use cases.</p>\nSpeakers:\nStefanie Molin\n<p><a href="https://stefaniemolin.com">Stefanie Molin</a> is a software engineer at Bloomberg in New York City\, where she tackles tough problems in information security\, particularly those revolving around data wrangling/visualization\, building tools for gathering data\, and knowledge sharing. She is also a core developer of <a href="https://github.com/numpy/numpydoc">numpydoc</a> and the author of “<a href="https://www.amazon.com/Hands-Data-Analysis-Pandas-visualization/dp/1800563450">Hands-On Data Analysis with Pandas: A Python data science handbook for data collection\, wrangling\, analysis\, and visualization</a>\,” which is currently in its second edition and has been translated into Korean and Chinese. She holds a bachelor’s of science degree in operations research from Columbia University's Fu Foundation School of Engineering and Applied Science\, as well as a master’s degree in computer science\, with a specialization in machine learning\, from Georgia Tech. In her free time\, she enjoys traveling the world\, inventing new recipes\, and learning new languages spoken among both people and computers.</p>
-DTEND:20250515T210000Z
-LOCATION:Room 317
-DTSTART:20250515T173000Z
+CATEGORIES:talk,talks
+DESCRIPTION:Section: talks\nKind: talk\nName: Going From Notebooks to Scalable Systems\nhttps://us.pycon.org/2025/schedule/presentation/51/\n<p>Jupyter Notebooks are a fantastic tool that make it very easy to get started on a project. But often\, you’ll reach a point where you want to make your code part of a larger system\, and you’ll need to change your way of working. You’ll need to go from code that gives you some insights or results to robust\, reproducible code that runs automatically. In this talk\, I’ll explain strategies that will help you smoothly refactor your code. I’ll introduce tools that will help you\, and discuss the skills that you’ll need. Whether you're a data scientist looking to productionize your models or a developer working with data-heavy applications\, you'll gain practical knowledge to help you move from exploratory notebooks to robust\, scalable systems.</p>\nSpeakers:\nCatherine Nelson\n<p>Catherine Nelson is a freelance data scientist and the author of two O'Reilly books\, this year’s Software Engineering for Data Scientists\, and her 2020 book Building Machine Learning Pipelines. Previously\, she was a Principal Data Scientist at SAP Concur where she worked on production NLP systems. Catherine has a PhD in geophysics from Durham University and a Masters of Earth Sciences from Oxford University. She is currently consulting for startups in the Generative AI space.</p>
+DTEND:20250516T161500Z
+LOCATION:Ballroom BC
+DTSTART:20250516T154500Z
 STATUS:CONFIRMED
-SUMMARY:[tutorial] (Pre-)Commit to Better Code
+SUMMARY:[talk] Going From Notebooks to Scalable Systems
 TRANSP:OPAQUE
-UID:51e4ac9a-92ed-5ca5-95ab-f9260e15f813
-URL:https://us.pycon.org/2025/schedule/presentation/61/
+UID:5bccf91e-aec8-5b2d-b5e9-376e477ba198
+URL:https://us.pycon.org/2025/schedule/presentation/51/
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:talk,talks
@@ -1318,18 +1318,6 @@ UID:41bb8d7a-e096-590e-a0e0-18272be62d34
 URL:https://us.pycon.org/2025/schedule/presentation/56/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:charla,talks
-DESCRIPTION:Section: talks\nKind: charla\nName: Cómo llevar tus presentaciones técnicas al siguiente nivel con Python + Quarto\nhttps://us.pycon.org/2025/schedule/presentation/62/\n<p>Da lo mismo si trabajas como dev o haciendo ciencia de datos: crear buenas presentaciones es un aspecto clave para dar a conocer lo que haces. Una buena presentación nos permite mostrar la relevancia de nuestro trabajo de una forma clara y convincente\, y destacar el valor de nuestras contribuciones técnicas. En este contexto\, un elemento fundamental de cualquier presentación es un set de slides que se destaque. \nEn esta charla presentaremos 10 simples reglas para crear slides en formato HTML usando Python y Quarto\, un sistema de publicación técnico y científico de código abierto. La audiencia se llevará sugerencias concretas sobre cómo mejorar sus próximo set de slides y el código para implementarlas. </p>\n<p>¿Por qué Quarto?\nQuarto es una excelente herramienta para crear slides sobre contenido técnico porque permite integrar código\, datos y texto en un solo archivo. A lo largo de la presentación nos enfocaremos en la creación de slides en formato HTML\, ya que este tiene características que lo hacen particularmente útil para presentar contenido técnico. Por ejemplo\, ofrece opciones flexibles para mostrar y ocultar código y para ajustar la cantidad de información mostrada\, lo que nos permite crear "capas" de contenido. Así\, es posible presentar ideas claves para una audiencia no técnica y al mismo tiempo incluir código que se muestra solo si es necesario. Incluso\, gracias al poder de WebAssembly + pyodide\, es posible hacer que aparezca un intérprete de Python directamente en nuestra presentación\, para poder hacer una demostración de algo en el momento\, si es necesario. \nTodas estas opciones nos permiten crear presentaciones adaptables a públicos con distintos niveles de experiencia o conocimiento técnico.</p>\nSpeakers:\nRiva Quiroga\n<p>Hi! My name is Riva\, and I'm a Data Scientist / Research Software Engineer based in Valparaíso\, Chile. I am a Software Sustainability Institute Fellow\, a Women Techmakers Ambassador\, and a serial volunteer: I co-organize PyLadies Valparaíso\, serve on the Leadership Team of R-Ladies\, and am an editor at Programming Historian\, among other community-led projects.</p>\n<ul>\n<li>info: https://rivaquiroga.cl/now</li>\n</ul>
-DTEND:20250516T183000Z
-LOCATION:Room 310/311
-DTSTART:20250516T180000Z
-STATUS:CONFIRMED
-SUMMARY:[charla] Cómo llevar tus presentaciones técnicas al siguiente nivel con Python + Quarto
-TRANSP:OPAQUE
-UID:dc6ddbd1-8732-575f-8694-8e48527b5998
-URL:https://us.pycon.org/2025/schedule/presentation/62/
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:talk,talks
 DESCRIPTION:Section: talks\nKind: talk\nName: From Desktop to Browser: Crafting Browser-Native Game Engine with Webassembly\nhttps://us.pycon.org/2025/schedule/presentation/29/\n<p>Have you ever wondered how to turn your Python games into lightning-fast web experiences without compromising speed? In this session\, overcome the browser barrier and learn how to create powerful game engines that smoothly connect desktop and web platforms using Pygame\, pygbag\, and WebAssembly.</p>\n<p>Starting with familiar Pygame foundations\, discover how pygbag transforms Python games into browser-ready experiences. Learn techniques for managing state\, particle effects\, and physics computations with near-native performance. Through live demonstrations\, explore practical strategies for optimizing rendering and maintaining smooth gameplay across different environments.</p>\n<p>By the end of the talk\, learn how to create WebAssembly-powered games that function flawlessly on any platform without sacrificing user experience\, and understand the architectural patterns that enable high-performance browser-based game engines.</p>\nSpeakers:\nNeeraj Pandey\n<p>Neeraj is a polyglot developer passionate about bridging different technologies. Over the years\, he has worked on a variety of full-stack software and data-science applications\, computational arts\, and quantitative finance projects\, embracing the challenge of creating innovative tools and applications. As an active Python community member\, he has shared his expertise through talks and workshops at numerous conferences and meet-ups.</p>
 DTEND:20250516T200000Z
@@ -1340,6 +1328,18 @@ SUMMARY:[talk] From Desktop to Browser: Crafting Browser-Native Game Engine with
 TRANSP:OPAQUE
 UID:77a518ae-f6ee-5192-bb05-665bdbfb4a28
 URL:https://us.pycon.org/2025/schedule/presentation/29/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:charla,talks
+DESCRIPTION:Section: talks\nKind: charla\nName: Cómo llevar tus presentaciones técnicas al siguiente nivel con Python + Quarto\nhttps://us.pycon.org/2025/schedule/presentation/62/\n<p>Da lo mismo si trabajas como dev o haciendo ciencia de datos: crear buenas presentaciones es un aspecto clave para dar a conocer lo que haces. Una buena presentación nos permite mostrar la relevancia de nuestro trabajo de una forma clara y convincente\, y destacar el valor de nuestras contribuciones técnicas. En este contexto\, un elemento fundamental de cualquier presentación es un set de slides que se destaque. \nEn esta charla presentaremos 10 simples reglas para crear slides en formato HTML usando Python y Quarto\, un sistema de publicación técnico y científico de código abierto. La audiencia se llevará sugerencias concretas sobre cómo mejorar sus próximo set de slides y el código para implementarlas. </p>\n<p>¿Por qué Quarto?\nQuarto es una excelente herramienta para crear slides sobre contenido técnico porque permite integrar código\, datos y texto en un solo archivo. A lo largo de la presentación nos enfocaremos en la creación de slides en formato HTML\, ya que este tiene características que lo hacen particularmente útil para presentar contenido técnico. Por ejemplo\, ofrece opciones flexibles para mostrar y ocultar código y para ajustar la cantidad de información mostrada\, lo que nos permite crear "capas" de contenido. Así\, es posible presentar ideas claves para una audiencia no técnica y al mismo tiempo incluir código que se muestra solo si es necesario. Incluso\, gracias al poder de WebAssembly + pyodide\, es posible hacer que aparezca un intérprete de Python directamente en nuestra presentación\, para poder hacer una demostración de algo en el momento\, si es necesario. \nTodas estas opciones nos permiten crear presentaciones adaptables a públicos con distintos niveles de experiencia o conocimiento técnico.</p>\nSpeakers:\nRiva Quiroga\n<p>Hi! My name is Riva\, and I'm a Data Scientist / Research Software Engineer based in Valparaíso\, Chile. I am a Software Sustainability Institute Fellow\, a Women Techmakers Ambassador\, and a serial volunteer: I co-organize PyLadies Valparaíso\, serve on the Leadership Team of R-Ladies\, and am an editor at Programming Historian\, among other community-led projects.</p>\n<ul>\n<li>info: https://rivaquiroga.cl/now</li>\n</ul>
+DTEND:20250516T183000Z
+LOCATION:Room 310/311
+DTSTART:20250516T180000Z
+STATUS:CONFIRMED
+SUMMARY:[charla] Cómo llevar tus presentaciones técnicas al siguiente nivel con Python + Quarto
+TRANSP:OPAQUE
+UID:dc6ddbd1-8732-575f-8694-8e48527b5998
+URL:https://us.pycon.org/2025/schedule/presentation/62/
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:talk,talks
@@ -1354,17 +1354,6 @@ UID:c26dd0f0-5088-5a0c-8d7c-2cd7b0aba927
 URL:https://us.pycon.org/2025/schedule/presentation/52/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:plenary,talks
-DESCRIPTION:Section: talks\nKind: plenary\nName: Welcome\n<p>Welcome</p>\n
-DTEND:20250516T132500Z
-LOCATION:Hall B
-DTSTART:20250516T130000Z
-STATUS:CONFIRMED
-SUMMARY:[plenary] Welcome
-TRANSP:OPAQUE
-UID:3d930c8b-a9eb-525d-8dcd-ff696fd2e68a
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T143000Z
@@ -1377,14 +1366,14 @@ UID:ab827ed2-86c2-5c7f-8eee-0326d169f0da
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:plenary,talks
-DESCRIPTION:Section: talks\nKind: plenary\nName: Posters Session\n<p><a href="https://us.pycon.org/2025/schedule/posters/list/">Posters</a></p>\n
-DTEND:20250518T170000Z
-LOCATION:Hall A
-DTSTART:20250518T140000Z
+DESCRIPTION:Section: talks\nKind: plenary\nName: Welcome\n<p>Welcome</p>\n
+DTEND:20250516T132500Z
+LOCATION:Hall B
+DTSTART:20250516T130000Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] Posters Session
+SUMMARY:[plenary] Welcome
 TRANSP:OPAQUE
-UID:1b413f27-78b3-5590-b052-baefbc1465d9
+UID:3d930c8b-a9eb-525d-8dcd-ff696fd2e68a
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:tutorial,tutorials
@@ -1399,6 +1388,17 @@ UID:12f18104-36a2-5810-a811-e616e5314449
 URL:https://us.pycon.org/2025/schedule/presentation/89/
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:sponsor-presentations,sponsor-workshop
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
+DTEND:20250515T203000Z
+LOCATION:Room 309
+DTSTART:20250515T193000Z
+STATUS:CONFIRMED
+SUMMARY:[sponsor-workshop] Slot
+TRANSP:OPAQUE
+UID:5c2b23de-4bad-58ee-a4b3-f22f3b9cfd7d
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:charla,talks
 DESCRIPTION:Section: talks\nKind: charla\nName: Transformando Gafas en Asistentes Inteligentes: Open Source Vision Language Models\nhttps://us.pycon.org/2025/schedule/presentation/11/\n<p>En esta charla\, aprenderemos cómo transformar unas gafas comunes en un Asistente Inteligente por menos de 30 dólares\, utilizando hardware accesible y modelos Open Source. Aprovecharemos los Vision Language Models (VLM)\, una tecnología que integra visión por computadora y procesamiento del lenguaje natural para crear inteligencia artificial multimodal\, capaz de analizar imágenes y texto simultáneamente y generar respuestas en lenguaje natural.</p>\n<p>Exploraremos el origen y desarrollo de los Open VLMs\, analizando su impacto\, evolución y el enorme potencial que representan. Profundizaremos en su arquitectura\, componentes esenciales y aplicaciones prácticas. Los asistentes aprenderán a crear sus propias gafas inteligentes\, conociendo los requisitos técnicos necesarios\, y podrán interactuar con varios prototipos funcionales disponibles durante la charla. Esto les permitirá probar las gafas en tiempo real y experimentar de primera mano como estos modelos responden y se adaptan a diversos escenarios. Además\, se ofrecerá una guía práctica para configurar los modelos\, realizar inferencias en sus computadoras y optimizarlos para funcionar con menos de 3 GB de memoria\, haciendo esta tecnología más accesible y replicable para todos.</p>\n<p>Finalmente\, exploraremos los desafíos actuales en la implementación de estos sistemas\, incluyendo la optimización del uso de memoria y el desarrollo de técnicas de cuantización más eficientes. A partir de este análisis\, reflexionaremos sobre el futuro de estas tecnologías en aplicaciones de inteligencia artificial\, subrayando el papel clave de la colaboración en la comunidad Open Source. Concluiremos destacando el potencial transformador de estos dispositivos y su capacidad para redefinir nuestra interacción con el entorno en la vida cotidiana.</p>\nSpeakers:\nAlejandro Núñez Arroyo\n<p>Alejandro Núñez Arroyo es Ingeniero Mecatrónico con más de tres años de experiencia en la ejecución de proyectos basados en inteligencia artificial. Actualmente\, se desempeña como Investigador en Inteligencia Artificial en Fogsphere\, una empresa con sede en el Reino Unido\, donde se especializa en modelos multimodales.</p>\n<p>Su trayectoria incluye proyectos en visión por computadora y modelos de lenguaje. Como líder activo en la comunidad tecnológica\, Alejandro es organizador del Google Developers Group Sucre\, donde coordina eventos enfocados en inteligencia artificial. </p>\n<p>Participó en la primera hackathon de inteligencia artificial en Latinoamérica organizada por OpenAI en Chile\, así como en varias ediciones de la hackathon de LLAMA de Facebook. Apasionado por la robótica\, ha representado a Bolivia en prestigiosas competencias internacionales como el FIRST Global Challenge en Washington\, D.C. y Atenas\, y el NASA Human Exploration Rover Challenge en Huntsville.</p>\n<p>Actualmente\, comparte su conocimiento en inteligencia artificial a través de blogs en Medium\, videos educativos en YouTube\, y mediante charlas y talleres en comunidades locales e internacionales en Bolivia\, Perú\, Guatemala y Colombia. Su trabajo refleja un compromiso constante con la difusión tecnológica y la formación de nuevos talentos en el campo de la inteligencia artificial.</p>
 DTEND:20250517T194500Z
@@ -1411,15 +1411,15 @@ UID:a1dd06e9-8496-580e-835e-976fb50a75c2
 URL:https://us.pycon.org/2025/schedule/presentation/11/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-presentations,sponsor-workshop
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
-DTEND:20250515T203000Z
-LOCATION:Room 309
-DTSTART:20250515T193000Z
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: Posters Session\n<p><a href="https://us.pycon.org/2025/schedule/posters/list/">Posters</a></p>\n
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Slot
+SUMMARY:[plenary] Posters Session
 TRANSP:OPAQUE
-UID:5c2b23de-4bad-58ee-a4b3-f22f3b9cfd7d
+UID:1b413f27-78b3-5590-b052-baefbc1465d9
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:talk,talks
@@ -1574,18 +1574,6 @@ TRANSP:OPAQUE
 UID:3d04c8a6-cc47-53ca-acab-6be3481dca5f
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-presentations,sponsor-workshop
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: What good is an AI coding assistant to a professional? (Sponsor: Google)\nhttps://us.pycon.org/2025/schedule/presentation/58/\n<p>You're a professional\, using Python for real\, serious work. Why would you even consider using an AI coding assistant? Even suggesting it sounds kind of fishy. Maybe even insulting.</p>\n<p>But there are good times and places for an AI coding assistant - <em>perhaps even for you!</em> Are you:</p>\n<ul>\n<li>tossing together a web experiment that could stand to look a little nicer than your CSS and JavaScript skills usually allow?</li>\n<li>exploring a new library or platform that could have better documentation and examples?</li>\n<li>tired of going back and forth from your IDE to searching for needed details like function signatures and argument types?</li>\n</ul>\n<p>These are all great times for even expert Python programmers to leverage an AI coding assistant. And the assistants are improving at a fast clip.</p>\n<p>This talk will show you how to get started with an AI assistant and go through examples of scenarios where it can help. You'll leave the session knowing whether one can be valuable to you\, and if so\, where and when it's worth trying.</p>\nSpeakers:\nCharlie Engelke\n<p>Charlie Engelke is a developer relations engineer at Google Cloud. His focus is in helping Python developers build\, deploy\, and run cloud applications and using the ever-increasing number of tools and APIs available there.</p>\n<p>Before Google\, Charlie was CTO at Infotech\, Inc.\, a midsized software and Saas provider.</p>
-DTEND:20250515T163000Z
-LOCATION:Room 315
-DTSTART:20250515T153000Z
-STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] What good is an AI coding assistant to a professional? (Sponsor: Google)
-TRANSP:OPAQUE
-UID:c64e6ce6-4549-5b73-ab53-6746ec8714af
-URL:https://us.pycon.org/2025/schedule/presentation/58/
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:tutorial,tutorials
 DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Reinventing the `itertools` wheel for fun and profit\nhttps://us.pycon.org/2025/schedule/presentation/93/\n<p>In this hands-on tutorial we will reinvent the wheel and implement the module <code>itertools</code> in plain Python.</p>\n<p>We'll do that because that will teach us a lot about Python:</p>\n<ul>\n<li>how generators and lazy iteration work\;</li>\n<li>the difference between iterables and iterators\;</li>\n<li>what the built-ins <code>iter</code> and <code>next</code> do\;</li>\n<li>how Python handles iteration and <code>for</code> loops under the hood\;</li>\n<li>what the iterator protocol is\;</li>\n<li>how the dunder methods <code>__iter__</code> and <code>__next__</code> play a part in all this\; and</li>\n<li>we'll also learn about the functions inside <code>itertools</code>\, a module with plenty of useful tools for your day-to-day iterations.</li>\n</ul>\n<p>And most importantly\, we'll do it because it's genuinely fun!</p>\nSpeakers:\nRodrigo Girão Serrão\n<p>Rodrigo Girão Serrão is the author of <a href="https://mathspp.com/books">multiple independently published books</a> on Python\, programming\, and mathematics\, and <a href="https://mathspp.com/blog">frequently blogs</a> about those same topics.\nRodrigo has also <a href="https://mathspp.com/talks">presented talks and tutorials at some of the largest Python conferences in the world</a>\, including PyCon US\, EuroPython\, and multiple European PyCons.</p>\n<p>As a fun fact\, Rodrigo also <a href="https://mathspp.com/blog/teaching-the-worlds-largest-programming-lesson">taught “the largest programming lesson in the world”</a>\, a Guinness World Record established in late 2024.</p>\n<p>When he is not working or writing\, Rodrigo can be found playing board games\, walking his dog\, or exercising at the gym.</p>
 DTEND:20250515T210000Z
@@ -1596,6 +1584,18 @@ SUMMARY:[tutorial] Reinventing the `itertools` wheel for fun and profit
 TRANSP:OPAQUE
 UID:2c6e5af1-5b9d-5891-90d2-786607a2882e
 URL:https://us.pycon.org/2025/schedule/presentation/93/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:sponsor-presentations,sponsor-workshop
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: What good is an AI coding assistant to a professional? (Sponsor: Google)\nhttps://us.pycon.org/2025/schedule/presentation/58/\n<p>You're a professional\, using Python for real\, serious work. Why would you even consider using an AI coding assistant? Even suggesting it sounds kind of fishy. Maybe even insulting.</p>\n<p>But there are good times and places for an AI coding assistant - <em>perhaps even for you!</em> Are you:</p>\n<ul>\n<li>tossing together a web experiment that could stand to look a little nicer than your CSS and JavaScript skills usually allow?</li>\n<li>exploring a new library or platform that could have better documentation and examples?</li>\n<li>tired of going back and forth from your IDE to searching for needed details like function signatures and argument types?</li>\n</ul>\n<p>These are all great times for even expert Python programmers to leverage an AI coding assistant. And the assistants are improving at a fast clip.</p>\n<p>This talk will show you how to get started with an AI assistant and go through examples of scenarios where it can help. You'll leave the session knowing whether one can be valuable to you\, and if so\, where and when it's worth trying.</p>\nSpeakers:\nCharlie Engelke\n<p>Charlie Engelke is a developer relations engineer at Google Cloud. His focus is in helping Python developers build\, deploy\, and run cloud applications and using the ever-increasing number of tools and APIs available there.</p>\n<p>Before Google\, Charlie was CTO at Infotech\, Inc.\, a midsized software and Saas provider.</p>
+DTEND:20250515T163000Z
+LOCATION:Room 315
+DTSTART:20250515T153000Z
+STATUS:CONFIRMED
+SUMMARY:[sponsor-workshop] What good is an AI coding assistant to a professional? (Sponsor: Google)
+TRANSP:OPAQUE
+UID:c64e6ce6-4549-5b73-ab53-6746ec8714af
+URL:https://us.pycon.org/2025/schedule/presentation/58/
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:talk,talks
@@ -1712,7 +1712,7 @@ UID:f9d78e51-cc61-58cc-910f-5aac419f1d70
 URL:https://us.pycon.org/2025/schedule/presentation/17/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-presentations,break
+CATEGORIES:break,sponsor-presentations
 DESCRIPTION:Section: sponsor-presentations\nKind: break\nName: Lunch\n<p>Lunch</p>\n
 DTEND:20250515T173000Z
 LOCATION:Ballroom A
@@ -1759,17 +1759,6 @@ UID:4805bf62-8ba1-51dd-bcac-8d03077bfac5
 URL:https://us.pycon.org/2025/schedule/presentation/14/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:break,talks
-DESCRIPTION:Section: talks\nKind: break\nName: Breakfast\n<p>Breakfast</p>\n
-DTEND:20250517T130000Z
-LOCATION:Outside of Hall B
-DTSTART:20250517T113000Z
-STATUS:CONFIRMED
-SUMMARY:[break] Breakfast
-TRANSP:OPAQUE
-UID:07598200-e09a-5685-972e-a8a44cafdb43
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:sponsor-presentations,sponsor-workshop
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: DataComPy - Dataframe Comparisons made Explicit (Sponsor: Capital One)\nhttps://us.pycon.org/2025/schedule/presentation/73/\n<p>DataComPy is a widely used validation tool with over 1.1 million monthly installations\, written to quickly and comprehensively compare a pair of dataframes. Designed to help make differences between schemas and data clear and explicit\, DataComPy generates a comprehensive report at the completion of all comparisons\, providing useful metrics such as match percentages\, maximal differences\, and sample mismatches between comparable columns. In addition\, it supports various forms of input data types for both native (Pandas\, Polars\, Spark\, Snowpark) and indirect (Dask\, Ray) comparisons. It also supports comparison of certain types of database tables\, including Snowflake and DuckDB. Over the course of the presentation\, we'll be delving further into how DataComPy works\, what features it provides\, and what types of practical use cases it is designed to help address.</p>\nSpeakers:\nAkshay Gupta\n<p>-</p>\nRaymond Haffar\n<p>UWaterloo Comp Eng undergrad\, data science @ Capital One. Interested in building practical and resilient solutions for data tooling!</p>
 DTEND:20250515T183000Z
@@ -1780,6 +1769,17 @@ SUMMARY:[sponsor-workshop] DataComPy - Dataframe Comparisons made Explicit (Spon
 TRANSP:OPAQUE
 UID:4ffb1b16-8d69-5ec6-bd66-ce11767a98e1
 URL:https://us.pycon.org/2025/schedule/presentation/73/
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:break,talks
+DESCRIPTION:Section: talks\nKind: break\nName: Breakfast\n<p>Breakfast</p>\n
+DTEND:20250517T130000Z
+LOCATION:Outside of Hall B
+DTSTART:20250517T113000Z
+STATUS:CONFIRMED
+SUMMARY:[break] Breakfast
+TRANSP:OPAQUE
+UID:07598200-e09a-5685-972e-a8a44cafdb43
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:talk,talks
@@ -1888,16 +1888,16 @@ UID:30f2511f-e7f2-59e5-b55a-e1687813f809
 URL:https://us.pycon.org/2025/schedule/presentation/115/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talk,talks
-DESCRIPTION:Section: talks\nKind: talk\nName: Going faster in all directions at once: How two teams are working together to make Python better for all\nhttps://us.pycon.org/2025/schedule/presentation/75/\n<p>Two separate\, but related\, projects to make CPython faster are currently happening at the same time.  The first\, funded by Microsoft\, aims to improve the single-threaded performance of CPython (PEP 659\, PEP 744).  The second\, funded by Meta\, aims to remove the global interpreter lock so multiple threads can make better use of all processor cores (PEP 703).  There are technical challenges to achieving both of these goals simultaneously.  We will describe how we collaborate to nonetheless make both projects a success.  This includes (a) regular and open lines of communication\, (b) sharing the same code for benchmarking\, (c) leaving space for each of these projects to develop on their own\, and (d) allocating time to directly tackle the intersection of the two problems.</p>\n<p>This talk is intended for a general audience. It will cover technical topics related to language runtimes at a high level\, and also include people-management topics related to open source communities.</p>\nSpeakers:\nMichael Droettboom\n<p>Michael Droettboom is a Principal Software Engineering Manager at Microsoft\, leading the CPython Performance Engineering team.  He is also a former lead maintainer of matplotlib\, and creator of airspeed velocity (asv) and Pyodide (CPython on WebAssembly).</p>\nDino Viehland\n<p>I'm a software engineer at Meta working on Cinder\, our performance focused fork of CPython that runs Instagram and AI workloads. Previously I've worked on Python Tools for Visual Studio and IronPython and have been a core CPython developer since 2010.</p>
-DTEND:20250518T173000Z
-LOCATION:Room 301-305
-DTSTART:20250518T170000Z
+CATEGORIES:tutorial,tutorials
+DESCRIPTION:Section: tutorials\nKind: tutorial\nName: Speed Up Your Code by 50x: A Guide to Moving from NumPy to JAX\nhttps://us.pycon.org/2025/schedule/presentation/54/\n<p>JAX is more than just "NumPy for the GPU"—it offers advanced features but also presents unique challenges. This hands-on tutorial provides a practical introduction to JAX through interactive exercises covering key concepts such as:</p>\n<ul>\n<li><code>jit</code> compilation for performance optimization</li>\n<li>Native control flow using loop primitives</li>\n<li>Efficient function mapping with vmap</li>\n<li>Performance profiling techniques</li>\n<li><code>jax</code> random number generation design and usage</li>\n</ul>\n<p>Participants will then deepen their understanding by iteratively migrating a <strong>Gaussian Mixture Model</strong> from a pure <code>numpy</code> implementation to an optimized <code>jax</code> version\, highlighting a real-world use-case.</p>\n<p>This tutorial distills lessons the authors found invaluable during their own migration from <code>numpy</code> to <code>jax</code>\, achieving over an order-of-magnitude speedup in real-world applications. Designed to provide attendees with a jumpstart on adopting <code>jax</code>\, this session—along with its comprehensive set of notebooks—aims to be a one-stop resource for anyone looking to leverage <code>jax</code> for numerical computing and machine learning.</p>\nSpeakers:\nIan Quah\n<p>I am a second-year Ph.D. student in the Neural Systems and Behavior program at the University of Washington. My research integrates Neuroscience\, Psychology\, and Machine Learning\, aiming to use machine learning techniques to gain insights into biological processes and leverage those insights to refine and enhance model performance.</p>\n<p>In addition\, I work on privacy-preserving machine learning\, specializing in homomorphic encryption for secure computations. I contribute to the OpenFHE lattice-cryptography library\, where I serve as the Head of Technical Outreach.</p>\nBryan Quah\n<p>Bryan works as researcher at Cedars Sinai Medical Center in Los Angeles where he develops machine learning methods for neuroimaging.</p>
+DTEND:20250514T163000Z
+LOCATION:Room 321
+DTSTART:20250514T130000Z
 STATUS:CONFIRMED
-SUMMARY:[talk] Going faster in all directions at once: How two teams are working together to make Python better for all
+SUMMARY:[tutorial] Speed Up Your Code by 50x: A Guide to Moving from NumPy to JAX
 TRANSP:OPAQUE
-UID:1ddb8ad9-67a1-5fdf-a5c4-bf5937d983a1
-URL:https://us.pycon.org/2025/schedule/presentation/75/
+UID:c6577abe-8c0f-5a02-ac84-aa94c2247b1e
+URL:https://us.pycon.org/2025/schedule/presentation/54/
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:talk,talks

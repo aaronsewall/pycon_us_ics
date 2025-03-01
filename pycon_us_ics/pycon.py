@@ -1,4 +1,5 @@
 import itertools
+import os.path
 import uuid
 
 import numpy as np
@@ -86,16 +87,17 @@ def construct_event(schedule_item: ScheduleItem) -> Event:
 
 
 for key, group in itertools.groupby(
-    sorted(schedule_items + poster_schedule_items, key=lambda si: si.kind), key=lambda si: si.kind
+    sorted(schedule_items + poster_schedule_items, key=lambda si: (si.kind, si.conf_key)),
+    key=lambda si: si.kind,
 ):
-    with open(f"../docs/kind/{key}.ics", "w") as f:
+    with open(os.path.abspath(f"../docs/kind/{key}.ics"), "w") as f:
         f.write(Calendar(events=[construct_event(si) for si in group]).serialize())
 
 for key, group in itertools.groupby(
-    sorted(schedule_items + poster_schedule_items, key=lambda si: si.section),
+    sorted(schedule_items + poster_schedule_items, key=lambda si: (si.section, si.conf_key)),
     key=lambda si: si.section,
 ):
-    with open(f"../docs/section/{key}.ics", "w") as f:
+    with open(os.path.abspath(f"../docs/section/{key}.ics"), "w") as f:
         f.write(Calendar(events=[construct_event(si) for si in group]).serialize())
 
 with open("../docs/all_events.ics", "w") as f:
@@ -103,7 +105,9 @@ with open("../docs/all_events.ics", "w") as f:
         Calendar(
             events=[
                 construct_event(schedule_item)
-                for schedule_item in schedule_items + poster_schedule_items
+                for schedule_item in sorted(
+                    schedule_items + poster_schedule_items, key=lambda si: si.conf_key
+                )
             ]
         ).serialize()
     )

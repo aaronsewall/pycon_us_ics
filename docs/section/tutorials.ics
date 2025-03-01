@@ -98,7 +98,7 @@ UID:c06243dc-eaed-5ddf-bc34-c28ae6c89ede
 URL:https://us.pycon.org/2025/schedule/presentation/123/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,plenary
+CATEGORIES:plenary,tutorials
 DESCRIPTION:Section: tutorials\nKind: plenary\nName: Opening Reception\n<p>Opening Reception</p>\n
 DTEND:20250515T230000Z
 LOCATION:Hall A

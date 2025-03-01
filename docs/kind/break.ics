@@ -35,7 +35,7 @@ TRANSP:OPAQUE
 UID:2adf3b5e-40d7-5589-9b9f-3dd3895e55e4
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-presentations,break
+CATEGORIES:break,sponsor-presentations
 DESCRIPTION:Section: sponsor-presentations\nKind: break\nName: Lunch\n<p>Lunch</p>\n
 DTEND:20250515T173000Z
 LOCATION:Ballroom A
