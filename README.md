@@ -30,21 +30,21 @@ https://aaronsewall.github.io/pycon_us_ics/docs/all_events.ics
 
 Section
 
-https://aaronsewall.github.io/pycon_us_ics/docs/section/events.ics
-https://aaronsewall.github.io/pycon_us_ics/docs/section/posters.ics
-https://aaronsewall.github.io/pycon_us_ics/docs/section/sponsor-presentations.ics
-https://aaronsewall.github.io/pycon_us_ics/docs/section/talks.ics
-https://aaronsewall.github.io/pycon_us_ics/docs/section/tutorials.ics
+https://aaronsewall.github.io/pycon_us_ics/section/events.ics
+https://aaronsewall.github.io/pycon_us_ics/section/posters.ics
+https://aaronsewall.github.io/pycon_us_ics/section/sponsor-presentations.ics
+https://aaronsewall.github.io/pycon_us_ics/section/talks.ics
+https://aaronsewall.github.io/pycon_us_ics/section/tutorials.ics
 
 Kind
 
-https://aaronsewall.github.io/pycon_us_ics/docs/kind/break.ics
-https://aaronsewall.github.io/pycon_us_ics/docs/kind/charla.ics
-https://aaronsewall.github.io/pycon_us_ics/docs/kind/event.ics
-https://aaronsewall.github.io/pycon_us_ics/docs/kind/informational.ics
-https://aaronsewall.github.io/pycon_us_ics/docs/kind/plenary.ics
-https://aaronsewall.github.io/pycon_us_ics/docs/kind/poster.ics
-https://aaronsewall.github.io/pycon_us_ics/docs/kind/sponsor-workshop.ics
-https://aaronsewall.github.io/pycon_us_ics/docs/kind/summit.ics
-https://aaronsewall.github.io/pycon_us_ics/docs/kind/talk.ics
-https://aaronsewall.github.io/pycon_us_ics/docs/kind/tutorial.ics
+https://aaronsewall.github.io/pycon_us_ics/kind/break.ics
+https://aaronsewall.github.io/pycon_us_ics/kind/charla.ics
+https://aaronsewall.github.io/pycon_us_ics/kind/event.ics
+https://aaronsewall.github.io/pycon_us_ics/kind/informational.ics
+https://aaronsewall.github.io/pycon_us_ics/kind/plenary.ics
+https://aaronsewall.github.io/pycon_us_ics/kind/poster.ics
+https://aaronsewall.github.io/pycon_us_ics/kind/sponsor-workshop.ics
+https://aaronsewall.github.io/pycon_us_ics/kind/summit.ics
+https://aaronsewall.github.io/pycon_us_ics/kind/talk.ics
+https://aaronsewall.github.io/pycon_us_ics/kind/tutorial.ics
