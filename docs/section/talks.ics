@@ -16,7 +16,7 @@ UID:bffa3522-4629-5e7c-ac08-0433874a4508
 URL:https://us.pycon.org/2025/schedule/presentation/103/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talks,plenary
+CATEGORIES:plenary,talks
 DESCRIPTION:Section: talks\nKind: plenary\nName: Keynote - Cory Doctorow\n<p><a href="/2025/about/keynote-speakers#cory-doctorow">Cory Doctorow</a>\n<br><span style="font-size: smaller\; font-weight: normal\;">Keynote</span></p>\n
 DTEND:20250516T143000Z
 LOCATION:Hall B
@@ -168,7 +168,7 @@ UID:76803812-39d4-52d9-a62b-acb5ea25d73d
 URL:https://us.pycon.org/2025/schedule/presentation/78/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talks,plenary
+CATEGORIES:plenary,talks
 DESCRIPTION:Section: talks\nKind: plenary\nName: Closing\n<p>Closing</p>\n
 DTEND:20250518T212000Z
 LOCATION:Hall B
@@ -467,7 +467,7 @@ UID:975b095c-19f8-505f-8f36-9774c099e719
 URL:https://us.pycon.org/2025/schedule/presentation/57/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talks,plenary
+CATEGORIES:plenary,talks
 DESCRIPTION:Section: talks\nKind: plenary\nName: Keynote - The Marshall Project\n<p><a href="/2025/about/keynote-speakers#the-marshall-project">The Marshall Project</a>\n<br><span style="font-size: smaller\; font-weight: normal\;">Keynote</span></p>\n
 DTEND:20250518T134500Z
 LOCATION:Hall B
@@ -549,7 +549,7 @@ UID:965e199e-beaa-5493-ae10-2223b3dc1e2e
 URL:https://us.pycon.org/2025/schedule/presentation/39/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talks,plenary
+CATEGORIES:plenary,talks
 DESCRIPTION:Section: talks\nKind: plenary\nName: Lightning Talks\n<p>Lightning Talks</p>\n
 DTEND:20250517T224500Z
 LOCATION:Hall B
@@ -596,7 +596,7 @@ UID:064d2598-0b74-552f-8777-1270881d55c6
 URL:https://us.pycon.org/2025/schedule/presentation/20/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talks,plenary
+CATEGORIES:plenary,talks
 DESCRIPTION:Section: talks\nKind: plenary\nName: PSF - Update from our Security Engineers\n<p>PSF - Update from our Security Engineers</p>\n
 DTEND:20250518T140000Z
 LOCATION:Hall B
@@ -619,7 +619,7 @@ UID:3c7ea849-af4c-57de-993f-6062c2e37152
 URL:https://us.pycon.org/2025/schedule/presentation/88/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talks,plenary
+CATEGORIES:plenary,talks
 DESCRIPTION:Section: talks\nKind: plenary\nName: Lightning Talks\n<p>Lightning Talks</p>\n
 DTEND:20250516T230000Z
 LOCATION:Hall B
@@ -630,7 +630,7 @@ TRANSP:OPAQUE
 UID:7911a2fe-90e2-5884-a9a5-ffbca4979c3f
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talks,plenary
+CATEGORIES:plenary,talks
 DESCRIPTION:Section: talks\nKind: plenary\nName: Python Software Foundation Update\n<p>Python Software Foundation Update</p>\n
 DTEND:20250518T210500Z
 LOCATION:Hall B
@@ -749,7 +749,7 @@ UID:107cd9a8-f0a0-59ec-ab86-b49a0952a8f1
 URL:https://us.pycon.org/2025/schedule/presentation/109/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talks,plenary
+CATEGORIES:plenary,talks
 DESCRIPTION:Section: talks\nKind: plenary\nName: Welcome\n<p>Welcome</p>\n
 DTEND:20250516T132500Z
 LOCATION:Hall B
@@ -772,7 +772,7 @@ UID:a1dd06e9-8496-580e-835e-976fb50a75c2
 URL:https://us.pycon.org/2025/schedule/presentation/11/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talks,plenary
+CATEGORIES:plenary,talks
 DESCRIPTION:Section: talks\nKind: plenary\nName: Posters Session\n<p><a href="https://us.pycon.org/2025/schedule/posters/list/">Posters</a></p>\n
 DTEND:20250518T170000Z
 LOCATION:Hall A
@@ -889,7 +889,7 @@ UID:49c1477c-efb6-5a29-a062-fe2c918a4ffa
 URL:https://us.pycon.org/2025/schedule/presentation/105/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talks,plenary
+CATEGORIES:plenary,talks
 DESCRIPTION:Section: talks\nKind: plenary\nName: Keynote - Lynn Root\n<p><a href="/2025/about/keynote-speakers#lynn-root">Lynn Root</a>\n<br><span style="font-size: smaller\; font-weight: normal\;">Keynote</span></p>\n
 DTEND:20250517T140500Z
 LOCATION:Hall B
@@ -947,7 +947,7 @@ UID:f0c79aa1-3202-50aa-8c5a-4f67d64891d8
 URL:https://us.pycon.org/2025/schedule/presentation/59/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talks,plenary
+CATEGORIES:plenary,talks
 DESCRIPTION:Section: talks\nKind: plenary\nName: Diversity & Inclusion Panel\n<p>Diversity &amp\; Inclusion Panel</p>\n
 DTEND:20250517T132500Z
 LOCATION:Hall B
@@ -982,7 +982,7 @@ UID:22a299e0-1845-536f-8d8a-59034e52e600
 URL:https://us.pycon.org/2025/schedule/presentation/79/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talks,plenary
+CATEGORIES:plenary,talks
 DESCRIPTION:Section: talks\nKind: plenary\nName: Job Fair\n<p>Job Fair</p>\n
 DTEND:20250518T170000Z
 LOCATION:Hall A
@@ -1052,7 +1052,7 @@ UID:2afb56dc-31ce-5c09-9cde-6b07ac2bebaf
 URL:https://us.pycon.org/2025/schedule/presentation/64/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talks,plenary
+CATEGORIES:plenary,talks
 DESCRIPTION:Section: talks\nKind: plenary\nName: Lightning Talks\n<p>Lightning Talks</p>\n
 DTEND:20250517T130000Z
 LOCATION:Hall B
@@ -1063,7 +1063,7 @@ TRANSP:OPAQUE
 UID:dbb5320c-e6b1-5f5c-8819-6c25c2531101
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talks,plenary
+CATEGORIES:plenary,talks
 DESCRIPTION:Section: talks\nKind: plenary\nName: [Steering Council Panel](/2025/about/keynote-speakers#python-steering-council)\n<p><a href="/2025/about/keynote-speakers#python-steering-council">Steering Council Panel</a></p>\n
 DTEND:20250518T203500Z
 LOCATION:Hall B
@@ -1133,7 +1133,7 @@ UID:33cb1b80-173d-599c-aa61-0399ade7298a
 URL:https://us.pycon.org/2025/schedule/presentation/90/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talks,plenary
+CATEGORIES:plenary,talks
 DESCRIPTION:Section: talks\nKind: plenary\nName: Keynote - Dr. Kali L. Jordan\n<p><a href="/2025/about/keynote-speakers#dr-kari-l-jordan">Dr. Kali L. Jordan</a>\n<br><span style="font-size: smaller\; font-weight: normal\;">Keynote</span></p>\n
 DTEND:20250518T200000Z
 LOCATION:Hall B
@@ -1251,7 +1251,7 @@ UID:a7d7e5e1-98c8-502d-bbfd-4c7ab64e1bc4
 URL:https://us.pycon.org/2025/schedule/presentation/137/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talks,plenary
+CATEGORIES:plenary,talks
 DESCRIPTION:Section: talks\nKind: plenary\nName: Lightning Talks\n<p>Lightning Talks</p>\n
 DTEND:20250518T130000Z
 LOCATION:Hall B
@@ -1274,7 +1274,7 @@ UID:d86f9a2b-a2bc-5f35-b882-e612474e6e5f
 URL:https://us.pycon.org/2025/schedule/presentation/68/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:talks,plenary
+CATEGORIES:plenary,talks
 DESCRIPTION:Section: talks\nKind: plenary\nName: PSF Welcome\n<p>PSF Welcome</p>\n
 DTEND:20250516T134500Z
 LOCATION:Hall B

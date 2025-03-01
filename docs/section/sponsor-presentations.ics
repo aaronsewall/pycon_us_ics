@@ -70,7 +70,7 @@ TRANSP:OPAQUE
 UID:e21fe6d4-626c-53b3-a4a2-3d983b837714
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-presentations,break
+CATEGORIES:break,sponsor-presentations
 DESCRIPTION:Section: sponsor-presentations\nKind: break\nName: Lunch\n<p>Lunch</p>\n
 DTEND:20250515T173000Z
 LOCATION:Ballroom A
@@ -161,7 +161,7 @@ TRANSP:OPAQUE
 UID:31c1fa49-8635-5943-b57e-c7e667e181db
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:sponsor-presentations,plenary
+CATEGORIES:plenary,sponsor-presentations
 DESCRIPTION:Section: sponsor-presentations\nKind: plenary\nName: Opening Reception\n<p>Opening Reception</p>\n
 DTEND:20250515T230000Z
 LOCATION:Hall A
