@@ -10,3 +10,11 @@ You can also select based on the sections you're interested in or the kinds of e
 
 My preferred way is to subscribe individually to each calendar in the `section` area so the colors
 look better in google calendar.
+
+The current files are stubbed for 2025 but did exist in 2024, so will likely be added later.
+* kind/event
+* kind/informational
+* kind/poster
+* kind/summit
+* section/events
+* section/posters

@@ -68,7 +68,7 @@ TRANSP:OPAQUE
 UID:6470e91b-5a2f-55cc-a74e-286dfa161143
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:plenary,tutorials
+CATEGORIES:tutorials,plenary
 DESCRIPTION:Section: tutorials\nKind: plenary\nName: Opening Reception\n<p>Opening Reception</p>\n
 DTEND:20250515T230000Z
 LOCATION:Hall A
