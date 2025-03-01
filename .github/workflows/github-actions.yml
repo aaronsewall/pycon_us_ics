@@ -3,7 +3,7 @@ name: ICS Generator
 on:
   push:
   schedule:
-    - cron: '0 7 * * *'
+    - cron: '0 */8 * * *'
 
 permissions:
   contents: write
