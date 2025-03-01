@@ -59,5 +59,5 @@ jobs:
       - run: |
           git config user.name gitevents[bot]
           git config user.email ics@gitevents.org
-          git add events.ics
+          git add -u
           git diff-index --cached --quiet HEAD || git commit -m "update calendar file" && git push

@@ -1,5 +1,7 @@
-import numpy as np
+import itertools
 import uuid
+
+import numpy as np
 import pandas as pd
 import requests
 from ics import Calendar, Event
@@ -68,8 +70,8 @@ def generate_ical_uid(short_id: str) -> str:
     return str(uuid.uuid5(uuid.NAMESPACE_URL, short_id))
 
 
-events = [
-    Event(
+def construct_event(schedule_item: ScheduleItem) -> Event:
+    return Event(
         name=f"[{schedule_item.kind}] {schedule_item.name}",
         begin=schedule_item.start,
         end=schedule_item.end,
@@ -81,9 +83,27 @@ events = [
         status="CANCELLED" if schedule_item.cancelled else "CONFIRMED",
         url=schedule_item.conf_url,
     )
-    for schedule_item in schedule_items
-    + (poster_schedule_items if posters_session_item.sessions else [])
-]
-c = Calendar(events=events)
-with open("../docs/events.ics", "w") as f:
-    f.write(c.serialize())
+
+
+for key, group in itertools.groupby(
+    sorted(schedule_items + poster_schedule_items, key=lambda si: si.kind), key=lambda si: si.kind
+):
+    with open(f"../docs/kind/{key}.ics", "w") as f:
+        f.write(Calendar(events=[construct_event(si) for si in group]).serialize())
+
+for key, group in itertools.groupby(
+    sorted(schedule_items + poster_schedule_items, key=lambda si: si.section),
+    key=lambda si: si.section,
+):
+    with open(f"../docs/section/{key}.ics", "w") as f:
+        f.write(Calendar(events=[construct_event(si) for si in group]).serialize())
+
+with open("../docs/all_events.ics", "w") as f:
+    f.write(
+        Calendar(
+            events=[
+                construct_event(schedule_item)
+                for schedule_item in schedule_items + poster_schedule_items
+            ]
+        ).serialize()
+    )

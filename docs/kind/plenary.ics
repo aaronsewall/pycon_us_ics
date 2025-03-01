@@ -1,0 +1,213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: Keynote - Cory Doctorow\n<p><a href="/2025/about/keynote-speakers#cory-doctorow">Cory Doctorow</a>\n<br><span style="font-size: smaller\; font-weight: normal\;">Keynote</span></p>\n
+DTEND:20250516T143000Z
+LOCATION:Hall B
+DTSTART:20250516T134500Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] Keynote - Cory Doctorow
+TRANSP:OPAQUE
+UID:e2ca9033-3f0f-5b89-bd7d-96cf9e2530b0
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: Welcome\n<p>Welcome</p>\n
+DTEND:20250516T132500Z
+LOCATION:Hall B
+DTSTART:20250516T130000Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] Welcome
+TRANSP:OPAQUE
+UID:3d930c8b-a9eb-525d-8dcd-ff696fd2e68a
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: Posters Session\n<p><a href="https://us.pycon.org/2025/schedule/posters/list/">Posters</a></p>\n
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] Posters Session
+TRANSP:OPAQUE
+UID:1b413f27-78b3-5590-b052-baefbc1465d9
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: Keynote - Dr. Kali L. Jordan\n<p><a href="/2025/about/keynote-speakers#dr-kari-l-jordan">Dr. Kali L. Jordan</a>\n<br><span style="font-size: smaller\; font-weight: normal\;">Keynote</span></p>\n
+DTEND:20250518T200000Z
+LOCATION:Hall B
+DTSTART:20250518T191500Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] Keynote - Dr. Kali L. Jordan
+TRANSP:OPAQUE
+UID:b44fc0e3-7d56-5f5c-ac41-956867061d0d
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: Keynote - The Marshall Project\n<p><a href="/2025/about/keynote-speakers#the-marshall-project">The Marshall Project</a>\n<br><span style="font-size: smaller\; font-weight: normal\;">Keynote</span></p>\n
+DTEND:20250518T134500Z
+LOCATION:Hall B
+DTSTART:20250518T130000Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] Keynote - The Marshall Project
+TRANSP:OPAQUE
+UID:2dd8d3a6-eb83-5c89-9872-b627df9add2b
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: Keynote - Lynn Root\n<p><a href="/2025/about/keynote-speakers#lynn-root">Lynn Root</a>\n<br><span style="font-size: smaller\; font-weight: normal\;">Keynote</span></p>\n
+DTEND:20250517T140500Z
+LOCATION:Hall B
+DTSTART:20250517T132500Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] Keynote - Lynn Root
+TRANSP:OPAQUE
+UID:6470e91b-5a2f-55cc-a74e-286dfa161143
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:plenary,tutorials
+DESCRIPTION:Section: tutorials\nKind: plenary\nName: Opening Reception\n<p>Opening Reception</p>\n
+DTEND:20250515T230000Z
+LOCATION:Hall A
+DTSTART:20250515T210000Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] Opening Reception
+TRANSP:OPAQUE
+UID:fb5ee05b-8ff0-5a2d-8e7a-a74358a96b3b
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: Closing\n<p>Closing</p>\n
+DTEND:20250518T212000Z
+LOCATION:Hall B
+DTSTART:20250518T210500Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] Closing
+TRANSP:OPAQUE
+UID:f1215345-ed6b-5be1-a4a4-0db084c6cf55
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: Lightning Talks\n<p>Lightning Talks</p>\n
+DTEND:20250518T130000Z
+LOCATION:Hall B
+DTSTART:20250518T120000Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] Lightning Talks
+TRANSP:OPAQUE
+UID:1835b973-244f-5072-a03f-21f9fe41d2c9
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: PSF Welcome\n<p>PSF Welcome</p>\n
+DTEND:20250516T134500Z
+LOCATION:Hall B
+DTSTART:20250516T132500Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] PSF Welcome
+TRANSP:OPAQUE
+UID:2018fde1-193b-547d-aca1-cbccfabe029d
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: Lightning Talks\n<p>Lightning Talks</p>\n
+DTEND:20250517T224500Z
+LOCATION:Hall B
+DTSTART:20250517T214500Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] Lightning Talks
+TRANSP:OPAQUE
+UID:7c2b9fda-1449-536d-aa63-f6ea01836442
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:sponsor-presentations,plenary
+DESCRIPTION:Section: sponsor-presentations\nKind: plenary\nName: Opening Reception\n<p>Opening Reception</p>\n
+DTEND:20250515T230000Z
+LOCATION:Hall A
+DTSTART:20250515T210000Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] Opening Reception
+TRANSP:OPAQUE
+UID:3fb5eb5f-71f9-55de-8c4c-4792d4269ff5
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: Diversity & Inclusion Panel\n<p>Diversity &amp\; Inclusion Panel</p>\n
+DTEND:20250517T132500Z
+LOCATION:Hall B
+DTSTART:20250517T130000Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] Diversity & Inclusion Panel
+TRANSP:OPAQUE
+UID:525dd233-5698-5b07-8116-72e75105a3b2
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: Job Fair\n<p>Job Fair</p>\n
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] Job Fair
+TRANSP:OPAQUE
+UID:d7b65d1b-5fbc-53c3-b8c8-a538cb3d070a
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: PSF - Update from our Security Engineers\n<p>PSF - Update from our Security Engineers</p>\n
+DTEND:20250518T140000Z
+LOCATION:Hall B
+DTSTART:20250518T134500Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] PSF - Update from our Security Engineers
+TRANSP:OPAQUE
+UID:bbe29010-73fa-5eb9-b57b-2e45b15d8c8b
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: Lightning Talks\n<p>Lightning Talks</p>\n
+DTEND:20250516T230000Z
+LOCATION:Hall B
+DTSTART:20250516T220000Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] Lightning Talks
+TRANSP:OPAQUE
+UID:7911a2fe-90e2-5884-a9a5-ffbca4979c3f
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: Python Software Foundation Update\n<p>Python Software Foundation Update</p>\n
+DTEND:20250518T210500Z
+LOCATION:Hall B
+DTSTART:20250518T203500Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] Python Software Foundation Update
+TRANSP:OPAQUE
+UID:7afb5aa3-54df-586b-a82e-5d375db7b406
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: Lightning Talks\n<p>Lightning Talks</p>\n
+DTEND:20250517T130000Z
+LOCATION:Hall B
+DTSTART:20250517T120000Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] Lightning Talks
+TRANSP:OPAQUE
+UID:dbb5320c-e6b1-5f5c-8819-6c25c2531101
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:plenary,talks
+DESCRIPTION:Section: talks\nKind: plenary\nName: [Steering Council Panel](/2025/about/keynote-speakers#python-steering-council)\n<p><a href="/2025/about/keynote-speakers#python-steering-council">Steering Council Panel</a></p>\n
+DTEND:20250518T203500Z
+LOCATION:Hall B
+DTSTART:20250518T200000Z
+STATUS:CONFIRMED
+SUMMARY:[plenary] [Steering Council Panel](/2025/about/keynote-speakers#python-steering-council)
+TRANSP:OPAQUE
+UID:c46afaae-6aad-588f-8a5e-f15f6ebfd45b
+END:VEVENT
+END:VCALENDAR
