@@ -15,7 +15,7 @@ TRANSP:OPAQUE
 UID:ce1b28ad-1a2e-5c7d-97fa-17fb9a837014
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,break
+CATEGORIES:break,tutorials
 DESCRIPTION:Section: tutorials\nKind: break\nName: Lunch\n<p>Lunch</p>\n
 DTEND:20250515T173000Z
 LOCATION:Ballroom A
@@ -103,7 +103,7 @@ TRANSP:OPAQUE
 UID:07598200-e09a-5685-972e-a8a44cafdb43
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:tutorials,break
+CATEGORIES:break,tutorials
 DESCRIPTION:Section: tutorials\nKind: break\nName: Lunch\n<p>Lunch</p>\n
 DTEND:20250514T173000Z
 LOCATION:Ballroom A
