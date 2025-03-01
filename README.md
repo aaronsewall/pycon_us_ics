@@ -20,58 +20,59 @@ The current files are stubbed for 2025 but did exist in 2024, so will likely be 
 * section/posters
 
 Add them to google calendar here:
+
 https://calendar.google.com/calendar/u/0/r/settings/addbyurl
 
 The current URLs for all generated calendars are:
 
 ALL
 
-https://aaronsewall.github.io/pycon_us_ics/all_events.ics
+* https://aaronsewall.github.io/pycon_us_ics/all_events.ics
 
 Section
 
-https://aaronsewall.github.io/pycon_us_ics/section/events.ics
-https://aaronsewall.github.io/pycon_us_ics/section/posters.ics
-https://aaronsewall.github.io/pycon_us_ics/section/sponsor-presentations.ics
-https://aaronsewall.github.io/pycon_us_ics/section/talks.ics
-https://aaronsewall.github.io/pycon_us_ics/section/tutorials.ics
+* https://aaronsewall.github.io/pycon_us_ics/section/events.ics
+* https://aaronsewall.github.io/pycon_us_ics/section/posters.ics
+* https://aaronsewall.github.io/pycon_us_ics/section/sponsor-presentations.ics
+* https://aaronsewall.github.io/pycon_us_ics/section/talks.ics
+* https://aaronsewall.github.io/pycon_us_ics/section/tutorials.ics
 
 Kind
 
-https://aaronsewall.github.io/pycon_us_ics/kind/break.ics
-https://aaronsewall.github.io/pycon_us_ics/kind/charla.ics
-https://aaronsewall.github.io/pycon_us_ics/kind/event.ics
-https://aaronsewall.github.io/pycon_us_ics/kind/informational.ics
-https://aaronsewall.github.io/pycon_us_ics/kind/plenary.ics
-https://aaronsewall.github.io/pycon_us_ics/kind/poster.ics
-https://aaronsewall.github.io/pycon_us_ics/kind/sponsor-workshop.ics
-https://aaronsewall.github.io/pycon_us_ics/kind/summit.ics
-https://aaronsewall.github.io/pycon_us_ics/kind/talk.ics
-https://aaronsewall.github.io/pycon_us_ics/kind/tutorial.ics
+* https://aaronsewall.github.io/pycon_us_ics/kind/break.ics
+* https://aaronsewall.github.io/pycon_us_ics/kind/charla.ics
+* https://aaronsewall.github.io/pycon_us_ics/kind/event.ics
+* https://aaronsewall.github.io/pycon_us_ics/kind/informational.ics
+* https://aaronsewall.github.io/pycon_us_ics/kind/plenary.ics
+* https://aaronsewall.github.io/pycon_us_ics/kind/poster.ics
+* https://aaronsewall.github.io/pycon_us_ics/kind/sponsor-workshop.ics
+* https://aaronsewall.github.io/pycon_us_ics/kind/summit.ics
+* https://aaronsewall.github.io/pycon_us_ics/kind/talk.ics
+* https://aaronsewall.github.io/pycon_us_ics/kind/tutorial.ics
 
 To subscribe via Google Calendar you can use the following links:
 
 ALL
 
-https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/all_events.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/all_events.ics
 
 Section
 
-https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/section/events.ics
-https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/section/posters.ics
-https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/section/sponsor-presentations.ics
-https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/section/talks.ics
-https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/section/tutorials.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/section/events.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/section/posters.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/section/sponsor-presentations.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/section/talks.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/section/tutorials.ics
 
 Kind
 
-https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/break.ics
-https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/charla.ics
-https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/event.ics
-https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/informational.ics
-https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/plenary.ics
-https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/poster.ics
-https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/sponsor-workshop.ics
-https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/summit.ics
-https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/talk.ics
-https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/tutorial.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/break.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/charla.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/event.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/informational.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/plenary.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/poster.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/sponsor-workshop.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/summit.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/talk.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/tutorial.ics
