@@ -82,7 +82,6 @@ def construct_event(schedule_item: ScheduleItem) -> Event:
         end=schedule_item.end,
         location=schedule_item.room,
         uid=generate_ical_uid(str(schedule_item.conf_key)),
-        categories=[schedule_item.section, schedule_item.kind],
         description=format_description(schedule_item),
         transparent=False,
         status="CANCELLED" if schedule_item.cancelled else "CONFIRMED",
