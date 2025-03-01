@@ -1,4 +1,6 @@
 BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:PyCon 2025 Tutorials
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
@@ -98,7 +100,7 @@ UID:c06243dc-eaed-5ddf-bc34-c28ae6c89ede
 URL:https://us.pycon.org/2025/schedule/presentation/123/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:plenary,tutorials
+CATEGORIES:tutorials,plenary
 DESCRIPTION:Section: tutorials\nKind: plenary\nName: Opening Reception\n<p>Opening Reception</p>\n
 DTEND:20250515T230000Z
 LOCATION:Hall A
@@ -157,7 +159,7 @@ UID:b756dcb0-3600-525d-bacb-285c0f1a07e2
 URL:https://us.pycon.org/2025/schedule/presentation/37/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:break,tutorials
+CATEGORIES:tutorials,break
 DESCRIPTION:Section: tutorials\nKind: break\nName: Lunch\n<p>Lunch</p>\n
 DTEND:20250515T173000Z
 LOCATION:Ballroom A
@@ -263,7 +265,7 @@ UID:ff6c5a08-b2fa-56b6-ac00-6830f4074b6a
 URL:https://us.pycon.org/2025/schedule/presentation/72/
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:break,tutorials
+CATEGORIES:tutorials,break
 DESCRIPTION:Section: tutorials\nKind: break\nName: Lunch\n<p>Lunch</p>\n
 DTEND:20250514T173000Z
 LOCATION:Ballroom A

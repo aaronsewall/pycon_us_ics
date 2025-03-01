@@ -26,7 +26,7 @@ The current URLs for all generated calendars are:
 
 ALL
 
-https://aaronsewall.github.io/pycon_us_ics/docs/all_events.ics
+https://aaronsewall.github.io/pycon_us_ics/all_events.ics
 
 Section
 

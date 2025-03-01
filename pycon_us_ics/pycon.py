@@ -1,15 +1,19 @@
 import itertools
 import os.path
 import uuid
+from typing import List, Dict
 
 import numpy as np
 import pandas as pd
 import requests
 from ics import Calendar, Event
+from ics.grammar.parse import ContentLine
 
 from pycon_us_ics.model import Schedule, ScheduleItem, Speaker
 
-resp = requests.get("https://us.pycon.org/2025/schedule/conference.json")
+PYCON_YEAR = 2025
+
+resp = requests.get(f"https://us.pycon.org/{PYCON_YEAR}/schedule/conference.json")
 schedule_model = Schedule.model_validate(resp.json())
 schedule_df = (
     pd.json_normalize(s.model_dump() for s in schedule_model.schedule)
@@ -86,28 +90,47 @@ def construct_event(schedule_item: ScheduleItem) -> Event:
     )
 
 
+def construct_calendar(events: List[Event], extra_metadata: Dict[str, str]) -> Calendar:
+    calendar = Calendar(events=events)
+    default_metadata = {"CALSCALE": "GREGORIAN"}
+    for name, value in {**default_metadata, **extra_metadata}.items():
+        calendar.extra.append(ContentLine(name=name, params={}, value=value))
+    return calendar
+
+
 for key, group in itertools.groupby(
     sorted(schedule_items + poster_schedule_items, key=lambda si: (si.kind, si.conf_key)),
     key=lambda si: si.kind,
 ):
     with open(os.path.abspath(f"../docs/kind/{key}.ics"), "w") as f:
-        f.write(Calendar(events=[construct_event(si) for si in group]).serialize())
+        f.write(
+            construct_calendar(
+                events=[construct_event(si) for si in group],
+                extra_metadata={"X-WR-CALNAME": f"PyCon {PYCON_YEAR} {key.capitalize()}"},
+            ).serialize()
+        )
 
 for key, group in itertools.groupby(
     sorted(schedule_items + poster_schedule_items, key=lambda si: (si.section, si.conf_key)),
     key=lambda si: si.section,
 ):
     with open(os.path.abspath(f"../docs/section/{key}.ics"), "w") as f:
-        f.write(Calendar(events=[construct_event(si) for si in group]).serialize())
+        f.write(
+            construct_calendar(
+                events=[construct_event(si) for si in group],
+                extra_metadata={"X-WR-CALNAME": f"PyCon {PYCON_YEAR} {key.capitalize()}"},
+            ).serialize()
+        )
 
 with open("../docs/all_events.ics", "w") as f:
     f.write(
-        Calendar(
+        construct_calendar(
             events=[
                 construct_event(schedule_item)
                 for schedule_item in sorted(
                     schedule_items + poster_schedule_items, key=lambda si: si.conf_key
                 )
-            ]
+            ],
+            extra_metadata={"X-WR-CALNAME": f"PyCon {PYCON_YEAR} All Events"},
         ).serialize()
     )
