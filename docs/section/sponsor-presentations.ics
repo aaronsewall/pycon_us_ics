@@ -14,14 +14,15 @@ TRANSP:OPAQUE
 UID:80798e70-401c-5194-a03a-d707995ba3d6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Evolving Django: What We Learned by Integrating MongoDB (Sponsor: MongoDB)\nhttps://us.pycon.org/2025/schedule/presentation/142/\n<p>At MongoDB\, we have several Django enthusiasts who have jumped at the idea of backing a long-term solution to combining MongoDB and Django. Having historically provided support for SQL-based open source frameworks like Entity Framework in .NET/C#\, Doctrine in PHP\, and many more\, we are familiar with the territory.\nWe're happy to say we've successfully created a MongoDB Backend Library for Django and want to share all that we've learned kitting out a new NoSQL backend for a traditionally SQL framework including how we believe we have influenced -- and will continue to influence -- changes in the core Django library.</p>\nSpeakers:\nAnaiya Raisinghani\n<p>Anaiya Raisinghani is a passionate Developer Advocate at MongoDB\, where she empowers developers to turn their quirkiest dreams into reality with AI and Python. With her background in Computational Linguistics and Industrial and Systems Engineering\, she is all about exploring the niche between fun and useful by helping people build playful\, creative applications that can actually fit into real life (even through the chaos of it all!). When she's away from her laptop\, you can find Anaiya hanging out with her favorite coworkers (her two cats) or exploring all the fun brunch spots NYC has to offer.</p>
 DTEND:20250515T143000Z
 LOCATION:Room 308
 DTSTART:20250515T133000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Slot
+SUMMARY:[sponsor-workshop] Evolving Django: What We Learned by Integrating MongoDB (Sponsor: MongoDB)
 TRANSP:OPAQUE
 UID:ab827ed2-86c2-5c7f-8eee-0326d169f0da
+URL:https://us.pycon.org/2025/schedule/presentation/142/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
@@ -54,14 +55,15 @@ TRANSP:OPAQUE
 UID:5c2b23de-4bad-58ee-a4b3-f22f3b9cfd7d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Typing at Scale: Prefect’s Journey to Safer Python (Sponsor: Prefect)\nhttps://us.pycon.org/2025/schedule/presentation/141/\n<p>This talk explores Prefect's journey to achieve type completeness in its Python codebase. We will discuss the motivations behind adopting comprehensive type annotations\, the challenges encountered\, and the benefits realized\, including enhanced code reliability\, improved developer experience\, and better integration with modern development tools. Attendees will gain insights into best practices for implementing type annotations and understand the value of type completeness in large-scale Python projects.</p>\n<p>We will share the challenges faced during this transition\, such as:​</p>\n<ul>\n<li>Addressing incomplete or incorrect type annotations.​</li>\n<li>Integrating type checking into the development workflow.​</li>\n<li>Ensuring compatibility with existing code and third-party libraries.​</li>\n</ul>\n<p>We'll also highlight the benefits achieved\, including:​</p>\n<ul>\n<li>Enhanced code reliability and reduced runtime errors.​</li>\n<li>Improved developer experience through better IDE support and autocompletion.​</li>\n<li>Facilitated collaboration in a growing codebase.​</li>\n</ul>\n<p>Throughout the talk\, we'll provide practical examples and best practices for implementing type annotations\, such as:​</p>\n<ul>\n<li>Utilizing static type checkers like mypy and pyright.​</li>\n<li>Leveraging advanced typing features introduced in recent Python versions.​</li>\n<li>Incorporating type checking into continuous integration pipelines.</li>\n</ul>\nSpeakers:\nBrendan O'Leary\n<p>Brendan O'Leary is the VP\, Developer Relations at Prefect\, on a mission to help people build complex systems they can trust\, and is an advisor to various startups. Having worked in software his entire career\, Brendan has had the privilege of working with many customers. Previously at GitLab and a board member of the CNCF – it is clear\, every company is a software company. That means every company needs software and data operational excellence. Outside of work\, you'll find Brendan with 1 to 4 kids hanging off of him at any given time or occasionally finding a moment alone to build something in his workshop.</p>
 DTEND:20250515T163000Z
 LOCATION:Room 308
 DTSTART:20250515T153000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Slot
+SUMMARY:[sponsor-workshop] Typing at Scale: Prefect’s Journey to Safer Python (Sponsor: Prefect)
 TRANSP:OPAQUE
 UID:e21fe6d4-626c-53b3-a4a2-3d983b837714
+URL:https://us.pycon.org/2025/schedule/presentation/141/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: break\nName: Lunch\n<p>Lunch</p>\n
@@ -178,13 +180,14 @@ TRANSP:OPAQUE
 UID:c3eb1b7d-7032-541e-bbdf-315d26c85ef1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Build modern Python apps on Azure (Sponsor: Microsoft)\nhttps://us.pycon.org/2025/schedule/presentation/140/\n<p>Join us to learn all the ways that Microsoft is supporting Python developers in bringing your applications to the cloud! See the entire end-to-end experience of developing Python applications with Microsoft technologies! We'll deploy applications to Azure that use modern async frameworks\, generative AI from Azure AI\, and managed database Azure Databases like PostgreSQL\, and solutions for NoSQL\, Document DB and MongoDB applications. Thanks to VS Code\, the official Python extension\, and our favorite community extensions\, we'll be working in an environment with real-time linting and formatting. With help from GitHub Copilot\, we can easily debug our applications locally and add new features. We can even get Azure-specific guidance with the @azure agent for Copilot\, so we can query logs straight from VS code\, deploy a new piece of infrastructure\, or just get a quick answer from the docs.</p>\nSpeakers:\nRohit Ganguly\, Pamela Fox\n<p>Rohit Ganguly:</p>\n<p>Rohit is a Python enthusiast and Product Manager at Microsoft working on Azure Developer Experiences (mostly in Python!). This will be Rohit’s third PyCon US\, attending in 2023\, 2024\, and speaking at the documentation summit at PyCon US 2024. Rohit’s interests in Python include web app development\, community organization\, all things AI\, and all aspects of developer experience from package management to documentation. As a proud Pitt alum\, PittAPI contributor\, and former Microsoft Pittsburgh community member\, Rohit is excited to bring his love for Pittsburgh and Python to PyCon US 2025.</p>\n<p>Pamela Fox:</p>\n<p>Pamela Fox is a Cloud Developer Advocate who loves learning\, teaching\, and creating. 🧑🏼‍🏫 She has taught computer science at UC Berkeley\, volunteered with TEALS\, GirlsWhoCode\, CoderDojo\, and founded the SF chapter of GirlDevelopIt. 💻 With 15 years in the tech industry\, Pamela was one of Google's first developer advocates and has worked at Coursera and Khan Academy as an engineer and content creator. 🐛 She is fascinated by caterpillars transforming into butterflies. 🦋</p>\nRohit Ganguly\n<p>Rohit is a Python enthusiast and Product Manager at Microsoft working primarily on Azure Developer Experience and the Azure SDK for Python.</p>\n<p>This will be Rohit’s third PyCon US\, attending in 2023\, 2024\, and speaking at the documentation summit at PyCon US 2024.</p>\n<p>Rohit’s interests in Python include web app development\, community organization\, responsible AI\, and all aspects of developer experience from package management to documentation.</p>\n<p>As a proud Pitt alum\, contributor to the PittAPI Python package\, and former Microsoft Pittsburgh community member\, Rohit is excited to bring his love for Pittsburgh and Python to PyCon US 2025.</p>\n<p>You can find Rohit online at https://rohit.info.</p>
 DTEND:20250515T203000Z
 LOCATION:Room 316
 DTSTART:20250515T193000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Slot
+SUMMARY:[sponsor-workshop] Build modern Python apps on Azure (Sponsor: Microsoft)
 TRANSP:OPAQUE
 UID:cfff2af7-ed85-5f59-8246-88bfc5a0d398
+URL:https://us.pycon.org/2025/schedule/presentation/140/
 END:VEVENT
 END:VCALENDAR
