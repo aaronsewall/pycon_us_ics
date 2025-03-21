@@ -164,12 +164,12 @@ TRANSP:OPAQUE
 UID:7911a2fe-90e2-5884-a9a5-ffbca4979c3f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: Python Software Foundation Update\n<p>Python Software Foundation Update</p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: Python Software Foundation Update & Awards\n<p>Python Software Foundation Update &amp\; Awards</p>\n
 DTEND:20250518T210500Z
 LOCATION:Hall B
 DTSTART:20250518T203500Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] Python Software Foundation Update
+SUMMARY:[plenary] Python Software Foundation Update & Awards
 TRANSP:OPAQUE
 UID:7afb5aa3-54df-586b-a82e-5d375db7b406
 END:VEVENT
