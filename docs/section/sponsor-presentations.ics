@@ -160,14 +160,15 @@ TRANSP:OPAQUE
 UID:3fb5eb5f-71f9-55de-8c4c-4792d4269ff5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Making the internet faster with\, PyPI\, the PSF\, and Science (Sponsor: Fastly)\nhttps://us.pycon.org/2025/schedule/presentation/146/\n<p>Only Speaker: Joe Williams\, Principal Software Development Engineer </p>\n<p>Description: Fastly operates a 410TB global network designed to make your applications more secure\, faster\, and more dynamic. We also give open source and public-good organizations like the PSF free services to operate PyPI and other Python systems as scalably and securely as possible.\nOver the past year\, Fastly has been working with the PSF to develop a new approach for BGP anycast and DNS operations to fully automate performing routing to intelligently avoid underperforming routes in real time. As a result\, we saw significant performance improvements worldwide for the PSF\, Fastly’s network operations\, and all Python developers by extension. Learn how you’re already benefitting from these breakthroughs!</p>\nSpeakers:\nJoe Williams\n<p>Joe operates computers at Fastly focusing on networking and telemetry-driven traffic engineering. </p>\n<p>Prior to Fastly Joe built tools you use every day at companies like GitHub and ngrok.</p>\n<p>https://hachyderm.io/@joew\nhttp://github.com/joewilliams</p>
 DTEND:20250515T163000Z
 LOCATION:Room 315
 DTSTART:20250515T153000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Slot
+SUMMARY:[sponsor-workshop] Making the internet faster with\, PyPI\, the PSF\, and Science (Sponsor: Fastly)
 TRANSP:OPAQUE
 UID:c64e6ce6-4549-5b73-ab53-6746ec8714af
+URL:https://us.pycon.org/2025/schedule/presentation/146/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
