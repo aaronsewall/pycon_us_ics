@@ -56,15 +56,14 @@ TRANSP:OPAQUE
 UID:5c2b23de-4bad-58ee-a4b3-f22f3b9cfd7d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Typing at Scale: Prefect’s Journey to Safer Python (Sponsor: Prefect)\nhttps://us.pycon.org/2025/schedule/presentation/141/\n<p>This talk explores Prefect's journey to achieve type completeness in its Python codebase. We will discuss the motivations behind adopting comprehensive type annotations\, the challenges encountered\, and the benefits realized\, including enhanced code reliability\, improved developer experience\, and better integration with modern development tools. Attendees will gain insights into best practices for implementing type annotations and understand the value of type completeness in large-scale Python projects.</p>\n<p>We will share the challenges faced during this transition\, such as:​</p>\n<ul>\n<li>Addressing incomplete or incorrect type annotations.​</li>\n<li>Integrating type checking into the development workflow.​</li>\n<li>Ensuring compatibility with existing code and third-party libraries.​</li>\n</ul>\n<p>We'll also highlight the benefits achieved\, including:​</p>\n<ul>\n<li>Enhanced code reliability and reduced runtime errors.​</li>\n<li>Improved developer experience through better IDE support and autocompletion.​</li>\n<li>Facilitated collaboration in a growing codebase.​</li>\n</ul>\n<p>Throughout the talk\, we'll provide practical examples and best practices for implementing type annotations\, such as:​</p>\n<ul>\n<li>Utilizing static type checkers like mypy and pyright.​</li>\n<li>Leveraging advanced typing features introduced in recent Python versions.​</li>\n<li>Incorporating type checking into continuous integration pipelines.</li>\n</ul>\nSpeakers:\nBrendan O'Leary\n<p>Brendan O'Leary is the VP\, Developer Relations at Prefect\, on a mission to help people build complex systems they can trust\, and is an advisor to various startups. Having worked in software his entire career\, Brendan has had the privilege of working with many customers. Previously at GitLab and a board member of the CNCF – it is clear\, every company is a software company. That means every company needs software and data operational excellence. Outside of work\, you'll find Brendan with 1 to 4 kids hanging off of him at any given time or occasionally finding a moment alone to build something in his workshop.</p>
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T163000Z
 LOCATION:Room 308
 DTSTART:20250515T153000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Typing at Scale: Prefect’s Journey to Safer Python (Sponsor: Prefect)
+SUMMARY:[sponsor-workshop] Slot
 TRANSP:OPAQUE
 UID:e21fe6d4-626c-53b3-a4a2-3d983b837714
-URL:https://us.pycon.org/2025/schedule/presentation/141/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: break\nName: Lunch\n<p>Lunch</p>\n

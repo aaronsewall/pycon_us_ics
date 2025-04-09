@@ -1037,7 +1037,7 @@ UID:33cb1b80-173d-599c-aa61-0399ade7298a
 URL:https://us.pycon.org/2025/schedule/presentation/90/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: Keynote - Dr. Kali L. Jordan\n<p><a href="/2025/about/keynote-speakers#dr-kari-l-jordan">Dr. Kali L. Jordan</a>\n<br><span style="font-size: smaller\; font-weight: normal\;">Keynote</span></p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: Keynote - Dr. Kali L. Jordan\n<p><a href="/2025/about/keynote-speakers#dr-kari-l-jordan">Dr. Kari L. Jordan</a>\n<br><span style="font-size: smaller\; font-weight: normal\;">Keynote</span></p>\n
 DTEND:20250518T200000Z
 LOCATION:Hall B
 DTSTART:20250518T191500Z
