@@ -4,14 +4,15 @@ X-WR-CALNAME:PyCon 2025 Sponsor-presentations
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Accelerated Python: The Community and Ecosystem (Sponsor: NVIDIA)\nhttps://us.pycon.org/2025/schedule/presentation/149/\n<p>Python is everywhere. Simulation\, data science\, and Gen AI all depend on it. Unfortunately\, the dizzying array of tools leaves a newcomer baffled at where to start. We'll take you on a guided tour of the vibrant community and ecosystem surrounding accelerated Python programming. Explore a variety of tools\, libraries\, and frameworks that enable efficient computation and performance optimization in Python\, including CUDA Python\, RAPIDS\, Warp\, and Legate. We'll also discuss integration points with PyData\, PyTorch\, and JAX communities. Learn about collaborative efforts within the community\, including open source projects and contributions that drive innovation in accelerated computing. We'll discuss best practices for leveraging these frameworks to enhance productivity in developing AI-driven applications and conducting large-scale data analyses.</p>\nSpeakers:\nJeremy Tanner\n<p>Jeremy talks to people who talk to computers about talking to computers.</p>
 DTEND:20250515T143000Z
 LOCATION:Room 315
 DTSTART:20250515T133000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Slot
+SUMMARY:[sponsor-workshop] Accelerated Python: The Community and Ecosystem (Sponsor: NVIDIA)
 TRANSP:OPAQUE
 UID:80798e70-401c-5194-a03a-d707995ba3d6
+URL:https://us.pycon.org/2025/schedule/presentation/149/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
@@ -129,14 +130,15 @@ UID:dea2dfca-1957-5934-8fcf-5d473cee64eb
 URL:https://us.pycon.org/2025/schedule/presentation/118/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Real-World Problems Blockchain Actually Solves (and How to Code Them in Python) (Sponsor: Algorand)\nhttps://us.pycon.org/2025/schedule/presentation/150/\n<p>In this talk\, we'll zero in on real-world problems blockchain genuinely solves. We'll cut through the jargon and focus on when blockchain makes sense and when it doesn't.</p>\n<p>Everything we build will use Python\, using libraries and patterns you already know\, plus a few lightweight tools to interact with the Algorand blockchain. </p>\n<p>We'll work through hands-on examples: coding trust into peer-to-peer payment systems for underbanked regions\, building fractional ownership for previously illiquid assets\, and creating self-sovereign digital identity systems that empower users with ownership of their credentials. These aren't hypotheticals—companies are running these solutions in production today\, and we'll break down how they do it.</p>\n<p>Expect a session that meets you where you are: practical\, approachable\, and 100% Python. By the end\, you'll see where blockchain fits into your toolkit—not as a magic bullet\, but as a practical option for specific\, thorny problems.</p>\nSpeakers:\nGabriel Kuettel\n<p>With over a decade of experience spanning blockchain\, cybersecurity\, and web2 software engineering\, Gabe brings deep technical expertise and entrepreneurial spirit to the Algorand ecosystem. As a Developer Relations Engineer at the Algorand Foundation\, he bridges the gap between emerging technology and practical implementation. Previously\, he co-founded TxnLab and helped build NFDomains - the leading identity solution on the Algorand blockchain. Having worked with both early-stage startups and established enterprises\, Gabe leverages his diverse background to help builders navigate the full spectrum of challenges in blockchain development. He is committed to empowering developers through hands-on technical education and community building.</p>
 DTEND:20250515T183000Z
 LOCATION:Room 309
 DTSTART:20250515T173000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Slot
+SUMMARY:[sponsor-workshop] Real-World Problems Blockchain Actually Solves (and How to Code Them in Python) (Sponsor: Algorand)
 TRANSP:OPAQUE
 UID:33921e54-21da-5617-8c8e-27ab8e5716f6
+URL:https://us.pycon.org/2025/schedule/presentation/150/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Evolving Django: What We Learned by Integrating MongoDB (Sponsor: MongoDB)\nhttps://us.pycon.org/2025/schedule/presentation/142/\n<p>At MongoDB\, we have several Django enthusiasts who have jumped at the idea of backing a long-term solution to combining MongoDB and Django. Having historically provided support for SQL-based open source frameworks like Entity Framework in .NET/C#\, Doctrine in PHP\, and many more\, we are familiar with the territory.\nWe're happy to say we've successfully created a MongoDB Backend Library for Django and want to share all that we've learned kitting out a new NoSQL backend for a traditionally SQL framework including how we believe we have influenced -- and will continue to influence -- changes in the core Django library.</p>\nSpeakers:\nAnaiya Raisinghani\n<p>Anaiya Raisinghani is a passionate Developer Advocate at MongoDB\, where she empowers developers to turn their quirkiest dreams into reality with AI and Python. With her background in Computational Linguistics and Industrial and Systems Engineering\, she is all about exploring the niche between fun and useful by helping people build playful\, creative applications that can actually fit into real life (even through the chaos of it all!). When she's away from her laptop\, you can find Anaiya hanging out with her favorite coworkers (her two cats) or exploring all the fun brunch spots NYC has to offer.</p>
