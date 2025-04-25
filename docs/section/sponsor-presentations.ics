@@ -17,7 +17,6 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T143000Z
-LOCATION:Room 308
 DTSTART:20250515T133000Z
 STATUS:CONFIRMED
 SUMMARY:[sponsor-workshop] Slot
@@ -36,14 +35,15 @@ UID:3577af1c-295a-539f-91ff-f17ef3a95447
 URL:https://us.pycon.org/2025/schedule/presentation/143/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: 🐍 Python meets the crab 🦀 - Friendship at first sight? (Sponsor: Bloomberg)\nhttps://us.pycon.org/2025/schedule/presentation/151/\n<p>Python's simplicity often comes at the cost of performance\, especially in computationally-intensive tasks. In contrast\, Rust enables one to write low-level code that takes full advantage of the underlying hardware. Furthermore\, Rust (just like Python) has a vibrant ecosystem with many great libraries. PyO3 (together with the maturin build back-end) allows you to easily integrate the two languages together and make use of the best of both.</p>\nSpeakers:\nBernát Gábor\n<p>Over the years\, I have delivered 2 presentations + 1 workshop at PyCon US\; 2 presentation + 1 workshop at PyTexas\, 4 presentations at EuroPython\, 1 at PyCon UK\, and two talks at PyLondinium. My website (https://bernat.tech/presentations) contains links to the videos and slides for these presentations. I am also the author of the virtualenv/tox packages and a PyPA member.</p>
 DTEND:20250515T143000Z
 LOCATION:Room 316
 DTSTART:20250515T133000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Slot
+SUMMARY:[sponsor-workshop] 🐍 Python meets the crab 🦀 - Friendship at first sight? (Sponsor: Bloomberg)
 TRANSP:OPAQUE
 UID:dcf7bebe-2ae8-53d7-8569-e39a2aae958d
+URL:https://us.pycon.org/2025/schedule/presentation/151/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
@@ -58,7 +58,6 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T163000Z
-LOCATION:Room 308
 DTSTART:20250515T153000Z
 STATUS:CONFIRMED
 SUMMARY:[sponsor-workshop] Slot
@@ -89,7 +88,6 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T183000Z
-LOCATION:Room 308
 DTSTART:20250515T173000Z
 STATUS:CONFIRMED
 SUMMARY:[sponsor-workshop] Slot
@@ -175,7 +173,6 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
 DTEND:20250515T203000Z
-LOCATION:Room 308
 DTSTART:20250515T193000Z
 STATUS:CONFIRMED
 SUMMARY:[sponsor-workshop] Slot
