@@ -124,12 +124,12 @@ TRANSP:OPAQUE
 UID:3fb5eb5f-71f9-55de-8c4c-4792d4269ff5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: [Diversity & Inclusion Panel](https://us.pycon.org/2025/about/keynote-speakers/#diversity-and-inclusion-panel)\n<p><a href="https://us.pycon.org/2025/about/keynote-speakers/#diversity-and-inclusion-panel">Diversity &amp\; Inclusion Panel</a></p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: Diversity & Inclusion Panel\n<p><a href="https://us.pycon.org/2025/about/keynote-speakers/#diversity-and-inclusion-panel">Diversity &amp\; Inclusion Panel</a></p>\n
 DTEND:20250517T132500Z
 LOCATION:Hall B
 DTSTART:20250517T130000Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] [Diversity & Inclusion Panel](https://us.pycon.org/2025/about/keynote-speakers/#diversity-and-inclusion-panel)
+SUMMARY:[plenary] Diversity & Inclusion Panel
 TRANSP:OPAQUE
 UID:525dd233-5698-5b07-8116-72e75105a3b2
 END:VEVENT
@@ -184,12 +184,12 @@ TRANSP:OPAQUE
 UID:dbb5320c-e6b1-5f5c-8819-6c25c2531101
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: [Steering Council Panel](/2025/about/keynote-speakers#python-steering-council)\n<p><a href="/2025/about/keynote-speakers#python-steering-council">Steering Council Panel</a></p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: Steering Council Panel\n<p><a href="/2025/about/keynote-speakers#python-steering-council">Steering Council Panel</a></p>\n
 DTEND:20250518T203500Z
 LOCATION:Hall B
 DTSTART:20250518T200000Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] [Steering Council Panel](/2025/about/keynote-speakers#python-steering-council)
+SUMMARY:[plenary] Steering Council Panel
 TRANSP:OPAQUE
 UID:c46afaae-6aad-588f-8a5e-f15f6ebfd45b
 END:VEVENT
