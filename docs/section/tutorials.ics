@@ -124,7 +124,7 @@ UID:7fb92d73-86ec-5509-ba7b-7be21db93784
 URL:https://us.pycon.org/2025/schedule/presentation/107/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: tutorials\nKind: tutorial\nName: AI crash course for Python developers\nhttps://us.pycon.org/2025/schedule/presentation/77/\n<p>This crash-course tutorial is for Python developers that want to get up to speed with AI development quickly. \nWe will cover the what and how of language models\, learn about concepts like tokens\, markov chains\, and vector similarity with games and exercises. Each introduction to a concept will be explained by your experienced instructor in terms that don’t assume formal CS education. We’ll build demos\, apps and discuss pitfalls and challenges with AI development in 2025.</p>\nSpeakers:\nAnthony Shaw\n<p>-</p>
+DESCRIPTION:Section: tutorials\nKind: tutorial\nName: AI crash course for Python developers\nhttps://us.pycon.org/2025/schedule/presentation/77/\n<p>This crash-course tutorial is for Python developers that want to get up to speed with AI development quickly. \nWe will cover the what and how of language models\, learn about concepts like tokens\, markov chains\, and vector similarity with games and exercises. Each introduction to a concept will be explained by your experienced instructor in terms that don’t assume formal CS education. We’ll build demos\, apps and discuss pitfalls and challenges with AI development in 2025.</p>\nSpeakers:\nAnthony Shaw\n<p>Python enthusiast</p>
 DTEND:20250514T163000Z
 LOCATION:Room 310/311
 DTSTART:20250514T130000Z
