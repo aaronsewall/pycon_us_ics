@@ -503,12 +503,12 @@ UID:965e199e-beaa-5493-ae10-2223b3dc1e2e
 URL:https://us.pycon.org/2025/schedule/presentation/39/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: Lightning Talks\n<p>Lightning Talks</p>\n
+DESCRIPTION:Section: talks\nKind: lightning-talks\nName: Lightning Talks\n<p>Lightning Talks</p>\n
 DTEND:20250517T224500Z
 LOCATION:Hall B
 DTSTART:20250517T214500Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] Lightning Talks
+SUMMARY:[lightning-talks] Lightning Talks
 TRANSP:OPAQUE
 UID:7c2b9fda-1449-536d-aa63-f6ea01836442
 END:VEVENT
@@ -567,12 +567,12 @@ UID:3c7ea849-af4c-57de-993f-6062c2e37152
 URL:https://us.pycon.org/2025/schedule/presentation/88/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: Lightning Talks\n<p>Lightning Talks</p>\n
+DESCRIPTION:Section: talks\nKind: lightning-talks\nName: Lightning Talks\n<p>Lightning Talks</p>\n
 DTEND:20250516T230000Z
 LOCATION:Hall B
 DTSTART:20250516T220000Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] Lightning Talks
+SUMMARY:[lightning-talks] Lightning Talks
 TRANSP:OPAQUE
 UID:7911a2fe-90e2-5884-a9a5-ffbca4979c3f
 END:VEVENT
@@ -963,12 +963,12 @@ UID:2afb56dc-31ce-5c09-9cde-6b07ac2bebaf
 URL:https://us.pycon.org/2025/schedule/presentation/158/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: Lightning Talks\n<p>Lightning Talks</p>\n
+DESCRIPTION:Section: talks\nKind: lightning-talks\nName: Lightning Talks\n<p>Lightning Talks</p>\n
 DTEND:20250517T130000Z
 LOCATION:Hall B
 DTSTART:20250517T120000Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] Lightning Talks
+SUMMARY:[lightning-talks] Lightning Talks
 TRANSP:OPAQUE
 UID:dbb5320c-e6b1-5f5c-8819-6c25c2531101
 END:VEVENT
@@ -1145,12 +1145,12 @@ UID:a7d7e5e1-98c8-502d-bbfd-4c7ab64e1bc4
 URL:https://us.pycon.org/2025/schedule/presentation/137/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: Lightning Talks\n<p>Lightning Talks</p>\n
+DESCRIPTION:Section: talks\nKind: lightning-talks\nName: Lightning Talks\n<p>Lightning Talks</p>\n
 DTEND:20250518T130000Z
 LOCATION:Hall B
 DTSTART:20250518T120000Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] Lightning Talks
+SUMMARY:[lightning-talks] Lightning Talks
 TRANSP:OPAQUE
 UID:1835b973-244f-5072-a03f-21f9fe41d2c9
 END:VEVENT
