@@ -4,6 +4,13 @@ Conference info is available at https://us.pycon.org/2025/schedule/conference.js
 
 All calendar files are tested to work and are importable by google calendar.
 
+There are numerous other events that are not included in this conference.json, which I manually made
+calendar entries for inside google calendar. This calendar is available here (it doesn't follow the
+same format as the generated calendars, and isn't as well maintained, but it helps to know about
+other things that are happening). 
+
+https://calendar.google.com/calendar/u/0?cid=OTg5ODFiZmMyZWQ5ZTQ2YWNjZDYwMWY5MGNhZDBmYzJiODA5NmUyYmIzNjAyZDJiODQyZDRmNjBmNDBiZTU2Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
+
 all_events contains every event for the conference.
 
 You can also select based on the sections you're interested in or the kinds of events.
