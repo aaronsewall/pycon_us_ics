@@ -15,11 +15,11 @@ UID:80798e70-401c-5194-a03a-d707995ba3d6
 URL:https://us.pycon.org/2025/schedule/presentation/149/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: sponsor-workshop\n\n
 DTEND:20250515T143000Z
 DTSTART:20250515T133000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Slot
+SUMMARY:[sponsor-workshop] sponsor-workshop
 TRANSP:OPAQUE
 UID:ab827ed2-86c2-5c7f-8eee-0326d169f0da
 END:VEVENT
@@ -57,11 +57,11 @@ UID:5c2b23de-4bad-58ee-a4b3-f22f3b9cfd7d
 URL:https://us.pycon.org/2025/schedule/presentation/153/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: sponsor-workshop\n\n
 DTEND:20250515T163000Z
 DTSTART:20250515T153000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Slot
+SUMMARY:[sponsor-workshop] sponsor-workshop
 TRANSP:OPAQUE
 UID:e21fe6d4-626c-53b3-a4a2-3d983b837714
 END:VEVENT
@@ -77,11 +77,11 @@ UID:4ffb1b16-8d69-5ec6-bd66-ce11767a98e1
 URL:https://us.pycon.org/2025/schedule/presentation/73/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: sponsor-workshop\n\n
 DTEND:20250515T183000Z
 DTSTART:20250515T173000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Slot
+SUMMARY:[sponsor-workshop] sponsor-workshop
 TRANSP:OPAQUE
 UID:760d67d4-fb66-5bee-be6a-eb44ed90baa4
 END:VEVENT
@@ -152,11 +152,11 @@ UID:c64e6ce6-4549-5b73-ab53-6746ec8714af
 URL:https://us.pycon.org/2025/schedule/presentation/146/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: sponsor-workshop\n\n
 DTEND:20250515T203000Z
 DTSTART:20250515T193000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Slot
+SUMMARY:[sponsor-workshop] sponsor-workshop
 TRANSP:OPAQUE
 UID:c3eb1b7d-7032-541e-bbdf-315d26c85ef1
 END:VEVENT

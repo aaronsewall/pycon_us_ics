@@ -546,12 +546,12 @@ UID:064d2598-0b74-552f-8777-1270881d55c6
 URL:https://us.pycon.org/2025/schedule/presentation/20/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: PSF - Update from our Security Engineers\n<p>PSF - Update from our Security Engineers</p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: PSF - Update from our Se\n<p>PSF - Update from our Security Engineers</p>\n
 DTEND:20250518T140000Z
 LOCATION:Hall B
 DTSTART:20250518T134500Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] PSF - Update from our Security Engineers
+SUMMARY:[plenary] PSF - Update from our Se
 TRANSP:OPAQUE
 UID:bbe29010-73fa-5eb9-b57b-2e45b15d8c8b
 END:VEVENT
@@ -577,17 +577,17 @@ TRANSP:OPAQUE
 UID:7911a2fe-90e2-5884-a9a5-ffbca4979c3f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: Python Software Foundation Update & Awards\n<p>Python Software Foundation Update &amp\; Awards</p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: Python Software Foundati\n<p>Python Software Foundation Update &amp\; Awards</p>\n
 DTEND:20250518T210500Z
 LOCATION:Hall B
 DTSTART:20250518T203500Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] Python Software Foundation Update & Awards
+SUMMARY:[plenary] Python Software Foundati
 TRANSP:OPAQUE
 UID:7afb5aa3-54df-586b-a82e-5d375db7b406
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: talk\nName: Zoom\, Enhance: Asyncio's New Introspection Powers\nhttps://us.pycon.org/2025/schedule/presentation/116/\n<p>asyncio in Python 3.14 introduces a new powerful feature: introspecting a running asyncio program from another OS process. This changes everything—now you can debug and profile your asyncio code in production with no performance penalty. Join us for a fun ride as we show how this magic works under the hood and how you can use it. Learn about technical design decisions\, performance considerations\, security implications\, and trade-offs made. Along the way\, you’ll gain both beautiful and horrible insights into how asyncio and operating systems interact\, and we’ll wrap up with a flawless live demo!</p>\nSpeakers:\nYury Selivanov\n<ul>\n<li>\n<p>Python core developer since 2013. </p>\n</li>\n<li>\n<p>Author of a numerous PEPs\, such as: adding async/await syntax\, asynchronous generators\, exception groups\, context variables\, etc. Contributed to many other areas of CPython.</p>\n</li>\n<li>\n<p>Creator of uvloop -- the de-facto library of running asyncio applications in production.</p>\n</li>\n<li>\n<p>Co-founder and CEO of EdgeDB Inc.\, with the mission of advancing SQL and PostgreSQL to the new heights\, enabling high-performance\, and enhancing developer experience.</p>\n</li>\n</ul>
+DESCRIPTION:Section: talks\nKind: talk\nName: Zoom\, Enhance: Asyncio's New Introspection Powers\nhttps://us.pycon.org/2025/schedule/presentation/116/\n<p>asyncio in Python 3.14 introduces a new powerful feature: introspecting a running asyncio program from another OS process. This changes everything—now you can debug and profile your asyncio code in production with no performance penalty. Join us for a fun ride as we show how this magic works under the hood and how you can use it. Learn about technical design decisions\, performance considerations\, security implications\, and trade-offs made. Along the way\, you’ll gain both beautiful and horrible insights into how asyncio and operating systems interact\, and we’ll wrap up with a flawless live demo!</p>\nSpeakers:\nPablo Galindo Salgado\n<p>-</p>\nYury Selivanov\n<ul>\n<li>\n<p>Python core developer since 2013. </p>\n</li>\n<li>\n<p>Author of a numerous PEPs\, such as: adding async/await syntax\, asynchronous generators\, exception groups\, context variables\, etc. Contributed to many other areas of CPython.</p>\n</li>\n<li>\n<p>Creator of uvloop -- the de-facto library of running asyncio applications in production.</p>\n</li>\n<li>\n<p>Co-founder and CEO of Gel Data Inc.\, with the mission of advancing SQL and PostgreSQL to the new heights\, enabling high-performance\, and enhancing developer experience.</p>\n</li>\n</ul>
 DTEND:20250517T190000Z
 LOCATION:Ballroom BC
 DTSTART:20250517T183000Z
@@ -1253,12 +1253,12 @@ UID:fc13841d-8ea7-5f38-a819-5ae8e6605a41
 URL:https://us.pycon.org/2025/schedule/presentation/124/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: talk\nName: Slot\n\n
+DESCRIPTION:Section: talks\nKind: talk\nName: talk\n\n
 DTEND:20250518T190000Z
 LOCATION:Ballroom BC
 DTSTART:20250518T183000Z
 STATUS:CONFIRMED
-SUMMARY:[talk] Slot
+SUMMARY:[talk] talk
 TRANSP:OPAQUE
 UID:2eda13b2-8ccd-5ab7-a305-3813c83432e2
 END:VEVENT

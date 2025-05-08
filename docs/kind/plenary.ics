@@ -94,22 +94,22 @@ TRANSP:OPAQUE
 UID:d7b65d1b-5fbc-53c3-b8c8-a538cb3d070a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: PSF - Update from our Security Engineers\n<p>PSF - Update from our Security Engineers</p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: PSF - Update from our Se\n<p>PSF - Update from our Security Engineers</p>\n
 DTEND:20250518T140000Z
 LOCATION:Hall B
 DTSTART:20250518T134500Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] PSF - Update from our Security Engineers
+SUMMARY:[plenary] PSF - Update from our Se
 TRANSP:OPAQUE
 UID:bbe29010-73fa-5eb9-b57b-2e45b15d8c8b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: Python Software Foundation Update & Awards\n<p>Python Software Foundation Update &amp\; Awards</p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: Python Software Foundati\n<p>Python Software Foundation Update &amp\; Awards</p>\n
 DTEND:20250518T210500Z
 LOCATION:Hall B
 DTSTART:20250518T203500Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] Python Software Foundation Update & Awards
+SUMMARY:[plenary] Python Software Foundati
 TRANSP:OPAQUE
 UID:7afb5aa3-54df-586b-a82e-5d375db7b406
 END:VEVENT

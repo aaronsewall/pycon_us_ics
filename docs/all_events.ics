@@ -68,11 +68,11 @@ UID:b420fd97-db8e-5fe3-a020-238c8e5ba39c
 URL:https://us.pycon.org/2025/schedule/presentation/102/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: sponsor-workshop\n\n
 DTEND:20250515T163000Z
 DTSTART:20250515T153000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Slot
+SUMMARY:[sponsor-workshop] sponsor-workshop
 TRANSP:OPAQUE
 UID:e21fe6d4-626c-53b3-a4a2-3d983b837714
 END:VEVENT
@@ -184,12 +184,12 @@ TRANSP:OPAQUE
 UID:f1215345-ed6b-5be1-a4a4-0db084c6cf55
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: talk\nName: Slot\n\n
+DESCRIPTION:Section: talks\nKind: talk\nName: talk\n\n
 DTEND:20250518T190000Z
 LOCATION:Ballroom BC
 DTSTART:20250518T183000Z
 STATUS:CONFIRMED
-SUMMARY:[talk] Slot
+SUMMARY:[talk] talk
 TRANSP:OPAQUE
 UID:2eda13b2-8ccd-5ab7-a305-3813c83432e2
 END:VEVENT
@@ -444,22 +444,22 @@ UID:7f8da4f9-2af1-5075-be8a-06481bbeeafc
 URL:https://us.pycon.org/2025/schedule/presentation/67/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: PSF - Update from our Security Engineers\n<p>PSF - Update from our Security Engineers</p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: PSF - Update from our Se\n<p>PSF - Update from our Security Engineers</p>\n
 DTEND:20250518T140000Z
 LOCATION:Hall B
 DTSTART:20250518T134500Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] PSF - Update from our Security Engineers
+SUMMARY:[plenary] PSF - Update from our Se
 TRANSP:OPAQUE
 UID:bbe29010-73fa-5eb9-b57b-2e45b15d8c8b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: Python Software Foundation Update & Awards\n<p>Python Software Foundation Update &amp\; Awards</p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: Python Software Foundati\n<p>Python Software Foundation Update &amp\; Awards</p>\n
 DTEND:20250518T210500Z
 LOCATION:Hall B
 DTSTART:20250518T203500Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] Python Software Foundation Update & Awards
+SUMMARY:[plenary] Python Software Foundati
 TRANSP:OPAQUE
 UID:7afb5aa3-54df-586b-a82e-5d375db7b406
 END:VEVENT
@@ -475,7 +475,7 @@ UID:fc340cae-d629-53ca-bfc2-f46c1a22d325
 URL:https://us.pycon.org/2025/schedule/presentation/6/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: talk\nName: Zoom\, Enhance: Asyncio's New Introspection Powers\nhttps://us.pycon.org/2025/schedule/presentation/116/\n<p>asyncio in Python 3.14 introduces a new powerful feature: introspecting a running asyncio program from another OS process. This changes everything—now you can debug and profile your asyncio code in production with no performance penalty. Join us for a fun ride as we show how this magic works under the hood and how you can use it. Learn about technical design decisions\, performance considerations\, security implications\, and trade-offs made. Along the way\, you’ll gain both beautiful and horrible insights into how asyncio and operating systems interact\, and we’ll wrap up with a flawless live demo!</p>\nSpeakers:\nYury Selivanov\n<ul>\n<li>\n<p>Python core developer since 2013. </p>\n</li>\n<li>\n<p>Author of a numerous PEPs\, such as: adding async/await syntax\, asynchronous generators\, exception groups\, context variables\, etc. Contributed to many other areas of CPython.</p>\n</li>\n<li>\n<p>Creator of uvloop -- the de-facto library of running asyncio applications in production.</p>\n</li>\n<li>\n<p>Co-founder and CEO of EdgeDB Inc.\, with the mission of advancing SQL and PostgreSQL to the new heights\, enabling high-performance\, and enhancing developer experience.</p>\n</li>\n</ul>
+DESCRIPTION:Section: talks\nKind: talk\nName: Zoom\, Enhance: Asyncio's New Introspection Powers\nhttps://us.pycon.org/2025/schedule/presentation/116/\n<p>asyncio in Python 3.14 introduces a new powerful feature: introspecting a running asyncio program from another OS process. This changes everything—now you can debug and profile your asyncio code in production with no performance penalty. Join us for a fun ride as we show how this magic works under the hood and how you can use it. Learn about technical design decisions\, performance considerations\, security implications\, and trade-offs made. Along the way\, you’ll gain both beautiful and horrible insights into how asyncio and operating systems interact\, and we’ll wrap up with a flawless live demo!</p>\nSpeakers:\nPablo Galindo Salgado\n<p>-</p>\nYury Selivanov\n<ul>\n<li>\n<p>Python core developer since 2013. </p>\n</li>\n<li>\n<p>Author of a numerous PEPs\, such as: adding async/await syntax\, asynchronous generators\, exception groups\, context variables\, etc. Contributed to many other areas of CPython.</p>\n</li>\n<li>\n<p>Creator of uvloop -- the de-facto library of running asyncio applications in production.</p>\n</li>\n<li>\n<p>Co-founder and CEO of Gel Data Inc.\, with the mission of advancing SQL and PostgreSQL to the new heights\, enabling high-performance\, and enhancing developer experience.</p>\n</li>\n</ul>
 DTEND:20250517T190000Z
 LOCATION:Ballroom BC
 DTSTART:20250517T183000Z
@@ -540,11 +540,11 @@ TRANSP:OPAQUE
 UID:4880bf5f-79a6-5c6d-b720-2bc74613dbaf
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: sponsor-workshop\n\n
 DTEND:20250515T183000Z
 DTSTART:20250515T173000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Slot
+SUMMARY:[sponsor-workshop] sponsor-workshop
 TRANSP:OPAQUE
 UID:760d67d4-fb66-5bee-be6a-eb44ed90baa4
 END:VEVENT
@@ -874,11 +874,11 @@ UID:6d5f64e6-d53b-5df6-8005-7d9a26547399
 URL:https://us.pycon.org/2025/schedule/presentation/131/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: sponsor-workshop\n\n
 DTEND:20250515T203000Z
 DTSTART:20250515T193000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Slot
+SUMMARY:[sponsor-workshop] sponsor-workshop
 TRANSP:OPAQUE
 UID:c3eb1b7d-7032-541e-bbdf-315d26c85ef1
 END:VEVENT
@@ -1243,11 +1243,11 @@ UID:c26dd0f0-5088-5a0c-8d7c-2cd7b0aba927
 URL:https://us.pycon.org/2025/schedule/presentation/157/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Slot\n\n
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: sponsor-workshop\n\n
 DTEND:20250515T143000Z
 DTSTART:20250515T133000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Slot
+SUMMARY:[sponsor-workshop] sponsor-workshop
 TRANSP:OPAQUE
 UID:ab827ed2-86c2-5c7f-8eee-0326d169f0da
 END:VEVENT
