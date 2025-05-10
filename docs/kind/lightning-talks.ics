@@ -4,42 +4,42 @@ X-WR-CALNAME:PyCon 2025 Lightning-talks
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: lightning-talks\nName: Lightning Talks\n<p>Lightning Talks</p>\n
+DESCRIPTION:Section: talks\nKind: lightning-talks\nName: [Lightning Talks](/2025/\n<p><a href="/2025/events/lightning-talks/">Lightning Talks</a></p>\n
 DTEND:20250518T130000Z
 LOCATION:Hall B
 DTSTART:20250518T120000Z
 STATUS:CONFIRMED
-SUMMARY:[lightning-talks] Lightning Talks
+SUMMARY:[lightning-talks] [Lightning Talks](/2025/
 TRANSP:OPAQUE
 UID:1835b973-244f-5072-a03f-21f9fe41d2c9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: lightning-talks\nName: Lightning Talks\n<p>Lightning Talks</p>\n
+DESCRIPTION:Section: talks\nKind: lightning-talks\nName: [Lightning Talks](/2025/\n<p><a href="/2025/events/lightning-talks/">Lightning Talks</a></p>\n
 DTEND:20250517T224500Z
 LOCATION:Hall B
 DTSTART:20250517T214500Z
 STATUS:CONFIRMED
-SUMMARY:[lightning-talks] Lightning Talks
+SUMMARY:[lightning-talks] [Lightning Talks](/2025/
 TRANSP:OPAQUE
 UID:7c2b9fda-1449-536d-aa63-f6ea01836442
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: lightning-talks\nName: Lightning Talks\n<p>Lightning Talks</p>\n
+DESCRIPTION:Section: talks\nKind: lightning-talks\nName: [Lightning Talks](/2025/\n<p><a href="/2025/events/lightning-talks/">Lightning Talks</a></p>\n
 DTEND:20250516T230000Z
 LOCATION:Hall B
 DTSTART:20250516T220000Z
 STATUS:CONFIRMED
-SUMMARY:[lightning-talks] Lightning Talks
+SUMMARY:[lightning-talks] [Lightning Talks](/2025/
 TRANSP:OPAQUE
 UID:7911a2fe-90e2-5884-a9a5-ffbca4979c3f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: lightning-talks\nName: Lightning Talks\n<p>Lightning Talks</p>\n
+DESCRIPTION:Section: talks\nKind: lightning-talks\nName: [Lightning Talks](/2025/\n<p><a href="/2025/events/lightning-talks/">Lightning Talks</a></p>\n
 DTEND:20250517T130000Z
 LOCATION:Hall B
 DTSTART:20250517T120000Z
 STATUS:CONFIRMED
-SUMMARY:[lightning-talks] Lightning Talks
+SUMMARY:[lightning-talks] [Lightning Talks](/2025/
 TRANSP:OPAQUE
 UID:dbb5320c-e6b1-5f5c-8819-6c25c2531101
 END:VEVENT
