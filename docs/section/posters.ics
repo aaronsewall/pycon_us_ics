@@ -1,0 +1,214 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:PyCon 2025 Posters
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: Painting with Python (poster)\nhttps://us.pycon.org/2025/schedule/presentation/34/\n<p>Caleb is a mathy lenticular hologram artist\, here to share the <strong>basics of doing art with Python</strong>. Each piece is a self-contained Python script that uses as few dependencies as possible (mostly just Python Image Library). No GPU acceleration. No AI. <strong>Just good old fashion vanilla Python</strong>. I'll be open-sourcing (for the first time) a few of the pieces of art I've done. For a preview of what mathy lenticular holograms look like\, check out https://gods.art.</p>\nSpeakers:\nCaleb Madrigal\n<p>Caleb is a hacker-turned artist who now does mathy lenticular holograms with Python (https://gods.art). He also does AI/ML consulting by day (https://madconsulting.ai). He used to build cyber weapon at Mandiant. Caleb is really into waves and fractals.</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] Painting with Python (poster)
+TRANSP:OPAQUE
+UID:e7206d60-876e-5927-8678-0e1f383b6a7a
+URL:https://us.pycon.org/2025/schedule/presentation/34/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: Data About Your Data: Open Source Python Tools for Scientific Metadata Management\nhttps://us.pycon.org/2025/schedule/presentation/49/\n<p>Within many scientific domains\, such as computational biology\, there continues to be explosive data generation. Along with this newly generated data\, also comes its associated metadata. This additional metadata is beneficial for scientific researchers\, because it adds context and enhances downstream data analysis.</p>\n<p>However\, with the surge of metadata\, there are now new challenges with sharing\, storing\, writing\, and integrating metadata into sample analysis due to the lack of metadata handling and standardization. This issue arises primarily because more focus has been given to the actual data rather than both the data and its metadata. These challenges affect numerous scientific fields including genomics\, astronomy\, and climate science.</p>\n<p>To solve this problem\, we present an open source python-based toolkit (PEPkit) for organizing large-scale\, sample-intensive scientific research projects and their associated metadata. We cover the entire life cycle of data and its metadata including: metadata capture\, storage\, standardization\, validation\, interoperability\, and shareability. We also discuss reusable data processing with its integrated metadata using workflow management systems (WFMS) that are metadata aware.</p>\nSpeakers:\nDonald Campbell\n<p>Donald is a Software Engineer at the University of Virginia\, creating open source tools for bioinformatics.</p>\nOleksandr Khoroshevskyi\n<p>-</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] Data About Your Data: Open Source Python Tools for Scientific Metadata Management
+TRANSP:OPAQUE
+UID:6784f23c-62ca-5bca-92f0-81f8627d5925
+URL:https://us.pycon.org/2025/schedule/presentation/49/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: Datasette: an ecosystem of tools for finding stories in data\nhttps://us.pycon.org/2025/schedule/presentation/23/\n<p><a href="https://datasette.io/">Datasette</a> is an open source Python web application for exploring\, analyzing and publishing data\, built on top of SQLite. </p>\n<p>In the seven years since its first release Datasette has grown a plugin system with over 150 plugins\, enabling it to be applied to a continually growing set of data analysis\, visualization and manipulation challenges.</p>\n<p>Datasette's sister project\, <a href="https://llm.datasette.io/">LLM</a>\, provides a Python abstraction over a large number of different Large Language Models. My recent focus has been bringing these two worlds together\, building plugins for Datasette that take advantage of LLMs to provide features like structured data extraction from text and images\, text-to-SQL query assistance and data cleanup operations driven by prompts.</p>\n<p>Come and learn more about Datasette\, its plugin ecosystem and ways it can be applied to fields such as data journalism\, exploratory data analysis\, historical archives and more.</p>\nSpeakers:\nSimon Willison\n<p>Simon Willison is the creator of <a href="https://datasette.io/">Datasette</a>\, an open source tool for exploring and publishing data\, and <a href="https://llm.datasette.io/">LLM</a>\, a command-line tool and Python library for interacting with Large Language Models. He currently works full-time developing open source tools for data journalism\, built around Datasette and SQLite.</p>\n<p>Simon has spent the last three years deeply immersed in the world of Large Language Models\, trying to solve the fascinating problems of how to responsibly use the technology in the two fields he knows best: journalism and software engineering.</p>\n<p>Prior to becoming an independent open source developer\, Simon was an engineering director at Eventbrite. Simon joined Eventbrite through their acquisition of Lanyrd\, a Y Combinator funded company he co-founded in 2010.</p>\n<p>He is a board member of the Python Software Foundation and a co-creator of the Django Web Framework\, and has been blogging about web development and programming since 2002 at https://simonwillison.net/</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] Datasette: an ecosystem of tools for finding stories in data
+TRANSP:OPAQUE
+UID:f66f8e62-a8f3-500a-94af-8e8484c66e72
+URL:https://us.pycon.org/2025/schedule/presentation/23/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: Visual Prototyping for Woven Bands\nhttps://us.pycon.org/2025/schedule/presentation/127/\n<p>How do you create a custom design for a woven band in an unfamiliar weaving style? Weaving relies on repeating patterns\, so it can be easy to describe how a project should look\, but actually picturing it is a different matter. </p>\n<p>My goal was to design a band with diamonds\, mountains\, and other southwestern elements to be woven on an inkle loom. Plain weave on an inkle loom only uses repeating A-B patterns\, which doesn’t allow for shapes like a diamond. I wanted to weave with a style where the pattern is built-in when you set up the loom with the warp\, rather than manipulated by hand for each row\, which is more error-prone. I'd heard of an A-B-A-C pattern style known as Turned Krokbragd\, which could work. This weaving style is originally from Sweden\, so finding existing patterns for my southwestern USA theme would be unlikely. </p>\n<p>This Python project let me visualize my own patterns\, try out different colors\, and add additional design elements like a border around a central pattern. The prototyping tool creates a more realistic visual by accounting for the physical spacing of the warp threads.</p>\nSpeakers:\nKathryn Born\n<p>Kathryn Born works with data analysis and visualization. Her hobbies include fiber arts\, rock climbing\, and aerial circus.</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] Visual Prototyping for Woven Bands
+TRANSP:OPAQUE
+UID:e8566715-1aae-5938-8757-f3b34a78dd69
+URL:https://us.pycon.org/2025/schedule/presentation/127/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: Beautiful and Balanced: Using Color Theory in Data Visualization\nhttps://us.pycon.org/2025/schedule/presentation/48/\n<p>When presenting data visually\,  it's important to choose color palettes which do not skew the viewer's perception of the data relationships you're illustrating. Our brains interpret color contextually: proximity to other colors changes the way we perceive a particular color\, making it appear darker or lighter\, more prominent or more demure. With some understanding of these color relationships\, you can make palette choices which do not inadvertently introduce bias to the data being displayed.</p>\n<p>In this poster presentation\, we'll take a peek at some basic color theory based on the work of Josef Albers\, look at what color weight is\, and how you can use it to evaluate your palette choices. We'll go over some strategies for choosing color palettes that keep your data presentation both unbiased and visually pleasing\, and list some resources for learning more.</p>\nSpeakers:\nLaura Fisher\n<p>I'm an artist and designer\, living and working in downtown Los Angeles. I create work in traditional media like oil paint\, and in modern media like code. I am learning data visualization as a fun way to use both these skill sets simultaneously.</p>\n<p>Website: https://mitten.lol</p>\n<p>Fediverse: @mitten@social.lol</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] Beautiful and Balanced: Using Color Theory in Data Visualization
+TRANSP:OPAQUE
+UID:6cd12c46-b7cd-5bd6-ac3d-2400083ad8fc
+URL:https://us.pycon.org/2025/schedule/presentation/48/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: Posters Session\n<p><a href="https://us.pycon.org/2025/schedule/posters/list/">Posters</a></p>\n
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] Posters Session
+TRANSP:OPAQUE
+UID:1b413f27-78b3-5590-b052-baefbc1465d9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: ExecExam: Streamlining Python Assessments with Automation and Personalized Feedback\nhttps://us.pycon.org/2025/schedule/presentation/46/\n<p>Assessing Python executable examinations at scale is challenging for educators who want to provide timely and actionable feedback to their students. Executable examinations\, where participants write\, modify\, or execute Python code to solve specific problems\, are widely used in educational environments to foster learning and evaluate student progress. However\, delivering accurate and constructive feedback on these assessments at scale remains difficult. This poster introduces ExecExam\, a tool designed to streamline and automate the assessment of Python programming tasks through Pytest integration\, enhancing student learning and the evaluation process .</p>\n<p>ExecExam leverages Pytest to automatically verify student solutions against pre-defined test cases but extends its functionality through advanced features such as tailored feedback reports\, a user-friendly interface\, and integration with large language models for enhanced programming advice. These additions make ExecExam more than just a Pytest test runner\, offering educators and students a comprehensive assessment and learning tool. The system generates detailed reports summarizing test outcomes\, highlighting successes as well as areas needing improvement. </p>\n<p>ExecExam also has an optional inclusion of large language models (LLMs)\, which provide students with detailed\, step-by-step recommendations on how to fix their code. With the integration of LiteLLM\, a unified API\, this tool provides sophisticated\, context-aware feedback for failing tests\, guiding students toward effective resolution of errors while fostering a deeper understanding of programming concepts. Unlike simply receiving a list of failed tests\, students can obtain specific suggestions for code fixes or alternative approaches that will pass the tests. This method cultivates a student’s programming education by giving them steps on how to improve.</p>\n<p>ExecExam helps instructors identify areas for improvement and empowers students to acknowledge their mistakes and enhance their skills. Currently used by college students and instructors\, this tool proves valuable in computer science education\, particularly for Python learners.</p>\nSpeakers:\nHemani Alaparthi\n<p>Hemani is currently a senior and a double major in Computer Science and Economics at Allegheny College\, where she holds a 4.0 GPA and has been recognized as a Distinguished Alden Scholar. A driven leader and problem solver\, Hemani has contributed to projects in data analysis and system optimization\, including her internship at Acutec\, where she identifies root causes of red tags in the manufacturing process to reduce financial losses. Her technical expertise spans database analysis\, system programming\, and command-line tools. Hemani is also dedicated to fostering community\, serving as a Resident Advisor and organizing events that promote collaboration and personal growth among students. With a strong commitment to both academic excellence and community service\, Hemani is focused on achieving personal and collective success.</p>\nPallas-Athena Cain\n<p>Pallas-Athena Cain is currently a senior and a double major in Computer Science and Art Science &amp\; Innovation at Allegheny College. A driven researcher and skilled problem solver\, Pallas-Athena has contributed to projects at the intersection of technology and art\, including autonomous underwater robots for water quality measurement and interactive AI installations. Her expertise spans Python\, Arduino\, and advanced electronics\, and she has shared her work at conferences like FLAIRS and the Regional Science Consortium. Pallas-Athena is passionate about STEM education\, having designed and taught K-12 curricula on IoT and robotics.</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] ExecExam: Streamlining Python Assessments with Automation and Personalized Feedback
+TRANSP:OPAQUE
+UID:1d2c8dbe-5006-52f9-b791-b0079c7885dc
+URL:https://us.pycon.org/2025/schedule/presentation/46/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: Atom to Innovation: Machine Learning for Materials Science\nhttps://us.pycon.org/2025/schedule/presentation/22/\n<p>Materials science is traditionally limited by time-consuming experimental methods for predicting new material properties. Our poster demonstrates how machine learning can dramatically accelerate materials discovery through computational techniques. By using Python libraries like PyTorch\, DScribe\, and ASE\, we will simulates and predict material properties before they're physically created.</p>\n<p>Imagine designing materials for solar panels\, electronic devices\, or medical implants through a computational model. Our approach uses neural network to transform atomic structures into predictive insights\, identifying patterns that human researchers might miss. We can predict critical material characteristics like mechanical strength\, electrical conductivity with unprecedented speed and accuracy.</p>\n<p>The poster will help connect computational methods with practical scientific research\, providing an interactive demonstration of how machine learning can enhance materials design.</p>\nSpeakers:\nManoj Pandey\n<p>Pythonista</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] Atom to Innovation: Machine Learning for Materials Science
+TRANSP:OPAQUE
+UID:6bf99f12-589a-5671-9b00-c71c452adf2c
+URL:https://us.pycon.org/2025/schedule/presentation/22/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: A visual exploration of vectors\nhttps://us.pycon.org/2025/schedule/presentation/30/\n<p>Vector embeddings are a way to encode a text or image as an array of floating-point numbers\, and they make it possible to perform similarity search on many kinds of content.\nThis poster will take you on a journey through vectors with as many diagrams and graphs as we can fit\, to help you understand the differences between embedding models\, distance metrics\, quantization schemes\, and input modalities. All of the visuals are generated using open-source tools like matplotlib and pandas\, and all the code is available in a repo for you to try yourself.\n↖ Come on a vector voyage! ↗</p>\nSpeakers:\nPamela Fox\n<p>Pamela Fox is a human that loves to learn\, teach\, and create. She's currently a Cloud Advocate in Python at Microsoft\, where she helps developers use Python with Azure\, VS Code\, and GitHub.</p>\n<p>On the teaching front\, Pamela has taught computer science at UC Berkeley and volunteered in bay area classrooms as part of the TEALS\, GirlsWhoCode\, and CoderDojo organizations. She also started the SF chapter of GirlDevelopIt\, where she taught dozens of web development workshops.</p>\n<p>Pamela's been in the tech industry for 15+ years now\, starting with her first role at Google as one of their first developer advocates. She went on to be an early full-stack engineer at Coursera and spent many years after at Khan Academy\, both as an engineer and the creator of the computer programming content.</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] A visual exploration of vectors
+TRANSP:OPAQUE
+UID:2d1002b3-2471-5f96-b51a-02077b7844bc
+URL:https://us.pycon.org/2025/schedule/presentation/30/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: Improving in Chess using Python\nhttps://us.pycon.org/2025/schedule/presentation/108/\n<p>Chess\, one of the most iconic board games in history\, has a global community nearing a billion players. With the help of powerful chess engines\, computers have democratized access to advanced chess analysis tools - tools that even top grandmasters use to analyze and improve their games.  </p>\n<p>The good news is that these top chess engines are free\, and as Python programmers\, we can utilize them to enhance our own chess skills. Chess positions and moves are denoted using standard notations like PGN and FEN\, making it easier to analyze and visualize them programmatically.  </p>\n<p>This poster will explore how to use Python to:\n- Parse chess games using the <code>python-chess</code> library.<br />\n- Analyze games with the help of chess engines to identify mistakes and learn from them.<br />\n- Visualize games and positions using the <code>chess-board</code> library.</p>\nSpeakers:\nAdarsh Divakaran\n<p>Adarsh is a Python geek and an experienced Backend Developer with expertise in building APIs using Python. He is currently the Co-founder and Lead Backend Engineer at LinkHQ and works on building a creator economy superapp.</p>\n<p>Adarsh started his Speaker journey by presenting at GraphQL Summit ‘22 and has spoken at various international Python conferences\, including Pycascades\, Europython\, PiterPy\, Djangocon US\, and Flaskcon.</p>\n<p>Explore his professional journey and insights on his <a href="https://adarshd.dev">personal website</a> and <a href="https://blog.adarshd.dev">blog</a>.</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] Improving in Chess using Python
+TRANSP:OPAQUE
+UID:7ddbb3a5-9226-5fb7-bdcd-f1b1aaecf48c
+URL:https://us.pycon.org/2025/schedule/presentation/108/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: Weather Data along the International Space Station Orbits\nhttps://us.pycon.org/2025/schedule/presentation/50/\n<p>We write a Python workflow that performs several web scraping tasks to gather future positions of the International Space Station (ISS) and weather forecast data (surface temperature\, surface pressure\, cloud coverage\, etc.) on those positions. We then perform reverse geocoding to identify the countries and oceans of the individual locations. The collected data are combined to create interactive maps where along ISS future orbits\, we can pinpoint at any location\, the weather conditions and the country (and associated flag) or the ocean. We also plot on the maps the major world cities along orbits. This work can be used by individuals who want to know when ISS will fly over their cities and what will be the weather.</p>\nSpeakers:\nJules Kouatchou\n<p>Jules Kouatchou is a Computational Scientist at NASA Goddard Space Flight Center (GSFC). Among other activities\, he is responsible for organizing and delivering Python related training courses in Data Science and GSFC.</p>\nKhalil Alexander\n<p>-</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] Weather Data along the International Space Station Orbits
+TRANSP:OPAQUE
+UID:16ff166a-bc1c-5c49-abb8-25131d570d84
+URL:https://us.pycon.org/2025/schedule/presentation/50/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: From Monolithic to Mosaic: Collaborative SLMs Ecosystems for Cost-Efficient\, Scalable\, and Edge-Ready solutions\nhttps://us.pycon.org/2025/schedule/presentation/101/\n<p>Large Language Models (LLMs) excel at tasks like filtering\, summarization\, and code generation\, but their high computational requirements lead to steep costs and limited scalability. This poster proposes a novel approach that breaks from the constraints of monolithic LLMs\, moving toward a lightweight ecosystem of open-source Small Language Models (SLMs) coordinated by a central Master Agent.</p>\n<p>In this architecture\, the Master Agent dynamically assigns requests to specialized Worker Agents\, each running an SLMs (Phi3\, Orca-mini\, etc) tuned for a particular function. By distributing tasks among smaller\, focused models\, we reduce resource consumption and cost. Scaling up or adapting to new tasks becomes as simple as adding or swapping Worker Agents\, avoiding the complexity and overhead of deploying an all-encompassing large model.</p>\n<p>Beyond cost and scalability\, this approach addresses the growing demand for edge-compatible solutions. Compact SLMs integrate seamlessly into edge devices ranging from IoT sensors to mobile apps which enables low-latency\, privacy-preserving\, and even offline language processing. This setup empowers developers to bring advanced language tasks directly to the user\, regardless of infrastructure or connectivity constraints.</p>\n<p>Our implementation\, primarily in Python and supported by open-source frameworks like Langchain\, Hugging Face LLMs\, etc. to foster community-driven enhancements. The poster will showcase how this multi-agent framework optimizes resource utilization\, simplifies maintenance through modular specialization\, and ensures robust failover for uninterrupted performance. Attendees will learn how to integrate these components into their own projects\, benefiting from a flexible\, future-proof platform that’s both affordable and adaptable.</p>\nSpeakers:\nRudraksh Karpe\n<p>Rudraksh Karpe is an GenAI Engineer at ZS Associates and a Google Summer of Code contributor with the openSUSE Project. Previously\, he has worked with the KDE community to enhance the eco-sustainability of KDE applications. Known for his tenacity\, Rudraksh has made significant contributions in AI/ML and Cloud-Native technologies. He is dedicated to applying these technologies to address real-world challenges and support the growth of the community.</p>\nSUMIT PANDEY\n<p>Sumit is an AI Engineer at <strong>ZS Associates</strong>\, specializing in <strong>Large Language Models (LLMs)</strong> and <strong>Advanced Data Science</strong>. He designs and deploys <strong>scalable AI pipelines</strong>\, <strong>event-driven workflows</strong>\, and <strong>agent-based orchestration</strong> using tools like <strong>LangChain</strong>\, <strong>LangGraph</strong>\, <strong>GPT-4 Vision</strong>\, and <strong>AWS Textract</strong>.</p>\n<p>He brings hands-on experience with <strong>RLHF</strong>\, <strong>QLoRA</strong>\, <strong>PEFT</strong>\, and <strong>RAG</strong>\, fine-tuning models for real-world impact. His work spans <strong>performance evaluation</strong> using metrics such as <strong>GLUE</strong>\, <strong>MMLU</strong>\, <strong>ROUGE</strong>\, and <strong>RAGAS</strong>\, and includes building observability modules and microservices for secure financial data processing.</p>\n<p>Sumit holds a <strong>B.Tech in IT</strong> and a <strong>Diploma in Data Science from IIT Madras</strong>. He is an inventor on patents for AI-powered tools like a <strong>cloud-based summarization engine</strong> and an <strong>AI-assisted home design solution</strong>. His project portfolio includes legal AI chatbots\, LSTM-based sentiment analysis\, and hybrid NLP systems.</p>\n<p>With a strong foundation in <strong>ML\, DL\, and NLP</strong>\, Sumit combines research-driven insights with practical engineering to build robust\, user-centric GenAI solutions that scale.</p>\n<p>🔗 <strong>LinkedIn</strong>: https://www.linkedin.com/in/sqrt676/</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] From Monolithic to Mosaic: Collaborative SLMs Ecosystems for Cost-Efficient\, Scalable\, and Edge-Ready solutions
+TRANSP:OPAQUE
+UID:e61c11fc-8b03-5759-91f5-d1d6df5d2874
+URL:https://us.pycon.org/2025/schedule/presentation/101/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: Putting a Face to the Pattern: Applying Time-Series Classification & Clustering to Transmission Load Patterns\nhttps://us.pycon.org/2025/schedule/presentation/4/\n<p>In recent times\, Time Series-Based Machine Learning has been increasingly relevant to the utilities industry. As demand in electricity grows and new forms of electricity usage emerges\, so does the necessity to identify load growth patterns in real-time. As such\, while Time Series Classification and Clustering is still an emerging field of study in the Machine Learning space\, it has been one of the most relevant topics in the utilities industry. Efforts into applying Time Series Classification/Clustering in the utilities space\, specifically pertaining to load\, are ongoing\, with a mix of both successes and failures. Aided by packages such as Aeon and Numpy\, experimentation have included classification of existing load patterns through various models such as HIVECOTEv2\, DTW+KNN\, etc. at various granularities (yearly\, monthly\, etc.). Other experiments have included transforming load data into frequencies through discrete fourier transform and applying similar models. Some of the challenges faced have included classifying classes with low class priors (few cases in training data)\, identifying partial time series\, and identifying new load patterns in conjunction with existing loads.</p>\n<p>This poster intends to highlight ongoing experiments\, existing challenges\, and the packages used.</p>\n<p>Audience – Machine Learning Practitioners/Enthusiasts\, People in Utilities\nLevel – Some Experience</p>\nSpeakers:\nLaura Walter\n<p>Laura Walter is a senior lead data scientist in Advanced Analytics at PJM Interconnection with 20 years of experience in the energy industry. She is the technical lead and advocate for advanced data solutions\, specializing in machine learning. </p>\n<p>At PJM\, Laura began in 2008 in Performance Compliance\, analyzing generator offers. She then transitioned to Market Analysis\, followed by the Finance Division. Most recently\, she worked in the Emerging Markets Department\, where she led the development and implementation of rules for FERC Order 841: Energy Storage Market Integration.</p>\n<p>Before joining PJM\, Laura worked at FirstEnergy\, focusing on load and price forecasting as well as commodity supply planning.</p>\n<p>Laura holds a Bachelor of Arts and a Master of Arts in economics from Kent State University. She has also completed graduate coursework in electrical engineering at Drexel University and completed extensive graduate coursework at the University of Akron\, where she also taught statistics courses. </p>\n<p>Outside of work\, Laura is a certified yoga instructor and passionate about promoting well-being. She teaches yoga weekly at a local library\, combining her love for community connection with her passion for wellness.</p>\nAlexander Wang\n<p>I am a Drexel graduate currently working at PJM Interconnection in the Corporate Rotation Program.</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] Putting a Face to the Pattern: Applying Time-Series Classification & Clustering to Transmission Load Patterns
+TRANSP:OPAQUE
+UID:61b6e09f-b86d-5ad4-b682-2b3cb964c079
+URL:https://us.pycon.org/2025/schedule/presentation/4/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: Infomaid -- An Offline AI Text-Generative Tool To Support Ethical Learning With Textual Assistance\nhttps://us.pycon.org/2025/schedule/presentation/144/\n<p>Generative AI technologies are gaining popularity as tools to assist users in managing and completing common textual tasks. However\, web-hosted AI tools create privacy concerns since users cannot safely experiment with their generative systems without leaving behind pieces of personal data.</p>\n<p>To address this issue\, we propose Infomaid – an innovative textual AI assistant driven by the Ollama AI framework. This offline tool serves as both an AI teaching tool and a textual assistant that is free from Internet dependency. By allowing users to submit prompts and receive organized output reports in Markdown format\, Infomaid facilitates safe experimentation with AI-driven text processing\, generation\, and assistance.</p>\n<p>Written in Python\, Infomaid's modular design encourages users to experiment\, extend\, and customize its capabilities\, fostering a hands-on and diverse learning experience. To facilitate the archival (or publication) of results\, one of Infomaid’s key features is the ability to document outputs in neatly structured Markdown files\, ensuring clarity and organization. This format enables easy integration into documentation workflows or collaborative projects.</p>\n<p>The Infomaid project\, hosted on GitHub as an open source project\, is designed for educators\, students\, and professionals who want to explore and learn about ethical AI-driven text processing\, generation\, and assistance in a safe\, private\, and offline context. Whether summarizing documents\, generating reports\, drafting content\, or organizing information\, Infomaid serves to simplify complex tasks and workflows into seamless operations\, making it a helpful resource for areas with limited Internet access or users prioritizing data privacy and security.</p>\nSpeakers:\nOliver Bonham-Carter\n<p>Oliver Bonham-Carter is an Associate Professor at Allegheny College at the Department of Computer and Information Science. While walks along the beach during sunset are also very nice\, OBC prefers hanging out with his students in Data Science class.</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] Infomaid -- An Offline AI Text-Generative Tool To Support Ethical Learning With Textual Assistance
+TRANSP:OPAQUE
+UID:2c39cac6-317e-5a8f-97d5-d62ba05e687a
+URL:https://us.pycon.org/2025/schedule/presentation/144/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: Building low-carbon websites with Wagtail & Django\nhttps://us.pycon.org/2025/schedule/presentation/82/\n<p>How much do you know about websites’ carbon footprint? The web’s environmental sustainability is an important consideration for some\, and an afterthought for others. But everyone needs a better understanding of exactly what moves the needle – and simple things that can reduce one’s footprint.</p>\n<p><a href="https://wagtail.org/">Wagtail</a> is an open source content management system built with Python and Django. In recent years\, Wagtail has made huge investments in lowering websites’ carbon footprint. We will show some of the background research\, major sustainability improvements in Wagtail\, and how to leverage these capabilities in Wagtail to reduce your own website's carbon footprint\, including:\n- Automated checks that are available to identify improvements\n- Images: beyond file size\, what moves the needle\n- Tools to measure the energy consumption of Python code specifically</p>\nSpeakers:\nVince Salvino\n<p>Vince Salvino has over 10 years' experience with Python\, ranging from Fortune 500 companies to small startups. Hailing from gritty Cleveland\, Ohio\, Vince is founder of Python-based web hosting platform CodeRed Cloud\, and contributes to several open-source Django packages including Wagtail CMS.</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] Building low-carbon websites with Wagtail & Django
+TRANSP:OPAQUE
+UID:fef93f85-e2c2-5fa9-b966-04984253a06e
+URL:https://us.pycon.org/2025/schedule/presentation/82/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: Conformal Prediction: Quantifying Confidence in ML Model Predictions\nhttps://us.pycon.org/2025/schedule/presentation/7/\n<p>Machine learning models are powerful and helpful\, but their value increases when we understand how confident we can be in their predictions. Enter conformal prediction. Using Python libraries like MAPIE\, we can create upper and lower bounds of a prediction interval for point estimates. For classification tasks\, we can use the underlying probabilities of algorithms like logistic regression to understand how confident the model is in choosing a given outcome.</p>\n<p>From a practical standpoint\, obtaining a clear measurement of confidence like this allows practitioners to make relevant business decisions\, for example. A subscription service may decline to launch a new feature if its underlying model cannot classify user types with high confidence. Similarly\, a model that predicts monetary amounts won't be very helpful if the prediction intervals are especially wide and include extra noise.</p>\nSpeakers:\nAlexander Olden\n<p>I'm a senior data scientist at KUNGFU.AI\, with a focus on product analytics. I'm passionate about helping organizations understand their users through data. I'm also a former teacher who loves helping non-technical audiences understand technical material. Finally\, I've recently launched a blog on Medium called The Data Are Just Packed (bonus points if you get the allusion).</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] Conformal Prediction: Quantifying Confidence in ML Model Predictions
+TRANSP:OPAQUE
+UID:8b1dfff0-3f7f-5032-b939-7971133317e8
+URL:https://us.pycon.org/2025/schedule/presentation/7/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: ClimateML: Machine Learning for Climate Model Downscaling\nhttps://us.pycon.org/2025/schedule/presentation/9/\n<p>Global climate models provide crucial insights but lack local precision\, limiting their practical application for regional planning and adaptation strategies. This poster presents a Python-based framework for climate model downscaling\, using deep learning to bridge the gap between global and local predictions.</p>\n<p>The approach leverages PyTorch's neural network capabilities and Python's scientific computing stack for processing complex climate data. The framework combines xarray for multi-dimensional data handling\, dask for distributed computing\, and custom PyTorch layers optimized for atmospheric pattern recognition. Through MLflow's experiment tracking and Panel's interactive visualizations\, we demonstrate how different neural architectures affect prediction accuracy across various regions and climate variables. This downscaling approach significantly improves prediction accuracy\, reducing the Root Mean Square Error (RMSE) by 40-65% compared to traditional statistical methods\, with correlation coefficients (r²) improving significantly for temperature predictions in complex terrain regions.</p>\n<p>By integrating domain-specific libraries like metpy with NumPy's computational capabilities\, we showcase how Python enables scalable climate science .Visitors to our poster can explore live examples showing how machine learning improves climate predictions. The implementation demonstrates how Python makes it possible to process large amounts of climate data efficiently and create accurate local forecasts.</p>\nSpeakers:\nNeeraj Pandey\n<p>Neeraj is a polyglot developer passionate about bridging different technologies. Over the years\, he has worked on a variety of full-stack software and data-science applications\, computational arts\, and quantitative finance projects\, embracing the challenge of creating innovative tools and applications. As an active Python community member\, he has shared his expertise through talks and workshops at numerous conferences and meet-ups.</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] ClimateML: Machine Learning for Climate Model Downscaling
+TRANSP:OPAQUE
+UID:cc2001de-e14c-5067-b8dc-daced3dbdc4d
+URL:https://us.pycon.org/2025/schedule/presentation/9/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: How to refactor with confidence\nhttps://us.pycon.org/2025/schedule/presentation/139/\n<p>Refactoring is a crucial part of the development process. But refactoring can be <strong>scary</strong>: how do you know that your changes haven't introduced subtle bugs? Perhaps your refactored code now raises an exception in some cases\, or has an edge case that returns a slightly different value. Unit tests can help\, but what can you do about <strong>unexpected</strong> differences in behavior?</p>\n<p>This poster will show you how to use <a href="https://github.com/pschanely/CrossHair">CrossHair</a>'s <a href="https://crosshair.readthedocs.io/en/latest/diff_behavior.html">diffbehavior</a> command\, your secret weapon for confident refactoring. CrossHair uses a constraint solver to efficiently find inputs that reveal discrepancies between your original code and the refactored version.</p>\n<p>Stop by to learn more about CrossHair's diffbehavior command and start refactoring with confidence!</p>\nSpeakers:\nPhillip Schanely\n<p>Phillip is a database and program language enthusiast. (but is especially enthusiastic about Python!) He has had the opportunity to work with Python for 20 years: in various startups\, at Google\, and as a independent consultant. Phillip is the primary developer behind CrossHair\, a tool that brings the power of modern theorem provers to help Python developers.</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] How to refactor with confidence
+TRANSP:OPAQUE
+UID:42041147-1fbc-5c24-90de-6a2e921ce120
+URL:https://us.pycon.org/2025/schedule/presentation/139/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: posters\nKind: poster\nName: AmpliconFinder: A Python Based Bioinformatics Pipeline for Early Stage Cancer Diagnosis\nhttps://us.pycon.org/2025/schedule/presentation/44/\n<p>Early diagnosis is vital for significantly improving treatment outcomes for cancer patients\, as the chances of successful treatment and survival greatly increase when the disease is caught before it spreads. A promising area of research in early cancer detection focuses on tiny\, circular pieces of DNA called extrachromosomal circular DNAs (ecDNAs) or amplicons. These DNA circles are produced by tumor cells and can be identified in the blood or tissue samples of patients with various types of cancer. Recent advancements in DNA sequencing technology\, capable of generating individual sequence reads as long as 100 kb\, have made detecting these ecDNAs feasible. As sequencing costs continue to decrease\, ecDNAs are now being sequenced from thousands of patients\, creating vast datasets that require sophisticated computational tools for analysis.</p>\n<p>To address this need\, we developed a bioinformatics tool named AmpliconFinder\, which integrates a convolutional neural network (CNN) trained on long-read sequencing data from cancer patients with a robust bioinformatics pipeline—all implemented in Python. The tool leverages powerful libraries such as scikit-learn and TensorFlow for CNN development\, and pandas\, numpy\, and matplotlib for data processing and visualization. Circular DNA amplicons\, which serve as early-stage cancer biomarkers\, can be studied using AmpliconFinder\, providing a pathway for doctors to harness cost-effective sequencing data for simple\, non-invasive early cancer detection\, ultimately leading to more effective treatments.</p>\nSpeakers:\nHaque Ishfaq\n<p>Haque Ishfaq is a PhD student at McGill University and Mila - Quebec AI Institute. His research interests span machine learning\, statistical learning theory\, reinforcement learning and bandits. Before moving to Montreal\, he enjoyed several years of sunny weather at Stanford University where he completed his bachelors degree in mathematical and computational science as a McCaw Scholar and masters degree in statistics.</p>\nAtia Binte Amin\n<p>Atia Amin is a PhD student at McGill University in the department of Human Genetics where she is working on bioinformatics. She finished her masters program at the University of South Dakota where she performed research on engineering abiotic stress resistant crop plants. Having born and brought up in Bangladesh\, Atia is also passionate about popularizing STEM among girls in Bangladesh and other developing countries.</p>
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[poster] AmpliconFinder: A Python Based Bioinformatics Pipeline for Early Stage Cancer Diagnosis
+TRANSP:OPAQUE
+UID:d4973a22-6380-56d0-a1ff-480019d6c8f5
+URL:https://us.pycon.org/2025/schedule/presentation/44/
+END:VEVENT
+END:VCALENDAR
