@@ -24,9 +24,11 @@ schedule_df = (
         )
     )
 )
-posters_session_item = next(i for i in schedule_model.schedule if i.name == "Posters Session")
+posters_session_item = next(
+    (i for i in schedule_model.schedule if i.name == "Posters Session"), None
+)
 poster_schedule_items = []
-if posters_session_item.sessions:
+if posters_session_item and posters_session_item.sessions:
     posters_df = pd.json_normalize(schedule_df.sessions.dropna().explode()).assign(
         speaker_ids=lambda df: df.speakers.apply(
             lambda xs: [] if isinstance(xs, float) and pd.isna(xs) else [x["id"] for x in xs]
