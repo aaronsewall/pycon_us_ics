@@ -69,6 +69,8 @@ Not all events had a schedule, notable exclusions as of 5-14-25 are:
 * Packaging Summit
 * WebAssembly Summit
 
+ICS Links
+
 * https://aaronsewall.github.io/pycon_us_ics/community_organizers_summit.ics
 * https://aaronsewall.github.io/pycon_us_ics/education_summit.ics
 * https://aaronsewall.github.io/pycon_us_ics/flaskcon.ics
