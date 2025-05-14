@@ -5,7 +5,7 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Section: events\nKind: event\nName: PyLadies Auction\, pre-registration required\n<p>PyLadies Auction\, pre-registration required</p>\n
-DTEND:20250518T013000Z
+DTEND:20250518T023000Z
 LOCATION:Ballroom A
 DTSTART:20250517T224500Z
 STATUS:CONFIRMED

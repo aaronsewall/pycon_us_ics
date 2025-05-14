@@ -13,48 +13,6 @@ from pycon_us_ics.model import Schedule, ScheduleItem, Speaker
 
 PYCON_YEAR = 2025
 
-resp = requests.get(f"https://us.pycon.org/{PYCON_YEAR}/schedule/conference.json")
-schedule_model = Schedule.model_validate(resp.json())
-schedule_df = (
-    pd.json_normalize(s.model_dump() for s in schedule_model.schedule)
-    .replace({None: np.nan})
-    .assign(
-        speaker_ids=lambda df: df.speakers.apply(
-            lambda xs: [] if isinstance(xs, float) and pd.isna(xs) else [x["id"] for x in xs]
-        )
-    )
-)
-posters_session_item = next(
-    (i for i in schedule_model.schedule if i.name == "Posters Session"), None
-)
-poster_schedule_items = []
-if posters_session_item and posters_session_item.sessions:
-    posters_df = pd.json_normalize(schedule_df.sessions.dropna().explode()).assign(
-        speaker_ids=lambda df: df.speakers.apply(
-            lambda xs: [] if isinstance(xs, float) and pd.isna(xs) else [x["id"] for x in xs]
-        ),
-        start=posters_session_item.start,
-        end=posters_session_item.end,
-        duration=posters_session_item.duration,
-        room=posters_session_item.room,
-        rooms=lambda df: len(df) * [posters_session_item.rooms],
-        list_render=False,
-        released=True,
-        tags="",
-        license="CC BY",
-        kind=posters_session_item.kind,
-        section=posters_session_item.section,
-    )
-    poster_schedule_items = [
-        ScheduleItem.model_validate(schedule_item)
-        for schedule_item in posters_df.replace(np.nan, None).to_dict(orient="records")
-    ]
-
-schedule_items = [
-    ScheduleItem.model_validate(schedule_item)
-    for schedule_item in schedule_df.replace(np.nan, None).to_dict(orient="records")
-]
-
 
 # TODO we can double check duration but can't provide both that and end
 
@@ -99,39 +57,81 @@ def construct_calendar(events: List[Event], extra_metadata: Dict[str, str]) -> C
     return calendar
 
 
-for key, group in itertools.groupby(
-    sorted(schedule_items + poster_schedule_items, key=lambda si: (si.kind, si.conf_key)),
-    key=lambda si: si.kind,
-):
-    with open(os.path.abspath(f"../docs/kind/{key}.ics"), "w") as f:
-        f.write(
-            construct_calendar(
-                events=[construct_event(si) for si in group],
-                extra_metadata={"X-WR-CALNAME": f"PyCon {PYCON_YEAR} {key.capitalize()}"},
-            ).serialize()
+if __name__ == "__main__":
+    resp = requests.get(f"https://us.pycon.org/{PYCON_YEAR}/schedule/conference.json")
+    schedule_model = Schedule.model_validate(resp.json())
+    schedule_df = (
+        pd.json_normalize(s.model_dump() for s in schedule_model.schedule)
+        .replace({None: np.nan})
+        .assign(
+            speaker_ids=lambda df: df.speakers.apply(
+                lambda xs: [] if isinstance(xs, float) and pd.isna(xs) else [x["id"] for x in xs]
+            )
         )
-
-for key, group in itertools.groupby(
-    sorted(schedule_items + poster_schedule_items, key=lambda si: (si.section, si.conf_key)),
-    key=lambda si: si.section,
-):
-    with open(os.path.abspath(f"../docs/section/{key}.ics"), "w") as f:
-        f.write(
-            construct_calendar(
-                events=[construct_event(si) for si in group],
-                extra_metadata={"X-WR-CALNAME": f"PyCon {PYCON_YEAR} {key.capitalize()}"},
-            ).serialize()
-        )
-
-with open("../docs/all_events.ics", "w") as f:
-    f.write(
-        construct_calendar(
-            events=[
-                construct_event(schedule_item)
-                for schedule_item in sorted(
-                    schedule_items + poster_schedule_items, key=lambda si: si.conf_key
-                )
-            ],
-            extra_metadata={"X-WR-CALNAME": f"PyCon {PYCON_YEAR} All Events"},
-        ).serialize()
     )
+    posters_session_item = next(
+        (i for i in schedule_model.schedule if i.name == "Posters Session"), None
+    )
+    poster_schedule_items = []
+    if posters_session_item and posters_session_item.sessions:
+        posters_df = pd.json_normalize(schedule_df.sessions.dropna().explode()).assign(
+            speaker_ids=lambda df: df.speakers.apply(
+                lambda xs: [] if isinstance(xs, float) and pd.isna(xs) else [x["id"] for x in xs]
+            ),
+            start=posters_session_item.start,
+            end=posters_session_item.end,
+            duration=posters_session_item.duration,
+            room=posters_session_item.room,
+            rooms=lambda df: len(df) * [posters_session_item.rooms],
+            list_render=False,
+            released=True,
+            tags="",
+            license="CC BY",
+            kind=posters_session_item.kind,
+            section=posters_session_item.section,
+        )
+        poster_schedule_items = [
+            ScheduleItem.model_validate(schedule_item)
+            for schedule_item in posters_df.replace(np.nan, None).to_dict(orient="records")
+        ]
+
+    schedule_items = [
+        ScheduleItem.model_validate(schedule_item)
+        for schedule_item in schedule_df.replace(np.nan, None).to_dict(orient="records")
+    ]
+    for key, group in itertools.groupby(
+        sorted(schedule_items + poster_schedule_items, key=lambda si: (si.kind, si.conf_key)),
+        key=lambda si: si.kind,
+    ):
+        with open(os.path.abspath(f"../docs/kind/{key}.ics"), "w") as f:
+            f.write(
+                construct_calendar(
+                    events=[construct_event(si) for si in group],
+                    extra_metadata={"X-WR-CALNAME": f"PyCon {PYCON_YEAR} {key.capitalize()}"},
+                ).serialize()
+            )
+
+    for key, group in itertools.groupby(
+        sorted(schedule_items + poster_schedule_items, key=lambda si: (si.section, si.conf_key)),
+        key=lambda si: si.section,
+    ):
+        with open(os.path.abspath(f"../docs/section/{key}.ics"), "w") as f:
+            f.write(
+                construct_calendar(
+                    events=[construct_event(si) for si in group],
+                    extra_metadata={"X-WR-CALNAME": f"PyCon {PYCON_YEAR} {key.capitalize()}"},
+                ).serialize()
+            )
+
+    with open("../docs/all_events.ics", "w") as f:
+        f.write(
+            construct_calendar(
+                events=[
+                    construct_event(schedule_item)
+                    for schedule_item in sorted(
+                        schedule_items + poster_schedule_items, key=lambda si: si.conf_key
+                    )
+                ],
+                extra_metadata={"X-WR-CALNAME": f"PyCon {PYCON_YEAR} All Events"},
+            ).serialize()
+        )

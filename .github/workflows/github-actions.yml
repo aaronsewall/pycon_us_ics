@@ -57,6 +57,7 @@ jobs:
           source .venv/bin/activate
           cd pycon_us_ics
           python pycon.py
+          python parse_open_spaces.py
       - run: |
           git config user.name gitevents[bot]
           git config user.email ics@gitevents.org
