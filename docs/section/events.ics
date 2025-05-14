@@ -54,12 +54,12 @@ TRANSP:OPAQUE
 UID:c7f4282e-09be-55ff-9072-8f32d2e2e7d0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: events\nKind: summit\nName: Typing Summit\, pre-registration required\n<p>Typing Summit\, pre-registration required</p>\n
+DESCRIPTION:Section: events\nKind: summit\nName: Typing Summit\n<p>Typing Summit</p>\n
 DTEND:20250516T220000Z
 LOCATION:Room 319
 DTSTART:20250516T180000Z
 STATUS:CONFIRMED
-SUMMARY:[summit] Typing Summit\, pre-registration required
+SUMMARY:[summit] Typing Summit
 TRANSP:OPAQUE
 UID:31134ee0-5ddf-54b0-b632-5b28b78405ad
 END:VEVENT
@@ -194,12 +194,12 @@ TRANSP:OPAQUE
 UID:13272123-eef3-5f37-8cfa-568dbfd924d3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: events\nKind: summit\nName: Maintainers Summit\, pre-registration required\n<p>Maintainers Summit\, pre-registration required</p>\n
+DESCRIPTION:Section: events\nKind: summit\nName: Maintainers Summit\n<p>Maintainers Summit</p>\n
 DTEND:20250516T220000Z
 LOCATION:Room 402
 DTSTART:20250516T180000Z
 STATUS:CONFIRMED
-SUMMARY:[summit] Maintainers Summit\, pre-registration required
+SUMMARY:[summit] Maintainers Summit
 TRANSP:OPAQUE
 UID:e3f3533b-941f-5508-9d62-44b8724c9c55
 END:VEVENT
