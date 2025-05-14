@@ -60,6 +60,23 @@ https://pycon.us/os
 
 * https://aaronsewall.github.io/pycon_us_ics/open_spaces.ics
 
+Summits/Hatchery Agendas
+
+These are individually parsed from the subpages on https://us.pycon.org/2025/events/
+
+Not all events had a schedule, notable exclusions as of 5-14-25 are: 
+
+* Packaging Summit
+* WebAssembly Summit
+
+* https://aaronsewall.github.io/pycon_us_ics/community_organizers_summit.ics
+* https://aaronsewall.github.io/pycon_us_ics/education_summit.ics
+* https://aaronsewall.github.io/pycon_us_ics/flaskcon.ics
+* https://aaronsewall.github.io/pycon_us_ics/hometown_heroes.ics
+* https://aaronsewall.github.io/pycon_us_ics/language_summit.ics
+* https://aaronsewall.github.io/pycon_us_ics/maintainers_summit.ics
+* https://aaronsewall.github.io/pycon_us_ics/typing_summit.ics
+
 To subscribe via Google Calendar you can use the following links:
 
 ALL
@@ -91,3 +108,13 @@ Kind
 Open Spaces
 
 * https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/open_spaces.ics
+
+Summit/Hatchery Agendas
+
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/community_organizers_summit.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/education_summit.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/flaskcon.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/hometown_heroes.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/language_summit.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/maintainers_summit.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/typing_summit.ics
