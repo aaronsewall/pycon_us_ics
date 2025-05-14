@@ -1,0 +1,86 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:PyCon 2025 Summit
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: summit\nName: Python Language Summit\, pre-registration required!\n<p>Python Language Summit\, pre-registration required!</p>\n
+DTEND:20250514T211500Z
+LOCATION:Room 403/404
+DTSTART:20250514T130000Z
+STATUS:CONFIRMED
+SUMMARY:[summit] Python Language Summit\, pre-registration required!
+TRANSP:OPAQUE
+UID:f54e6af0-7bee-5845-a107-41088dd5c9c7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: summit\nName: Packaging Summit\, pre-registration required\n<p>Packaging Summit\, pre-registration required</p>\n
+DTEND:20250517T214500Z
+LOCATION:Room 319
+DTSTART:20250517T174500Z
+STATUS:CONFIRMED
+SUMMARY:[summit] Packaging Summit\, pre-registration required
+TRANSP:OPAQUE
+UID:88a493a9-e364-5006-8365-d7a17f255cea
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: summit\nName: Typing Summit\, pre-registration required\n<p>Typing Summit\, pre-registration required</p>\n
+DTEND:20250516T220000Z
+LOCATION:Room 319
+DTSTART:20250516T180000Z
+STATUS:CONFIRMED
+SUMMARY:[summit] Typing Summit\, pre-registration required
+TRANSP:OPAQUE
+UID:31134ee0-5ddf-54b0-b632-5b28b78405ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: summit\nName: Hatchery – Hometown Heros\n<p>Hatchery – Hometown Heros</p>\n
+DTEND:20250517T214500Z
+LOCATION:Room 317
+DTSTART:20250517T174500Z
+STATUS:CONFIRMED
+SUMMARY:[summit] Hatchery – Hometown Heros
+TRANSP:OPAQUE
+UID:4adf9b21-f862-570f-b5d1-80a20fba3ecd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: summit\nName: Hatchery - Community Organizer Summit\n<p>Hatchery - Community Organizer Summit</p>\n
+DTEND:20250517T170000Z
+LOCATION:Room 317
+DTSTART:20250517T143000Z
+STATUS:CONFIRMED
+SUMMARY:[summit] Hatchery - Community Organizer Summit
+TRANSP:OPAQUE
+UID:daa368f8-d161-54f1-9ccc-80fe7a338b45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: summit\nName: Maintainers Summit\, pre-registration required\n<p>Maintainers Summit\, pre-registration required</p>\n
+DTEND:20250516T220000Z
+LOCATION:Room 402
+DTSTART:20250516T180000Z
+STATUS:CONFIRMED
+SUMMARY:[summit] Maintainers Summit\, pre-registration required
+TRANSP:OPAQUE
+UID:e3f3533b-941f-5508-9d62-44b8724c9c55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: summit\nName: WebAssembly Summit\, pre-registration required!\n<p>WebAssembly Summit\, pre-registration required!</p>\n
+DTEND:20250515T210000Z
+LOCATION:Room 402
+DTSTART:20250515T130000Z
+STATUS:CONFIRMED
+SUMMARY:[summit] WebAssembly Summit\, pre-registration required!
+TRANSP:OPAQUE
+UID:aefd1539-3b9d-5597-90e1-407b404fd168
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: summit\nName: Education Summit\, pre-registration required\n<p>Education Summit\, pre-registration required</p>\n
+DTEND:20250515T203000Z
+LOCATION:Room 403/404
+DTSTART:20250515T130000Z
+STATUS:CONFIRMED
+SUMMARY:[summit] Education Summit\, pre-registration required
+TRANSP:OPAQUE
+UID:7cf3e113-9221-52a0-befd-c30770fd12df
+END:VEVENT
+END:VCALENDAR

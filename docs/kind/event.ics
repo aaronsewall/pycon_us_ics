@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:PyCon 2025 Event
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: PyLadies Auction\, pre-registration required\n<p>PyLadies Auction\, pre-registration required</p>\n
+DTEND:20250518T013000Z
+LOCATION:Ballroom A
+DTSTART:20250517T224500Z
+STATUS:CONFIRMED
+SUMMARY:[event] PyLadies Auction\, pre-registration required
+TRANSP:OPAQUE
+UID:1d8f92f2-e9c6-5ed0-b36c-3c25f3690fe9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: Job Fair and Poster Sessions\n<p>Job Fair and Poster Sessions</p>\n
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T133000Z
+STATUS:CONFIRMED
+SUMMARY:[event] Job Fair and Poster Sessions
+TRANSP:OPAQUE
+UID:e440f4d1-3201-5411-8025-f8946d8fcc03
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: Hatchery - FlaskCon\n<p>Hatchery - FlaskCon</p>\n
+DTEND:20250516T220000Z
+LOCATION:Room 317
+DTSTART:20250516T180000Z
+STATUS:CONFIRMED
+SUMMARY:[event] Hatchery - FlaskCon
+TRANSP:OPAQUE
+UID:cd5f8c29-ad6b-51f7-967a-c579af8b52b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: PSF Members Lunch\, pre-registration required\n<p>PSF Members Lunch\, pre-registration required</p>\n
+DTEND:20250517T180000Z
+LOCATION:Room 403/404
+DTSTART:20250517T163000Z
+STATUS:CONFIRMED
+SUMMARY:[event] PSF Members Lunch\, pre-registration required
+TRANSP:OPAQUE
+UID:909afefa-7c9f-5219-9d0a-29437b4ce12b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: Mentored Sprints\n<p>Mentored Sprints</p>\n
+DTEND:20250517T213000Z
+LOCATION:Room 402
+DTSTART:20250517T174500Z
+STATUS:CONFIRMED
+SUMMARY:[event] Mentored Sprints
+TRANSP:OPAQUE
+UID:7d471186-08f6-5bff-acba-3a4c805845a6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: Introduction to Sprints Workshop\n<p>Introduction to Sprints Workshop</p>\n
+DTEND:20250518T233000Z
+LOCATION:Room 402
+DTSTART:20250518T213000Z
+STATUS:CONFIRMED
+SUMMARY:[event] Introduction to Sprints Workshop
+TRANSP:OPAQUE
+UID:3ecc9f2e-545c-5ed8-b5c7-e5ce4ddc7aa5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: PyLadies Lunch\, pre-registration required\n<p>PyLadies Lunch\, pre-registration required</p>\n
+DTEND:20250518T170000Z
+LOCATION:Room 403/404
+DTSTART:20250518T160000Z
+STATUS:CONFIRMED
+SUMMARY:[event] PyLadies Lunch\, pre-registration required
+TRANSP:OPAQUE
+UID:d225bc4e-dde0-5d1c-8c4b-975be360414c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: Hatchery - Humble Data\, pre-registration required\n<p>Hatchery - Humble Data\, pre-registration required</p>\n
+DTEND:20250518T191500Z
+LOCATION:Room 317
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[event] Hatchery - Humble Data\, pre-registration required
+TRANSP:OPAQUE
+UID:8fa975f1-367d-5016-a038-60179440d304
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: Opening Reception\n<p>Opening Reception</p>\n
+DTEND:20250515T230000Z
+LOCATION:Hall A
+DTSTART:20250515T210000Z
+STATUS:CONFIRMED
+SUMMARY:[event] Opening Reception
+TRANSP:OPAQUE
+UID:0cd707d8-080a-5a7c-905e-632183f25fab
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: Newcomer Orientation\n<p>Newcomer Orientation</p>\n
+DTEND:20250515T210000Z
+LOCATION:Hall B
+DTSTART:20250515T203000Z
+STATUS:CONFIRMED
+SUMMARY:[event] Newcomer Orientation
+TRANSP:OPAQUE
+UID:47886d2f-f044-587b-92a2-388590ed8ec0
+END:VEVENT
+END:VCALENDAR

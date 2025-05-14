@@ -503,12 +503,12 @@ UID:965e199e-beaa-5493-ae10-2223b3dc1e2e
 URL:https://us.pycon.org/2025/schedule/presentation/39/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: lightning-talks\nName: [Lightning Talks](/2025/\n<p><a href="/2025/events/lightning-talks/">Lightning Talks</a></p>\n
+DESCRIPTION:Section: talks\nKind: lightning-talks\nName: [Lightning Talks](/2025/events/lightning-talks/)\n<p><a href="/2025/events/lightning-talks/">Lightning Talks</a></p>\n
 DTEND:20250517T224500Z
 LOCATION:Hall B
 DTSTART:20250517T214500Z
 STATUS:CONFIRMED
-SUMMARY:[lightning-talks] [Lightning Talks](/2025/
+SUMMARY:[lightning-talks] [Lightning Talks](/2025/events/lightning-talks/)
 TRANSP:OPAQUE
 UID:7c2b9fda-1449-536d-aa63-f6ea01836442
 END:VEVENT
@@ -546,12 +546,12 @@ UID:064d2598-0b74-552f-8777-1270881d55c6
 URL:https://us.pycon.org/2025/schedule/presentation/20/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: PSF - Update from our Se\n<p>PSF - Update from our Security Engineers</p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: PSF - Update from our Security Engineers\n<p>PSF - Update from our Security Engineers</p>\n
 DTEND:20250518T140000Z
 LOCATION:Hall B
 DTSTART:20250518T134500Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] PSF - Update from our Se
+SUMMARY:[plenary] PSF - Update from our Security Engineers
 TRANSP:OPAQUE
 UID:bbe29010-73fa-5eb9-b57b-2e45b15d8c8b
 END:VEVENT
@@ -567,22 +567,22 @@ UID:3c7ea849-af4c-57de-993f-6062c2e37152
 URL:https://us.pycon.org/2025/schedule/presentation/88/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: lightning-talks\nName: [Lightning Talks](/2025/\n<p><a href="/2025/events/lightning-talks/">Lightning Talks</a></p>\n
+DESCRIPTION:Section: talks\nKind: lightning-talks\nName: [Lightning Talks](/2025/events/lightning-talks/)\n<p><a href="/2025/events/lightning-talks/">Lightning Talks</a></p>\n
 DTEND:20250516T230000Z
 LOCATION:Hall B
 DTSTART:20250516T220000Z
 STATUS:CONFIRMED
-SUMMARY:[lightning-talks] [Lightning Talks](/2025/
+SUMMARY:[lightning-talks] [Lightning Talks](/2025/events/lightning-talks/)
 TRANSP:OPAQUE
 UID:7911a2fe-90e2-5884-a9a5-ffbca4979c3f
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: Python Software Foundati\n<p>Python Software Foundation Update &amp\; Awards</p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: Python Software Foundation Update & Awards\n<p>Python Software Foundation Update &amp\; Awards</p>\n
 DTEND:20250518T210500Z
 LOCATION:Hall B
 DTSTART:20250518T203500Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] Python Software Foundati
+SUMMARY:[plenary] Python Software Foundation Update & Awards
 TRANSP:OPAQUE
 UID:7afb5aa3-54df-586b-a82e-5d375db7b406
 END:VEVENT
@@ -889,12 +889,12 @@ UID:22a299e0-1845-536f-8d8a-59034e52e600
 URL:https://us.pycon.org/2025/schedule/presentation/79/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: [Job Fair and Community \n<p><a href="https://us.pycon.org/2025/events/job-fair/">Job Fair and Community Showcase</a></p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: [Job Fair and Community Showcase](https://us.pycon.org/2025/events/job-fair/)\n<p><a href="https://us.pycon.org/2025/events/job-fair/">Job Fair and Community Showcase</a></p>\n
 DTEND:20250518T170000Z
 LOCATION:Hall A
 DTSTART:20250518T140000Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] [Job Fair and Community 
+SUMMARY:[plenary] [Job Fair and Community Showcase](https://us.pycon.org/2025/events/job-fair/)
 TRANSP:OPAQUE
 UID:d7b65d1b-5fbc-53c3-b8c8-a538cb3d070a
 END:VEVENT
@@ -953,12 +953,12 @@ UID:2afb56dc-31ce-5c09-9cde-6b07ac2bebaf
 URL:https://us.pycon.org/2025/schedule/presentation/158/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: lightning-talks\nName: [Lightning Talks](/2025/\n<p><a href="/2025/events/lightning-talks/">Lightning Talks</a></p>\n
+DESCRIPTION:Section: talks\nKind: lightning-talks\nName: [Lightning Talks](/2025/events/lightning-talks/)\n<p><a href="/2025/events/lightning-talks/">Lightning Talks</a></p>\n
 DTEND:20250517T130000Z
 LOCATION:Hall B
 DTSTART:20250517T120000Z
 STATUS:CONFIRMED
-SUMMARY:[lightning-talks] [Lightning Talks](/2025/
+SUMMARY:[lightning-talks] [Lightning Talks](/2025/events/lightning-talks/)
 TRANSP:OPAQUE
 UID:dbb5320c-e6b1-5f5c-8819-6c25c2531101
 END:VEVENT
@@ -1135,12 +1135,12 @@ UID:a7d7e5e1-98c8-502d-bbfd-4c7ab64e1bc4
 URL:https://us.pycon.org/2025/schedule/presentation/137/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: lightning-talks\nName: [Lightning Talks](/2025/\n<p><a href="/2025/events/lightning-talks/">Lightning Talks</a></p>\n
+DESCRIPTION:Section: talks\nKind: lightning-talks\nName: [Lightning Talks](/2025/events/lightning-talks/)\n<p><a href="/2025/events/lightning-talks/">Lightning Talks</a></p>\n
 DTEND:20250518T130000Z
 LOCATION:Hall B
 DTSTART:20250518T120000Z
 STATUS:CONFIRMED
-SUMMARY:[lightning-talks] [Lightning Talks](/2025/
+SUMMARY:[lightning-talks] [Lightning Talks](/2025/events/lightning-talks/)
 TRANSP:OPAQUE
 UID:1835b973-244f-5072-a03f-21f9fe41d2c9
 END:VEVENT
@@ -1253,7 +1253,7 @@ TRANSP:OPAQUE
 UID:2eda13b2-8ccd-5ab7-a305-3813c83432e2
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: charla\nName: Django Asíncrono: Desbloqueando el Poder de la Programación Async\nhttps://us.pycon.org/2025/schedule/presentation/36/\n<p>Con la llegada de Django 3.1\, el framework dio un gran salto hacia el futuro al integrar soporte para asincronismo. Pero\, ¿qué significa esto para quienes desarrollamos aplicaciones web? En esta charla\, te voy a enseñar cómo usar las herramientas de asincronismo en Django para construir aplicaciones más rápidas y eficientes.</p>\n<p>Empezaremos con una breve introducción a asyncio\, la base del asincronismo en Python. ¿Qué son los event loops? ¿Qué hacen async y await? Si nunca has trabajado con código asíncrono\, no te preocupes\, aquí lo explicaremos de forma simple.</p>\n<p>Después\, entraremos directo en el mundo de Django:\n- Escribiremos vistas asíncronas (async def) y exploraremos casos prácticos donde el asincronismo realmente marca la diferencia.\n- Veremos cómo Django adopta la convención de agregar una “a” a métodos asíncronos (aget\, apost) para diferenciarlos de las versiones síncronas.\n- Compararemos el rendimiento entre vistas síncronas y asíncronas mediante pruebas reales\, mostrando cómo manejar múltiples peticiones a APIs externas de manera eficiente.\n- Discutiremos las limitaciones actuales del ORM de Django (spoiler: sigue siendo síncrono) y cómo manejarlas en proyectos modernos.</p>\n<p>Para cerrar\, incluiré una demostración práctica y ejemplos de código reales que puedes llevarte a casa. Esta charla está pensada para desarrolladores de nivel intermedio que quieran llevar sus proyectos Django al siguiente nivel y entender cómo el asincronismo puede transformar la manera en que construimos aplicaciones web.</p>\nSpeakers:\nLuis Martinez\n<p>I have been working in software development since 2014\, I am a technologist in informatics\, and web python developer. I also like to learn more about development\, I worked remotely at Swapps.com as Full Stack Software Engineer\, after that I worked at Platzi.com as a Backend software engineer with Python / Django also I was a Cloud Engineer with AWS.</p>\n<p>I am also the teacher of the Django\, Django Rest Framework courses in Platzi.com</p>
+DESCRIPTION:Section: talks\nKind: charla\nName: Django Asíncrono: Desbloqueando el Poder de la Programación Async\nhttps://us.pycon.org/2025/schedule/presentation/36/\n<p>Con la llegada de <em>Django 3.1</em>\, el framework dio un gran salto hacia el futuro al integrar soporte para asincronismo. Pero\, ¿qué significa esto para quienes desarrollamos aplicaciones web? En esta charla\, te voy a enseñar cómo usar las herramientas de asincronismo en Django para construir aplicaciones más rápidas y eficientes.</p>\n<p>Empezaremos con una breve introducción a asyncio\, la base del asincronismo en Python. ¿Qué son los event loops? <em>¿Qué hacen async y await?</em> Si nunca has trabajado con código asíncrono\, no te preocupes\, aquí lo explicaremos de forma simple.</p>\n<p>Después\, entraremos directo en el mundo de Django:\n* Escribiremos vistas asíncronas (async def) y exploraremos casos prácticos donde el asincronismo realmente marca la diferencia.\n* Compararemos el rendimiento entre vistas síncronas y asíncronas mediante pruebas reales\, mostrando cómo manejar múltiples peticiones a APIs externas de manera eficiente.\n* Veremos cómo Django adopta la convención de agregar una "a" a los métodos asíncronos del ORM (como aget\, afirst\, alast) para diferenciarlos de sus versiones síncronas.\n* Discutiremos las limitaciones actuales del ORM de Django (spoiler: sigue siendo síncrono) y cómo manejarlas en proyectos modernos.</p>\n<p>Para cerrar\, incluiré una demostración práctica y ejemplos de código reales que puedes llevarte a casa. </p>\n<p>Esta charla está pensada para desarrolladores de nivel intermedio que quieran llevar sus proyectos Django al siguiente nivel y entender cómo el asincronismo puede transformar la manera en que construimos aplicaciones web.</p>\nSpeakers:\nLuis Martinez\n<p>I have been working in software development since 2014\, I am a technologist in informatics\, and web python developer. I also like to learn more about development\, I worked remotely at Swapps.com as Full Stack Software Engineer\, after that I worked at Platzi.com as a Backend software engineer with Python / Django also I was a Cloud Engineer with AWS.</p>\n<p>I am also the teacher of the Django\, Django Rest Framework courses in Platzi.com</p>
 DTEND:20250517T213000Z
 LOCATION:Room 310/311
 DTSTART:20250517T210000Z

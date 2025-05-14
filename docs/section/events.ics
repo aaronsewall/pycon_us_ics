@@ -1,0 +1,486 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:PyCon 2025 Events
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)\n<p>Open Spaces Rooms Open -  <a href="pycon.us/os">pycon.us/os</a></p>\n
+DTEND:20250516T120000Z
+LOCATION:Open Spaces Rooms
+DTSTART:20250516T120000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)
+TRANSP:OPAQUE
+UID:2d23168a-91f9-54e4-be6d-c5e00947c465
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: PSF Members Lunch\, pre-registration required\n<p>PSF Members Lunch\, pre-registration required</p>\n
+DTEND:20250517T180000Z
+LOCATION:Room 403/404
+DTSTART:20250517T163000Z
+STATUS:CONFIRMED
+SUMMARY:[event] PSF Members Lunch\, pre-registration required
+TRANSP:OPAQUE
+UID:909afefa-7c9f-5219-9d0a-29437b4ce12b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: Mentored Sprints\n<p>Mentored Sprints</p>\n
+DTEND:20250517T213000Z
+LOCATION:Room 402
+DTSTART:20250517T174500Z
+STATUS:CONFIRMED
+SUMMARY:[event] Mentored Sprints
+TRANSP:OPAQUE
+UID:7d471186-08f6-5bff-acba-3a4c805845a6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: PyLadies Lunch\, pre-registration required\n<p>PyLadies Lunch\, pre-registration required</p>\n
+DTEND:20250518T170000Z
+LOCATION:Room 403/404
+DTSTART:20250518T160000Z
+STATUS:CONFIRMED
+SUMMARY:[event] PyLadies Lunch\, pre-registration required
+TRANSP:OPAQUE
+UID:d225bc4e-dde0-5d1c-8c4b-975be360414c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Swag Pickup Opens\n<p>Swag Pickup Opens</p>\n
+DTEND:20250517T130000Z
+LOCATION:Hall A
+DTSTART:20250517T130000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Swag Pickup Opens
+TRANSP:OPAQUE
+UID:c7f4282e-09be-55ff-9072-8f32d2e2e7d0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: summit\nName: Typing Summit\, pre-registration required\n<p>Typing Summit\, pre-registration required</p>\n
+DTEND:20250516T220000Z
+LOCATION:Room 319
+DTSTART:20250516T180000Z
+STATUS:CONFIRMED
+SUMMARY:[summit] Typing Summit\, pre-registration required
+TRANSP:OPAQUE
+UID:31134ee0-5ddf-54b0-b632-5b28b78405ad
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: Hatchery - Humble Data\, pre-registration required\n<p>Hatchery - Humble Data\, pre-registration required</p>\n
+DTEND:20250518T191500Z
+LOCATION:Room 317
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[event] Hatchery - Humble Data\, pre-registration required
+TRANSP:OPAQUE
+UID:8fa975f1-367d-5016-a038-60179440d304
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Swag Pickup Closes\n<p>Swag Pickup Closes</p>\n
+DTEND:20250516T210000Z
+LOCATION:Hall A
+DTSTART:20250516T210000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Swag Pickup Closes
+TRANSP:OPAQUE
+UID:fdacf92f-a6b5-5aa3-a2a5-075154fab4fc
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: summit\nName: Education Summit\, pre-registration required\n<p>Education Summit\, pre-registration required</p>\n
+DTEND:20250515T203000Z
+LOCATION:Room 403/404
+DTSTART:20250515T130000Z
+STATUS:CONFIRMED
+SUMMARY:[summit] Education Summit\, pre-registration required
+TRANSP:OPAQUE
+UID:7cf3e113-9221-52a0-befd-c30770fd12df
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Expo Hall Closes\n<p>Expo Hall Closes</p>\n
+DTEND:20250516T220000Z
+LOCATION:Hall A
+DTSTART:20250516T220000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Expo Hall Closes
+TRANSP:OPAQUE
+UID:a10c708b-d6d0-5cc6-8c65-f6a5245f7408
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: summit\nName: Python Language Summit\, pre-registration required!\n<p>Python Language Summit\, pre-registration required!</p>\n
+DTEND:20250514T211500Z
+LOCATION:Room 403/404
+DTSTART:20250514T130000Z
+STATUS:CONFIRMED
+SUMMARY:[summit] Python Language Summit\, pre-registration required!
+TRANSP:OPAQUE
+UID:f54e6af0-7bee-5845-a107-41088dd5c9c7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Close\n<p>Open Spaces Rooms Close</p>\n
+DTEND:20250518T000000Z
+LOCATION:Open Spaces Rooms
+DTSTART:20250518T000000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Open Spaces Rooms Close
+TRANSP:OPAQUE
+UID:59b083e1-6522-58ad-8a47-b869e7ddbbcb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Swag Pickup Opens\n<p>Swag Pickup Opens</p>\n
+DTEND:20250516T130000Z
+LOCATION:Hall A
+DTSTART:20250516T130000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Swag Pickup Opens
+TRANSP:OPAQUE
+UID:95ba750f-3401-5813-9a8c-17df0e3000c8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Registration / Information Desks Close\n<p>Registration / Information Desks Close</p>\n
+DTEND:20250516T210000Z
+LOCATION:Concourse A
+DTSTART:20250516T210000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Registration / Information Desks Close
+TRANSP:OPAQUE
+UID:17ac1011-f6e0-5627-a4cd-4e127ce6bb77
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Close\n<p>Open Spaces Rooms Close</p>\n
+DTEND:20250519T000000Z
+LOCATION:Open Spaces Rooms
+DTSTART:20250519T000000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Open Spaces Rooms Close
+TRANSP:OPAQUE
+UID:f4024ed8-c25b-523b-9ef7-7c4244850e3d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Swag Pickup Closes\n<p>Swag Pickup Closes</p>\n
+DTEND:20250518T150000Z
+LOCATION:Hall A
+DTSTART:20250518T150000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Swag Pickup Closes
+TRANSP:OPAQUE
+UID:a820826c-07e5-543a-91ef-365ae18001fb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)\n<p>Open Spaces Rooms Open -  <a href="pycon.us/os">pycon.us/os</a></p>\n
+DTEND:20250517T120000Z
+LOCATION:Open Spaces Rooms
+DTSTART:20250517T120000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)
+TRANSP:OPAQUE
+UID:0fa9eef2-9177-542a-b71b-a8bae092562d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Registration / Information Desks Open\n<p>Registration / Information Desks Open</p>\n
+DTEND:20250514T110000Z
+LOCATION:Concourse A
+DTSTART:20250514T110000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Registration / Information Desks Open
+TRANSP:OPAQUE
+UID:d1be9498-3364-5cb8-8f2e-6d9c24c5cedb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)\n<p>Open Spaces Rooms Open -  <a href="pycon.us/os">pycon.us/os</a></p>\n
+DTEND:20250518T120000Z
+LOCATION:Open Spaces Rooms
+DTSTART:20250518T120000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)
+TRANSP:OPAQUE
+UID:13272123-eef3-5f37-8cfa-568dbfd924d3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: summit\nName: Maintainers Summit\, pre-registration required\n<p>Maintainers Summit\, pre-registration required</p>\n
+DTEND:20250516T220000Z
+LOCATION:Room 402
+DTSTART:20250516T180000Z
+STATUS:CONFIRMED
+SUMMARY:[summit] Maintainers Summit\, pre-registration required
+TRANSP:OPAQUE
+UID:e3f3533b-941f-5508-9d62-44b8724c9c55
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: PyLadies Auction\, pre-registration required\n<p>PyLadies Auction\, pre-registration required</p>\n
+DTEND:20250518T013000Z
+LOCATION:Ballroom A
+DTSTART:20250517T224500Z
+STATUS:CONFIRMED
+SUMMARY:[event] PyLadies Auction\, pre-registration required
+TRANSP:OPAQUE
+UID:1d8f92f2-e9c6-5ed0-b36c-3c25f3690fe9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Close\n<p>Open Spaces Rooms Close</p>\n
+DTEND:20250517T000000Z
+LOCATION:Open Spaces Rooms
+DTSTART:20250517T000000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Open Spaces Rooms Close
+TRANSP:OPAQUE
+UID:db282811-2cf4-595e-952b-9b0e1d3c7cff
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Registration / Information Desks Open\n<p>Registration / Information Desks Open</p>\n
+DTEND:20250518T120000Z
+LOCATION:Concourse A
+DTSTART:20250518T120000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Registration / Information Desks Open
+TRANSP:OPAQUE
+UID:d05f2b0a-8f75-5ba2-ba39-7db7058ac315
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Information Desk Closes\n<p>Information Desk Closes</p>\n
+DTEND:20250515T210000Z
+LOCATION:Concourse A
+DTSTART:20250515T210000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Information Desk Closes
+TRANSP:OPAQUE
+UID:ff5988f1-934c-5141-9bfe-5251c14db66c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Swag pickup Opens for T-shirt Sales\n<p>Swag pickup Opens for T-shirt Sales</p>\n
+DTEND:20250518T150000Z
+LOCATION:Hall A
+DTSTART:20250518T150000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Swag pickup Opens for T-shirt Sales
+TRANSP:OPAQUE
+UID:bc0e4d0d-f051-5e44-b296-318cf157ca95
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Registration Desk Closes\n<p>Registration Desk Closes</p>\n
+DTEND:20250515T220000Z
+LOCATION:Concourse A
+DTSTART:20250515T220000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Registration Desk Closes
+TRANSP:OPAQUE
+UID:e6000f8d-3e3c-5341-a842-460e00a3892e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: summit\nName: Hatchery - Community Organizer Summit\n<p>Hatchery - Community Organizer Summit</p>\n
+DTEND:20250517T170000Z
+LOCATION:Room 317
+DTSTART:20250517T143000Z
+STATUS:CONFIRMED
+SUMMARY:[summit] Hatchery - Community Organizer Summit
+TRANSP:OPAQUE
+UID:daa368f8-d161-54f1-9ccc-80fe7a338b45
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: summit\nName: WebAssembly Summit\, pre-registration required!\n<p>WebAssembly Summit\, pre-registration required!</p>\n
+DTEND:20250515T210000Z
+LOCATION:Room 402
+DTSTART:20250515T130000Z
+STATUS:CONFIRMED
+SUMMARY:[summit] WebAssembly Summit\, pre-registration required!
+TRANSP:OPAQUE
+UID:aefd1539-3b9d-5597-90e1-407b404fd168
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Registration / Information Desks Open\n<p>Registration / Information Desks Open</p>\n
+DTEND:20250517T120000Z
+LOCATION:Concourse A
+DTSTART:20250517T120000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Registration / Information Desks Open
+TRANSP:OPAQUE
+UID:c1b61325-a75c-5077-9afa-8c6fcd4977a9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Registration / Information Desks Close\n<p>Registration / Information Desks Close</p>\n
+DTEND:20250518T170000Z
+LOCATION:Concourse A
+DTSTART:20250518T170000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Registration / Information Desks Close
+TRANSP:OPAQUE
+UID:66a583d1-2917-5330-97d7-54c8225d85e5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: Opening Reception\n<p>Opening Reception</p>\n
+DTEND:20250515T230000Z
+LOCATION:Hall A
+DTSTART:20250515T210000Z
+STATUS:CONFIRMED
+SUMMARY:[event] Opening Reception
+TRANSP:OPAQUE
+UID:0cd707d8-080a-5a7c-905e-632183f25fab
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Swag Pickup Closes\n<p>Swag Pickup Closes</p>\n
+DTEND:20250517T173000Z
+LOCATION:Hall A
+DTSTART:20250517T173000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Swag Pickup Closes
+TRANSP:OPAQUE
+UID:e2145045-aca7-57f6-86cb-ed5f70b52132
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Expo Hall Opens\n<p>Expo Hall Opens</p>\n
+DTEND:20250516T130000Z
+LOCATION:Hall A
+DTSTART:20250516T130000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Expo Hall Opens
+TRANSP:OPAQUE
+UID:72eb441e-9636-5d5c-8efc-37853c997819
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Expo Hall Closes\n<p>Expo Hall Closes</p>\n
+DTEND:20250517T203000Z
+LOCATION:Hall A
+DTSTART:20250517T203000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Expo Hall Closes
+TRANSP:OPAQUE
+UID:df619469-d4e6-50cb-a538-86ae25049583
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: Job Fair and Poster Sessions\n<p>Job Fair and Poster Sessions</p>\n
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T133000Z
+STATUS:CONFIRMED
+SUMMARY:[event] Job Fair and Poster Sessions
+TRANSP:OPAQUE
+UID:e440f4d1-3201-5411-8025-f8946d8fcc03
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Expo Hall Opens\n<p>Expo Hall Opens</p>\n
+DTEND:20250517T130000Z
+LOCATION:Hall A
+DTSTART:20250517T130000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Expo Hall Opens
+TRANSP:OPAQUE
+UID:23100c0d-7737-5faa-b6df-93926669aeb3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Swag pickup T-shirt Sales Close\n<p>Swag pickup T-shirt Sales Close</p>\n
+DTEND:20250518T170000Z
+LOCATION:Hall A
+DTSTART:20250518T170000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Swag pickup T-shirt Sales Close
+TRANSP:OPAQUE
+UID:979b7452-f0dc-5a76-b6b8-ff3ba5a84054
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: Hatchery - FlaskCon\n<p>Hatchery - FlaskCon</p>\n
+DTEND:20250516T220000Z
+LOCATION:Room 317
+DTSTART:20250516T180000Z
+STATUS:CONFIRMED
+SUMMARY:[event] Hatchery - FlaskCon
+TRANSP:OPAQUE
+UID:cd5f8c29-ad6b-51f7-967a-c579af8b52b8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: summit\nName: Packaging Summit\, pre-registration required\n<p>Packaging Summit\, pre-registration required</p>\n
+DTEND:20250517T214500Z
+LOCATION:Room 319
+DTSTART:20250517T174500Z
+STATUS:CONFIRMED
+SUMMARY:[summit] Packaging Summit\, pre-registration required
+TRANSP:OPAQUE
+UID:88a493a9-e364-5006-8365-d7a17f255cea
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: Introduction to Sprints Workshop\n<p>Introduction to Sprints Workshop</p>\n
+DTEND:20250518T233000Z
+LOCATION:Room 402
+DTSTART:20250518T213000Z
+STATUS:CONFIRMED
+SUMMARY:[event] Introduction to Sprints Workshop
+TRANSP:OPAQUE
+UID:3ecc9f2e-545c-5ed8-b5c7-e5ce4ddc7aa5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Registration / Information Desks Open\n<p>Registration / Information Desks Open</p>\n
+DTEND:20250515T110000Z
+LOCATION:Concourse A
+DTSTART:20250515T110000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Registration / Information Desks Open
+TRANSP:OPAQUE
+UID:fd6b5ea4-485a-52b3-b88a-06074ee4b800
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Registration / Information Desks Open\n<p>Registration / Information Desks Open</p>\n
+DTEND:20250516T110000Z
+LOCATION:Concourse A
+DTSTART:20250516T110000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Registration / Information Desks Open
+TRANSP:OPAQUE
+UID:a905bad1-c50b-56f5-bbc0-2e3fff09a4eb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: summit\nName: Hatchery – Hometown Heros\n<p>Hatchery – Hometown Heros</p>\n
+DTEND:20250517T214500Z
+LOCATION:Room 317
+DTSTART:20250517T174500Z
+STATUS:CONFIRMED
+SUMMARY:[summit] Hatchery – Hometown Heros
+TRANSP:OPAQUE
+UID:4adf9b21-f862-570f-b5d1-80a20fba3ecd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Registration / Information Desks Close\n<p>Registration / Information Desks Close</p>\n
+DTEND:20250517T210000Z
+LOCATION:Concourse A
+DTSTART:20250517T210000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Registration / Information Desks Close
+TRANSP:OPAQUE
+UID:4c11c136-6dfc-5207-a666-72d8afa8edf8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Registration Desk Closes\n<p>Registration Desk Closes</p>\n
+DTEND:20250514T220000Z
+LOCATION:Concourse A
+DTSTART:20250514T220000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Registration Desk Closes
+TRANSP:OPAQUE
+UID:6e85fee9-7602-5239-9c9e-f4269992c5d7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Swag Pickup Opens\n<p>Swag Pickup Opens</p>\n
+DTEND:20250518T140000Z
+LOCATION:Hall A
+DTSTART:20250518T140000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Swag Pickup Opens
+TRANSP:OPAQUE
+UID:0eb7e68b-ca49-5dbe-ac37-14284ceea549
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: informational\nName: Information Desk Closes\n<p>Information Desk Closes</p>\n
+DTEND:20250514T210000Z
+LOCATION:Concourse A
+DTSTART:20250514T210000Z
+STATUS:CONFIRMED
+SUMMARY:[informational] Information Desk Closes
+TRANSP:OPAQUE
+UID:437ca6f6-a2fe-5fac-9884-48487aaead7b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: events\nKind: event\nName: Newcomer Orientation\n<p>Newcomer Orientation</p>\n
+DTEND:20250515T210000Z
+LOCATION:Hall B
+DTSTART:20250515T203000Z
+STATUS:CONFIRMED
+SUMMARY:[event] Newcomer Orientation
+TRANSP:OPAQUE
+UID:47886d2f-f044-587b-92a2-388590ed8ec0
+END:VEVENT
+END:VCALENDAR
