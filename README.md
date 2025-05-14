@@ -4,18 +4,18 @@ Conference info is available at https://us.pycon.org/2025/schedule/conference.js
 
 All calendar files are tested to work and are importable by google calendar.
 
-There are numerous other events that are not included in this conference.json, which I manually made
+There are some other events that are not included in this conference.json (but most are at this point), which I manually made
 calendar entries for inside google calendar. This calendar is available here (it doesn't follow the
 same format as the generated calendars, and isn't as well maintained, but it helps to know about
 other things that are happening). 
 
 https://calendar.google.com/calendar/u/0?cid=OTg5ODFiZmMyZWQ5ZTQ2YWNjZDYwMWY5MGNhZDBmYzJiODA5NmUyYmIzNjAyZDJiODQyZDRmNjBmNDBiZTU2Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t
 
-all_events contains every event for the conference.
+all_events contains every event for the conference, but does not include open spaces.
 
 You can also select based on the sections you're interested in or the kinds of events.
 
-My preferred way is to subscribe individually to each calendar in the `section` area so the colors
+My preferred way is to subscribe individually to each calendar in the `kind` area so the colors
 look better in google calendar.
 
 Add them to google calendar here:
@@ -50,6 +50,16 @@ Kind
 * https://aaronsewall.github.io/pycon_us_ics/kind/talk.ics
 * https://aaronsewall.github.io/pycon_us_ics/kind/tutorial.ics
 
+Open Spaces
+
+This calendar includes only a subset of open spaces that are parseable from this page:
+https://us.pycon.org/2025/events/open-spaces/
+
+To see all open spaces at any given time (depending on when the image was last uploaded), see 
+https://pycon.us/os
+
+* https://aaronsewall.github.io/pycon_us_ics/open_spaces.ics
+
 To subscribe via Google Calendar you can use the following links:
 
 ALL
@@ -77,3 +87,7 @@ Kind
 * https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/summit.ics
 * https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/talk.ics
 * https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/tutorial.ics
+
+Open Spaces
+
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/open_spaces.ics
