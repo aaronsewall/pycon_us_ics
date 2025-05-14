@@ -30,16 +30,23 @@ ALL
 
 Section
 
+* https://aaronsewall.github.io/pycon_us_ics/section/events.ics
+* https://aaronsewall.github.io/pycon_us_ics/section/posters.ics
 * https://aaronsewall.github.io/pycon_us_ics/section/sponsor-presentations.ics
 * https://aaronsewall.github.io/pycon_us_ics/section/talks.ics
 * https://aaronsewall.github.io/pycon_us_ics/section/tutorials.ics
 
 Kind
 
+* https://aaronsewall.github.io/pycon_us_ics/kind/break.ics
 * https://aaronsewall.github.io/pycon_us_ics/kind/charla.ics
+* https://aaronsewall.github.io/pycon_us_ics/kind/event.ics
+* https://aaronsewall.github.io/pycon_us_ics/kind/informational.ics
 * https://aaronsewall.github.io/pycon_us_ics/kind/lightning-talks.ics
 * https://aaronsewall.github.io/pycon_us_ics/kind/plenary.ics
+* https://aaronsewall.github.io/pycon_us_ics/kind/poster.ics
 * https://aaronsewall.github.io/pycon_us_ics/kind/sponsor-workshop.ics
+* https://aaronsewall.github.io/pycon_us_ics/kind/summit.ics
 * https://aaronsewall.github.io/pycon_us_ics/kind/talk.ics
 * https://aaronsewall.github.io/pycon_us_ics/kind/tutorial.ics
 
@@ -51,15 +58,22 @@ ALL
 
 Section
 
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/section/events.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/section/posters.ics
 * https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/section/sponsor-presentations.ics
 * https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/section/talks.ics
 * https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/section/tutorials.ics
 
 Kind
 
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/break.ics
 * https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/charla.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/event.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/informational.ics
 * https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/lightning-talks.ics
 * https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/plenary.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/poster.ics
 * https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/sponsor-workshop.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/summit.ics
 * https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/talk.ics
 * https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/kind/tutorial.ics
