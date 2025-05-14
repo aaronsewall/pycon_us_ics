@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:PyCon 2025 Hatchery: Hometown Heroes
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Speakers: Jason R. Coombs \, Microsoft (Principal Software Engineer)\n\nLast summer\, I launched the Coherent Software Development System ( https://bit.ly/coherent-system ) with the principal that one should not have to repeat themselves when developing more than one Python project. One of the key innovations of that system is coherent.deps\, a system for deriving package dependencies from the imports that a project or script uses. I'll explore some of the background motivations from Google's monorepo\, some prior art at Meta\, and some of the approaches that failed (AI-based inference) before going into the details of the implementation (AST parsing\, world-readable MongoDB database\, Big Table query to PyPI downloads). I'll additionally talk about some of the applications of this generalized library (coherent.build\, pip-run)\, some of the maintenance challenges (expensive query\, refresh interval)\, and possible other applications (on-demand dependency loader).
+DTEND:20250517T213000Z
+LOCATION:Room 317
+DTSTART:20250517T210000Z
+STATUS:CONFIRMED
+SUMMARY:Automated Dependency Inference and its Applications
+TRANSP:OPAQUE
+UID:e7cdc98d-5b0b-57fe-8731-d0d743b41803
+URL:https://us.pycon.org/2025/events/hometown-heroes/#talk-schedule
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speakers: Christopher Pitstick \, (Sr. SWE)\n\nTesla's Powerwall/Inverter solar ecosystem are powerful yet notoriously opaque. For home labbers\, extracting meaningful data can be daunting—but not impossible. In this talk\, I'll share my journey of developing a custom solar dashboard using Grafana and PyPowerwall\, navigating the quirks and closed nature of Tesla's ecosystem along the way. The backend is all Python\, so I will demo my server code and dashboard to show how I was able find hundreds of kilowatt hours in lost solar production.\n\nIn this talk\, we'll do a deep dive into the way I altered the Python server code to be able to query multiple inverters at the same time with complex iptable rules. This presentation may conclude with the value of installing solar on your home\, and how self-monitoring is a critical component of every nerd's arsenal.
+DTEND:20250517T194500Z
+LOCATION:Room 317
+DTSTART:20250517T191500Z
+STATUS:CONFIRMED
+SUMMARY:Bottling Tesla's Solar: A Solar Dashboard with Python
+TRANSP:OPAQUE
+UID:105bbc7a-11df-575a-a085-4e49e1fd0405
+URL:https://us.pycon.org/2025/events/hometown-heroes/#talk-schedule
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speakers: Louis Luangkesorn \, Highmark Health (Lead Data Scientist)\n\nGenerative AI has promise to impact many fields of endeavor. But experience has shown that it often has problems with nuance and context. This talk discusses some experiences using Generative AI as an aid in applied analytics and walks through an example that illustrates working around its weaknesses and taking advantage of its capabilities.
+DTEND:20250517T200000Z
+LOCATION:Room 317
+DTSTART:20250517T195500Z
+STATUS:CONFIRMED
+SUMMARY:Does Generative AI Know Statistics?
+TRANSP:OPAQUE
+UID:825a1810-fbbc-53f3-8da0-97c78dedecc8
+URL:https://us.pycon.org/2025/events/hometown-heroes/#talk-schedule
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speakers: \n\nNational-level energy studies consistently find that energy burdens are a significant challenge\, and that lower-income neighborhoods sometimes end up paying more for energy in cities including Pittsburgh.\n\nUsing Python\, we were able to extract and analyze data on energy consumption in the City of Pittsburgh\, along with real-estate and geographic information system (GIS) data to compare trends in energy usage and burden across Pittsburgh neighborhoods\, and across different housing types.\n\nWe present statistical analyses and Python visualizations describing these trends across different features such as housing price\, size\, and neighborhood.
+DTEND:20250517T190000Z
+LOCATION:Room 317
+DTSTART:20250517T183000Z
+STATUS:CONFIRMED
+SUMMARY:Exploring Energy Burden in Pittsburgh Neighborhoods with Python
+TRANSP:OPAQUE
+UID:634e3a44-280a-5cb1-938c-91ff548985af
+URL:https://us.pycon.org/2025/events/hometown-heroes/#talk-schedule
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speakers: Bryan C. Mills \, Duolingo (Senior Software Engineer)\n\nYou might think of functions in async Python in terms of “synchronous” and “async”\, but the possibility of binding objects (such as Locks) to the asyncio event loop adds a whole new dimension to consider. We'll examine six vibrant kinds of functions and how they interact!\n\nThis talk will examine code examples of how to adapt each kind of function to call other kinds\, suggest design patterns that minimize the complexity of dealing with different kinds (such as non-blocking context managers)\, and examine patterns or libraries to safely synchronize concurrent calls involving multiple kinds of function.
+DTEND:20250517T204500Z
+LOCATION:Room 317
+DTSTART:20250517T201500Z
+STATUS:CONFIRMED
+SUMMARY:The Many-Colored Functions of Async Python
+TRANSP:OPAQUE
+UID:151e81f3-a02b-5b2b-9721-c1822fb6185a
+URL:https://us.pycon.org/2025/events/hometown-heroes/#talk-schedule
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speakers: Utkarsh Tripathi\,  Solventum (Machine Learning Engineer)\n\nThis lightning talk will provide a concise yet comprehensive overview of techniques for extracting structured\, predictable outputs from Large Language Models. I will compare and demonstrate multiple state-of-the-art libraries (such as BAML\, Instructor\, Langchain\, SGLang etc. + how they work under the hood)\, utilize pydantic / dataclass / etc. to get structured outputs. We will explore practical examples of JSON schema enforcement\, markdown formatting directives\, and template-based approaches that dramatically improve downstream processing capabilities. The presentation will include code snippets and prompt templates that participants can immediately implement in their own projects.
+DTEND:20250517T195500Z
+LOCATION:Room 317
+DTSTART:20250517T195000Z
+STATUS:CONFIRMED
+SUMMARY:Strategies for Eliciting Structured Outputs from LLMs
+TRANSP:OPAQUE
+UID:ce92a717-9ccb-524d-adf2-ac653835b515
+URL:https://us.pycon.org/2025/events/hometown-heroes/#talk-schedule
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speakers: Carolyn Tett \, University of Pittsburgh (Research Technician)\n\nNot all individuals contribute equally to disease spread. During COVID-19\, social distancing reduced transmission for some\, while high-contact individuals increased disease spread. Preventative measures for massive disease outbreaks\, however\, cannot rely solely on data from rare epidemic events. Instead\, disease ecologists study animal models to understand how host behavior theoretically drives disease outbreaks.\n\nTracking animal movement and interactions is essential for identifying transmission-relevant behaviors. In lab experiments\, video recordings provide an abundance of behavioral data\, now efficiently processed through automation\, and coding languages like Python enable large-scale data analysis.\n\nThe Stephenson Lab at the University of Pittsburgh uses Raspberry Pis to autonomously record guppies infected with an ectoparasite. These parasites transmit primarily through instances of close contact between hosts. Through autonomous video recordings\, we generated 1\,300 hours of footage—equivalent to 54 consecutive days of observation. Given that each video captures six guppies\, manually tracking behavior would take tens of billions of days. Instead\, animal tracking software reduces this processing time to a mere few months.
+DTEND:20250517T200500Z
+LOCATION:Room 317
+DTSTART:20250517T200000Z
+STATUS:CONFIRMED
+SUMMARY:Demystifying How Animal Behavior Affects Disease Spread Using Python
+TRANSP:OPAQUE
+UID:c2534f5c-d9ba-59d8-a0d3-7e481c2a2ffc
+URL:https://us.pycon.org/2025/events/hometown-heroes/#talk-schedule
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Speakers: \n\nPython has rapidly become a cornerstone of scientific computing\, computational biology\, and bioinformatics due to its ease of use and scalability for handling large datasets—qualities that are critical in today’s “big data” era of clinical and translational research. As computational resources and data collection methods continue to expand\, we are now empowered to ask larger and more clinically relevant questions that enable us to dissect complex biological systems with unprecedented detail. However\, this surge in data complexity brings new challenges\, from the integration of diverse data modalities to the need for sophisticated analytical methods capable of untangling intricate biological signals from background noise.\n\nIn this talk\, we describe how Python not only meets these challenges but also drives innovation through the development of novel bioinformatics tools like CITEgeist—a case study in harnessing Python’s capabilities for multi-modal spatial transcriptomics. Biological datasets often face challenges of high sparsity and noise. CITEgeist harnesses Python’s robust ecosystem to provide an efficient\, scalable pipeline that deconvolutes messy spatial signals into actionable\, clinically relevant features.
+DTEND:20250517T181500Z
+LOCATION:Room 317
+DTSTART:20250517T174500Z
+STATUS:CONFIRMED
+SUMMARY:Decoding Spatial Biology with Python: Multi-Modal Insights into Breast Cancer Progression
+TRANSP:OPAQUE
+UID:08e350e5-3a1d-5562-96a5-2051d1e35012
+URL:https://us.pycon.org/2025/events/hometown-heroes/#talk-schedule
+END:VEVENT
+END:VCALENDAR

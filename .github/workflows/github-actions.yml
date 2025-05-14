@@ -57,7 +57,15 @@ jobs:
           source .venv/bin/activate
           cd pycon_us_ics
           python pycon.py
-          python parse_open_spaces.py
+          # Run all the manually parsed stuff to completion even if it fails
+          python parse_open_spaces.py || true
+          python community_organizers_summit.py || true
+          python education_summit.py || true
+          python flaskcon.py || true
+          python hometown_heroes.py || true
+          python language_summit.py || true
+          python maintainers_summit.py || true
+          python typing_summit.py || true
       - run: |
           git config user.name gitevents[bot]
           git config user.email ics@gitevents.org
