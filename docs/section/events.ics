@@ -4,12 +4,12 @@ X-WR-CALNAME:PyCon 2025 Events
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)\n<p>Open Spaces Rooms Open -  <a href="pycon.us/os">pycon.us/os</a></p>\n
+DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Open\n<p>Open Spaces Rooms Open -  <a href="https://pycon.us/os">pycon.us/os</a></p>\n
 DTEND:20250516T120000Z
 LOCATION:Open Spaces Rooms
 DTSTART:20250516T120000Z
 STATUS:CONFIRMED
-SUMMARY:[informational] Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)
+SUMMARY:[informational] Open Spaces Rooms Open
 TRANSP:OPAQUE
 UID:2d23168a-91f9-54e4-be6d-c5e00947c465
 END:VEVENT
@@ -24,12 +24,12 @@ TRANSP:OPAQUE
 UID:909afefa-7c9f-5219-9d0a-29437b4ce12b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: events\nKind: event\nName: Mentored Sprints\n<p>Mentored Sprints</p>\n
+DESCRIPTION:Section: events\nKind: event\nName: Mentored Sprints\, pre-registration required\n<p>Mentored Sprints\, pre-registration required</p>\n
 DTEND:20250517T213000Z
 LOCATION:Room 402
 DTSTART:20250517T174500Z
 STATUS:CONFIRMED
-SUMMARY:[event] Mentored Sprints
+SUMMARY:[event] Mentored Sprints\, pre-registration required
 TRANSP:OPAQUE
 UID:7d471186-08f6-5bff-acba-3a4c805845a6
 END:VEVENT
@@ -164,12 +164,12 @@ TRANSP:OPAQUE
 UID:a820826c-07e5-543a-91ef-365ae18001fb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)\n<p>Open Spaces Rooms Open -  <a href="pycon.us/os">pycon.us/os</a></p>\n
+DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Open\n<p>Open Spaces Rooms Open -  <a href="https://pycon.us/os">pycon.us/os</a></p>\n
 DTEND:20250517T120000Z
 LOCATION:Open Spaces Rooms
 DTSTART:20250517T120000Z
 STATUS:CONFIRMED
-SUMMARY:[informational] Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)
+SUMMARY:[informational] Open Spaces Rooms Open
 TRANSP:OPAQUE
 UID:0fa9eef2-9177-542a-b71b-a8bae092562d
 END:VEVENT
@@ -184,12 +184,12 @@ TRANSP:OPAQUE
 UID:d1be9498-3364-5cb8-8f2e-6d9c24c5cedb
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)\n<p>Open Spaces Rooms Open -  <a href="pycon.us/os">pycon.us/os</a></p>\n
+DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Open\n<p>Open Spaces Rooms Open -  <a href="https://pycon.us/os">pycon.us/os</a></p>\n
 DTEND:20250518T120000Z
 LOCATION:Open Spaces Rooms
 DTSTART:20250518T120000Z
 STATUS:CONFIRMED
-SUMMARY:[informational] Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)
+SUMMARY:[informational] Open Spaces Rooms Open
 TRANSP:OPAQUE
 UID:13272123-eef3-5f37-8cfa-568dbfd924d3
 END:VEVENT

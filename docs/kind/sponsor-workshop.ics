@@ -4,6 +4,17 @@ X-WR-CALNAME:PyCon 2025 Sponsor-workshop
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Enterprise-Ready Python for High-Performance Data Teams (Sponsor: Snowflake)\nhttps://us.pycon.org/2025/schedule/presentation/148/\n<p>In this talk\, we’ll explore the challenges of running Python in enterprise data teams and share lessons learned from building for PyData developers at Snowflake\, with an emphasis on flexibility\, performance\, and library compatibility. We'll focus on two key aspects: APIs and runtimes. First\, we'll look at how you can run pandas at all data scales using Modin\, and how this interoperates with other tools in the PyData stack. Then\, we'll discuss ways to manage runtime compatibility\, from customizing environments to working within notebook-based workflows.</p>\nSpeakers:\nSavannah Ostrowski\n<p>Savannah Ostrowski is a Python Core Developer and product lead for Python Developer Experience and Notebooks at Snowflake. She helps maintain the new JIT compiler introduced in Python 3.13 and the argparse module in the Python standard library. Savannah is also a member of the broader Faster CPython team and serves on the Jupyter Foundation Governing Board on behalf of Snowflake.</p>\n<p>A self-taught developer with a background in geospatial computing\, Savannah has built a career at the intersection of developer tools and open-source software. Before Snowflake\, she led product for Docker’s runtime\, working on foundational technology for the container ecosystem\, including Docker Engine (moby/moby) and Docker CLI. She previously worked at Microsoft on the Azure Developer CLI and was the product manager for the Pylance language server.</p>\n<p>She lives in beautiful Washington state with her husband and their three cats\, enjoying pottery and reading in her spare time.</p>\nDoris Lee\n<p>Doris Lee leads Python developer experience across Snowflake's products. Previously\, Doris was CEO and co-founder of Ponder (acquired by Snowflake in 2023)\, the company behind the open-source project Modin. Doris received her Ph.D. from the UC Berkeley RISE Lab and School of Information in 2021\, where she developed open-source tools that help data scientists explore and understand their data. She received Forbes 30 under 30 for Enterprise Technology in 2023.</p>
+DTEND:20250515T163000Z
+LOCATION:Room 309
+DTSTART:20250515T153000Z
+STATUS:CONFIRMED
+SUMMARY:[sponsor-workshop] Enterprise-Ready Python for High-Performance Data Teams (Sponsor: Snowflake)
+TRANSP:OPAQUE
+UID:7c6a3a8e-cf58-5e71-8987-5a59385334f7
+URL:https://us.pycon.org/2025/schedule/presentation/148/
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Accelerated Python: The Community and Ecosystem (Sponsor: NVIDIA)\nhttps://us.pycon.org/2025/schedule/presentation/149/\n<p>Python is everywhere. Simulation\, data science\, and Gen AI all depend on it. Unfortunately\, the dizzying array of tools leaves a newcomer baffled at where to start. We'll take you on a guided tour of the vibrant community and ecosystem surrounding accelerated Python programming. Explore a variety of tools\, libraries\, and frameworks that enable efficient computation and performance optimization in Python\, including CUDA Python\, RAPIDS\, Warp\, and Legate. We'll also discuss integration points with PyData\, PyTorch\, and JAX communities. Learn about collaborative efforts within the community\, including open source projects and contributions that drive innovation in accelerated computing. We'll discuss best practices for leveraging these frameworks to enhance productivity in developing AI-driven applications and conducting large-scale data analyses.</p>\nSpeakers:\nJeremy Tanner\n<p>Jeremy talks to people who talk to computers about talking to computers.</p>
 DTEND:20250515T143000Z
 LOCATION:Room 315
@@ -15,13 +26,15 @@ UID:80798e70-401c-5194-a03a-d707995ba3d6
 URL:https://us.pycon.org/2025/schedule/presentation/149/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: sponsor-workshop\n\n
-DTEND:20250515T143000Z
-DTSTART:20250515T133000Z
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: High-Performance Python: Faster Type Checking and Free Threaded Execution (Sponsor: Meta)\nhttps://us.pycon.org/2025/schedule/presentation/118/\n<p><em>Meta's Commitment to the Python Community: Empowering Innovation and Collaboration</em></p>\n<p>At Meta\, we're dedicated to advancing the Python ecosystem through open-source contributions and community engagement. Our mission is to improve the tooling and runtime\, making the language more efficient\, scalable\, and accessible for developers worldwide.</p>\n<p><em>Introducing Pyrefly: A Scalable Type Checker for a Unified IDE Experience</em></p>\n<p>We're excited to introduce Pyrefly\, a new type checker designed with scalability in mind. Built from the ground up using Rust\, Pyrefly provides a faster and more efficient type checking experience\, enabling developers to write better code with confidence. With Pyrefly\, we aim to deliver a unified IDE experience power type hints and code navigation on a new type checking engine.</p>\n<p><em>Unlocking Better Performance with Free-Threaded Python</em></p>\n<p>In collaboration with the Python community\, we've been working on making free-threaded Python (No-GIL) available in Python 3.13. This significant milestone allows developers to take full advantage of modern multi-core processors directly from Python. More recently\, our efforts have focused on improving the single-threaded performance of the free threading build\, ensuring that Python remains a top choice for developers seeking high-performance capabilities.</p>\nSpeakers:\nSam Gross\n<p>-</p>\nNeil Mitchell\n<p>Programmer at Meta\, working on improving the Python developer experience.</p>
+DTEND:20250515T183000Z
+LOCATION:Room 315
+DTSTART:20250515T173000Z
 STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] sponsor-workshop
+SUMMARY:[sponsor-workshop] High-Performance Python: Faster Type Checking and Free Threaded Execution (Sponsor: Meta)
 TRANSP:OPAQUE
-UID:ab827ed2-86c2-5c7f-8eee-0326d169f0da
+UID:dea2dfca-1957-5934-8fcf-5d473cee64eb
+URL:https://us.pycon.org/2025/schedule/presentation/118/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Building AI Applications the Pydantic Way (Sponsor: Pydantic)\nhttps://us.pycon.org/2025/schedule/presentation/143/\n<p>AI is becoming an increasingly common part of software development\, but best practices for building and maintaining AI-powered applications are still evolving. Many developers are experimenting with LLMs\, but figuring out how to structure AI applications effectively—let alone debug and monitor them—can be a challenge. The good news? AI development is just software development—with a few unique twists. You don't need to reinvent engineering principles to work with LLMs\, but you do need the right design patterns and development tools to build reliable AI applications efficiently. In this talk\, we'll share an opinionated blueprint for AI development in Python\, covering both PydanticAI\, an open-source AI agent framework\, and Pydantic Logfire\, an observability platform that helps you understand and debug your AI applications. You'll learn practical techniques for structuring LLM-powered systems\, tracking and evaluating model behavior\, and integrating AI features into larger software projects—using familiar tools and proven patterns. Whether you're already building AI applications or just curious about how best to approach them\, this session will give you a clear\, pragmatic foundation for writing AI-powered software in Python.</p>\nSpeakers:\nSamuel Colvin\n<p>Samuel Colvin is a Python and Rust developer and creator of Pydantic. The Pydantic library\, which he created is downloaded over 300M/month and is a dependency of many GenAI Python libraries including the OpenAI SDK\, the Anthropic SDK\, Langchain\, AutoGPT\, instructor and LlamaIndex.</p>
@@ -33,6 +46,17 @@ SUMMARY:[sponsor-workshop] Building AI Applications the Pydantic Way (Sponsor: P
 TRANSP:OPAQUE
 UID:3577af1c-295a-539f-91ff-f17ef3a95447
 URL:https://us.pycon.org/2025/schedule/presentation/143/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Real-World Problems Blockchain Actually Solves (and How to Code Them in Python) (Sponsor: Algorand)\nhttps://us.pycon.org/2025/schedule/presentation/150/\n<p>In this talk\, we'll zero in on real-world problems blockchain genuinely solves. We'll cut through the jargon and focus on when blockchain makes sense and when it doesn't.</p>\n<p>Everything we build will use Python\, using libraries and patterns you already know\, plus a few lightweight tools to interact with the Algorand blockchain. </p>\n<p>We'll work through hands-on examples: coding trust into peer-to-peer payment systems for underbanked regions\, building fractional ownership for previously illiquid assets\, and creating self-sovereign digital identity systems that empower users with ownership of their credentials. These aren't hypotheticals—companies are running these solutions in production today\, and we'll break down how they do it.</p>\n<p>Expect a session that meets you where you are: practical\, approachable\, and 100% Python. By the end\, you'll see where blockchain fits into your toolkit—not as a magic bullet\, but as a practical option for specific\, thorny problems.</p>\nSpeakers:\nGabriel Kuettel\n<p>With over a decade of experience spanning blockchain\, cybersecurity\, and web2 software engineering\, Gabe brings deep technical expertise and entrepreneurial spirit to the Algorand ecosystem. As a Developer Relations Engineer at the Algorand Foundation\, he bridges the gap between emerging technology and practical implementation. Previously\, he co-founded TxnLab and helped build NFDomains - the leading identity solution on the Algorand blockchain. Having worked with both early-stage startups and established enterprises\, Gabe leverages his diverse background to help builders navigate the full spectrum of challenges in blockchain development. He is committed to empowering developers through hands-on technical education and community building.</p>
+DTEND:20250515T183000Z
+LOCATION:Room 309
+DTSTART:20250515T173000Z
+STATUS:CONFIRMED
+SUMMARY:[sponsor-workshop] Real-World Problems Blockchain Actually Solves (and How to Code Them in Python) (Sponsor: Algorand)
+TRANSP:OPAQUE
+UID:33921e54-21da-5617-8c8e-27ab8e5716f6
+URL:https://us.pycon.org/2025/schedule/presentation/150/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: 🐍 Python meets the crab 🦀 - Friendship at first sight? (Sponsor: Bloomberg)\nhttps://us.pycon.org/2025/schedule/presentation/151/\n<p>Python's simplicity often comes at the cost of performance\, especially in computationally-intensive tasks. In contrast\, Rust enables one to write low-level code that takes full advantage of the underlying hardware. Furthermore\, Rust (just like Python) has a vibrant ecosystem with many great libraries. PyO3 (together with the maturin build back-end) allows you to easily integrate the two languages together and make use of the best of both.</p>\nSpeakers:\nBernát Gábor\n<p>Over the years\, I have delivered 2 presentations + 1 workshop at PyCon US\; 2 presentation + 1 workshop at PyTexas\, 4 presentations at EuroPython\, 1 at PyCon UK\, and two talks at PyLondinium. My website (https://bernat.tech/presentations) contains links to the videos and slides for these presentations. I am also the author of the virtualenv/tox packages and a PyPA member.</p>
@@ -59,11 +83,12 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: sponsor-workshop\n\n
 DTEND:20250515T163000Z
+LOCATION:Room 315
 DTSTART:20250515T153000Z
 STATUS:CONFIRMED
 SUMMARY:[sponsor-workshop] sponsor-workshop
 TRANSP:OPAQUE
-UID:e21fe6d4-626c-53b3-a4a2-3d983b837714
+UID:c64e6ce6-4549-5b73-ab53-6746ec8714af
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: DataComPy - Dataframe Comparisons made Explicit (Sponsor: Capital One)\nhttps://us.pycon.org/2025/schedule/presentation/73/\n<p>DataComPy is a widely used validation tool with over 1.1 million monthly installations\, written to quickly and comprehensively compare a pair of dataframes. Designed to help make differences between schemas and data clear and explicit\, DataComPy generates a comprehensive report at the completion of all comparisons\, providing useful metrics such as match percentages\, maximal differences\, and sample mismatches between comparable columns. In addition\, it supports various forms of input data types for both native (Pandas\, Polars\, Spark\, Snowpark) and indirect (Dask\, Ray) comparisons. It also supports comparison of certain types of database tables\, including Snowflake and DuckDB. Over the course of the presentation\, we'll be delving further into how DataComPy works\, what features it provides\, and what types of practical use cases it is designed to help address.</p>\nSpeakers:\nAkshay Gupta\n<p>-</p>\nRaymond Haffar\n<p>UWaterloo Comp Eng undergrad\, data science @ Capital One. Interested in building practical and resilient solutions for data tooling!</p>
@@ -77,15 +102,6 @@ UID:4ffb1b16-8d69-5ec6-bd66-ce11767a98e1
 URL:https://us.pycon.org/2025/schedule/presentation/73/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: sponsor-workshop\n\n
-DTEND:20250515T183000Z
-DTSTART:20250515T173000Z
-STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] sponsor-workshop
-TRANSP:OPAQUE
-UID:760d67d4-fb66-5bee-be6a-eb44ed90baa4
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Building Scalable AI Tool Servers with Model Context Protocol (MCP) and Heroku (Sponsor: Heroku)\nhttps://us.pycon.org/2025/schedule/presentation/3/\n<p>Large Language Models (LLMs) become vastly more powerful when given the ability to call external tools to gather information and take real-world actions - such as querying APIs\, modifying databases\, or kicking off workflows. This talk explores how to build and scale these tool servers using Python and the Model Context Protocol (MCP).</p>\n<p>MCP is an open-source protocol that provides a standardized request format and response structure for LLMs interacting with external tools\, ensuring consistency while allowing flexible execution under the hood. We’ll walk through implementing an MCP-compliant tool server in Python\, covering topics like transport types\, the connection lifecycle\, and best practices.</p>\n<p>LLM tool servers must handle increasing traffic efficiently\, requiring strategies for load balancing\, container orchestration\, and cloud deployment. We’ll discuss scaling Python services horizontally using load balancing and container orchestration. This includes practical considerations for deploying on 12-Factor App platforms like Heroku.</p>\n<p>Through live coding\, we’ll implement\, deploy\, and scale an MCP-compliant tool server using Python. We’ll also demonstrate how an LLM can interact with MCP tool servers\, enabling you to build powerful\, API-driven AI agents.</p>\n<p>Attendees will gain hands-on knowledge of building\, deploying\, and scaling Python-based MCP tool servers and AI agents\, made simple with Heroku’s streamlined deployment process.</p>\nSpeakers:\nHillary Sanders\n<p>-</p>\nKen Alger\n<p>-</p>
 DTEND:20250515T203000Z
 LOCATION:Room 315
@@ -97,39 +113,6 @@ UID:bf8d3ce7-6778-5d87-a7f9-67e16dabc7c3
 URL:https://us.pycon.org/2025/schedule/presentation/3/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Enterprise-Ready Python for High-Performance Data Teams (Sponsor: Snowflake)\nhttps://us.pycon.org/2025/schedule/presentation/148/\n<p>In this talk\, we’ll explore the challenges of running Python in enterprise data teams and share lessons learned from building for PyData developers at Snowflake\, with an emphasis on flexibility\, performance\, and library compatibility. We'll focus on two key aspects: APIs and runtimes. First\, we'll look at how you can run pandas at all data scales using Modin\, and how this interoperates with other tools in the PyData stack. Then\, we'll discuss ways to manage runtime compatibility\, from customizing environments to working within notebook-based workflows.</p>\nSpeakers:\nSavannah Ostrowski\n<p>Savannah Ostrowski is a Python Core Developer and product lead for Python Developer Experience and Notebooks at Snowflake. She helps maintain the new JIT compiler introduced in Python 3.13 and the argparse module in the Python standard library. Savannah is also a member of the broader Faster CPython team and serves on the Jupyter Foundation Governing Board on behalf of Snowflake.</p>\n<p>A self-taught developer with a background in geospatial computing\, Savannah has built a career at the intersection of developer tools and open-source software. Before Snowflake\, she led product for Docker’s runtime\, working on foundational technology for the container ecosystem\, including Docker Engine (moby/moby) and Docker CLI. She previously worked at Microsoft on the Azure Developer CLI and was the product manager for the Pylance language server.</p>\n<p>She lives in beautiful Washington state with her husband and their three cats\, enjoying pottery and reading in her spare time.</p>\nDoris Lee\n<p>Doris Lee leads Python developer experience across Snowflake's products. Previously\, Doris was CEO and co-founder of Ponder (acquired by Snowflake in 2023)\, the company behind the open-source project Modin. Doris received her Ph.D. from the UC Berkeley RISE Lab and School of Information in 2021\, where she developed open-source tools that help data scientists explore and understand their data. She received Forbes 30 under 30 for Enterprise Technology in 2023.</p>
-DTEND:20250515T163000Z
-LOCATION:Room 309
-DTSTART:20250515T153000Z
-STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Enterprise-Ready Python for High-Performance Data Teams (Sponsor: Snowflake)
-TRANSP:OPAQUE
-UID:7c6a3a8e-cf58-5e71-8987-5a59385334f7
-URL:https://us.pycon.org/2025/schedule/presentation/148/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: High-Performance Python: Faster Type Checking and Free Threaded Execution (Sponsor: Meta)\nhttps://us.pycon.org/2025/schedule/presentation/118/\n<p><em>Meta's Commitment to the Python Community: Empowering Innovation and Collaboration</em></p>\n<p>At Meta\, we're dedicated to advancing the Python ecosystem through open-source contributions and community engagement. Our mission is to improve the tooling and runtime\, making the language more efficient\, scalable\, and accessible for developers worldwide.</p>\n<p><em>Introducing Pyrefly: A Scalable Type Checker for a Unified IDE Experience</em></p>\n<p>We're excited to introduce Pyrefly\, a new type checker designed with scalability in mind. Built from the ground up using Rust\, Pyrefly provides a faster and more efficient type checking experience\, enabling developers to write better code with confidence. With Pyrefly\, we aim to deliver a unified IDE experience power type hints and code navigation on a new type checking engine.</p>\n<p><em>Unlocking Better Performance with Free-Threaded Python</em></p>\n<p>In collaboration with the Python community\, we've been working on making free-threaded Python (No-GIL) available in Python 3.13. This significant milestone allows developers to take full advantage of modern multi-core processors directly from Python. More recently\, our efforts have focused on improving the single-threaded performance of the free threading build\, ensuring that Python remains a top choice for developers seeking high-performance capabilities.</p>\nSpeakers:\nSam Gross\n<p>-</p>\nNeil Mitchell\n<p>Programmer at Meta\, working on improving the Python developer experience.</p>
-DTEND:20250515T183000Z
-LOCATION:Room 315
-DTSTART:20250515T173000Z
-STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] High-Performance Python: Faster Type Checking and Free Threaded Execution (Sponsor: Meta)
-TRANSP:OPAQUE
-UID:dea2dfca-1957-5934-8fcf-5d473cee64eb
-URL:https://us.pycon.org/2025/schedule/presentation/118/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Real-World Problems Blockchain Actually Solves (and How to Code Them in Python) (Sponsor: Algorand)\nhttps://us.pycon.org/2025/schedule/presentation/150/\n<p>In this talk\, we'll zero in on real-world problems blockchain genuinely solves. We'll cut through the jargon and focus on when blockchain makes sense and when it doesn't.</p>\n<p>Everything we build will use Python\, using libraries and patterns you already know\, plus a few lightweight tools to interact with the Algorand blockchain. </p>\n<p>We'll work through hands-on examples: coding trust into peer-to-peer payment systems for underbanked regions\, building fractional ownership for previously illiquid assets\, and creating self-sovereign digital identity systems that empower users with ownership of their credentials. These aren't hypotheticals—companies are running these solutions in production today\, and we'll break down how they do it.</p>\n<p>Expect a session that meets you where you are: practical\, approachable\, and 100% Python. By the end\, you'll see where blockchain fits into your toolkit—not as a magic bullet\, but as a practical option for specific\, thorny problems.</p>\nSpeakers:\nGabriel Kuettel\n<p>With over a decade of experience spanning blockchain\, cybersecurity\, and web2 software engineering\, Gabe brings deep technical expertise and entrepreneurial spirit to the Algorand ecosystem. As a Developer Relations Engineer at the Algorand Foundation\, he bridges the gap between emerging technology and practical implementation. Previously\, he co-founded TxnLab and helped build NFDomains - the leading identity solution on the Algorand blockchain. Having worked with both early-stage startups and established enterprises\, Gabe leverages his diverse background to help builders navigate the full spectrum of challenges in blockchain development. He is committed to empowering developers through hands-on technical education and community building.</p>
-DTEND:20250515T183000Z
-LOCATION:Room 309
-DTSTART:20250515T173000Z
-STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] Real-World Problems Blockchain Actually Solves (and How to Code Them in Python) (Sponsor: Algorand)
-TRANSP:OPAQUE
-UID:33921e54-21da-5617-8c8e-27ab8e5716f6
-URL:https://us.pycon.org/2025/schedule/presentation/150/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Evolving Django: What We Learned by Integrating MongoDB (Sponsor: MongoDB)\nhttps://us.pycon.org/2025/schedule/presentation/142/\n<p>At MongoDB\, we have several Django enthusiasts who have jumped at the idea of backing a long-term solution to combining MongoDB and Django. Having historically provided support for SQL-based open source frameworks like Entity Framework in .NET/C#\, Doctrine in PHP\, and many more\, we are familiar with the territory.\nWe're happy to say we've successfully created a MongoDB Backend Library for Django and want to share all that we've learned kitting out a new NoSQL backend for a traditionally SQL framework including how we believe we have influenced -- and will continue to influence -- changes in the core Django library.</p>\nSpeakers:\nAnaiya Raisinghani\n<p>Anaiya Raisinghani is a passionate Developer Advocate at MongoDB\, where she empowers developers to turn their quirkiest dreams into reality with AI and Python. With her background in Computational Linguistics and Industrial and Systems Engineering\, she is all about exploring the niche between fun and useful by helping people build playful\, creative applications that can actually fit into real life (even through the chaos of it all!). When she's away from her laptop\, you can find Anaiya hanging out with her favorite coworkers (her two cats) or exploring all the fun brunch spots NYC has to offer.</p>
 DTEND:20250515T143000Z
 LOCATION:Room 309
@@ -139,25 +122,6 @@ SUMMARY:[sponsor-workshop] Evolving Django: What We Learned by Integrating Mongo
 TRANSP:OPAQUE
 UID:31c1fa49-8635-5943-b57e-c7e667e181db
 URL:https://us.pycon.org/2025/schedule/presentation/142/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: sponsor-workshop\n\n
-DTEND:20250515T163000Z
-LOCATION:Room 315
-DTSTART:20250515T153000Z
-STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] sponsor-workshop
-TRANSP:OPAQUE
-UID:c64e6ce6-4549-5b73-ab53-6746ec8714af
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: sponsor-workshop\n\n
-DTEND:20250515T203000Z
-DTSTART:20250515T193000Z
-STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] sponsor-workshop
-TRANSP:OPAQUE
-UID:c3eb1b7d-7032-541e-bbdf-315d26c85ef1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: Build modern Python apps on Azure (Sponsor: Microsoft)\nhttps://us.pycon.org/2025/schedule/presentation/140/\n<p>For software engineers today\, developing Python apps and getting them to the cloud can be a serious hassle. Join us to explore a streamlined end-to-end experience of developing cloud-ready Python applications with Microsoft technologies! </p>\n<p>We'll cover how to build and deploy applications to Azure that use modern async frameworks\, generative AI\, and open-source databases like PostgreSQL. </p>\n<p>By the end\, you'll learn how save time and supercharge your development workflows with fan-favorite Python developer tools like VS Code\, our Python extension\, and GitHub Copilot - all without leaving your IDE!</p>\nSpeakers:\nPamela Fox\n<p>Pamela Fox is a human that loves to learn\, teach\, and create. She's currently a Cloud Advocate in Python at Microsoft\, where she helps developers use Python with Azure\, VS Code\, and GitHub.</p>\n<p>On the teaching front\, Pamela has taught computer science at UC Berkeley and volunteered in bay area classrooms as part of the TEALS\, GirlsWhoCode\, and CoderDojo organizations. She also started the SF chapter of GirlDevelopIt\, where she taught dozens of web development workshops.</p>\n<p>Pamela's been in the tech industry for 15+ years now\, starting with her first role at Google as one of their first developer advocates. She went on to be an early full-stack engineer at Coursera and spent many years after at Khan Academy\, both as an engineer and the creator of the computer programming content.</p>\nRohit Ganguly\n<p>Rohit is a Python enthusiast and Product Manager at Microsoft working primarily on Azure Developer Experience and the Azure SDK for Python.</p>\n<p>This will be Rohit’s third PyCon US\, attending in 2023\, 2024\, and speaking at the documentation summit at PyCon US 2024.</p>\n<p>Rohit’s interests in Python include web app development\, community organization\, responsible AI\, and all aspects of developer experience from package management to documentation.</p>\n<p>As a proud Pitt alum\, contributor to the PittAPI Python package\, and former Microsoft Pittsburgh community member\, Rohit is excited to bring his love for Pittsburgh and Python to PyCon US 2025.</p>\n<p>You can find Rohit online at https://rohit.info.</p>

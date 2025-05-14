@@ -34,16 +34,6 @@ TRANSP:OPAQUE
 UID:3d930c8b-a9eb-525d-8dcd-ff696fd2e68a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: plenary\nName: Opening Reception\n<p>Opening Reception</p>\n
-DTEND:20250515T230000Z
-LOCATION:Hall A
-DTSTART:20250515T210000Z
-STATUS:CONFIRMED
-SUMMARY:[plenary] Opening Reception
-TRANSP:OPAQUE
-UID:3fb5eb5f-71f9-55de-8c4c-4792d4269ff5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Section: talks\nKind: plenary\nName: Keynote - Dr. Kali L. Jordan\n<p><a href="/2025/about/keynote-speakers#dr-kari-l-jordan">Dr. Kari L. Jordan</a>\n<br><span style="font-size: smaller\; font-weight: normal\;">Keynote</span></p>\n
 DTEND:20250518T200000Z
 LOCATION:Hall B
@@ -54,12 +44,12 @@ TRANSP:OPAQUE
 UID:b44fc0e3-7d56-5f5c-ac41-956867061d0d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: Diversity & Inclusion Panel\n<p><a href="https://us.pycon.org/2025/about/keynote-speakers/#diversity-and-inclusion-panel">Diversity &amp\; Inclusion Panel</a></p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: Diversity & Inclusion Panel: The Work Still Matters: Inclusion\, Access\, and Community in 2025\n<p><a href="https://us.pycon.org/2025/about/keynote-speakers/#diversity-and-inclusion-panel">Diversity &amp\; Inclusion Panel: The Work Still Matters: Inclusion\, Access\, and Community in 2025</a></p>\n
 DTEND:20250517T132500Z
 LOCATION:Hall B
 DTSTART:20250517T130000Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] Diversity & Inclusion Panel
+SUMMARY:[plenary] Diversity & Inclusion Panel: The Work Still Matters: Inclusion\, Access\, and Community in 2025
 TRANSP:OPAQUE
 UID:525dd233-5698-5b07-8116-72e75105a3b2
 END:VEVENT

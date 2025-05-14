@@ -68,15 +68,6 @@ UID:b420fd97-db8e-5fe3-a020-238c8e5ba39c
 URL:https://us.pycon.org/2025/schedule/presentation/102/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: sponsor-workshop\n\n
-DTEND:20250515T163000Z
-DTSTART:20250515T153000Z
-STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] sponsor-workshop
-TRANSP:OPAQUE
-UID:e21fe6d4-626c-53b3-a4a2-3d983b837714
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Section: events\nKind: summit\nName: Typing Summit\, pre-registration required\n<p>Typing Summit\, pre-registration required</p>\n
 DTEND:20250516T220000Z
 LOCATION:Room 319
@@ -558,16 +549,6 @@ UID:3a8b9d4c-b292-5153-b160-70f43a18999e
 URL:https://us.pycon.org/2025/schedule/presentation/8/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: plenary\nName: Opening Reception\n<p>Opening Reception</p>\n
-DTEND:20250515T230000Z
-LOCATION:Hall A
-DTSTART:20250515T210000Z
-STATUS:CONFIRMED
-SUMMARY:[plenary] Opening Reception
-TRANSP:OPAQUE
-UID:3fb5eb5f-71f9-55de-8c4c-4792d4269ff5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Section: talks\nKind: charla\nName: "GeoMonitoreo con Python: Soluciones Innovadoras para los Desafíos de Latinoamérica"\nhttps://us.pycon.org/2025/schedule/presentation/67/\n<p>En esta charla\, contaremos la experiencia de subirse al ‘tren Python’ que prometía ser una tecnología en expansión allá por el 2015\, cuando comenzamos a utilizar este lenguaje para la implementación de soluciones basadas en procesamiento de imágenes de video y satelitales para aplicaciones científicas en casos reales. Desde ese entonces\, junto con su ecosistema compuesto por bibliotecas en constante actualización\, Python continúa revolucionando el monitoreo ambiental en Latinoamérica. \nCon aplicaciones como el análisis de imágenes satelitales para evaluar los cambios de uso y cobertura de suelo hasta la detección de aumento o disminución de humedales o la presencia de cianobacterias en lagos\, ríos o embalses\, esta herramienta ha permitido implementar soluciones accesibles y escalables frente a desafíos como el cambio climático\, la gestión de recursos hídricos y la conservación de ecosistemas. Compartiremos casos de estudio exitosos y herramientas clave\, mostrando cómo la comunidad puede contribuir al cuidado ambiental y la sostenibilidad ambiental en la región. Python es más que un lenguaje de programación\, es una interacción continua entre documentación\, desarrolladores y la comunidad que pone a disposición infinidad de herramientas para que cualquier persona con una idea para cuidar el planeta pueda generar su aporte y divulgarlo globalmente\, algo que resultaba difícil de imaginar en nuestros comienzos.</p>\nSpeakers:\nNatalia V. Revollo\n<p>Doctor en Ingeniería por la Universidad Nacional del Sur e Ingeniera en Informática por la UNJU\, Argentina. Actualmente es profesora  e investigadora del Instituto de Ciencias e Ingeniería de la Computación (ICIC-UNS-CONICET) en el área de proyectos de desarrollo tecnológico y social. Es especialista en el desarrollo de algoritmos y software basados ​​en el procesamiento digital de imágenes y el estudio de sistemas inteligentes. Ha realizado cursos de especialización en diferentes universidades de la Argentina y del exterior\, y ha presentado publicaciones en el ámbito de la automatización de sistemas de clasificación y medición no supervisada de imágenes satelitales y videos de características relacionadas con la superficie terrestre. Ha participado en proyectos de transferencia tecnológica aplicada en áreas ambientales y geociencias como analista y desarrollador de algoritmos y modelos de aprendizaje automático. Fue autora del primer estudio sobre Capacidad de Carga de Playa utilizando algoritmos basados ​​en visión por computadora realizado en Argentina. Su trabajo más reciente aborda temas relacionados con el monitoreo no invasivo de los Recursos Hídricos y su interacción con el medio ambiente\, desde el monitoreo de playas en zonas costeras\, la teledetección de cuencas hídricas y la clasificación de humedales.</p>\nCarlos E. Berger\n<p>I am an Electronic Engineer and Ph.D. in Control of Systems\, deeply engaged in research and education\, particularly in the application of programming languages to scientific and multidisciplinary fields. I am a full professor at two universities in Argentina\, and I also work as an independent developer\, actively seeking new opportunities and positions.</p>
 DTEND:20250516T153000Z
 LOCATION:Room 310/311
@@ -718,12 +699,12 @@ UID:107cd9a8-f0a0-59ec-ab86-b49a0952a8f1
 URL:https://us.pycon.org/2025/schedule/presentation/109/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)\n<p>Open Spaces Rooms Open -  <a href="pycon.us/os">pycon.us/os</a></p>\n
+DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Open\n<p>Open Spaces Rooms Open -  <a href="https://pycon.us/os">pycon.us/os</a></p>\n
 DTEND:20250516T120000Z
 LOCATION:Open Spaces Rooms
 DTSTART:20250516T120000Z
 STATUS:CONFIRMED
-SUMMARY:[informational] Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)
+SUMMARY:[informational] Open Spaces Rooms Open
 TRANSP:OPAQUE
 UID:2d23168a-91f9-54e4-be6d-c5e00947c465
 END:VEVENT
@@ -738,12 +719,12 @@ TRANSP:OPAQUE
 UID:909afefa-7c9f-5219-9d0a-29437b4ce12b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: events\nKind: event\nName: Mentored Sprints\n<p>Mentored Sprints</p>\n
+DESCRIPTION:Section: events\nKind: event\nName: Mentored Sprints\, pre-registration required\n<p>Mentored Sprints\, pre-registration required</p>\n
 DTEND:20250517T213000Z
 LOCATION:Room 402
 DTSTART:20250517T174500Z
 STATUS:CONFIRMED
-SUMMARY:[event] Mentored Sprints
+SUMMARY:[event] Mentored Sprints\, pre-registration required
 TRANSP:OPAQUE
 UID:7d471186-08f6-5bff-acba-3a4c805845a6
 END:VEVENT
@@ -777,15 +758,6 @@ STATUS:CONFIRMED
 SUMMARY:[break] Lunch
 TRANSP:OPAQUE
 UID:4880bf5f-79a6-5c6d-b720-2bc74613dbaf
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: sponsor-workshop\n\n
-DTEND:20250515T183000Z
-DTSTART:20250515T173000Z
-STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] sponsor-workshop
-TRANSP:OPAQUE
-UID:760d67d4-fb66-5bee-be6a-eb44ed90baa4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: talks\nKind: talk\nName: Supercharge your Python library using AST parsing\nhttps://us.pycon.org/2025/schedule/presentation/129/\n<p>The primary goal of developers using the Python/C API is to increase the performance of their Python code. Often\, this is done by executing a C function which has been compiled into machine code to bypass the Python interpreter. However\, <em>between</em> a user’s Python code and the invocation of the C function\, we can squeeze out even more performance. How\, you ask? </p>\n<p>We can leverage AST parsing with Python’s standard library “ast” module to modify the syntax of the code. In this talk\, we show some tricks to transform the Python AST for optimized runtime performance using the C API. These aren’t just theoretical\, either! Each example is taken from CSP\, an open-source computation graph library which heavily uses the Python/C API. </p>\n<p>This talk is meant for an advanced audience which has familiarity with the Python “ast” module as well as the Python/C API.</p>\nSpeakers:\nAdam Glustein\n<p>Adam Glustein is a Quantitative Developer at Point72 Asset Management in New York\, USA. He is a contributor to CSP\, a reactive stream processing library for both realtime and historical data.</p>
@@ -905,12 +877,12 @@ UID:33921e54-21da-5617-8c8e-27ab8e5716f6
 URL:https://us.pycon.org/2025/schedule/presentation/150/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: Diversity & Inclusion Panel\n<p><a href="https://us.pycon.org/2025/about/keynote-speakers/#diversity-and-inclusion-panel">Diversity &amp\; Inclusion Panel</a></p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: Diversity & Inclusion Panel: The Work Still Matters: Inclusion\, Access\, and Community in 2025\n<p><a href="https://us.pycon.org/2025/about/keynote-speakers/#diversity-and-inclusion-panel">Diversity &amp\; Inclusion Panel: The Work Still Matters: Inclusion\, Access\, and Community in 2025</a></p>\n
 DTEND:20250517T132500Z
 LOCATION:Hall B
 DTSTART:20250517T130000Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] Diversity & Inclusion Panel
+SUMMARY:[plenary] Diversity & Inclusion Panel: The Work Still Matters: Inclusion\, Access\, and Community in 2025
 TRANSP:OPAQUE
 UID:525dd233-5698-5b07-8116-72e75105a3b2
 END:VEVENT
@@ -958,12 +930,12 @@ UID:9d660b4d-1c7b-5223-8f2f-240444e0bd45
 URL:https://us.pycon.org/2025/schedule/presentation/76/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)\n<p>Open Spaces Rooms Open -  <a href="pycon.us/os">pycon.us/os</a></p>\n
+DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Open\n<p>Open Spaces Rooms Open -  <a href="https://pycon.us/os">pycon.us/os</a></p>\n
 DTEND:20250518T120000Z
 LOCATION:Open Spaces Rooms
 DTSTART:20250518T120000Z
 STATUS:CONFIRMED
-SUMMARY:[informational] Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)
+SUMMARY:[informational] Open Spaces Rooms Open
 TRANSP:OPAQUE
 UID:13272123-eef3-5f37-8cfa-568dbfd924d3
 END:VEVENT
@@ -1254,15 +1226,6 @@ SUMMARY:[tutorial] Reproducible Dependency Management with Pixi
 TRANSP:OPAQUE
 UID:6d5f64e6-d53b-5df6-8005-7d9a26547399
 URL:https://us.pycon.org/2025/schedule/presentation/131/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: sponsor-workshop\n\n
-DTEND:20250515T203000Z
-DTSTART:20250515T193000Z
-STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] sponsor-workshop
-TRANSP:OPAQUE
-UID:c3eb1b7d-7032-541e-bbdf-315d26c85ef1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: talks\nKind: charla\nName: Django Asíncrono: Desbloqueando el Poder de la Programación Async\nhttps://us.pycon.org/2025/schedule/presentation/36/\n<p>Con la llegada de <em>Django 3.1</em>\, el framework dio un gran salto hacia el futuro al integrar soporte para asincronismo. Pero\, ¿qué significa esto para quienes desarrollamos aplicaciones web? En esta charla\, te voy a enseñar cómo usar las herramientas de asincronismo en Django para construir aplicaciones más rápidas y eficientes.</p>\n<p>Empezaremos con una breve introducción a asyncio\, la base del asincronismo en Python. ¿Qué son los event loops? <em>¿Qué hacen async y await?</em> Si nunca has trabajado con código asíncrono\, no te preocupes\, aquí lo explicaremos de forma simple.</p>\n<p>Después\, entraremos directo en el mundo de Django:\n* Escribiremos vistas asíncronas (async def) y exploraremos casos prácticos donde el asincronismo realmente marca la diferencia.\n* Compararemos el rendimiento entre vistas síncronas y asíncronas mediante pruebas reales\, mostrando cómo manejar múltiples peticiones a APIs externas de manera eficiente.\n* Veremos cómo Django adopta la convención de agregar una "a" a los métodos asíncronos del ORM (como aget\, afirst\, alast) para diferenciarlos de sus versiones síncronas.\n* Discutiremos las limitaciones actuales del ORM de Django (spoiler: sigue siendo síncrono) y cómo manejarlas en proyectos modernos.</p>\n<p>Para cerrar\, incluiré una demostración práctica y ejemplos de código reales que puedes llevarte a casa. </p>\n<p>Esta charla está pensada para desarrolladores de nivel intermedio que quieran llevar sus proyectos Django al siguiente nivel y entender cómo el asincronismo puede transformar la manera en que construimos aplicaciones web.</p>\nSpeakers:\nLuis Martinez\n<p>I have been working in software development since 2014\, I am a technologist in informatics\, and web python developer. I also like to learn more about development\, I worked remotely at Swapps.com as Full Stack Software Engineer\, after that I worked at Platzi.com as a Backend software engineer with Python / Django also I was a Cloud Engineer with AWS.</p>\n<p>I am also the teacher of the Django\, Django Rest Framework courses in Platzi.com</p>
@@ -1790,15 +1753,6 @@ UID:c26dd0f0-5088-5a0c-8d7c-2cd7b0aba927
 URL:https://us.pycon.org/2025/schedule/presentation/157/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: sponsor-workshop\nName: sponsor-workshop\n\n
-DTEND:20250515T143000Z
-DTSTART:20250515T133000Z
-STATUS:CONFIRMED
-SUMMARY:[sponsor-workshop] sponsor-workshop
-TRANSP:OPAQUE
-UID:ab827ed2-86c2-5c7f-8eee-0326d169f0da
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Section: talks\nKind: plenary\nName: Welcome\n<p>Welcome</p>\n
 DTEND:20250516T132500Z
 LOCATION:Hall B
@@ -2054,12 +2008,12 @@ UID:a545a5ac-9ea0-5b65-adb0-04afa85f25e0
 URL:https://us.pycon.org/2025/schedule/presentation/91/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)\n<p>Open Spaces Rooms Open -  <a href="pycon.us/os">pycon.us/os</a></p>\n
+DESCRIPTION:Section: events\nKind: informational\nName: Open Spaces Rooms Open\n<p>Open Spaces Rooms Open -  <a href="https://pycon.us/os">pycon.us/os</a></p>\n
 DTEND:20250517T120000Z
 LOCATION:Open Spaces Rooms
 DTSTART:20250517T120000Z
 STATUS:CONFIRMED
-SUMMARY:[informational] Open Spaces Rooms Open -  [pycon.us/os](pycon.us/os)
+SUMMARY:[informational] Open Spaces Rooms Open
 TRANSP:OPAQUE
 UID:0fa9eef2-9177-542a-b71b-a8bae092562d
 END:VEVENT
@@ -2157,16 +2111,6 @@ SUMMARY:[talk] The Most Bizarre Software Bugs in History
 TRANSP:OPAQUE
 UID:f9d78e51-cc61-58cc-910f-5aac419f1d70
 URL:https://us.pycon.org/2025/schedule/presentation/17/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Section: sponsor-presentations\nKind: break\nName: Lunch\n<p>Lunch</p>\n
-DTEND:20250515T173000Z
-LOCATION:Ballroom A
-DTSTART:20250515T163000Z
-STATUS:CONFIRMED
-SUMMARY:[break] Lunch
-TRANSP:OPAQUE
-UID:bf2f7049-cd29-5282-a613-06cca4ef34d0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: talks\nKind: talk\nName: Diving into the Deep End: A Python Journey in Water Management\nhttps://us.pycon.org/2025/schedule/presentation/104/\n<p>Six years ago\, I was asked to create a better Excel spreadsheet to track water requests for a small irrigation district. That request sparked an unexpected journey: from knowing only basic Python syntax to building a SaaS platform that models physical water delivery systems. This platform now handles water accounting\, delivery tracking\, scheduling\, reporting\, and even simulation for real-world use.</p>\n<p>In this talk\, I’ll share how I tackled challenges like:\n- Transitioning from spreadsheets to a Python-powered solution.\n- Modeling physical systems without a background in discrete mathematics\, graph theory\, or simulation.\n- Scaling a personal learning project into a production-ready SaaS application.</p>\n<p>I’ll also explore the tools and techniques that made it possible\, the lessons I learned along the way\, and the moments of failure and success that shaped my journey. Whether new to Python\, considering tackling a big project\, or just curious about real-world applications of Python\, this talk will inspire attendees to dive in and solve problems beyond their comfort zone.</p>\nSpeakers:\nJack Linke\n<p>Jack Linke tends to learn the hard way - and shares the lessons from those experiences with others through blogging\, tweets\, and speaking engagements. He has been developing software and hardware projects off-and-on for most of his life\, but much of his relevant Python development experience has been hard-earned over the past five years during development of Watervize - a B2B2B SaaS web application (written in Django) to help irrigation water utility companies improve efficiency\, analysis\, and communication with staff and agriculture customers.</p>\n<p>Jack’s technology interests include Python\, the Django project\, simulation\, GIS\, graph theory\, data storytelling\, and visualization. He is a frequent contributor to the open source community\, an Individual Member of the Django Software Foundation\, and a contributing member of the Python Software Foundation.</p>\n<p>His speaking experience includes briefing Generals on topics ranging from budgets to technical concepts\, instructing at formal training centers\, providing software demonstrations and feature walk-throughs\, and he was certified as a Weapons and Tactics Instructor (WTI) while serving as a Marine Corps Officer.</p>\n<p>Outside of coding\, Jack takes his Husky (Lady Duchess) on adventures\, solves unusual math and logic problems\, and makes a mess in the kitchen (and life).</p>

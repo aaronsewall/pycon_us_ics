@@ -857,12 +857,12 @@ UID:f0c79aa1-3202-50aa-8c5a-4f67d64891d8
 URL:https://us.pycon.org/2025/schedule/presentation/59/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: Diversity & Inclusion Panel\n<p><a href="https://us.pycon.org/2025/about/keynote-speakers/#diversity-and-inclusion-panel">Diversity &amp\; Inclusion Panel</a></p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: Diversity & Inclusion Panel: The Work Still Matters: Inclusion\, Access\, and Community in 2025\n<p><a href="https://us.pycon.org/2025/about/keynote-speakers/#diversity-and-inclusion-panel">Diversity &amp\; Inclusion Panel: The Work Still Matters: Inclusion\, Access\, and Community in 2025</a></p>\n
 DTEND:20250517T132500Z
 LOCATION:Hall B
 DTSTART:20250517T130000Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] Diversity & Inclusion Panel
+SUMMARY:[plenary] Diversity & Inclusion Panel: The Work Still Matters: Inclusion\, Access\, and Community in 2025
 TRANSP:OPAQUE
 UID:525dd233-5698-5b07-8116-72e75105a3b2
 END:VEVENT

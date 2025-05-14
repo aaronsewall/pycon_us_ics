@@ -44,12 +44,12 @@ TRANSP:OPAQUE
 UID:909afefa-7c9f-5219-9d0a-29437b4ce12b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: events\nKind: event\nName: Mentored Sprints\n<p>Mentored Sprints</p>\n
+DESCRIPTION:Section: events\nKind: event\nName: Mentored Sprints\, pre-registration required\n<p>Mentored Sprints\, pre-registration required</p>\n
 DTEND:20250517T213000Z
 LOCATION:Room 402
 DTSTART:20250517T174500Z
 STATUS:CONFIRMED
-SUMMARY:[event] Mentored Sprints
+SUMMARY:[event] Mentored Sprints\, pre-registration required
 TRANSP:OPAQUE
 UID:7d471186-08f6-5bff-acba-3a4c805845a6
 END:VEVENT
