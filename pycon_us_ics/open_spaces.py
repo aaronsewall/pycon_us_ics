@@ -68,7 +68,7 @@ def fetch_and_convert(url):
                 time = time.strip()
                 dt_start, dt_end = parse_time(day_str, time)
                 event = Event()
-                event.name = title
+                event.name = f"[open-spaces] {title}"
                 event.begin = dt_start
                 event.end = dt_end
                 event.location = where
