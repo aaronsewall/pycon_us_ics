@@ -21,7 +21,7 @@ def parse_schedule_table(soup):
     table = soup.find("caption", string=re.compile("EVENT SCHEDULE", re.I)).find_parent("table")
     rows = table.find("tbody").find_all("tr")
 
-    event_date = "May 17 2025"
+    event_date = "May 16 2025"
     tz = pytz.timezone("US/Eastern")
 
     # Gather all real scheduled events (with a parseable time)
