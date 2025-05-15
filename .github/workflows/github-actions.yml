@@ -58,7 +58,7 @@ jobs:
           cd pycon_us_ics
           python pycon.py
           # Run all the manually parsed stuff to completion even if it fails
-          python parse_open_spaces.py || true
+          python open_spaces.py || true
           python community_organizers_summit.py || true
           python education_summit.py || true
           python flaskcon.py || true
