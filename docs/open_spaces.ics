@@ -20,6 +20,14 @@ SUMMARY:[open-spaces] PSF & Meetups Discussion
 UID:171711db-b144-5dba-a7f3-016dd6b104a6
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Get ready for an engaging hour as we dive into all things data engineering.\r\n\r\n​Chat data engineering\, connect with peers and throw down some hot takes.\r\n\r\n​Don’t miss this great opportunity to learn\, network\, and unwind with the community!
+DTEND:20250516T150000Z
+LOCATION:Room 308
+DTSTART:20250516T140000Z
+SUMMARY:[open-spaces] Data Engineering Meetup: PyCon 2025
+UID:de87d576-170f-5f0b-9b5f-45f11f7c1630
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Come have English tea and biscuits with Cheuk. Let's talk about Python\, community and PyCharm over an aromatic brew. Everyone is welcomed to my tea party.
 DTEND:20250516T170000Z
 LOCATION:Room 308
@@ -52,7 +60,7 @@ SUMMARY:[open-spaces] Python Book Author Meet-and-Greet
 UID:2a769d2e-faa0-58ea-9905-a97afd26a97c
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Connect with fellow CKAN users\, contributors\, and newcomers for updates\, lightning talks\, and casual conversation. Whether you're deep into data or new to CKAN\, stop by to share ideas and help shape what’s next. Interested in giving a lightning talk? Email us at pose.ckan@pitt.edu.
+DESCRIPTION:Connect with fellow Comprehensive Knowledge Archive Network (CKAN) users\, contributors\, and newcomers for updates\, lightning talks\, and casual conversation. Whether you're deep into data or new to CKAN\, stop by to share ideas and help shape what’s next.\r\n\r\nCKAN Project Update - Ian Ward\r\nCKAN POSE Project Update - Jamaica Jones\r\nTexas Water Data Hub Overview - Ben Bright\r\nWestern PA Regional Data Center (WPRDC) Overview - David Walker\r\nAutomagical Metadata Inferencing from Raw Data - Joel Natividad\r\nOpen D…
 DTEND:20250517T180000Z
 LOCATION:Room 309
 DTSTART:20250517T160000Z
@@ -77,9 +85,9 @@ UID:85b1786f-d3b2-53db-b08b-6277a332a649
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Impacted by resignations\, RIFs\, or cuts to grants and contracts? Join us for an Open Space focused on community\, support\, and shared purpose. We'll hold discussion space on career pivots\, personal resilience\, and how we can continue to uphold and advance public-sector data\, programming\, and AI innovation. Can’t make the session? Email elaynemorrison@gmail.com to receive the shared resource list and stay connected.
-DTEND:20250516T140000Z
+DTEND:20250517T140000Z
 LOCATION:Room 308
-DTSTART:20250516T130000Z
+DTSTART:20250517T130000Z
 SUMMARY:[open-spaces] Current & Displaced Federal Data Professionals Open Space
 UID:4eba28ff-b511-5456-984e-9260943c9470
 END:VEVENT
