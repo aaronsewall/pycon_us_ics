@@ -114,7 +114,7 @@ def main():
             construct_calendar(
                 events=[
                     Event(
-                        name=talk["title"],
+                        name=f'[hometown-heroes] {talk["title"]}',
                         begin=talk["start"],
                         end=talk["end"],
                         location="Room 317",

@@ -9,7 +9,7 @@ DTEND:20250517T183000Z
 LOCATION:TBD
 DTSTART:20250517T170000Z
 STATUS:CONFIRMED
-SUMMARY:Current & Displaced Federal Data Professionals Open Space
+SUMMARY:[open-spaces] Current & Displaced Federal Data Professionals Open Space
 TRANSP:OPAQUE
 UID:5bba6063-b927-5417-8ccd-8d03af7c3aa2
 URL:https://us.pycon.org/2025/events/open-spaces/
@@ -20,7 +20,7 @@ DTEND:20250517T163000Z
 LOCATION:TBD
 DTSTART:20250517T143000Z
 STATUS:CONFIRMED
-SUMMARY:Supply-Chain Security
+SUMMARY:[open-spaces] Supply-Chain Security
 TRANSP:OPAQUE
 UID:21ad3ab0-8586-53c6-810b-5299bdb2e636
 URL:https://us.pycon.org/2025/events/open-spaces/
@@ -31,7 +31,7 @@ DTEND:20250518T180000Z
 LOCATION:TBD
 DTSTART:20250518T170000Z
 STATUS:CONFIRMED
-SUMMARY:PSF & Meetups Discussion
+SUMMARY:[open-spaces] PSF & Meetups Discussion
 TRANSP:OPAQUE
 UID:37ac3227-15de-5ee3-89dc-3406e9985525
 URL:https://us.pycon.org/2025/events/open-spaces/
@@ -42,7 +42,7 @@ DTEND:20250517T210000Z
 LOCATION:TBD
 DTSTART:20250517T194500Z
 STATUS:CONFIRMED
-SUMMARY:Juggling Open Space
+SUMMARY:[open-spaces] Juggling Open Space
 TRANSP:OPAQUE
 UID:cca577dd-733a-5996-940f-ff13f2a58254
 URL:https://us.pycon.org/2025/events/open-spaces/
@@ -53,7 +53,7 @@ DTEND:20250517T174500Z
 LOCATION:TBD
 DTSTART:20250517T170000Z
 STATUS:CONFIRMED
-SUMMARY:"Nebraska" Maintainers Round-table
+SUMMARY:[open-spaces] "Nebraska" Maintainers Round-table
 TRANSP:OPAQUE
 UID:5a32c752-466e-55cf-a7bc-40586a304f49
 URL:https://us.pycon.org/2025/events/open-spaces/
@@ -64,7 +64,7 @@ DTEND:20250516T210000Z
 LOCATION:TBD
 DTSTART:20250516T200000Z
 STATUS:CONFIRMED
-SUMMARY:Tea with Cheuk
+SUMMARY:[open-spaces] Tea with Cheuk
 TRANSP:OPAQUE
 UID:cb63416a-0a62-55e3-b0f4-636fed83d6e3
 URL:https://us.pycon.org/2025/events/open-spaces/
@@ -75,7 +75,7 @@ DTEND:20250517T220000Z
 LOCATION:TBD
 DTSTART:20250517T200000Z
 STATUS:CONFIRMED
-SUMMARY:CKAN Community
+SUMMARY:[open-spaces] CKAN Community
 TRANSP:OPAQUE
 UID:1b1c1d14-c2ea-5c5a-a68c-c71cf71e998f
 URL:https://us.pycon.org/2025/events/open-spaces/
@@ -86,7 +86,7 @@ DTEND:20250518T190000Z
 LOCATION:TBD
 DTSTART:20250518T180000Z
 STATUS:CONFIRMED
-SUMMARY:Beautiful Soup: Ask Me Anything
+SUMMARY:[open-spaces] Beautiful Soup: Ask Me Anything
 TRANSP:OPAQUE
 UID:9a09aa0c-b7ac-50d2-b893-38c53531f712
 URL:https://us.pycon.org/2025/events/open-spaces/
@@ -97,7 +97,7 @@ DTEND:20250517T194500Z
 LOCATION:TBD
 DTSTART:20250517T181500Z
 STATUS:CONFIRMED
-SUMMARY:Python Book Author Meet-and-Greet
+SUMMARY:[open-spaces] Python Book Author Meet-and-Greet
 TRANSP:OPAQUE
 UID:054a91ea-9cc4-53c5-92f4-7242b0fab0b5
 URL:https://us.pycon.org/2025/events/open-spaces/
@@ -108,7 +108,7 @@ DTEND:20250516T170000Z
 LOCATION:TBD
 DTSTART:20250516T160000Z
 STATUS:CONFIRMED
-SUMMARY:Education and Outreach Working Group Open Space
+SUMMARY:[open-spaces] Education and Outreach Working Group Open Space
 TRANSP:OPAQUE
 UID:25b05976-0fbb-5348-8ad1-4a3b02d87542
 URL:https://us.pycon.org/2025/events/open-spaces/
@@ -119,7 +119,7 @@ DTEND:20250518T160000Z
 LOCATION:TBD
 DTSTART:20250518T150000Z
 STATUS:CONFIRMED
-SUMMARY:Simplifying initial Django deployments
+SUMMARY:[open-spaces] Simplifying initial Django deployments
 TRANSP:OPAQUE
 UID:8fb12521-c572-5f71-8d32-874d186d30bd
 URL:https://us.pycon.org/2025/events/open-spaces/
@@ -130,7 +130,7 @@ DTEND:20250518T160000Z
 LOCATION:TBD
 DTSTART:20250518T150000Z
 STATUS:CONFIRMED
-SUMMARY:Still on Python 2?
+SUMMARY:[open-spaces] Still on Python 2?
 TRANSP:OPAQUE
 UID:e4e3c01c-7ddb-5398-9a99-cff2e9548b26
 URL:https://us.pycon.org/2025/events/open-spaces/

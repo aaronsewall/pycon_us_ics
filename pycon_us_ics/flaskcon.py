@@ -67,7 +67,7 @@ def main():
     cal = Calendar()
     for ev in events:
         e = Event()
-        e.name = ev["title"]
+        e.name = f'[flaskcon] {ev["title"]}'
         e.begin = ev["start"]
         e.end = ev["end"]
         e.location = LOCATION

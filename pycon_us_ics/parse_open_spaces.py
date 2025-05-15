@@ -17,7 +17,7 @@ def fetch_html():
 
 
 def get_planned_open_spaces_ul(soup):
-    anchor = soup.find("a", id="planned-open-spaces-so-far")
+    anchor = soup.find("a", id="planned-open-spaces")
     if not anchor:
         raise Exception("Anchor for open spaces not found!")
     return anchor.find_next("ul")
@@ -111,7 +111,7 @@ def main():
             construct_calendar(
                 events=[
                     Event(
-                        name=ev["title"],
+                        name=f'[open-spaces] {ev["title"]}',
                         begin=ev["start"],
                         end=ev["end"],
                         location="TBD",

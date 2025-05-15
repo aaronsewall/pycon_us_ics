@@ -70,7 +70,7 @@ def main():
             construct_calendar(
                 events=[
                     Event(
-                        name=ev["title"],
+                        name=f'[maintainers-summit] {ev["title"]}',
                         begin=ev["start"],
                         end=ev["end"],
                         location="Room 402",

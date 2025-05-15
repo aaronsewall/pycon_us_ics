@@ -9,7 +9,7 @@ DTEND:20250517T203000Z
 LOCATION:Room 402
 DTSTART:20250517T200000Z
 STATUS:CONFIRMED
-SUMMARY:BREAK
+SUMMARY:[maintainers-summit] BREAK
 TRANSP:OPAQUE
 UID:879f0da8-86b7-5cf3-8285-9ba82f6ca04a
 URL:https://us.pycon.org/2025/events/maintainers-summit/
@@ -20,7 +20,7 @@ DTEND:20250517T193000Z
 LOCATION:Room 402
 DTSTART:20250517T190000Z
 STATUS:CONFIRMED
-SUMMARY:From Nights & Weekends to Nine-to-Five: Transitioning to Professional Open Source Leadership
+SUMMARY:[maintainers-summit] From Nights & Weekends to Nine-to-Five: Transitioning to Professional Open Source Leadership
 TRANSP:OPAQUE
 UID:88dac7c8-f27a-571a-8b99-0cc469242161
 URL:https://us.pycon.org/2025/events/maintainers-summit/
@@ -31,7 +31,7 @@ DTEND:20250517T190000Z
 LOCATION:Room 402
 DTSTART:20250517T183000Z
 STATUS:CONFIRMED
-SUMMARY:So You Have a Security Vulnerability\, What Now?
+SUMMARY:[maintainers-summit] So You Have a Security Vulnerability\, What Now?
 TRANSP:OPAQUE
 UID:0e979b78-b03f-502d-a99e-45950353152e
 URL:https://us.pycon.org/2025/events/maintainers-summit/
@@ -42,7 +42,7 @@ DTEND:20250517T194000Z
 LOCATION:Room 402
 DTSTART:20250517T193500Z
 STATUS:CONFIRMED
-SUMMARY:Brief Overview of the Status of Open Source Funding in Space
+SUMMARY:[maintainers-summit] Brief Overview of the Status of Open Source Funding in Space
 TRANSP:OPAQUE
 UID:5d3b567b-92ce-596c-b057-e996dba5a1fd
 URL:https://us.pycon.org/2025/events/maintainers-summit/
@@ -53,7 +53,7 @@ DTEND:20250517T193500Z
 LOCATION:Room 402
 DTSTART:20250517T193000Z
 STATUS:CONFIRMED
-SUMMARY:Code of Conducts: Doing Hard Things
+SUMMARY:[maintainers-summit] Code of Conducts: Doing Hard Things
 TRANSP:OPAQUE
 UID:3e3ca212-e09d-512a-9623-d5867ddca485
 URL:https://us.pycon.org/2025/events/maintainers-summit/
@@ -64,7 +64,7 @@ DTEND:20250517T200000Z
 LOCATION:Room 402
 DTSTART:20250517T194500Z
 STATUS:CONFIRMED
-SUMMARY:Remarks / Roundtable Discussion Voting
+SUMMARY:[maintainers-summit] Remarks / Roundtable Discussion Voting
 TRANSP:OPAQUE
 UID:e1b80f04-8afd-56cd-b34c-dec5abb3f16e
 URL:https://us.pycon.org/2025/events/maintainers-summit/
@@ -75,7 +75,7 @@ DTEND:20250517T221500Z
 LOCATION:Room 402
 DTSTART:20250517T214500Z
 STATUS:CONFIRMED
-SUMMARY:Closing Remarks
+SUMMARY:[maintainers-summit] Closing Remarks
 TRANSP:OPAQUE
 UID:bba60add-f906-56bf-a376-ea35cde4081d
 URL:https://us.pycon.org/2025/events/maintainers-summit/
@@ -86,7 +86,7 @@ DTEND:20250517T183000Z
 LOCATION:Room 402
 DTSTART:20250517T181500Z
 STATUS:CONFIRMED
-SUMMARY:Welcome and Introductions
+SUMMARY:[maintainers-summit] Welcome and Introductions
 TRANSP:OPAQUE
 UID:af00f6f7-749f-5fa1-bcfb-44d40eb86f5c
 URL:https://us.pycon.org/2025/events/maintainers-summit/
@@ -97,7 +97,7 @@ DTEND:20250517T194500Z
 LOCATION:Room 402
 DTSTART:20250517T194000Z
 STATUS:CONFIRMED
-SUMMARY:Designers? I Hardly Know Her -- What Maintainers Need to Know About Design Contributors
+SUMMARY:[maintainers-summit] Designers? I Hardly Know Her -- What Maintainers Need to Know About Design Contributors
 TRANSP:OPAQUE
 UID:47cc41c2-73b3-5afc-a078-3e60a6d7fc89
 URL:https://us.pycon.org/2025/events/maintainers-summit/
@@ -108,7 +108,7 @@ DTEND:20250517T214500Z
 LOCATION:Room 402
 DTSTART:20250517T203000Z
 STATUS:CONFIRMED
-SUMMARY:Flash Talks & Roundtable Discussions
+SUMMARY:[maintainers-summit] Flash Talks & Roundtable Discussions
 TRANSP:OPAQUE
 UID:c5054326-d6b8-599b-8c34-da439f366451
 URL:https://us.pycon.org/2025/events/maintainers-summit/

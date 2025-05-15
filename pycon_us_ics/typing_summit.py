@@ -46,7 +46,7 @@ def main():
         # Calculate event timing
         ev_start = start_time + timedelta(minutes=idx * EVENT_LENGTH_MINUTES)
         ev_end = ev_start + timedelta(minutes=EVENT_LENGTH_MINUTES)
-        event.name = item
+        event.name = f"[typing-summit] {item}"
         event.begin = ev_start
         event.end = ev_end
         event.location = LOCATION

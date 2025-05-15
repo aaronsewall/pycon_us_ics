@@ -121,7 +121,7 @@ def main():
         e = Event()
         e.begin = ev["start"]
         e.end = ev["end"]
-        e.name = ev["title"].replace("--", "").strip()
+        e.name = f'[language-summit] {ev["title"].replace("--", "").strip()}'
         e.location = ev["location"]
         if ev["speaker"] and not ev["is_break"]:
             e.description = ev["speaker"]

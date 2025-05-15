@@ -23,107 +23,134 @@ def fetch_html():
     return resp.text
 
 
-def parse_timeslot(timestr, curdate=None):
-    # Typical inputs: "9:15 - Teaching..." or "3:00"
-    m = re.match(r"^(\d{1,2}):(\d\d)(?:\s*-\s*(.*))?$", timestr.strip())
-    if not m:
-        # Might be "3::00" typo seen in sample
-        m = re.match(r"^(\d{1,2})::(\d\d)(?:\s*-\s*(.*))?$", timestr.strip())
-
-    if m:
-        hour, minute, rest = m.groups()
-        hour = int(hour)
-        minute = int(minute)
-        d = dtparser.parse(curdate)
-        dt = datetime(year=d.year, month=d.month, day=d.day, hour=hour, minute=minute)
-        return dt, rest
-    m = re.match(r"^(\d{1,2}):(\d\d)\s*-\s*(\d{1,2}):(\d\d)", timestr.strip())
-    if m:
-        h1, m1, h2, m2 = map(int, m.groups())
-        d = dtparser.parse(curdate)
-        dt1 = datetime(year=d.year, month=d.month, day=d.day, hour=h1, minute=m1)
-        dt2 = datetime(year=d.year, month=d.month, day=d.day, hour=h2, minute=m2)
-        return (dt1, dt2)
-    return None, None
-
-
 def parse_all_talks(soup):
     schedule = []
     tz = pytz.timezone(TIMEZONE)
-    summary_p = soup.find("b", string=re.compile("schedule", re.I))
-    for ul in summary_p.find_all_next("ul", limit=2):
-        for li in ul.find_all("li", recursive=False):
-            text = li.get_text(" ", strip=True)
-            # Lightning talks: next <ul> are grouped under this
-            if re.match(r"(?i).*lightning talk", text):
-                light_ul = li.find("ul")
-                if light_ul:
-                    time_base = "13:45"
-                    d = dtparser.parse(f"{DATE} {time_base}")
-                    for idx, sli in enumerate(light_ul.find_all("li")):
-                        t1 = d + timedelta(minutes=idx * 5)
-                        t2 = t1 + timedelta(minutes=5)
-                        schedule.append(
-                            {
-                                "title": f"Lightning Talk: {sli.get_text(' ', strip=True)}",
-                                "start": tz.localize(t1),
-                                "end": tz.localize(t2),
-                                "location": LOCATION,
-                            }
-                        )
-                continue
-            # Afternoon workshop: nested <ul> under time slot
-            if re.match(r"(?i).*workshop", text):
-                tmatch = re.search(r"(\d{1,2}:\d{2})", text)
-                if tmatch:
-                    t_start = tmatch.group(1)
-                    ul2 = li.find("ul")
-                    if ul2:
-                        d = dtparser.parse(f"{DATE} {t_start}")
-                        for idx, sli in enumerate(ul2.find_all("li")):
-                            t1 = d + timedelta(minutes=idx * 30)
-                            t2 = t1 + timedelta(minutes=30)
-                            schedule.append(
-                                {
-                                    "title": f"Workshop: {sli.get_text(' ', strip=True)}",
-                                    "start": tz.localize(t1),
-                                    "end": tz.localize(t2),
-                                    "location": LOCATION,
-                                }
-                            )
-                continue
-            # Try to match slots with time at start, dash optional, label after
-            time_match = re.match(r"^(\d{1,2})(:?):(\d{2})\s*-?\s*(.*)", text)
+
+    # Helper to find next li with a time label in all_li_list after position i
+    def get_next_time_li(li_list, i):
+        for j in range(i + 1, len(li_list)):
+            text = li_list[j].get_text(" ", strip=True)
+            time_match = re.match(r"^(\d{1,2})(:?):{0,2}(\d{2})", text)
             if time_match:
-                hour, colon, minute, label = time_match.groups()
-                hour = int(hour)
-                minute = int(minute)
-                # Fix for possible "3::00"
-                if colon == ":" or colon == "":
-                    label = label.strip() or "Session"
-                    start_dt = tz.localize(
-                        datetime.strptime(f"{DATE} {hour:02d}:{minute:02d}", "%Y-%m-%d %H:%M")
+                return li_list[j], text, j
+        return None, None, None
+
+    def parse_time_label(text):
+        m = re.match(r"^(\d{1,2})(:?):{0,2}(\d{2})\s*-?\s*(.*)", text)
+        if m:
+            hour, _, minute, label = m.groups()
+            hour = int(hour)
+            if 1 <= hour < 5:
+                hour += 12
+            minute = int(minute)
+            label = label.strip() or "Session"
+            start_dt = tz.localize(
+                datetime.strptime(f"{DATE} {hour:02d}:{minute:02d}", "%Y-%m-%d %H:%M")
+            )
+            return start_dt, label
+        return None, None
+
+    summary_p = soup.find("b", string=re.compile("schedule", re.I))
+    timeblocks = summary_p.find_all_next("ul", limit=2)
+
+    # 1. Collect ALL top-level <li> items into a single in-order list
+    all_li_list = []
+    for ul in timeblocks:
+        all_li_list.extend(ul.find_all("li", recursive=False))
+
+    all_events_unsorted = []
+
+    i = 0
+    while i < len(all_li_list):
+        li = all_li_list[i]
+        text = li.get_text(" ", strip=True)
+
+        # Lightning Talks
+        if re.match(r"(?i).*lightning talk", text):
+            light_ul = li.find("ul")
+            if light_ul:
+                time_base = "13:45"
+                d = dtparser.parse(f"{DATE} {time_base}")
+                for idx, sli in enumerate(light_ul.find_all("li")):
+                    t1 = d + timedelta(minutes=idx * 5)
+                    t2 = t1 + timedelta(minutes=5)
+                    all_events_unsorted.append(
+                        {
+                            "title": f"Lightning Talk: {sli.get_text(' ', strip=True)}",
+                            "start": tz.localize(t1),
+                            "end": tz.localize(t2),
+                            "location": LOCATION,
+                        }
                     )
-                    if "break" in label.lower() or "lunch" in label.lower():
-                        end_dt = start_dt + timedelta(minutes=20)
+            i += 1
+            continue
+
+        # Block slot with a nested list (Workshops)
+        if li.find("ul"):
+            block_start, block_label = parse_time_label(text)
+            if block_start:
+                # Find block end using the flat li list!
+                next_time_li, next_text, j = get_next_time_li(all_li_list, i)
+                if next_time_li:
+                    block_end, _ = parse_time_label(next_text)
+                else:
+                    block_end = block_start + timedelta(minutes=60)  # Fallback: 1 hour
+
+                inner_ul = li.find("ul")
+                workshop_items = []
+                for item in inner_ul.find_all("li", recursive=False):
+                    if item.find("ul"):
+                        # There is another ul; get those lis
+                        sub_ul = item.find("ul")
+                        for subitem in sub_ul.find_all("li", recursive=False):
+                            workshop_items.append(subitem.get_text(" ", strip=True))
                     else:
-                        end_dt = start_dt + timedelta(minutes=25)
-                    schedule.append(
-                        {"title": label, "start": start_dt, "end": end_dt, "location": LOCATION}
+                        workshop_items.append(item.get_text(" ", strip=True))
+                n = len(workshop_items)
+                if n == 0:
+                    i += 1
+                    continue
+                slot_mins = int((block_end - block_start).total_seconds()) // 60
+                per_event = slot_mins // n
+                for idx2, wtitle in enumerate(workshop_items):
+                    wstart = block_start + timedelta(minutes=idx2 * per_event)
+                    wend = (
+                        block_start + timedelta(minutes=(idx2 + 1) * per_event)
+                        if idx2 < n - 1
+                        else block_end
                     )
-                continue
-            # e.g. "4:30 - Closing"
-            if "-" in text:
-                tbit, label = text.split("-", 1)
-                tbit = tbit.strip()
-                label = label.strip() or "Session"
-                if re.match(r"\d{1,2}:\d{2}", tbit):
-                    start_dt = tz.localize(dtparser.parse(f"{DATE} {tbit}"))
-                    end_dt = start_dt + timedelta(minutes=20)
-                    schedule.append(
-                        {"title": label, "start": start_dt, "end": end_dt, "location": LOCATION}
+                    all_events_unsorted.append(
+                        {
+                            "title": f"Workshop: {wtitle}",
+                            "start": wstart,
+                            "end": wend,
+                            "location": LOCATION,
+                        }
                     )
-    return schedule
+            i += 1
+            continue
+
+        # Remaining slots: match times
+        slot_start, label = parse_time_label(text)
+        if slot_start:
+            next_time_li, next_text, j = get_next_time_li(all_li_list, i)
+            if next_time_li:
+                slot_end, _ = parse_time_label(next_text)
+            else:
+                # fallback (last session): 25/20 min
+                if "break" in label.lower() or "lunch" in label.lower():
+                    slot_end = slot_start + timedelta(minutes=20)
+                else:
+                    slot_end = slot_start + timedelta(minutes=25)
+            all_events_unsorted.append(
+                {"title": label, "start": slot_start, "end": slot_end, "location": LOCATION}
+            )
+        i += 1
+
+    # Final: sort by start time for correct order
+    all_events_unsorted.sort(key=lambda x: x["start"])
+    return all_events_unsorted
 
 
 def main():
@@ -135,7 +162,7 @@ def main():
     cal = Calendar()
     for ev in all_talks:
         event = Event()
-        event.name = ev["title"]
+        event.name = f'[education-summit] {ev["title"]}'
         event.begin = ev["start"]
         event.end = ev["end"]
         event.location = ev["location"]
