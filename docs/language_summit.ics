@@ -4,100 +4,12 @@ X-WR-CALNAME:PyCon 2025 Language Summit
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Mark Shannon
-DTEND:20250514T203500Z
+DESCRIPTION:Eric Snow
+DTEND:20250514T163000Z
 LOCATION:403+404
-DTSTART:20250514T203000Z
-SUMMARY:[language-summit] Lightning talk: Did Java get async right? Adding Virtual Threads to Python with Mark Shannon
-UID:bffe184a-c0b2-4997-8f90-cab34bac0f6e@bffe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mariatta
-DTEND:20250514T180000Z
-LOCATION:403+404
-DTSTART:20250514T173000Z
-SUMMARY:[language-summit] Updates from the Python Docs Editorial Board with Mariatta
-UID:0d7057c5-6c3d-4561-89dd-7b72c04f1dbe@0d70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Martin DeMello
-DTEND:20250514T204000Z
-LOCATION:403+404
-DTSTART:20250514T203500Z
-SUMMARY:[language-summit] Lightning talk: Support for a pluggable JIT with Martin DeMello
-UID:76902575-9cba-490d-910b-05efe011005b@7690.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matthew Parkinson (Microsoft)\, Tobias Wrigstad (Uppsala University)\, and Fridtjof Stoldt (Uppsala University)
-DTEND:20250514T160000Z
-LOCATION:403+404
-DTSTART:20250514T153000Z
-SUMMARY:[language-summit] Fearless Concurrency in Python with Matthew Parkinson (Microsoft)\, Tobias Wrigstad (Uppsala University)\, and Fridtjof Stoldt (Uppsala University)
-UID:c7c6a74c-6709-4711-a8a5-5ee65d15ef9e@c7c6.org
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Break
-DTEND:20250514T140000Z
-LOCATION:403+404
-DTSTART:20250514T133000Z
-SUMMARY:[language-summit] How can we make breaking changes less painful? with Itamar Oren
-UID:b1678ee7-d0d1-406c-bdbd-7b9ee7f6acfc@b167.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Andy Terrel
-DTEND:20250514T204500Z
-LOCATION:403+404
-DTSTART:20250514T204000Z
-SUMMARY:[language-summit] Lightning talk: Python GPU Kernel Language Guide with Andy Terrel
-UID:85a1d892-bf4a-43bb-8f63-f64eb5316507@85a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mark Shannon
-DTEND:20250514T143000Z
-LOCATION:403+404
-DTSTART:20250514T140000Z
-SUMMARY:[language-summit] An Uncontentious Talk about Contention with Mark Shannon
-UID:618df2ae-1ad1-455e-9a32-92dcaba14984@618d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:David Hewitt
-DTEND:20250514T200000Z
-LOCATION:403+404
-DTSTART:20250514T193000Z
-SUMMARY:[language-summit] What do Python core devs want for the future of Rust support? with David Hewitt
-UID:a5f5238a-b67a-4063-873f-a8c64e6a8b93@a5f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Matt Page
-DTEND:20250514T153000Z
-LOCATION:403+404
-DTSTART:20250514T150000Z
-SUMMARY:[language-summit] The State of Free-threaded Python with Matt Page
-UID:264d36ee-90be-4176-9fe9-8ded4c0d5e5a@264d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Emily & Łukasz
-DTEND:20250514T133000Z
-LOCATION:403+404
-DTSTART:20250514T130000Z
-SUMMARY:[language-summit] Welcome & Introductions  with Emily & Łukasz
-UID:c65079fb-21fc-4648-9b39-0be62f9ac883@c650.org
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Break
-DTEND:20250514T213000Z
-LOCATION:403+404
-DTSTART:20250514T211500Z
-SUMMARY:[language-summit] We're done!
-UID:ffa8536b-f39f-4fc4-87fb-88b097d4ada6@ffa8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Barry Warsaw
-DTEND:20250514T183000Z
-LOCATION:403+404
-DTSTART:20250514T180000Z
-SUMMARY:[language-summit] PEP 772 - the packaging governance process with Barry Warsaw
-UID:be9d1575-1700-4713-bebc-a9bab826abdc@be9d.org
+DTSTART:20250514T160000Z
+SUMMARY:[language-summit] The Challenges of the Steering Council with Eric Snow
+UID:e801d194-2778-47a2-a564-991e9127b150@e801.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Noah Kim
@@ -105,7 +17,7 @@ DTEND:20250514T205000Z
 LOCATION:403+404
 DTSTART:20250514T204500Z
 SUMMARY:[language-summit] Lightning talk: Null Coalescing Operators in Python with Noah Kim
-UID:3a0cd6d2-0f8b-407e-852e-2bedcf312ff9@3a0c.org
+UID:726e3ec9-ff67-4b58-b78a-e01838cc286b@726e.org
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Break
@@ -113,22 +25,38 @@ DTEND:20250514T173000Z
 LOCATION:403+404
 DTSTART:20250514T163000Z
 SUMMARY:[language-summit] Lunch
-UID:e73310a3-6cb0-437b-847b-c634d612a041@e733.org
+UID:3ac5c1f2-2976-4705-9e9b-1d845ad28149@3ac5.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250514T203000Z
+DESCRIPTION:David Hewitt
+DTEND:20250514T200000Z
 LOCATION:403+404
-DTSTART:20250514T203000Z
-SUMMARY:[language-summit] Lightning talks:
-UID:643ae47e-2e90-4cab-8baf-1c9531c0378f@643a.org
+DTSTART:20250514T193000Z
+SUMMARY:[language-summit] What do Python core devs want for the future of Rust support? with David Hewitt
+UID:dad06e83-0b66-41cc-b43f-92b08a8c442b@dad0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Hood Chatham
-DTEND:20250514T203000Z
+DTEND:20250514T211500Z
 LOCATION:403+404
-DTSTART:20250514T200000Z
-SUMMARY:[language-summit] Upstreaming the Pyodide JS FFI with Hood Chatham
-UID:3a7529f6-a100-4158-97f5-c3a6fa709e8e@3a75.org
+DTSTART:20250514T205000Z
+SUMMARY:[language-summit] Up to 5 other lightning talks submitted on-site
+UID:431c2ed6-6258-4e60-af54-cbf3ea5d7075@431c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Andy Terrel
+DTEND:20250514T204500Z
+LOCATION:403+404
+DTSTART:20250514T204000Z
+SUMMARY:[language-summit] Lightning talk: Python GPU Kernel Language Guide with Andy Terrel
+UID:15b03234-9219-4c13-bc48-3ff7a9066b47@15b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mark Shannon
+DTEND:20250514T143000Z
+LOCATION:403+404
+DTSTART:20250514T140000Z
+SUMMARY:[language-summit] An Uncontentious Talk about Contention with Mark Shannon
+UID:af241c57-935a-4092-a0f5-4a850b75e9d6@af24.org
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Break
@@ -136,22 +64,31 @@ DTEND:20250514T150000Z
 LOCATION:403+404
 DTSTART:20250514T143000Z
 SUMMARY:[language-summit] Coffee break
-UID:11bc575e-00db-466f-bd38-b4b82e82d6a1@11bc.org
+UID:388b8b8e-1881-4042-8bae-ae21f661a911@388b.org
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Break
-DTEND:20250514T193000Z
+DESCRIPTION:Emily & Łukasz
+DTEND:20250514T133000Z
 LOCATION:403+404
-DTSTART:20250514T190000Z
-SUMMARY:[language-summit] Group photo & coffee break
-UID:49cf6302-1954-48a4-8aa2-c42518bc9461@49cf.org
+DTSTART:20250514T130000Z
+SUMMARY:[language-summit] Welcome & Introductions  with Emily & Łukasz
+UID:0f674a5c-570b-4c48-9783-92af702dc136@0f67.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250514T211500Z
+DESCRIPTION:Mariatta
+DTEND:20250514T180000Z
 LOCATION:403+404
-DTSTART:20250514T205000Z
-SUMMARY:[language-summit] Up to 5 other lightning talks submitted on-site
-UID:8c182d6a-77f6-4c16-ae07-bc660abc91c1@8c18.org
+DTSTART:20250514T173000Z
+SUMMARY:[language-summit] Updates from the Python Docs Editorial Board with Mariatta
+UID:68e5a63a-5926-4ace-80cf-d98b67e0d571@68e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Martin DeMello
+DTEND:20250514T204000Z
+LOCATION:403+404
+DTSTART:20250514T203500Z
+SUMMARY:[language-summit] Lightning talk: Support for a pluggable JIT with Martin DeMello
+UID:d936541a-d2c3-46be-aef1-a0eac9030232@d936.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Russell Keith-Magee
@@ -159,14 +96,77 @@ DTEND:20250514T190000Z
 LOCATION:403+404
 DTSTART:20250514T183000Z
 SUMMARY:[language-summit] Python on Mobile - The Next Steps with Russell Keith-Magee
-UID:c37a1b5d-8b61-4b00-bb4c-a330ccb3a495@c37a.org
+UID:2b7d5dd1-e9ce-4500-9edc-778a5824b002@2b7d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Eric Snow
-DTEND:20250514T163000Z
+DESCRIPTION:Hood Chatham
+DTEND:20250514T203000Z
 LOCATION:403+404
-DTSTART:20250514T160000Z
-SUMMARY:[language-summit] The Challenges of the Steering Council with Eric Snow
-UID:3b225fff-f1e7-4fdd-ab1e-8a1673871889@3b22.org
+DTSTART:20250514T200000Z
+SUMMARY:[language-summit] Upstreaming the Pyodide JS FFI with Hood Chatham
+UID:134f596e-31dd-47d0-b097-d7ee648ac7e1@134f.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Break
+DTEND:20250514T213000Z
+LOCATION:403+404
+DTSTART:20250514T211500Z
+SUMMARY:[language-summit] We're done!
+UID:e27f5a82-e1e8-43bc-9a01-eb7a8cdbb4f5@e27f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Barry Warsaw
+DTEND:20250514T183000Z
+LOCATION:403+404
+DTSTART:20250514T180000Z
+SUMMARY:[language-summit] PEP 772 - the packaging governance process with Barry Warsaw
+UID:a16cdae1-2ed1-43a0-b262-143a9798b58b@a16c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matthew Parkinson (Microsoft)\, Tobias Wrigstad (Uppsala University)\, and Fridtjof Stoldt (Uppsala University)
+DTEND:20250514T160000Z
+LOCATION:403+404
+DTSTART:20250514T153000Z
+SUMMARY:[language-summit] Fearless Concurrency in Python with Matthew Parkinson (Microsoft)\, Tobias Wrigstad (Uppsala University)\, and Fridtjof Stoldt (Uppsala University)
+UID:5d941081-cb68-474b-a6d0-46554c55d95c@5d94.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Break
+DTEND:20250514T140000Z
+LOCATION:403+404
+DTSTART:20250514T133000Z
+SUMMARY:[language-summit] How can we make breaking changes less painful? with Itamar Oren
+UID:22d1c5e8-85fa-4f51-a54c-6ab0b5178f7e@22d1.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Break
+DTEND:20250514T193000Z
+LOCATION:403+404
+DTSTART:20250514T190000Z
+SUMMARY:[language-summit] Group photo & coffee break
+UID:ad4c8794-dc43-4939-bb0c-97b6f405276c@ad4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Matt Page
+DTEND:20250514T153000Z
+LOCATION:403+404
+DTSTART:20250514T150000Z
+SUMMARY:[language-summit] The State of Free-threaded Python with Matt Page
+UID:ac23030c-0a08-487b-a2db-841d30b33856@ac23.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250514T203000Z
+LOCATION:403+404
+DTSTART:20250514T203000Z
+SUMMARY:[language-summit] Lightning talks:
+UID:727e513f-3a40-430c-bc3f-64bdae65d3b8@727e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mark Shannon
+DTEND:20250514T203500Z
+LOCATION:403+404
+DTSTART:20250514T203000Z
+SUMMARY:[language-summit] Lightning talk: Did Java get async right? Adding Virtual Threads to Python with Mark Shannon
+UID:d131f321-b769-4c11-9a46-516290f67193@d131.org
 END:VEVENT
 END:VCALENDAR
