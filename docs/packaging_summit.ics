@@ -4,52 +4,52 @@ X-WR-CALNAME:PyCon 2025 Packaging Summit
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20250517T183000Z
+DTEND:20250517T194500Z
 LOCATION:Room 319
-DTSTART:20250517T180000Z
-SUMMARY:[packaging-summit] PEP 772 - Packaging Council governance (Barry Warsaw)
-UID:4dd204cd-651d-45f6-81c1-32fca47160e3@4dd2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250517T201500Z
-LOCATION:Room 319
-DTSTART:20250517T194500Z
-SUMMARY:[packaging-summit] Coffee break
-UID:cd01817a-215c-4528-8b96-93c228db298a@cd01.org
+DTSTART:20250517T193000Z
+SUMMARY:[packaging-summit] Time for quick call-outs (plugs\, resources\, follow-ups)
+UID:f4fea3ac-4e0a-4400-bbd2-fe102d273c3f@f4fe.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250517T193000Z
 LOCATION:Room 319
 DTSTART:20250517T190000Z
 SUMMARY:[packaging-summit] Wheel Variants - Finer grained operational environment compatibility (Jonathan Dekhtiar)
-UID:014c3f0f-ffec-4b77-ae80-8ab870599adf@014c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250517T194500Z
-LOCATION:Room 319
-DTSTART:20250517T193000Z
-SUMMARY:[packaging-summit] Time for quick call-outs (plugs\, resources\, follow-ups)
-UID:dfd34d6e-6ac7-4348-ad3d-c81f11b1bcda@dfd3.org
+UID:dadf53ae-4a7f-4afe-bacb-a378547b1f28@dadf.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250517T180000Z
 LOCATION:Room 319
 DTSTART:20250517T174500Z
 SUMMARY:[packaging-summit] Welcome\, Intros
-UID:8e2e0e3f-0445-47ca-86fd-5db35763ab74@8e2e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250517T213000Z
-LOCATION:Room 319
-DTSTART:20250517T201500Z
-SUMMARY:[packaging-summit] Breakout discussions / unconference
-UID:267880da-7a16-4ac0-abba-b75f2977a6b1@2678.org
+UID:ecd7106b-1332-4257-840b-c233e2121a05@ecd7.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250517T190000Z
 LOCATION:Room 319
 DTSTART:20250517T183000Z
 SUMMARY:[packaging-summit] Developing a Python packaging ecosystem for Android and iOS (Malcolm Smith)
-UID:10643186-d55f-44b2-8c5d-7f99c66aa68e@1064.org
+UID:cf467dcf-3d75-42ad-a0ec-6e5f9a89f560@cf46.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250517T201500Z
+LOCATION:Room 319
+DTSTART:20250517T194500Z
+SUMMARY:[packaging-summit] Coffee break
+UID:0201d62f-c806-46fa-a505-cbd1faef47cb@0201.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250517T213000Z
+LOCATION:Room 319
+DTSTART:20250517T201500Z
+SUMMARY:[packaging-summit] Breakout discussions / unconference
+UID:2779c040-8e05-4c97-a6d4-0e86daf2cb6a@2779.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250517T183000Z
+LOCATION:Room 319
+DTSTART:20250517T180000Z
+SUMMARY:[packaging-summit] PEP 772 - Packaging Council governance (Barry Warsaw)
+UID:6c0a9e32-f862-41bd-8cab-3098595eb560@6c0a.org
 END:VEVENT
 END:VCALENDAR

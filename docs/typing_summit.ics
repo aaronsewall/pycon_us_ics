@@ -8,55 +8,55 @@ DTEND:20250516T183000Z
 LOCATION:Room 319
 DTSTART:20250516T180000Z
 SUMMARY:[typing-summit] Welcome and introductions (just name and affiliation)
-UID:ec44dd60-875e-4182-81b6-c55f4bae5e25@ec44.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250516T200000Z
-LOCATION:Room 319
-DTSTART:20250516T193000Z
-SUMMARY:[typing-summit] Using types for efficient runtime object representations in mypyc (Jukka Lehtosalo)
-UID:387f0351-ab72-465d-84c0-615b5524da6d@387f.org
+UID:3afe3e16-32cd-460a-8218-7402b9f472f8@3afe.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250516T213000Z
 LOCATION:Room 319
 DTSTART:20250516T210000Z
 SUMMARY:[typing-summit] PEP 695 and Variance Inference (Martin Huschenbett)
-UID:dbdf21ca-c7f4-4564-bbfb-ec678787ffda@dbdf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250516T210000Z
-LOCATION:Room 319
-DTSTART:20250516T203000Z
-SUMMARY:[typing-summit] Preventing unwanted mutation with PyreReadOnly (Amritha Raghunath and Jia Chen)
-UID:76c4f9d8-70a8-4e53-9e91-a3845a6c46b7@76c4.org
+UID:95380d62-6186-4ed8-be65-881c8fa6b34a@9538.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250516T203000Z
 LOCATION:Room 319
 DTSTART:20250516T200000Z
 SUMMARY:[typing-summit] Introducing ty (Carl Meyer) and Pyrefly (Steven Troxler)
-UID:c6066fe9-0f0f-4a27-a7aa-9e11c9f6687c@c606.org
+UID:36d7cbb9-5ba2-4feb-84c3-479ff9b809a6@36d7.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250516T220000Z
 LOCATION:Room 319
 DTSTART:20250516T213000Z
 SUMMARY:[typing-summit] Updates (Rebecca Chen) and Q&A with the Typing Council
-UID:9509aee7-8bbe-419d-97a5-96908389858f@9509.org
+UID:a51b16d7-768b-4c7b-9f95-27af0112a9e6@a51b.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250516T193000Z
 LOCATION:Room 319
 DTSTART:20250516T190000Z
 SUMMARY:[typing-summit] Make Invalid States Unrepresentable (Bruce Eckel)
-UID:2ea24037-121e-461b-b400-4728b4fc2b3b@2ea2.org
+UID:80d340a2-47d9-4842-b501-5effa573c9bd@80d3.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250516T190000Z
 LOCATION:Room 319
 DTSTART:20250516T183000Z
 SUMMARY:[typing-summit] Teaching About Type Annotation and Type Checking in Python (Gregory M. Kapfhammer)
-UID:81d3d33f-fa3b-45e1-9b33-de78c24f2453@81d3.org
+UID:89e953f9-7128-40ee-ac9e-d67d5b5cea66@89e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250516T200000Z
+LOCATION:Room 319
+DTSTART:20250516T193000Z
+SUMMARY:[typing-summit] Using types for efficient runtime object representations in mypyc (Jukka Lehtosalo)
+UID:0ab1813f-2394-4a6b-9f2f-86e841652d8c@0ab1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250516T210000Z
+LOCATION:Room 319
+DTSTART:20250516T203000Z
+SUMMARY:[typing-summit] Preventing unwanted mutation with PyreReadOnly (Amritha Raghunath and Jia Chen)
+UID:33fab5a4-aeea-4bdc-8569-e1e196db2aac@33fa.org
 END:VEVENT
 END:VCALENDAR
