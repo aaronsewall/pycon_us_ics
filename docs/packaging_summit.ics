@@ -8,48 +8,48 @@ DTEND:20250517T183000Z
 LOCATION:Room 319
 DTSTART:20250517T180000Z
 SUMMARY:[packaging-summit] PEP 772 - Packaging Council governance (Barry Warsaw)
-UID:ad6b2f82-f59e-49a7-bfaf-059ae3c02978@ad6b.org
+UID:4dd204cd-651d-45f6-81c1-32fca47160e3@4dd2.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250517T201500Z
 LOCATION:Room 319
 DTSTART:20250517T194500Z
 SUMMARY:[packaging-summit] Coffee break
-UID:28f8d053-b6f9-4d6f-b86d-aacb5b827787@28f8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250517T194500Z
-LOCATION:Room 319
-DTSTART:20250517T193000Z
-SUMMARY:[packaging-summit] Time for quick call-outs (plugs\, resources\, follow-ups)
-UID:20a96e04-89f9-4ecb-a1d5-65126d92d794@20a9.org
+UID:cd01817a-215c-4528-8b96-93c228db298a@cd01.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250517T193000Z
 LOCATION:Room 319
 DTSTART:20250517T190000Z
 SUMMARY:[packaging-summit] Wheel Variants - Finer grained operational environment compatibility (Jonathan Dekhtiar)
-UID:d648989d-6f84-40d0-bca6-8509f71214fc@d648.org
+UID:014c3f0f-ffec-4b77-ae80-8ab870599adf@014c.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250517T190000Z
+DTEND:20250517T194500Z
 LOCATION:Room 319
-DTSTART:20250517T183000Z
-SUMMARY:[packaging-summit] Developing a Python packaging ecosystem for Android and iOS (Malcolm Smith)
-UID:f5f95822-ca39-4b5d-be3c-934f07953908@f5f9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250517T213000Z
-LOCATION:Room 319
-DTSTART:20250517T201500Z
-SUMMARY:[packaging-summit] Breakout discussions / unconference
-UID:14996450-b32c-47b3-b791-eb0972010ceb@1499.org
+DTSTART:20250517T193000Z
+SUMMARY:[packaging-summit] Time for quick call-outs (plugs\, resources\, follow-ups)
+UID:dfd34d6e-6ac7-4348-ad3d-c81f11b1bcda@dfd3.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250517T180000Z
 LOCATION:Room 319
 DTSTART:20250517T174500Z
 SUMMARY:[packaging-summit] Welcome\, Intros
-UID:78273004-7cff-46b9-a8f4-91a8c784c340@7827.org
+UID:8e2e0e3f-0445-47ca-86fd-5db35763ab74@8e2e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250517T213000Z
+LOCATION:Room 319
+DTSTART:20250517T201500Z
+SUMMARY:[packaging-summit] Breakout discussions / unconference
+UID:267880da-7a16-4ac0-abba-b75f2977a6b1@2678.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250517T190000Z
+LOCATION:Room 319
+DTSTART:20250517T183000Z
+SUMMARY:[packaging-summit] Developing a Python packaging ecosystem for Android and iOS (Malcolm Smith)
+UID:10643186-d55f-44b2-8c5d-7f99c66aa68e@1064.org
 END:VEVENT
 END:VCALENDAR

@@ -818,13 +818,14 @@ UID:fc13841d-8ea7-5f38-a819-5ae8e6605a41
 URL:https://us.pycon.org/2025/schedule/presentation/124/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: talk\nName: talk\n\n
+DESCRIPTION:Section: talks\nKind: talk\nName: Unlearning SQL\nhttps://us.pycon.org/2025/schedule/presentation/167/\n<p>Some people find SQL to be a helpful model for data analysis. They can also find themselves frustrated because some things that seem clear in SQL can seem difficult to restate in Python.</p>\n<p>We'll look at some of the SQL query design patterns in detail. With this\, we can formulate Python functions that have the same behavior without the overheads of using an actual database. Even something like SQLite3 involves overheads that can be avoided.</p>\n<p>To keep the talk short\, we'll avoid a number of more nuanced SQL features. We'll cover the principle elements of a <code>Select</code> statement including the <code>Group by</code> and <code>Having</code> clauses. This isn't a tutorial\, and the audience needs to be comfortable with generator expressions and list comprehensions.</p>\n<p>The concept is to use SQL concepts for initial design\, but pivot to Python for a robust implementation.</p>\nSpeakers:\nSteven Lott\n<p>Steven F. Lott has been turning coffee into software since the days when computers were large\, expensive\, and rare. Working for decades in high tech has given him exposure to a lot of ideas and techniques\, some bad\, but most are useful and helpful to others. </p>\n<p>Steven has been working with Python since the late ‘90s\, building a variety of tools and applications. He’s written a number of books\, and sometimes manages to attend conferences. </p>\n<p>Steven is currently a technomad who lives in various places on the east coast of the US. He tries to live by the words “Don’t come home until you have a story.” You can find him online at @slott56@fosstodon.org.</p>
 DTEND:20250518T190000Z
 LOCATION:Ballroom BC
 DTSTART:20250518T183000Z
 STATUS:CONFIRMED
-SUMMARY:[talk] talk
+SUMMARY:[talk] Unlearning SQL
 TRANSP:OPAQUE
 UID:2eda13b2-8ccd-5ab7-a305-3813c83432e2
+URL:https://us.pycon.org/2025/schedule/presentation/167/
 END:VEVENT
 END:VCALENDAR
