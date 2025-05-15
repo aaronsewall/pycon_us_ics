@@ -4,52 +4,52 @@ X-WR-CALNAME:PyCon 2025 Packaging Summit
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20250517T190000Z
-LOCATION:Room 319
-DTSTART:20250517T183000Z
-SUMMARY:[packaging-summit] Developing a Python packaging ecosystem for Android and iOS (Malcolm Smith)
-UID:b5c37653-6073-44bc-bdd1-d7466b30c60c@b5c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250517T180000Z
-LOCATION:Room 319
-DTSTART:20250517T174500Z
-SUMMARY:[packaging-summit] Welcome\, Intros
-UID:50d36315-fb58-4f07-af64-94ae28604207@50d3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250517T183000Z
-LOCATION:Room 319
-DTSTART:20250517T180000Z
-SUMMARY:[packaging-summit] PEP 772 - Packaging Council governance (Barry Warsaw)
-UID:3d276b0a-13a3-422c-ab7b-d83e7e794a18@3d27.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250517T213000Z
 LOCATION:Room 319
 DTSTART:20250517T201500Z
 SUMMARY:[packaging-summit] Breakout discussions / unconference
-UID:09b36389-1e5a-4638-9a4e-0cfee43d8990@09b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250517T193000Z
-LOCATION:Room 319
-DTSTART:20250517T190000Z
-SUMMARY:[packaging-summit] Wheel Variants - Finer grained operational environment compatibility (Jonathan Dekhtiar)
-UID:6fe2c913-021a-4828-a55e-3a9e3c1587e2@6fe2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250517T194500Z
-LOCATION:Room 319
-DTSTART:20250517T193000Z
-SUMMARY:[packaging-summit] Time for quick call-outs (plugs\, resources\, follow-ups)
-UID:a7432c14-6fd7-4122-88ad-939c5e87eb53@a743.org
+UID:56ec6b2f-4778-4938-b21a-ec94a29b77a8@56ec.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250517T201500Z
 LOCATION:Room 319
 DTSTART:20250517T194500Z
 SUMMARY:[packaging-summit] Coffee break
-UID:9939cd7f-dc05-4091-982d-602b0b7e149d@9939.org
+UID:0b9c709a-3edd-4cd3-ba84-8b5d9f29e7ed@0b9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250517T183000Z
+LOCATION:Room 319
+DTSTART:20250517T180000Z
+SUMMARY:[packaging-summit] PEP 772 - Packaging Council governance (Barry Warsaw)
+UID:4c1200ce-a93b-447a-bc36-d312818c304f@4c12.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250517T180000Z
+LOCATION:Room 319
+DTSTART:20250517T174500Z
+SUMMARY:[packaging-summit] Welcome\, Intros
+UID:1e6426be-d39f-451b-8830-3d2b0d52a4da@1e64.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250517T193000Z
+LOCATION:Room 319
+DTSTART:20250517T190000Z
+SUMMARY:[packaging-summit] Wheel Variants - Finer grained operational environment compatibility (Jonathan Dekhtiar)
+UID:16400168-6e6d-4c38-b07a-49d750f7cf77@1640.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250517T194500Z
+LOCATION:Room 319
+DTSTART:20250517T193000Z
+SUMMARY:[packaging-summit] Time for quick call-outs (plugs\, resources\, follow-ups)
+UID:2be8084a-1a45-4fcd-9c34-c3b62199945e@2be8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250517T190000Z
+LOCATION:Room 319
+DTSTART:20250517T183000Z
+SUMMARY:[packaging-summit] Developing a Python packaging ecosystem for Android and iOS (Malcolm Smith)
+UID:782c44fc-069b-410c-b6ef-1a975ea52aab@782c.org
 END:VEVENT
 END:VCALENDAR

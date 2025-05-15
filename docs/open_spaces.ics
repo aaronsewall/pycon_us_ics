@@ -4,68 +4,12 @@ X-WR-CALNAME:PyCon 2025 Open Spaces
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Do you have any idea about what we can\, as a community\, promote Python to more people? Or are you interested in education in Python and would like to get more support? The members of the Education and Outreach Working Group of the Python Software Foundation would love to listen and collaborate with you. Please come join us!
-DTEND:20250516T130000Z
-LOCATION:Room 315
-DTSTART:20250516T120000Z
-SUMMARY:Education and Outreach Working Group Open Space
-UID:4037a2b9-33f2-4202-83fe-7df0b3a3eff1@4037.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Impacted by resignations\, RIFs\, or cuts to grants and contracts? Join us for an Open Space focused on community\, support\, and shared purpose. We'll hold discussion space on career pivots\, personal resilience\, and how we can continue to uphold and advance public-sector data\, programming\, and AI innovation. Can’t make the session? Email elaynemorrison@gmail.com to receive the shared resource list and stay connected.
-DTEND:20250516T140000Z
-LOCATION:Room 308
-DTSTART:20250516T130000Z
-SUMMARY:Current & Displaced Federal Data Professionals Open Space
-UID:feffb573-09fb-47f8-a08a-b4d5b1dac428@feff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The PSF & Meetups Discussion is organized by the PSF board. We’re looking to make this year’s PyCon US session into a jumping off point for a global conversation that we hope to see happen regularly in lots of places around the world – as well as online. If you’ve got ideas or want to be involved in this conversation\, please email community-organizing@pyfound.org
-DTEND:20250518T140000Z
-LOCATION:Room 310/311
-DTSTART:20250518T130000Z
-SUMMARY:PSF & Meetups Discussion
-UID:7945ca93-d9d1-4967-9f24-f782edc576f2@7945.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Connect with the authors of many of your favorite Python books. Come meet us\, ask questions\, and even get autographs.\r\n\r\nThis is also a great opportunity if you’ve ever thought about writing a Python book and want to learn more about the process.
 DTEND:20250517T154500Z
 LOCATION:Room 308
 DTSTART:20250517T141500Z
 SUMMARY:Python Book Author Meet-and-Greet
-UID:dd44c2ec-f92c-4e07-80f4-260119805312@dd44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Come have English tea and biscuits with Cheuk. Let's talk about Python\, community and PyCharm over an aromatic brew. Everyone is welcomed to my tea party.
-DTEND:20250516T170000Z
-LOCATION:Room 308
-DTSTART:20250516T160000Z
-SUMMARY:Tea with Cheuk
-UID:6ee46ae9-47a7-4520-9b8c-58503002f862@6ee4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Deployment is one of the sticking points in learning (and using) Django. [django-simple-deploy](https://django-simple-deploy.readthedocs.io/en/latest/) solves this problem by automating deployment to a variety of hosting platforms. We keep up with each platform's docs\, so your deployment works the first time you try. If you'd like to learn more about the project\, offer feedback\, or start contributing\, please stop by!
-DTEND:20250518T120000Z
-LOCATION:Room 315
-DTSTART:20250518T110000Z
-SUMMARY:Simplifying initial Django deployments
-UID:174e3bfd-0619-4d10-957f-3c68b0478455@174e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:An opportunity for software maintainers who are still supporting Python 2.x to talk with people who are still using Python 2.x. What do users need before we can migrate? What do maintainers need to know or get before we can fully deprecate 2.x support? What funding might be necessary to make these happen? A supportive and nonjudgmental discussion facilitated by Sumana Harihareswara.
-DTEND:20250518T120000Z
-LOCATION:Room 308
-DTSTART:20250518T110000Z
-SUMMARY:Still on Python 2?
-UID:912b2b88-cbd9-4e6f-aa86-1285b4b3cd1c@912b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Come juggle with us! No experience necessary\, we will teach you. Or bring your awesome skillz. Bring props if you have them.  We will have beanbag balls to use.
-DTEND:20250517T170000Z
-LOCATION:Room 320
-DTSTART:20250517T141500Z
-SUMMARY:Juggling!
-UID:4ca4e3b9-384d-481a-9aba-42a8efdd9b21@4ca4.org
+UID:c8643425-2e30-43f3-9167-fcbfa2027018@c864.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:An open questions session with Leonard Richardson\, the maintainer of screen-scraping library Beautiful Soup. If you've ever used or tried to use it\, share your questions\, confusions\, stuff you've made\, concerns\, ideas\, offers of help\, etc. with Leonard in person. If we don't have a ton of questions\, we might do some impromptu usability testing to check whether the new type hints help you use the library. Facilitated by Sumana Harihareswara.
@@ -73,23 +17,31 @@ DTEND:20250518T150000Z
 LOCATION:Room 315
 DTSTART:20250518T140000Z
 SUMMARY:Beautiful Soup: Ask Me Anything
-UID:0b018c5b-7b2e-4665-acc2-b9d6e1754d2d@0b01.org
+UID:8a07df11-7313-4eb4-b660-f5d7b345705d@8a07.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Do you identify as a "Nebraska" maintainer? Have you been thanklessly maintaining Open Source projects that large companies depend on? I want to hear your story! My name is Chad Whitacre\, Head of Open Source at Sentry and director of the Open Source Pledge. I recently launched a YouTube show called Open Path about Open Source sustainability and more. I want to include perspectives from maintainers in future episodes\, so we will be filming this session. Let's bring some attention to the Open Source sustaina…
-DTEND:20250517T140000Z
+DESCRIPTION:Come have English tea and biscuits with Cheuk. Let's talk about Python\, community and PyCharm over an aromatic brew. Everyone is welcomed to my tea party.
+DTEND:20250516T170000Z
+LOCATION:Room 308
+DTSTART:20250516T160000Z
+SUMMARY:Tea with Cheuk
+UID:f453c033-179b-4adb-b477-262ef449a49b@f453.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Deployment is one of the sticking points in learning (and using) Django. [django-simple-deploy](https://django-simple-deploy.readthedocs.io/en/latest/) solves this problem by automating deployment to a variety of hosting platforms. We keep up with each platform's docs\, so your deployment works the first time you try. If you'd like to learn more about the project\, offer feedback\, or start contributing\, please stop by!
+DTEND:20250518T120000Z
 LOCATION:Room 315
-DTSTART:20250517T130000Z
-SUMMARY:"Nebraska" Maintainers Round-table
-UID:4136be82-c05b-4afe-a853-9c6190a935dc@4136.org
+DTSTART:20250518T110000Z
+SUMMARY:Simplifying initial Django deployments
+UID:b24a6e0b-b98a-48f5-8187-5dd584b0370d@b24a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Come learn what’s new and upcoming for supply chain security in the Python ecosystem. This open space will be relevant to both maintainers and users. A mix of longer presentations\, lightning talks and open discussion will include overviews of new best practices and plans for the future.
-DTEND:20250517T123000Z
-LOCATION:Room 321
-DTSTART:20250517T103000Z
-SUMMARY:Supply-Chain Security
-UID:762942cd-764f-450f-9adb-ceb284d2af39@7629.org
+DESCRIPTION:Come juggle with us! No experience necessary\, we will teach you. Or bring your awesome skillz. Bring props if you have them.  We will have beanbag balls to use.
+DTEND:20250517T170000Z
+LOCATION:Room 320
+DTSTART:20250517T141500Z
+SUMMARY:Juggling!
+UID:ec94f5ae-4b1c-4213-9f4b-abd3f2b6d519@ec94.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Connect with fellow CKAN users\, contributors\, and newcomers for updates\, lightning talks\, and casual conversation. Whether you're deep into data or new to CKAN\, stop by to share ideas and help shape what’s next. Interested in giving a lightning talk? Email us at pose.ckan@pitt.edu.
@@ -97,6 +49,54 @@ DTEND:20250517T180000Z
 LOCATION:Room 309
 DTSTART:20250517T160000Z
 SUMMARY:CKAN Community
-UID:6e130b80-c0b5-47b5-b446-c59c3eea86bc@6e13.org
+UID:2cb983d0-92da-4ee6-8aa9-5dcc0da20aea@2cb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Do you identify as a "Nebraska" maintainer? Have you been thanklessly maintaining Open Source projects that large companies depend on? I want to hear your story! My name is Chad Whitacre\, Head of Open Source at Sentry and director of the Open Source Pledge. I recently launched a YouTube show called Open Path about Open Source sustainability and more. I want to include perspectives from maintainers in future episodes\, so we will be filming this session. Let's bring some attention to the Open Source sustaina…
+DTEND:20250517T140000Z
+LOCATION:Room 315
+DTSTART:20250517T130000Z
+SUMMARY:"Nebraska" Maintainers Round-table
+UID:84c36bd7-bd5e-40ef-b636-860eb06fee9b@84c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Impacted by resignations\, RIFs\, or cuts to grants and contracts? Join us for an Open Space focused on community\, support\, and shared purpose. We'll hold discussion space on career pivots\, personal resilience\, and how we can continue to uphold and advance public-sector data\, programming\, and AI innovation. Can’t make the session? Email elaynemorrison@gmail.com to receive the shared resource list and stay connected.
+DTEND:20250516T140000Z
+LOCATION:Room 308
+DTSTART:20250516T130000Z
+SUMMARY:Current & Displaced Federal Data Professionals Open Space
+UID:f2604517-08c1-49e0-a83d-b9d95744305e@f260.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:An opportunity for software maintainers who are still supporting Python 2.x to talk with people who are still using Python 2.x. What do users need before we can migrate? What do maintainers need to know or get before we can fully deprecate 2.x support? What funding might be necessary to make these happen? A supportive and nonjudgmental discussion facilitated by Sumana Harihareswara.
+DTEND:20250518T120000Z
+LOCATION:Room 308
+DTSTART:20250518T110000Z
+SUMMARY:Still on Python 2?
+UID:1410dd06-f16d-43eb-9f91-32819ce15674@1410.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Do you have any idea about what we can\, as a community\, promote Python to more people? Or are you interested in education in Python and would like to get more support? The members of the Education and Outreach Working Group of the Python Software Foundation would love to listen and collaborate with you. Please come join us!
+DTEND:20250516T130000Z
+LOCATION:Room 315
+DTSTART:20250516T120000Z
+SUMMARY:Education and Outreach Working Group Open Space
+UID:f53ffe93-cd2c-4f08-8eea-38fcdfe26d45@f53f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come learn what’s new and upcoming for supply chain security in the Python ecosystem. This open space will be relevant to both maintainers and users. A mix of longer presentations\, lightning talks and open discussion will include overviews of new best practices and plans for the future.
+DTEND:20250517T123000Z
+LOCATION:Room 321
+DTSTART:20250517T103000Z
+SUMMARY:Supply-Chain Security
+UID:fe50d7ee-6215-4bb7-b401-1380dc44f2c3@fe50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The PSF & Meetups Discussion is organized by the PSF board. We’re looking to make this year’s PyCon US session into a jumping off point for a global conversation that we hope to see happen regularly in lots of places around the world – as well as online. If you’ve got ideas or want to be involved in this conversation\, please email community-organizing@pyfound.org
+DTEND:20250518T140000Z
+LOCATION:Room 310/311
+DTSTART:20250518T130000Z
+SUMMARY:PSF & Meetups Discussion
+UID:5f4ff356-17f2-4c69-853a-ce7003449461@5f4f.org
 END:VEVENT
 END:VCALENDAR
