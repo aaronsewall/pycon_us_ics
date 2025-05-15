@@ -5,7 +5,7 @@ from ics import Calendar, Event
 import pytz
 from ics.grammar.parse import ContentLine
 
-from pycon_us_ics.pycon import PYCON_YEAR
+from pycon_us_ics.pycon import PYCON_YEAR, generate_ical_uid
 
 # ---- CONFIG ----
 URL = "https://us.pycon.org/2025/events/typing-summit/#agenda"
@@ -50,6 +50,7 @@ def main():
         event.begin = ev_start
         event.end = ev_end
         event.location = LOCATION
+        event.uid = generate_ical_uid(event.name)
         cal.events.add(event)
         print(
             f"Added: {event.name} ({ev_start.strftime('%I:%M%p')}–{ev_end.strftime('%I:%M%p')}) {LOCATION}"

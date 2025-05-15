@@ -6,6 +6,8 @@ import re
 
 from ics.grammar.parse import ContentLine
 
+from pycon_us_ics.pycon import generate_ical_uid
+
 URL = "https://us.pycon.org/2025/schedule/open-spaces/"
 
 
@@ -73,6 +75,7 @@ def fetch_and_convert(url):
                 event.end = dt_end
                 event.location = where
                 event.description = description
+                event.uid = generate_ical_uid(event.name)
                 calendar.events.add(event)
             nxt = nxt.find_next_sibling()
 

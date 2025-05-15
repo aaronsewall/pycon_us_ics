@@ -8,7 +8,7 @@ import re
 
 from ics.grammar.parse import ContentLine
 
-from pycon_us_ics.pycon import PYCON_YEAR
+from pycon_us_ics.pycon import PYCON_YEAR, generate_ical_uid
 
 # ---- CONFIG ----
 URL = "https://us.pycon.org/2025/events/education-summit/"
@@ -166,6 +166,7 @@ def main():
         event.begin = ev["start"]
         event.end = ev["end"]
         event.location = ev["location"]
+        event.uid = generate_ical_uid(event.name)
         cal.events.add(event)
         print(
             f"Added: {event.name} ({ev['start'].strftime('%I:%M%p')}–{ev['end'].strftime('%I:%M%p')}) {LOCATION}"

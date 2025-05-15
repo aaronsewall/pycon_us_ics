@@ -6,7 +6,7 @@ import pytz
 from ics import Calendar, Event
 from ics.grammar.parse import ContentLine
 
-from pycon_us_ics.pycon import PYCON_YEAR
+from pycon_us_ics.pycon import PYCON_YEAR, generate_ical_uid
 
 URL = "https://us.pycon.org/2025/events/language-summit/#schedule"
 
@@ -123,6 +123,7 @@ def main():
         e.end = ev["end"]
         e.name = f'[language-summit] {ev["title"].replace("--", "").strip()}'
         e.location = ev["location"]
+        e.uid = generate_ical_uid(e.name)
         if ev["speaker"] and not ev["is_break"]:
             e.description = ev["speaker"]
         if ev["is_break"]:

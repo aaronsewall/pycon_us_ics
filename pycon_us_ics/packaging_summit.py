@@ -6,6 +6,8 @@ from dateutil import parser as dtparser
 import pytz
 import re
 
+from pycon_us_ics.pycon import generate_ical_uid
+
 # ---- CONFIG ----
 URL = "https://us.pycon.org/2025/events/packaging-summit/#schedule"
 DATE = "2025-05-17"  # You may want to confirm/change this date.
@@ -85,6 +87,7 @@ def main():
         event.begin = ev["start"]
         event.end = ev["end"]
         event.location = ev["location"]
+        event.uid = generate_ical_uid(event.name)
         cal.events.add(event)
         print(
             f"Added: {event.name} ({ev['start'].strftime('%I:%M%p')}–{ev['end'].strftime('%I:%M%p')}) {LOCATION}"

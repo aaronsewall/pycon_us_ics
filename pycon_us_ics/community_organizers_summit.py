@@ -7,7 +7,7 @@ import re
 
 from ics.grammar.parse import ContentLine
 
-from pycon_us_ics.pycon import PYCON_YEAR
+from pycon_us_ics.pycon import PYCON_YEAR, generate_ical_uid
 
 URL = "https://us.pycon.org/2025/events/community-organizers-summit/#cfp-for-show-amp-tell"
 
@@ -84,6 +84,7 @@ def main():
         e.begin = ev["start"]
         e.end = ev["end"]
         e.location = LOCATION
+        e.uid = generate_ical_uid(e.name)
         cal.events.add(e)
         print(
             f"Added: {e.name} ({ev['start'].strftime('%I:%M %p')}–{ev['end'].strftime('%I:%M %p')})"
