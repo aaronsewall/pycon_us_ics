@@ -4,164 +4,164 @@ X-WR-CALNAME:PyCon 2025 Education Summit
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20250515T160500Z
+DTEND:20250515T193000Z
 LOCATION:Room 403/404
-DTSTART:20250515T154000Z
-SUMMARY:[education-summit] The importance of context and audience in teaching Python\, Benjamin Lear
-UID:a0e1ce9b-6c38-4ce0-861f-8b7c549f90dd@a0e1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250515T175000Z
-LOCATION:Room 403/404
-DTSTART:20250515T174500Z
-SUMMARY:[education-summit] Lightning Talk: Use Python and Data Science to Recycle Textiles
-UID:66ec0807-3c0b-42e2-b636-832a0b42b9f5@66ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250515T203000Z
-LOCATION:Room 403/404
-DTSTART:20250515T200000Z
-SUMMARY:[education-summit] Birds of a Feather
-UID:76de70d2-dcfd-43a2-9736-928b850a1041@76de.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250515T205500Z
-LOCATION:Room 403/404
-DTSTART:20250515T203000Z
-SUMMARY:[education-summit] Closing
-UID:544ee88f-b5c3-4620-b6b7-f0c2f46a9dd4@544e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250515T131500Z
-LOCATION:Room 403/404
-DTSTART:20250515T130000Z
-SUMMARY:[education-summit] Opening remarks
-UID:754d5945-6cd4-4576-9d51-0547213467df@754d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250515T134000Z
-LOCATION:Room 403/404
-DTSTART:20250515T131500Z
-SUMMARY:[education-summit] Teaching Python with GitHub Codespaces\, Pamela Fox
-UID:152ffa11-18f3-48a8-b08a-87aaeb6ccb63@152f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250515T145000Z
-LOCATION:Room 403/404
-DTSTART:20250515T143000Z
-SUMMARY:[education-summit] Coffee/Tea/Snack/Stretch Break
-UID:aaba09cf-8f2c-4bdf-b30c-2daff97ce59c@aaba.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250515T180000Z
-LOCATION:Room 403/404
-DTSTART:20250515T175500Z
-SUMMARY:[education-summit] Lightning Talk: Beyond "Hello\, World!": A Conversation about First Impressions and Inspiring Persistent Pythonistas
-UID:30bdffba-d48d-4eac-92f6-bedcbcf655ff@30bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250515T163000Z
-LOCATION:Room 403/404
-DTSTART:20250515T160500Z
-SUMMARY:[education-summit] Building AI EdTech Products in an Evolving Python Landscape\, Husni Almoubayyed
-UID:ab885c1a-4ca6-434e-bfa9-8ec8dfa6023a@ab88.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250515T173000Z
-LOCATION:Room 403/404
-DTSTART:20250515T163000Z
-SUMMARY:[education-summit] Lunch Break
-UID:bb69c98f-d03e-428a-bcfe-8901ff16c813@bb69.org
+DTSTART:20250515T190000Z
+SUMMARY:[education-summit] Workshop: Use Python and Data Science to Recycle Textiles
+UID:98a1b7c3-e435-4577-8685-492a9e027714@98a1.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250515T200000Z
 LOCATION:Room 403/404
 DTSTART:20250515T193000Z
 SUMMARY:[education-summit] Workshop: Beyond "Hello\, World!": A Conversation about First Impressions and Inspiring Persistent Pythonistas
-UID:0d52885a-ceb0-401b-80a9-38793e6b68ab@0d52.org
+UID:4ff9f4bf-17a9-41e7-a04b-fcc51bc2aba1@4ff9.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250515T180500Z
+DTEND:20250515T175000Z
 LOCATION:Room 403/404
-DTSTART:20250515T180000Z
-SUMMARY:[education-summit] Lightning Talk: ExecExam: A Tool to Facilitate Effective Executable Examinations in Python
-UID:e7e4bb38-a8ae-476c-8c53-db309ae6651c@e7e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250515T143000Z
-LOCATION:Room 403/404
-DTSTART:20250515T140500Z
-SUMMARY:[education-summit] Teaching Python in Middle School with Physical Computing\, Kung-Khoon Quah
-UID:ea8209a0-4dc1-4616-88fe-cb5f83f25561@ea82.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250515T174500Z
-LOCATION:Room 403/404
-DTSTART:20250515T173000Z
-SUMMARY:[education-summit] Afternoon Welcome
-UID:cf35b473-bd2a-44be-8a85-c2e7be44487e@cf35.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250515T175500Z
-LOCATION:Room 403/404
-DTSTART:20250515T175000Z
-SUMMARY:[education-summit] Lightning Talk: Up and Running with GitHub\, GitHub Classroom\, and GitHub Actions
-UID:8bda9a85-abf5-41a9-843b-7b1b0dd676cf@8bda.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250515T151500Z
-LOCATION:Room 403/404
-DTSTART:20250515T145000Z
-SUMMARY:[education-summit] From Blocks to Text: Empowering Creative Python Learning\, Joshua Lowe
-UID:325bdc03-5be2-4b90-a969-3ecad527cb20@325b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250515T181000Z
-LOCATION:Room 403/404
-DTSTART:20250515T180500Z
-SUMMARY:[education-summit] Lightning Talk: Understanding Large Language Models
-UID:3f5a8b38-f9db-482f-8be9-9f2451d1a999@3f5a.org
+DTSTART:20250515T174500Z
+SUMMARY:[education-summit] Lightning Talk: Use Python and Data Science to Recycle Textiles
+UID:a1cec2a4-e1fd-4211-b08d-9746622e539f@a1ce.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250515T182000Z
 LOCATION:Room 403/404
 DTSTART:20250515T181500Z
 SUMMARY:[education-summit] Lightning Talk: Linear Regression with Python CO2 compensation by sensors
-UID:6ea3a1bf-14c2-45a6-89ee-7036124170cc@6ea3.org
+UID:19adf6aa-d206-4daa-9524-174d7c26da65@19ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250515T143000Z
+LOCATION:Room 403/404
+DTSTART:20250515T140500Z
+SUMMARY:[education-summit] Teaching Python in Middle School with Physical Computing\, Kung-Khoon Quah
+UID:5338b0f5-f8c4-43be-8cfa-68532e35564b@5338.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250515T134000Z
+LOCATION:Room 403/404
+DTSTART:20250515T131500Z
+SUMMARY:[education-summit] Teaching Python with GitHub Codespaces\, Pamela Fox
+UID:48d7296e-b3a4-4d72-94cc-c4b74cae44dd@48d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250515T151500Z
+LOCATION:Room 403/404
+DTSTART:20250515T145000Z
+SUMMARY:[education-summit] From Blocks to Text: Empowering Creative Python Learning\, Joshua Lowe
+UID:b608f74a-eae5-4876-a415-7b5b23a49d20@b608.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250515T205500Z
+LOCATION:Room 403/404
+DTSTART:20250515T203000Z
+SUMMARY:[education-summit] Closing
+UID:7b4b9f25-2804-41e0-bac1-4c576746d3d0@7b4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250515T131500Z
+LOCATION:Room 403/404
+DTSTART:20250515T130000Z
+SUMMARY:[education-summit] Opening remarks
+UID:524e73a9-de2a-4412-a08e-250f2ccf0fe1@524e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250515T173000Z
+LOCATION:Room 403/404
+DTSTART:20250515T163000Z
+SUMMARY:[education-summit] Lunch Break
+UID:832a94f8-9be3-413c-a311-2d0a84d411b8@832a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250515T180500Z
+LOCATION:Room 403/404
+DTSTART:20250515T180000Z
+SUMMARY:[education-summit] Lightning Talk: ExecExam: A Tool to Facilitate Effective Executable Examinations in Python
+UID:d45c6cb5-f582-4c03-a3f8-21db626bb0c8@d45c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250515T160500Z
+LOCATION:Room 403/404
+DTSTART:20250515T154000Z
+SUMMARY:[education-summit] The importance of context and audience in teaching Python\, Benjamin Lear
+UID:6b1fe84e-02ea-4458-bb60-b0df5ff187e2@6b1f.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250515T154000Z
 LOCATION:Room 403/404
 DTSTART:20250515T151500Z
 SUMMARY:[education-summit] Ducks\, interns\, and Socrates: Using AI to enhance teaching and using Python - Reuven Lerner
-UID:dfa25d07-47f9-4212-81e3-6c4625d2238c@dfa2.org
+UID:55315915-dc1d-419b-bd7e-b0e53fe75b64@5531.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250515T193000Z
+DTEND:20250515T163000Z
 LOCATION:Room 403/404
-DTSTART:20250515T190000Z
-SUMMARY:[education-summit] Workshop: Use Python and Data Science to Recycle Textiles
-UID:6e7e8e24-abc1-43c1-8d37-fa94b56989a4@6e7e.org
+DTSTART:20250515T160500Z
+SUMMARY:[education-summit] Building AI EdTech Products in an Evolving Python Landscape\, Husni Almoubayyed
+UID:05dc3132-78c1-4cbe-ad1a-0681f3996169@05dc.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250515T140500Z
+DTEND:20250515T175500Z
 LOCATION:Room 403/404
-DTSTART:20250515T134000Z
-SUMMARY:[education-summit] Building an Integrated Computer Science / Web Development Pathway with Python\, Chris Jones and Jeff Elkner
-UID:15295203-dd7d-4db9-b69d-05e334ada146@1529.org
+DTSTART:20250515T175000Z
+SUMMARY:[education-summit] Lightning Talk: Up and Running with GitHub\, GitHub Classroom\, and GitHub Actions
+UID:5c793b7a-0f93-4ac4-a0ce-6c58d2e27032@5c79.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250515T181500Z
+DTEND:20250515T181000Z
 LOCATION:Room 403/404
-DTSTART:20250515T181000Z
-SUMMARY:[education-summit] Lightning Talk: Automated and Configurable Programming Project Checking with Chasten
-UID:3ef37e7e-456f-4f3b-b6a5-d059b31aeb67@3ef3.org
+DTSTART:20250515T180500Z
+SUMMARY:[education-summit] Lightning Talk: Understanding Large Language Models
+UID:08e59766-55fd-45cf-8983-4b1b1d347f32@08e5.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250515T182500Z
 LOCATION:Room 403/404
 DTSTART:20250515T182000Z
 SUMMARY:[education-summit] Lightning Talk: Building and Deploying Course Websites with Python\, Quarto\, and Mkdocs
-UID:d83dc2a9-1e20-4057-be23-624ac362dad5@d83d.org
+UID:2f25ff63-1c9d-4e40-a7cc-ec4cd1e64ae2@2f25.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250515T203000Z
+LOCATION:Room 403/404
+DTSTART:20250515T200000Z
+SUMMARY:[education-summit] Birds of a Feather
+UID:e57c2dc0-53f4-4de7-a444-14480e716197@e57c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250515T180000Z
+LOCATION:Room 403/404
+DTSTART:20250515T175500Z
+SUMMARY:[education-summit] Lightning Talk: Beyond "Hello\, World!": A Conversation about First Impressions and Inspiring Persistent Pythonistas
+UID:0e0eb3c6-6945-4874-b137-ff75c90d36b9@0e0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250515T181500Z
+LOCATION:Room 403/404
+DTSTART:20250515T181000Z
+SUMMARY:[education-summit] Lightning Talk: Automated and Configurable Programming Project Checking with Chasten
+UID:3996b329-5273-4635-bcc2-9d9b6aefcaf6@3996.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250515T145000Z
+LOCATION:Room 403/404
+DTSTART:20250515T143000Z
+SUMMARY:[education-summit] Coffee/Tea/Snack/Stretch Break
+UID:cfeb64b7-03e1-4fea-9e74-651240934ac9@cfeb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250515T174500Z
+LOCATION:Room 403/404
+DTSTART:20250515T173000Z
+SUMMARY:[education-summit] Afternoon Welcome
+UID:d4031e44-5295-4d6b-a403-eb06c6792e6a@d403.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250515T140500Z
+LOCATION:Room 403/404
+DTSTART:20250515T134000Z
+SUMMARY:[education-summit] Building an Integrated Computer Science / Web Development Pathway with Python\, Chris Jones and Jeff Elkner
+UID:06176c1e-18e7-4ec8-b565-ce454668d12a@0617.org
 END:VEVENT
 END:VCALENDAR

@@ -4,45 +4,45 @@ X-WR-CALNAME:PyCon 2025 Hatchery: FlaskCon
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20250516T210000Z
+DTEND:20250516T214500Z
 LOCATION:Room 317
-DTSTART:20250516T203000Z
-SUMMARY:[flaskcon] Let's PyScript: Flask frontends in Python! - Nicholas Tollervey & Paul Everitt
-UID:ada516a2-8bfd-40f5-ac19-1e761451e3c1@ada5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250516T183000Z
-LOCATION:Room 317
-DTSTART:20250516T180000Z
-SUMMARY:[flaskcon] Testing Flask and Quart Apps with Pytest and Playwright - Pamela Fox
-UID:681329be-ba64-4e17-ae91-8e77361087ac@6813.org
+DTSTART:20250516T211500Z
+SUMMARY:[flaskcon] Death to the spinner: event sourcing for reactive web apps - Chris May
+UID:c140dd18-a28c-4b51-aa3a-fe3a0db23417@c140.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250516T191500Z
 LOCATION:Room 317
 DTSTART:20250516T184500Z
 SUMMARY:[flaskcon] Turning Data into an Interactive Artwork That Tells a Story - Diane Phan
-UID:fa73eedd-51af-40d0-95e4-134a3496dd34@fa73.org
+UID:717d3835-6dbb-44b1-bc41-2cbcfb6b5323@717d.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250516T203000Z
 LOCATION:Room 317
 DTSTART:20250516T200000Z
 SUMMARY:[flaskcon] Break
-UID:c193527e-386f-49ce-a423-6f955c4453e1@c193.org
+UID:faa33f47-4655-48b0-aa33-7b045fcd14a6@faa3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250516T210000Z
+LOCATION:Room 317
+DTSTART:20250516T203000Z
+SUMMARY:[flaskcon] Let's PyScript: Flask frontends in Python! - Nicholas Tollervey & Paul Everitt
+UID:17b2751f-fb27-4488-9922-9b2b5d978a8b@17b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250516T183000Z
+LOCATION:Room 317
+DTSTART:20250516T180000Z
+SUMMARY:[flaskcon] Testing Flask and Quart Apps with Pytest and Playwright - Pamela Fox
+UID:75a2cab5-29f1-4abb-a243-1db38cb08621@75a2.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250516T200000Z
 LOCATION:Room 317
 DTSTART:20250516T193000Z
 SUMMARY:[flaskcon] Python’s New Template Strings — And Flask - Paul Everitt
-UID:f769646c-afd9-4590-92ea-e32bce8ce07e@f769.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250516T214500Z
-LOCATION:Room 317
-DTSTART:20250516T211500Z
-SUMMARY:[flaskcon] Death to the spinner: event sourcing for reactive web apps - Chris May
-UID:1a26dc87-50c1-49ee-88de-f10fe43c2eba@1a26.org
+UID:94d54655-7f9e-492d-b94a-bb863e307e5e@94d5.org
 END:VEVENT
 END:VCALENDAR
