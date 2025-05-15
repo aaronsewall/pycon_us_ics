@@ -4,59 +4,59 @@ X-WR-CALNAME:PyCon 2025 Typing Summit
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20250516T210000Z
+DTEND:20250516T183000Z
 LOCATION:Room 319
-DTSTART:20250516T203000Z
-SUMMARY:[typing-summit] Preventing unwanted mutation with PyreReadOnly (Amritha Raghunath and Jia Chen)
-UID:60d69c33-bec9-4883-997b-948e0d907334@60d6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250516T220000Z
-LOCATION:Room 319
-DTSTART:20250516T213000Z
-SUMMARY:[typing-summit] Updates (Rebecca Chen) and Q&A with the Typing Council
-UID:aa0154d5-d162-4d04-b26c-9ad1b01b5623@aa01.org
+DTSTART:20250516T180000Z
+SUMMARY:[typing-summit] Welcome and introductions (just name and affiliation)
+UID:ea5ee376-ba23-4ff7-a603-727721b5932e@ea5e.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250516T200000Z
 LOCATION:Room 319
 DTSTART:20250516T193000Z
 SUMMARY:[typing-summit] Using types for efficient runtime object representations in mypyc (Jukka Lehtosalo)
-UID:41ed9f31-fe72-43dc-9606-a47d5230b4ec@41ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250516T183000Z
-LOCATION:Room 319
-DTSTART:20250516T180000Z
-SUMMARY:[typing-summit] Welcome and introductions (just name and affiliation)
-UID:3ce93a10-ad03-4acc-8177-2b175d463661@3ce9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250516T193000Z
-LOCATION:Room 319
-DTSTART:20250516T190000Z
-SUMMARY:[typing-summit] Make Invalid States Unrepresentable (Bruce Eckel)
-UID:3f784ade-573c-40d2-82a6-c9a4dc954eb3@3f78.org
+UID:0e795e24-7bde-4a07-8b21-0cb81606368b@0e79.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250516T213000Z
 LOCATION:Room 319
 DTSTART:20250516T210000Z
 SUMMARY:[typing-summit] PEP 695 and Variance Inference (Martin Huschenbett)
-UID:7a431856-5260-40f7-b6b8-9f0643dce12b@7a43.org
+UID:4b2bfb44-d8ae-4db0-87ff-f6377a0c3f70@4b2b.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250516T203000Z
+DTEND:20250516T220000Z
 LOCATION:Room 319
-DTSTART:20250516T200000Z
-SUMMARY:[typing-summit] Introducing ty (Carl Meyer) and Pyrefly (Steven Troxler)
-UID:ef04e047-da34-4ca2-8514-9480cde5b9b8@ef04.org
+DTSTART:20250516T213000Z
+SUMMARY:[typing-summit] Updates (Rebecca Chen) and Q&A with the Typing Council
+UID:31cf3be0-aa12-4860-917b-f909c27131e9@31cf.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250516T190000Z
 LOCATION:Room 319
 DTSTART:20250516T183000Z
 SUMMARY:[typing-summit] Teaching About Type Annotation and Type Checking in Python (Gregory M. Kapfhammer)
-UID:23ba7c85-ac15-4a5f-b4e3-3da1c142cf02@23ba.org
+UID:cf2d85c7-3c40-4be1-8fe3-b3c80c557b41@cf2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250516T203000Z
+LOCATION:Room 319
+DTSTART:20250516T200000Z
+SUMMARY:[typing-summit] Introducing ty (Carl Meyer) and Pyrefly (Steven Troxler)
+UID:d954f44f-7d2d-4c75-a868-aeb8544554b0@d954.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250516T210000Z
+LOCATION:Room 319
+DTSTART:20250516T203000Z
+SUMMARY:[typing-summit] Preventing unwanted mutation with PyreReadOnly (Amritha Raghunath and Jia Chen)
+UID:26e20431-fbdc-4a5c-8581-fbef7bd6b9c6@26e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250516T193000Z
+LOCATION:Room 319
+DTSTART:20250516T190000Z
+SUMMARY:[typing-summit] Make Invalid States Unrepresentable (Bruce Eckel)
+UID:021ff509-7268-4376-81a5-37e9ec0ae5c4@021f.org
 END:VEVENT
 END:VCALENDAR
