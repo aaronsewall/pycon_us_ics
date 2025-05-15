@@ -4,92 +4,12 @@ X-WR-CALNAME:PyCon 2025 Open Spaces
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:An opportunity for software maintainers who are still supporting Python 2.x to talk with people who are still using Python 2.x. What do users need before we can migrate? What do maintainers need to know or get before we can fully deprecate 2.x support? What funding might be necessary to make these happen? A supportive and nonjudgmental discussion facilitated by Sumana Harihareswara.
-DTEND:20250518T120000Z
-LOCATION:Room 308
-DTSTART:20250518T110000Z
-SUMMARY:[open-spaces] Still on Python 2?
-UID:77b63efc-fc8e-4a70-9c32-932407dc624b@77b6.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250517T150000Z
-LOCATION:Room 308
+DTEND:20250517T160000Z
+LOCATION:room 308
 DTSTART:20250517T140000Z
 SUMMARY:[open-spaces] Reserved Slot
-UID:386f757c-693f-48fd-bae8-73bc705a8cfa@386f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Deployment is one of the sticking points in learning (and using) Django. [django-simple-deploy](https://django-simple-deploy.readthedocs.io/en/latest/) solves this problem by automating deployment to a variety of hosting platforms. We keep up with each platform's docs\, so your deployment works the first time you try. If you'd like to learn more about the project\, offer feedback\, or start contributing\, please stop by!
-DTEND:20250518T120000Z
-LOCATION:Room 315
-DTSTART:20250518T110000Z
-SUMMARY:[open-spaces] Simplifying initial Django deployments
-UID:fb438c95-531d-46ce-92a2-04ef6b146b3e@fb43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250518T150000Z
-LOCATION:Room 315
-DTSTART:20250518T140000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:6d61e33c-191e-4bce-86ad-2f828db711ee@6d61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250517T140000Z
-LOCATION:Room 315
-DTSTART:20250517T130000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:6aa06e52-8678-4ade-96a2-b82918d7e9e1@6aa0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Connect with the authors of many of your favorite Python books. Come meet us\, ask questions\, and even get autographs.\r\n\r\nThis is also a great opportunity if you’ve ever thought about writing a Python book and want to learn more about the process.
-DTEND:20250517T154500Z
-LOCATION:Room 308
-DTSTART:20250517T141500Z
-SUMMARY:[open-spaces] Python Book Author Meet-and-Greet
-UID:e01a13a8-1c7c-4eff-bf8c-8883d9931d45@e01a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250516T140000Z
-LOCATION:Room 308
-DTSTART:20250516T130000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:3f610918-89bc-4c6f-ad22-4c7730d331b7@3f61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Impacted by resignations\, RIFs\, or cuts to grants and contracts? Join us for an Open Space focused on community\, support\, and shared purpose. We'll hold discussion space on career pivots\, personal resilience\, and how we can continue to uphold and advance public-sector data\, programming\, and AI innovation. Can’t make the session? Email elaynemorrison@gmail.com to receive the shared resource list and stay connected.
-DTEND:20250516T140000Z
-LOCATION:Room 308
-DTSTART:20250516T130000Z
-SUMMARY:[open-spaces] Current & Displaced Federal Data Professionals Open Space
-UID:f39f281c-0cfc-4743-9339-895607bcd8b4@f39f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250517T170000Z
-LOCATION:Room 320
-DTSTART:20250517T160000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:b39772d7-5cec-49ac-927b-5e0d52092da2@b397.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250516T130000Z
-LOCATION:Room 315
-DTSTART:20250516T120000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:0fcf982e-9047-4a52-96f9-b6ed98bc1596@0fcf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250518T140000Z
-LOCATION:Room 310/311
-DTSTART:20250518T130000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:97df7245-d73e-4949-9fe5-77cffb2d7c3f@97df.org
+UID:d4ee8039-cb73-4f48-990a-309152938edf@d4ee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Do you have any idea about what we can\, as a community\, promote Python to more people? Or are you interested in education in Python and would like to get more support? The members of the Education and Outreach Working Group of the Python Software Foundation would love to listen and collaborate with you. Please come join us!
@@ -97,63 +17,23 @@ DTEND:20250516T130000Z
 LOCATION:Room 315
 DTSTART:20250516T120000Z
 SUMMARY:[open-spaces] Education and Outreach Working Group Open Space
-UID:c88c4eac-c40d-49a9-8ff9-0fe0cd06bf53@c88c.org
+UID:4e475e4c-8190-4021-a75c-1799a6eb7ee4@4e47.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:This slot is reserved\, but the event has not been published yet.
 DTEND:20250517T120000Z
-LOCATION:Room 321
+LOCATION:room 321
 DTSTART:20250517T110000Z
 SUMMARY:[open-spaces] Reserved Slot
-UID:509b626d-4737-4534-9249-6ebd10122df7@509b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Come juggle with us! No experience necessary\, we will teach you. Or bring your awesome skillz. Bring props if you have them.  We will have beanbag balls to use.
-DTEND:20250517T170000Z
-LOCATION:Room 320
-DTSTART:20250517T141500Z
-SUMMARY:[open-spaces] Juggling!
-UID:b821ec4a-c51c-48af-b8b4-028b84ee1159@b821.org
+UID:75c06ef0-1faa-48ee-a95a-c241764c8438@75c0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250517T160000Z
-LOCATION:Room 308
-DTSTART:20250517T150000Z
+DTEND:20250517T150000Z
+LOCATION:room 320
+DTSTART:20250517T140000Z
 SUMMARY:[open-spaces] Reserved Slot
-UID:a1e13f34-fa2a-4737-b997-0f258a165de3@a1e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250518T120000Z
-LOCATION:Room 315
-DTSTART:20250518T110000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:1f5e7e8d-f416-4a68-a833-ce2673a31cf3@1f5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250517T180000Z
-LOCATION:Room 309
-DTSTART:20250517T160000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:a913be88-8090-4dbe-842d-728d87e9de7d@a913.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250517T170000Z
-LOCATION:Room 309
-DTSTART:20250517T160000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:1ccb8620-ad24-434a-9278-2c92783e8d00@1ccb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250517T130000Z
-LOCATION:Room 321
-DTSTART:20250517T110000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:b3225ec1-4a87-41cf-b0cd-3b9be5898c1d@b322.org
+UID:971fb9e8-b947-4f46-8f35-f9a612c95066@971f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Open-space discussion about free-threaded Python (PEP 703)\, implementation details and migration support (https://py-free-threading.github.io/).
@@ -161,127 +41,15 @@ DTEND:20250516T150000Z
 LOCATION:Room 315
 DTSTART:20250516T140000Z
 SUMMARY:[open-spaces] Free-threaded Python
-UID:7a8293c4-929a-44aa-aed0-7353a91256b4@7a82.org
+UID:dc4bd485-3625-4cbe-a5f5-d39cf25dc771@dc4b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250517T130000Z
-LOCATION:Room 321
-DTSTART:20250517T120000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:29ae9505-ef52-4187-9f07-23c16f973509@29ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250517T150000Z
-LOCATION:Room 320
-DTSTART:20250517T140000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:258fea02-978f-44fa-8af5-d6490f3774cb@258f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250517T180000Z
-LOCATION:Room 320
-DTSTART:20250517T140000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:d49bc7d5-7f13-42be-b918-696d45ae028a@d49b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250517T160000Z
-LOCATION:Room 320
-DTSTART:20250517T150000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:9548b489-2743-411f-a93f-1c4db3d94950@9548.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Come learn what’s new and upcoming for supply chain security in the Python ecosystem. This open space will be relevant to both maintainers and users. A mix of longer presentations\, lightning talks and open discussion will include overviews of new best practices and plans for the future.
-DTEND:20250517T123000Z
-LOCATION:Room 321
-DTSTART:20250517T103000Z
-SUMMARY:[open-spaces] Supply-Chain Security
-UID:e3201479-4651-4f06-b917-88860a03c4fc@e320.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:An open questions session with Leonard Richardson\, the maintainer of screen-scraping library Beautiful Soup. If you've ever used or tried to use it\, share your questions\, confusions\, stuff you've made\, concerns\, ideas\, offers of help\, etc. with Leonard in person. If we don't have a ton of questions\, we might do some impromptu usability testing to check whether the new type hints help you use the library. Facilitated by Sumana Harihareswara.
-DTEND:20250518T150000Z
-LOCATION:Room 315
-DTSTART:20250518T140000Z
-SUMMARY:[open-spaces] Beautiful Soup: Ask Me Anything
-UID:3bac68a5-deb9-4632-a0f5-978e20116d5f@3bac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Connect with fellow CKAN users\, contributors\, and newcomers for updates\, lightning talks\, and casual conversation. Whether you're deep into data or new to CKAN\, stop by to share ideas and help shape what’s next. Interested in giving a lightning talk? Email us at pose.ckan@pitt.edu.
-DTEND:20250517T180000Z
-LOCATION:Room 309
+DTEND:20250517T170000Z
+LOCATION:room 309
 DTSTART:20250517T160000Z
-SUMMARY:[open-spaces] CKAN Community
-UID:5af5ce25-72d8-40c5-940e-7926f2dd70a6@5af5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250516T150000Z
-LOCATION:Room 315
-DTSTART:20250516T140000Z
 SUMMARY:[open-spaces] Reserved Slot
-UID:a4a68d76-2e67-43f2-9de5-be73f7ae84d4@a4a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250517T110000Z
-LOCATION:Room 321
-DTSTART:20250517T100000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:022a34f2-bb5b-4399-a346-997fdc17ddd1@022a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Do you identify as a "Nebraska" maintainer? Have you been thanklessly maintaining Open Source projects that large companies depend on? I want to hear your story! My name is Chad Whitacre\, Head of Open Source at Sentry and director of the Open Source Pledge. I recently launched a YouTube show called Open Path about Open Source sustainability and more. I want to include perspectives from maintainers in future episodes\, so we will be filming this session. Let's bring some attention to the Open Source sustaina…
-DTEND:20250517T140000Z
-LOCATION:Room 315
-DTSTART:20250517T130000Z
-SUMMARY:[open-spaces] "Nebraska" Maintainers Round-table
-UID:72c37be8-0293-450f-ab96-81fab18d63e8@72c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250517T160000Z
-LOCATION:Room 308
-DTSTART:20250517T140000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:fce9e8af-de76-4415-99ef-55280a4055f9@fce9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250517T180000Z
-LOCATION:Room 309
-DTSTART:20250517T170000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:7244dac5-5cee-49af-9342-88cebddc25e0@7244.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Come have English tea and biscuits with Cheuk. Let's talk about Python\, community and PyCharm over an aromatic brew. Everyone is welcomed to my tea party.
-DTEND:20250516T170000Z
-LOCATION:Room 308
-DTSTART:20250516T160000Z
-SUMMARY:[open-spaces] Tea with Cheuk
-UID:f0b1f4bf-cbac-4489-9aa3-740d5a58d7af@f0b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250516T170000Z
-LOCATION:Room 308
-DTSTART:20250516T160000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:1f894cd3-6f97-4412-aeac-3b4e2f5ce2f9@1f89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This slot is reserved\, but the event has not been published yet.
-DTEND:20250518T120000Z
-LOCATION:Room 308
-DTSTART:20250518T110000Z
-SUMMARY:[open-spaces] Reserved Slot
-UID:1d4618f4-4a32-4e5b-a833-2675eb1ec9b8@1d46.org
+UID:5f972d4e-6a1c-4c99-8c2c-02158caf8211@5f97.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The PSF & Meetups Discussion is organized by the PSF board. We’re looking to make this year’s PyCon US session into a jumping off point for a global conversation that we hope to see happen regularly in lots of places around the world – as well as online. If you’ve got ideas or want to be involved in this conversation\, please email community-organizing@pyfound.org
@@ -289,6 +57,166 @@ DTEND:20250518T140000Z
 LOCATION:Room 310/311
 DTSTART:20250518T130000Z
 SUMMARY:[open-spaces] PSF & Meetups Discussion
-UID:2724a334-6f42-4b5f-82d4-4f66dd9572ec@2724.org
+UID:b6095bf6-5d15-4fc3-98a3-74defcbca581@b609.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This slot is reserved\, but the event has not been published yet.
+DTEND:20250517T150000Z
+LOCATION:room 308
+DTSTART:20250517T140000Z
+SUMMARY:[open-spaces] Reserved Slot
+UID:8921b2be-e19f-48c2-8719-f0ffe68c04f5@8921.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come juggle with us! No experience necessary\, we will teach you. Or bring your awesome skillz. Bring props if you have them.  We will have beanbag balls to use.
+DTEND:20250517T170000Z
+LOCATION:Room 320
+DTSTART:20250517T141500Z
+SUMMARY:[open-spaces] Juggling!
+UID:4eaed404-c26e-4f69-9c23-dddb20a04777@4eae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Connect with fellow CKAN users\, contributors\, and newcomers for updates\, lightning talks\, and casual conversation. Whether you're deep into data or new to CKAN\, stop by to share ideas and help shape what’s next. Interested in giving a lightning talk? Email us at pose.ckan@pitt.edu.
+DTEND:20250517T180000Z
+LOCATION:Room 309
+DTSTART:20250517T160000Z
+SUMMARY:[open-spaces] CKAN Community
+UID:4af40e28-d790-45c6-a8cd-0962eedbb023@4af4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This slot is reserved\, but the event has not been published yet.
+DTEND:20250517T160000Z
+LOCATION:room 320
+DTSTART:20250517T150000Z
+SUMMARY:[open-spaces] Reserved Slot
+UID:82ca301d-acd8-404b-a6a0-30c06155135d@82ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This slot is reserved\, but the event has not been published yet.
+DTEND:20250517T180000Z
+LOCATION:room 309
+DTSTART:20250517T170000Z
+SUMMARY:[open-spaces] Reserved Slot
+UID:6fdfa9e9-b513-490c-8b4b-c5e0dc15679b@6fdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Impacted by resignations\, RIFs\, or cuts to grants and contracts? Join us for an Open Space focused on community\, support\, and shared purpose. We'll hold discussion space on career pivots\, personal resilience\, and how we can continue to uphold and advance public-sector data\, programming\, and AI innovation. Can’t make the session? Email elaynemorrison@gmail.com to receive the shared resource list and stay connected.
+DTEND:20250516T140000Z
+LOCATION:Room 308
+DTSTART:20250516T130000Z
+SUMMARY:[open-spaces] Current & Displaced Federal Data Professionals Open Space
+UID:0f029683-08b1-4874-9076-424159441550@0f02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This slot is reserved\, but the event has not been published yet.
+DTEND:20250517T130000Z
+LOCATION:room 321
+DTSTART:20250517T110000Z
+SUMMARY:[open-spaces] Reserved Slot
+UID:eb7a7cd7-9087-4bb8-ad8c-e31c3fa30211@eb7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Connect with the authors of many of your favorite Python books. Come meet us\, ask questions\, and even get autographs.\r\n\r\nThis is also a great opportunity if you’ve ever thought about writing a Python book and want to learn more about the process.
+DTEND:20250517T154500Z
+LOCATION:Room 308
+DTSTART:20250517T141500Z
+SUMMARY:[open-spaces] Python Book Author Meet-and-Greet
+UID:ed547c59-413a-43b9-84ac-4f8f1d78cf26@ed54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come learn what’s new and upcoming for supply chain security in the Python ecosystem. This open space will be relevant to both maintainers and users. A mix of longer presentations\, lightning talks and open discussion will include overviews of new best practices and plans for the future.
+DTEND:20250517T123000Z
+LOCATION:Room 321
+DTSTART:20250517T103000Z
+SUMMARY:[open-spaces] Supply-Chain Security
+UID:819d27b1-6c4b-4cea-8953-cb2230e965fc@819d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come have English tea and biscuits with Cheuk. Let's talk about Python\, community and PyCharm over an aromatic brew. Everyone is welcomed to my tea party.
+DTEND:20250516T170000Z
+LOCATION:Room 308
+DTSTART:20250516T160000Z
+SUMMARY:[open-spaces] Tea with Cheuk
+UID:dcdeb956-266a-4829-a6e3-2b1d5fa8b8e4@dcde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This slot is reserved\, but the event has not been published yet.
+DTEND:20250517T130000Z
+LOCATION:room 321
+DTSTART:20250517T120000Z
+SUMMARY:[open-spaces] Reserved Slot
+UID:a21778ac-624f-4366-b6af-06cd5386c7e9@a217.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This slot is reserved\, but the event has not been published yet.
+DTEND:20250517T160000Z
+LOCATION:room 308
+DTSTART:20250517T150000Z
+SUMMARY:[open-spaces] Reserved Slot
+UID:dc71af63-b37c-4485-b57c-c291e2efcf83@dc71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:An open questions session with Leonard Richardson\, the maintainer of screen-scraping library Beautiful Soup. If you've ever used or tried to use it\, share your questions\, confusions\, stuff you've made\, concerns\, ideas\, offers of help\, etc. with Leonard in person. If we don't have a ton of questions\, we might do some impromptu usability testing to check whether the new type hints help you use the library. Facilitated by Sumana Harihareswara.
+DTEND:20250518T150000Z
+LOCATION:Room 315
+DTSTART:20250518T140000Z
+SUMMARY:[open-spaces] Beautiful Soup: Ask Me Anything
+UID:48e179fa-889d-46af-bf8c-6b00b3b7a6ce@48e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:An opportunity for software maintainers who are still supporting Python 2.x to talk with people who are still using Python 2.x. What do users need before we can migrate? What do maintainers need to know or get before we can fully deprecate 2.x support? What funding might be necessary to make these happen? A supportive and nonjudgmental discussion facilitated by Sumana Harihareswara.
+DTEND:20250518T120000Z
+LOCATION:Room 308
+DTSTART:20250518T110000Z
+SUMMARY:[open-spaces] Still on Python 2?
+UID:179af975-7fb1-4e83-a685-4e0c3708fc98@179a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Python language implementations and tooling (interpreters\, compilers\, typecheckers\, linters\, codemods\, etc) are intimately tied to the details of the language\, and often to the internals of CPython. This leads to a large amount of work every time a new python version comes out\, to reflect the changes in the language.\r\n\r\nThis is a space for developers of these projects to compare notes\, and discuss ways in which some of this work can be developed more collaboratively. People interested in the space are welc…
+DTEND:20250516T150000Z
+LOCATION:Room 316
+DTSTART:20250516T140000Z
+SUMMARY:[open-spaces] Keeping up with CPython: Alternative implementations and language tools
+UID:4d179a3a-81ab-43e3-90c1-89de71acf016@4d17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This slot is reserved\, but the event has not been published yet.
+DTEND:20250517T170000Z
+LOCATION:room 320
+DTSTART:20250517T160000Z
+SUMMARY:[open-spaces] Reserved Slot
+UID:b3304d3d-87dc-425f-8c0e-20149c404e75@b330.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Do you identify as a "Nebraska" maintainer? Have you been thanklessly maintaining Open Source projects that large companies depend on? I want to hear your story! My name is Chad Whitacre\, Head of Open Source at Sentry and director of the Open Source Pledge. I recently launched a YouTube show called Open Path about Open Source sustainability and more. I want to include perspectives from maintainers in future episodes\, so we will be filming this session. Let's bring some attention to the Open Source sustaina…
+DTEND:20250517T140000Z
+LOCATION:Room 315
+DTSTART:20250517T130000Z
+SUMMARY:[open-spaces] "Nebraska" Maintainers Round-table
+UID:9929023d-f01b-45b1-bb48-0b2f3ab3d856@9929.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This slot is reserved\, but the event has not been published yet.
+DTEND:20250517T110000Z
+LOCATION:room 321
+DTSTART:20250517T100000Z
+SUMMARY:[open-spaces] Reserved Slot
+UID:e7d5b1d0-991f-4580-b2a1-faf23874db02@e7d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This slot is reserved\, but the event has not been published yet.
+DTEND:20250517T180000Z
+LOCATION:room 320
+DTSTART:20250517T140000Z
+SUMMARY:[open-spaces] Reserved Slot
+UID:668c4cee-00a1-4de1-b96a-b9b48172df39@668c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Deployment is one of the sticking points in learning (and using) Django. [django-simple-deploy](https://django-simple-deploy.readthedocs.io/en/latest/) solves this problem by automating deployment to a variety of hosting platforms. We keep up with each platform's docs\, so your deployment works the first time you try. If you'd like to learn more about the project\, offer feedback\, or start contributing\, please stop by!
+DTEND:20250518T120000Z
+LOCATION:Room 315
+DTSTART:20250518T110000Z
+SUMMARY:[open-spaces] Simplifying initial Django deployments
+UID:d45f8d93-c7a0-4587-920f-883373552793@d45f.org
 END:VEVENT
 END:VCALENDAR
