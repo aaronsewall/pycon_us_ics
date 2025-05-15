@@ -4,59 +4,59 @@ X-WR-CALNAME:PyCon 2025 Typing Summit
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTEND:20250516T193000Z
+LOCATION:Room 319
+DTSTART:20250516T190000Z
+SUMMARY:[typing-summit] Make Invalid States Unrepresentable (Bruce Eckel)
+UID:7e5bacf0-4ead-490b-86d3-7aa9886776db@7e5b.org
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250516T210000Z
 LOCATION:Room 319
 DTSTART:20250516T203000Z
 SUMMARY:[typing-summit] Preventing unwanted mutation with PyreReadOnly (Amritha Raghunath and Jia Chen)
-UID:f999771b-89f3-43eb-9462-188423564731@f999.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250516T213000Z
-LOCATION:Room 319
-DTSTART:20250516T210000Z
-SUMMARY:[typing-summit] PEP 695 and Variance Inference (Martin Huschenbett)
-UID:8a2e8bb6-a20f-44bc-bcf3-4853fb082df4@8a2e.org
+UID:ee368d44-f642-4641-936d-9131dcb9040c@ee36.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250516T220000Z
 LOCATION:Room 319
 DTSTART:20250516T213000Z
 SUMMARY:[typing-summit] Updates (Rebecca Chen) and Q&A with the Typing Council
-UID:30dcbf91-feba-4401-9b87-200f3afd3811@30dc.org
+UID:8a2c12e7-6998-4048-b910-522cbf85f068@8a2c.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250516T203000Z
+DTEND:20250516T213000Z
 LOCATION:Room 319
-DTSTART:20250516T200000Z
-SUMMARY:[typing-summit] Introducing ty (Carl Meyer) and Pyrefly (Steven Troxler)
-UID:2e7bc2fd-7515-4481-8a5f-b6c0b5cf1958@2e7b.org
+DTSTART:20250516T210000Z
+SUMMARY:[typing-summit] PEP 695 and Variance Inference (Martin Huschenbett)
+UID:7bdca3e6-6d19-41e6-870d-bdf2e7c8eb3e@7bdc.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250516T200000Z
 LOCATION:Room 319
 DTSTART:20250516T193000Z
 SUMMARY:[typing-summit] Using types for efficient runtime object representations in mypyc (Jukka Lehtosalo)
-UID:4e7bfe6f-f95c-42c8-b0a8-dc2c08971a47@4e7b.org
+UID:c91d1c72-5c5a-4eb3-9066-2593a864a766@c91d.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250516T190000Z
 LOCATION:Room 319
 DTSTART:20250516T183000Z
 SUMMARY:[typing-summit] Teaching About Type Annotation and Type Checking in Python (Gregory M. Kapfhammer)
-UID:b7d177c7-1b5a-4934-a5a6-283c5ead21a5@b7d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250516T193000Z
-LOCATION:Room 319
-DTSTART:20250516T190000Z
-SUMMARY:[typing-summit] Make Invalid States Unrepresentable (Bruce Eckel)
-UID:65f1a22d-1cfa-4d16-94a7-52b0f64bb9c5@65f1.org
+UID:e3bc6786-7480-4387-a351-8e62fd9d525e@e3bc.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250516T183000Z
 LOCATION:Room 319
 DTSTART:20250516T180000Z
 SUMMARY:[typing-summit] Welcome and introductions (just name and affiliation)
-UID:67b7a649-9fbc-4af1-a3f2-135785231ffa@67b7.org
+UID:f1639bee-8ea9-4b37-aaea-6dfaf29c5aae@f163.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250516T203000Z
+LOCATION:Room 319
+DTSTART:20250516T200000Z
+SUMMARY:[typing-summit] Introducing ty (Carl Meyer) and Pyrefly (Steven Troxler)
+UID:1926fb30-feb0-422a-bc4e-5ddc83a437d8@1926.org
 END:VEVENT
 END:VCALENDAR
