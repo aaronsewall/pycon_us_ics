@@ -64,6 +64,7 @@ jobs:
           python flaskcon.py || true
           python hometown_heroes.py || true
           python language_summit.py || true
+          python packaging_summit.py || true
           python maintainers_summit.py || true
           python typing_summit.py || true
       - run: |
