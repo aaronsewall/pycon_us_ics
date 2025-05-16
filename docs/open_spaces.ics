@@ -4,68 +4,12 @@ X-WR-CALNAME:PyCon 2025 Open Spaces
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:A space to meet other tabular (data analysts\, data scientists\, programmers) users.
-DTEND:20250516T190000Z
-LOCATION:Room 318
-DTSTART:20250516T180000Z
-SUMMARY:[open-spaces] All things tabular (Pandas\, Polars\, duckdb...)
-UID:e36b0393-f0bf-51c3-9fcf-db15dbef729d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Are you neurodivergent or questioning? Would you like to meet other friendly people at Pycon? You are welcome at the neurodivergent social space! It can be tough as a neurodivergent person to meet others at a large conference like Pycon\, and not everyone may understand neurodivergent ways of socializing--this is our space to build some relationships!\r\n\r\nIf you would like\, bring something that shows your personality or come willing to tell us what something about something you are interested in (personal or…
 DTEND:20250516T210000Z
 LOCATION:Room 316
 DTSTART:20250516T200000Z
 SUMMARY:[open-spaces] Neurodivergent Pythonista Social Space
 UID:92150ebe-0038-5588-9a41-013223dccb10
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:If you are building an MCP server or want to learn from others come join this open space!
-DTEND:20250517T190000Z
-LOCATION:Room 316
-DTSTART:20250517T180000Z
-SUMMARY:[open-spaces] All things MCP!
-UID:8ad553da-6668-5bda-94ec-7d99cf275496
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:t-strings are in Python 3.14 and they offer a chance for Python to build a broad ecosystem of implementations and interoperability. We have a chance for common tooling that dramatically increases developer experience.\r\n\r\nCome hang out\, talk about how we can invent this together:\r\n\r\n- HTML templating that taps into static analysis and type checking like TSX\, but is also interoperable with all the great systems already in place\r\n- What does tooling need in order to find the structure?\r\n- What should the stan…
-DTEND:20250517T154500Z
-LOCATION:Room 320
-DTSTART:20250517T150000Z
-SUMMARY:[open-spaces] t-strings: Let's build powerful templating together
-UID:2bda4d5e-9e80-5881-bf8b-56e30e56bb0d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Get ready for an engaging hour as we dive into all things data engineering.\r\n\r\n​Chat data engineering\, connect with peers and throw down some hot takes.\r\n\r\n​Don’t miss this great opportunity to learn\, network\, and unwind with the community!
-DTEND:20250516T200000Z
-LOCATION:Room 308
-DTSTART:20250516T190000Z
-SUMMARY:[open-spaces] Data Engineering Meetup: PyCon 2025
-UID:de87d576-170f-5f0b-9b5f-45f11f7c1630
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Have you or your team scaled a python-based service\, are interested in doing so\, or just curious? Let's talk tech stacks\, ideas\, and pitfalls! :)
-DTEND:20250516T210000Z
-LOCATION:Room 320
-DTSTART:20250516T200000Z
-SUMMARY:[open-spaces] Scaling Python: What's the secret sauce?
-UID:1b46dd2e-712f-56f6-b18b-b0b0a9bddef0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:An open questions session with Leonard Richardson\, the maintainer of screen-scraping library Beautiful Soup. If you've ever used or tried to use it\, share your questions\, confusions\, stuff you've made\, concerns\, ideas\, offers of help\, etc. with Leonard in person. If we don't have a ton of questions\, we might do some impromptu usability testing to check whether the new type hints help you use the library. Facilitated by Sumana Harihareswara.
-DTEND:20250518T190000Z
-LOCATION:Room 315
-DTSTART:20250518T180000Z
-SUMMARY:[open-spaces] Beautiful Soup: Ask Me Anything
-UID:b0e3251f-097c-50de-b01c-1db9759443f7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Do you identify as a "Nebraska" maintainer? Have you been thanklessly maintaining Open Source projects that large companies depend on? I want to hear your story! My name is Chad Whitacre\, Head of Open Source at Sentry and director of the Open Source Pledge. I recently launched a YouTube show called Open Path about Open Source sustainability and more. I want to include perspectives from maintainers in future episodes\, so we will be filming this session. Let's bring some attention to the Open Source sustaina…
-DTEND:20250517T180000Z
-LOCATION:Room 315
-DTSTART:20250517T170000Z
-SUMMARY:[open-spaces] "Nebraska" Maintainers Round-table
-UID:938adf1e-9101-57a4-ad39-dde6b911504d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:There are dozens of us! Come say hi\, talk about anything\, or just show up and listen. \r\n\r\nAnyone is welcome!
@@ -84,28 +28,12 @@ SUMMARY:[open-spaces] Gnu Radio/ Ham Radio
 UID:2be82b2e-2366-59c9-8d84-18ce3331a41b
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Do you have thoughts on how to make the Python community more inclusive\, diverse\, and equitable? The members of the Diversity and Inclusion Working Group of the Python Software Foundation would love to meet you. Please come join us for a discussion about the importance of D&I work in strengthening the global Python community.
-DTEND:20250517T190000Z
-LOCATION:Room 321
-DTSTART:20250517T180000Z
-SUMMARY:[open-spaces] Diversity and Inclusion Working Group
-UID:7abd2581-270a-5748-88ea-780bb8e1c347
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Excited by music and what you can do with Python in the creative process?\r\nJoin us and talk about Python and MIDI\, audio synthesis\, and other related topics and experiences that you wish to share.  There’s plenty of room for contributions in the Python space in these areas\, in addition to plenty of tools to help.
-DTEND:20250516T200000Z
-LOCATION:Room 320
-DTSTART:20250516T190000Z
-SUMMARY:[open-spaces] Pythonic Music 🎼 MIDI\, Synthesis and more
-UID:d3bb1ec0-42dd-568d-9151-e0cb4b8ad914
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Anyone curious about the world of speech to text /audio language models? Come share ideas\, problems and solutions!
-DTEND:20250517T150000Z
-LOCATION:Room 309
-DTSTART:20250517T140000Z
-SUMMARY:[open-spaces] 🗣️Speech To Text
-UID:4ad61e05-0079-545f-b3e0-ba1634093f16
+DESCRIPTION:Building and launching a product on your own?\r\nWorking at a small startup?\r\nCurious/Interested in any of the above?\r\n\r\nChat\, hang out\, network\, seek advice\, etc
+DTEND:20250517T160000Z
+LOCATION:Room 315
+DTSTART:20250517T150000Z
+SUMMARY:[open-spaces] Startups & Solopreneurs
+UID:da3217a4-0814-5068-b84f-cdfda5cb6119
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Are you a software engineer\, data engineer\, cybersecurity specialist\, cloud engineer\, or other employee in the first few years of your career? Are you someone with more years under their belt that wants to share what they've experienced and learned? \r\n\r\nPlease stop by with questions or comments for discussion related to career or personal development\, coding practices\, navigating new work environments\, and any other related topics.
@@ -116,124 +44,12 @@ SUMMARY:[open-spaces] Junior Engineer Advice Session
 UID:184e3e68-02b3-5431-bf65-6d12b20f37c0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:There are rumors that a mysterious sticker is making the rounds at PyCon. Some say it's just another piece of conference swag\, but if you stare at it long enough\, it appears to be hiding something.\r\n\r\nIf you are the kind who can't resist pulling on loose threads to see what unravels\, join us!\r\n\r\nWe have stickers!
-DTEND:20250516T180000Z
-LOCATION:Room 308
-DTSTART:20250516T170000Z
-SUMMARY:[open-spaces] Mysterious Sticker
-UID:146dafbd-a2bb-5c8f-ab5b-2e011d71e511
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Stuck on sprints? Story points getting you down? T-shirt sizes don't seem to fit your tasks? Come to this session to learn about a surprisingly simple new way to estimate effort that is actually useful\, and will radically transform how your team communicates.
-DTEND:20250517T160000Z
-LOCATION:Room 318
-DTSTART:20250517T150000Z
-SUMMARY:[open-spaces] Actually Usable Estimation with Quantified Tasks
-UID:438d639f-6a7b-53f1-ad9e-8044ffcbe676
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Like SQL and Python? Join us! \r\nLike DuckDB? Join us!\r\n\r\nHow do you combine SQL and Python? Let's learn from each other and share our SQL "war" stories.
-DTEND:20250517T200000Z
-LOCATION:Room 316
-DTSTART:20250517T190000Z
-SUMMARY:[open-spaces] DuckDB <3 Python
-UID:d9adc9ce-a51c-59c9-8abf-165cac518e46
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Come juggle with us! No experience necessary\, we will teach you. Or bring your awesome skillz. Bring props if you have them.  We will have beanbag balls to use.
-DTEND:20250517T210000Z
-LOCATION:West Atrium
-DTSTART:20250517T194500Z
-SUMMARY:[open-spaces] Juggling!
-UID:4b74e7f4-d132-5f1f-94b0-079a6947f51e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Come chat with the team building the new super-fast Astral type checker\, ty! Topics could include: ty's architecture and design goals\, your hopes and dreams for Python typing\, contributing to ty\, or whatever else is on your mind!
-DTEND:20250517T150000Z
-LOCATION:Room 316
-DTSTART:20250517T140000Z
-SUMMARY:[open-spaces] Astral’s type checker\, ty
-UID:31bd5c2b-d2c4-5e2b-aad3-fcf3ffd5c261
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:- Typing Survey for 2025: I’m hoping we can do this again over the summer. What questions would you like to see included in this year’s survey? How do we get more participation from non typing-enthusiasts.\r\n\r\n- Improving Ecosystem Types: We’ve made steady progress typing Pandas and Numpy. How do we get more community involvement? \r\n\r\n- Type Stubs Plan by PyCon 2026: A plan for a plan. At the 2026 Typing Summit\, can we have a plan to make the ecosystem of stubs more sustainable for maintainers and consisten…
 DTEND:20250517T200000Z
 LOCATION:Room 315
 DTSTART:20250517T190000Z
 SUMMARY:[open-spaces] Python Typing: Improving Types in the ecosystem\, 2025 typing survey and typing stubs
 UID:5b376455-9fdf-5a1e-a083-27b61b47ae72
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Deployment is one of the sticking points in learning (and using) Django. [django-simple-deploy](https://django-simple-deploy.readthedocs.io/en/latest/) solves this problem by automating deployment to a variety of hosting platforms. We keep up with each platform's docs\, so your deployment works the first time you try. If you'd like to learn more about the project\, offer feedback\, or start contributing\, please stop by!
-DTEND:20250518T160000Z
-LOCATION:Room 315
-DTSTART:20250518T150000Z
-SUMMARY:[open-spaces] Simplifying initial Django deployments
-UID:a01f671f-6da8-5e06-b706-3f5e8c838cb5
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Do you have any idea about what we can\, as a community\, promote Python to more people? Or are you interested in education in Python and would like to get more support? The members of the Education and Outreach Working Group of the Python Software Foundation would love to listen and collaborate with you. Please come join us!
-DTEND:20250516T170000Z
-LOCATION:Room 315
-DTSTART:20250516T160000Z
-SUMMARY:[open-spaces] Education and Outreach Working Group Open Space
-UID:71b0aa78-e3d0-5016-abb1-1e31d07f09b1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Come enjoy the beauty and the madness of the Eurovision Song Contest!
-DTEND:20250517T200000Z
-LOCATION:Room 321
-DTSTART:20250517T190000Z
-SUMMARY:[open-spaces] Songs for Europe
-UID:b18c68c5-2410-5d9a-b586-2c1c64547a82
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Come enjoy the beauty and the madness of the Eurovision Song Contest! All levels of appreciation welcome -- from first-time Eurovision-curious to serious year-long fans!
-DTEND:20250517T210000Z
-LOCATION:Room 308
-DTSTART:20250517T200000Z
-SUMMARY:[open-spaces] Songs for Europe
-UID:b18c68c5-2410-5d9a-b586-2c1c64547a82
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:An opportunity for software maintainers who are still supporting Python 2.x to talk with people who are still using Python 2.x. What do users need before we can migrate? What do maintainers need to know or get before we can fully deprecate 2.x support? What funding might be necessary to make these happen? A supportive and nonjudgmental discussion facilitated by Sumana Harihareswara.
-DTEND:20250518T160000Z
-LOCATION:Room 308
-DTSTART:20250518T150000Z
-SUMMARY:[open-spaces] Still on Python 2?
-UID:33285fb6-cdfb-5d3d-aee3-20ea9baf820d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Join this PyCon Open Space on GPU Python programming\, where we'll discuss how to leverage GPU acceleration in Python using CuPy\, Numba CUDA\, and RAPIDS to achieve faster results for compute-heavy tasks such as data science\, AI\, and scientific computing. This self-organized gathering offers a perfect opportunity to discuss real-world applications\, share experiences\, troubleshoot common challenges\, and learn how these powerful tools can help you implement custom algorithms that aren't easily described by com…
-DTEND:20250517T180000Z
-LOCATION:Room 316
-DTSTART:20250517T170000Z
-SUMMARY:[open-spaces] GPU Programming in Python
-UID:8a4a5336-784d-595e-98b8-d1bef1626d16
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Come have English tea and biscuits with Cheuk. Let's talk about Python\, community and PyCharm over an aromatic brew. Everyone is welcomed to my tea party.
-DTEND:20250516T210000Z
-LOCATION:Room 308
-DTSTART:20250516T200000Z
-SUMMARY:[open-spaces] Tea with Cheuk
-UID:dc90e4c7-b3a4-567c-89f9-89d9d72662f9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hey there\, my name is Cristián and I work at The Qt Company.\r\nI'd like for people using Qt via PySide or PyQt to gather and share their experience and feedback. Additionally\, I'd like to announce a new Qt and Python project that we are working on to hopefully make available later this year.
-DTEND:20250517T190000Z
-LOCATION:Room 309
-DTSTART:20250517T180000Z
-SUMMARY:[open-spaces] Let's talk about the Qt Framework
-UID:b0e039cc-0759-549f-af05-75360bda66d7
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Do you use CoPilot\, Cursor\, ChatGPT? Don’t use them but want to learn more?\r\n\r\nCome talk about different uses of LLMs\, share stories with others in a round table discussion. \r\n\r\nAll experiences welcome.
-DTEND:20250517T190000Z
-LOCATION:Room 315
-DTSTART:20250517T180000Z
-SUMMARY:[open-spaces] Coding with LLMs
-UID:70ce054b-3d7e-524a-9ae3-74478095dc11
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Let’s discuss how Python is being used in advocacy\, activism\, and social impact work. Whether you're working with data for policy change\, building tools for nonprofits\, or civic engagement\, join us to share projects\, tools\, and ideas.
@@ -244,36 +60,108 @@ SUMMARY:[open-spaces] Python for Advocacy\, Activism\, and Civics
 UID:64de3ba0-689a-5c82-970d-cae016b327c7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Connect with the authors of many of your favorite Python books. Come meet us\, ask questions\, and even get autographs.\r\n\r\nThis is also a great opportunity if you’ve ever thought about writing a Python book and want to learn more about the process.
-DTEND:20250517T194500Z
+DESCRIPTION:We'll meet up in room 315 and depart at 5:10pm to head to FA Climbing Station Square to boulder together. New and experienced boulderers welcome!
+DTEND:20250517T220000Z
+LOCATION:Room 315
+DTSTART:20250517T210000Z
+SUMMARY:[open-spaces] Climbing The Stack
+UID:cada514b-3453-5e50-80dd-37c8265046c2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Do you have or are interested in a career in aviation? Pilots\, fleet management\, weather\, maintenance\, engineering and simulation\, plane spotting\, or a big fan of going up and down. All are welcome.
+DTEND:20250517T190000Z
 LOCATION:Room 308
-DTSTART:20250517T181500Z
-SUMMARY:[open-spaces] Python Book Author Meet-and-Greet
-UID:2a769d2e-faa0-58ea-9905-a97afd26a97c
+DTSTART:20250517T180000Z
+SUMMARY:[open-spaces] Python in Aviation
+UID:31f4d046-ed73-5e6d-ad3f-eff169a609f9
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Come play board games! Bring a game to share or come learn a new one!
-DTEND:20250517T210000Z
+DESCRIPTION:This meetup is for people who build awesome websites with Python or people who want to learn more about building awesome websites with Python. We'll have Jeff Triplett from the Django community and Meagen Voss from the Wagtail community to will provide overviews on their web frameworks. And we'll leave plenty of time for questions and for everyone else to share their favorite web tools too.\r\n\r\nFind out how we can build a newer better\, Internet together with Python!
+DTEND:20250517T200000Z
 LOCATION:Room 318
-DTSTART:20250517T200000Z
-SUMMARY:[open-spaces] Board Games!!!
-UID:3ca36944-1960-54c0-84d7-bc65780d58b3
+DTSTART:20250517T190000Z
+SUMMARY:[open-spaces] Web Dev Tools with Django & Wagtail
+UID:196342cd-4326-5913-a160-e3c44a7bdfd0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The Pyrefly team will be available to answer questions about types in your code and packages your rely on. We can also help set up Pyrefly in your IDE and answer any questions you have about using the type checker.
+DESCRIPTION:A chance to share what's good (and bad) about using AI as part of a data science workfow
+DTEND:20250516T190000Z
+LOCATION:Room 308
+DTSTART:20250516T180000Z
+SUMMARY:[open-spaces] AI for data science
+UID:f333fd46-cea6-548b-9dc6-57560ff7bfc3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Do you write software for research? Then you might be a research software engineer.
+DTEND:20250517T140000Z
+LOCATION:Room 309
+DTSTART:20250517T130000Z
+SUMMARY:[open-spaces] Research Software Engineers meetup
+UID:2b24b75a-ea0c-515c-8ef9-3473c4675531
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Connect with fellow Comprehensive Knowledge Archive Network (CKAN) users\, contributors\, and newcomers for updates\, lightning talks\, and casual conversation. Whether you're deep into data or new to CKAN\, stop by to share ideas and help shape what’s next.\r\n\r\nCKAN Project Update - Ian Ward\r\nCKAN POSE Project Update - Jamaica Jones\r\nTexas Water Data Hub Overview - Ben Bright\r\nWestern PA Regional Data Center (WPRDC) Overview - David Walker\r\nAutomagical Metadata Inferencing from Raw Data - Joel Natividad\r\nOpen D…
+DTEND:20250517T220000Z
+LOCATION:Room 309
+DTSTART:20250517T200000Z
+SUMMARY:[open-spaces] CKAN Community
+UID:96ade699-a799-5e12-9df8-bd2f3bef1fce
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come share your tips and tricks for CTF problems. Don't know what CTF is? Come learn about these fun activities for learning and sharpening cyber security skills.
+DTEND:20250516T190000Z
+LOCATION:Room 309
+DTSTART:20250516T180000Z
+SUMMARY:[open-spaces] CTF tips & tricks
+UID:76e774b8-e5d7-5f5e-83f4-df4f3209d548
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Do you like outer space? And doing outer space things with Python? Like doing science\, processing data\, controlling spacecraft\, designing and running missions. So do we. Let's talk about doing outer space things with Python.
+DTEND:20250516T160000Z
+LOCATION:Room 316
+DTSTART:20250516T150000Z
+SUMMARY:[open-spaces] Outer Space Open Space
+UID:3d0e58f9-c107-5f0e-bf52-52f23191e82e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:An opportunity for software maintainers who are still supporting Python 2.x to talk with people who are still using Python 2.x. What do users need before we can migrate? What do maintainers need to know or get before we can fully deprecate 2.x support? What funding might be necessary to make these happen? A supportive and nonjudgmental discussion facilitated by Sumana Harihareswara.
+DTEND:20250518T160000Z
+LOCATION:Room 308
+DTSTART:20250518T150000Z
+SUMMARY:[open-spaces] Still on Python 2?
+UID:33285fb6-cdfb-5d3d-aee3-20ea9baf820d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:If you know\, you know.\r\nIf you don't know\, then drop in and practice team coding using a timer (https://mobti.me) to rotate through three roles: Navigator\, Driver\, and Next.
+DTEND:20250516T230000Z
+LOCATION:Room 309
+DTSTART:20250516T220000Z
+SUMMARY:[open-spaces] Ensemble (mob) programming
+UID:64ae53bf-1bb2-5762-acae-6df9ab512630
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:An open questions session with Leonard Richardson\, the maintainer of screen-scraping library Beautiful Soup. If you've ever used or tried to use it\, share your questions\, confusions\, stuff you've made\, concerns\, ideas\, offers of help\, etc. with Leonard in person. If we don't have a ton of questions\, we might do some impromptu usability testing to check whether the new type hints help you use the library. Facilitated by Sumana Harihareswara.
+DTEND:20250518T190000Z
+LOCATION:Room 315
+DTSTART:20250518T180000Z
+SUMMARY:[open-spaces] Beautiful Soup: Ask Me Anything
+UID:b0e3251f-097c-50de-b01c-1db9759443f7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come juggle with us! No experience necessary\, we will teach you. Or bring your awesome skillz. Bring props if you have them.  We will have beanbag balls to use.
 DTEND:20250517T210000Z
-LOCATION:Room 321
-DTSTART:20250517T200000Z
-SUMMARY:[open-spaces] Help using Python types and getting Pyrefly type checking working in your IDE
-UID:97c7340b-bec0-5fbb-92ec-bad8ae179e36
+LOCATION:West Atrium
+DTSTART:20250517T194500Z
+SUMMARY:[open-spaces] Juggling!
+UID:4b74e7f4-d132-5f1f-94b0-079a6947f51e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Meet at room 321\, then leave for the hike promptly at 4:05pm.\r\n\r\nWe'll hike part of the Three Rivers Heritage Trail starting at the convention center and returning to the convention center. We can either go to Point State Fountain Park or Mr. Rogers Memorial based on popular vote.\r\n\r\nRain probability is 15% at 4pm\, so odds are on our side 😀
-DTEND:20250516T210000Z
-LOCATION:Room 321
-DTSTART:20250516T200000Z
-SUMMARY:[open-spaces] Hike a bit of Three Rivers Heritage Trail
-UID:33394468-0220-5a5f-8bf4-4b3653a7c49d
+DESCRIPTION:Do you use CoPilot\, Cursor\, ChatGPT? Don’t use them but want to learn more?\r\n\r\nCome talk about different uses of LLMs\, share stories with others in a round table discussion. \r\n\r\nAll experiences welcome.
+DTEND:20250517T190000Z
+LOCATION:Room 315
+DTSTART:20250517T180000Z
+SUMMARY:[open-spaces] Coding with LLMs
+UID:70ce054b-3d7e-524a-9ae3-74478095dc11
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Open-space discussion about free-threaded Python (PEP 703)\, implementation details and migration support (https://py-free-threading.github.io/).
@@ -282,22 +170,6 @@ LOCATION:Room 315
 DTSTART:20250516T180000Z
 SUMMARY:[open-spaces] Free-threaded Python
 UID:85b1786f-d3b2-53db-b08b-6277a332a649
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Let's talk about the most replicatable database\, CouchDB
-DTEND:20250516T170000Z
-LOCATION:PSF Couch
-DTSTART:20250516T160000Z
-SUMMARY:[open-spaces] Chat about CouchDB
-UID:92ca7c88-4400-5469-8a75-43d8d6136675
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:We'll meet up in room 315 and depart at 5:10pm to head to FA Climbing Station Square to boulder together. New and experienced boulderers welcome!
-DTEND:20250517T220000Z
-LOCATION:Room 315
-DTSTART:20250517T210000Z
-SUMMARY:[open-spaces] Climbing The Stack
-UID:cada514b-3453-5e50-80dd-37c8265046c2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Are you a data scientist\, engineer\, or analyst using Python in your day-to-day work? This meetup is for you!\r\n\r\nJoin fellow practitioners for an hour of open conversation about the tools\, trends\, and challenges shaping enterprise data today. Bring your wins\, challenges\, and war stories: What are you building? What's keeping you up at night? What new tools or trends are you watching? Connect\, learn\, and exchange ideas with others navigating the ever-evolving Python data landscape!
@@ -316,6 +188,174 @@ SUMMARY:[open-spaces] Astral's package manager\, uv
 UID:0e829d4f-1dfe-5e25-8b01-5d45608576d1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:WheelNext is an open-source initiative (https://github.com/wheelnext & https://wheelnext.dev/) aiming to improve the user experience in the Python packaging ecosystem\, specifically around the scientific computing and machine/deep learning space. Come and help us design the future of Python Packaging
+DTEND:20250516T190000Z
+LOCATION:Room 316
+DTSTART:20250516T180000Z
+SUMMARY:[open-spaces] WheelNext - Let's re-invent the Wheel
+UID:1f393417-6bf3-5a06-a6d2-c3e2f5c6ec6f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Python in the physical world: manufacturing\, energy\, water\, robotics\, data centers\, telco\, buildings\, transportation\, logistics\, warehouses\, agriculture\, etc..
+DTEND:20250517T160000Z
+LOCATION:Room 309
+DTSTART:20250517T150000Z
+SUMMARY:[open-spaces] Physical World Python
+UID:0bbef8d5-e7df-5943-88a2-f701c73a8b7a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Do you love Python but are stuck using SQL? Have you discovered tips and tricks for data engineering in Python that you want to share? Are there aspects of data engineering where you haven't found a good Python-native solution?\r\n\r\nIf you said yes to any of those questions—or if you just want to hear what the community has to say—come discuss the future of Python-first data engineering. Data engineers\, data scientists\, and anybody else who works with data are welcome.
+DTEND:20250517T210000Z
+LOCATION:Room 315
+DTSTART:20250517T200000Z
+SUMMARY:[open-spaces] Data engineering in Python the right way
+UID:800e06f3-b3ec-57ff-8eb6-9ad788082fb4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Clouds are bad. ☁️🙁\r\nSun is good. ☀️😀\r\n\r\nAre you running python on premises: self hosted servers\, private data center\, in a broom closet\, etc.? Meet with others to discuss the how and why of operating outside the major cloud providers
+DTEND:20250516T170000Z
+LOCATION:Room 308
+DTSTART:20250516T160000Z
+SUMMARY:[open-spaces] On Premise Python
+UID:38ce42cc-8946-52ac-80b8-5b5d565f27e1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teaching\, explaining\, tutoring\, or mentoring? Let’s meet up and share all the tricks\, tips\, and tools we’ve learned. What worked? What didn’t? I want to know your secrets!
+DTEND:20250516T180000Z
+LOCATION:Room 316
+DTSTART:20250516T170000Z
+SUMMARY:[open-spaces] Educators: Share Your Secrets
+UID:d126bc30-2d3d-5b25-9968-7257f9851425
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Do you use python for scientific research studies? \r\n\r\nI am a biomedical research engineer at the University of Pittsburgh and use python for building systems to run experiments for neurotechnology clinical trials (including brain-computer interface research). This is an open discussion and meetup for fellow researchers\, scientists and engineers in academia. Stop by to talk about code\, science\, Pittsburgh\, or just wish me a happy birthday!
+DTEND:20250516T200000Z
+LOCATION:Room 309
+DTSTART:20250516T190000Z
+SUMMARY:[open-spaces] Python for Science & Research
+UID:9f0456ce-6a21-5065-b7de-f0633eb92f99
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Are you building\, or interested in building AWS architecture using CDK? \r\n\r\nCome share your thoughts\, troubles\, tricks and triumphs! \r\n\r\nLet’s discuss how to\, or how not to\, be pythonic about building with CDK.
+DTEND:20250517T210000Z
+LOCATION:Room 318
+DTSTART:20250517T200000Z
+SUMMARY:[open-spaces] Architecting in AWS Python+CDK. ☁️➕🐍
+UID:18e02935-7bb3-5277-b0d6-ffe4782bd550
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lets discuss the latest trends in 3D Reconstruction\, Computer Vision\, SFM\, SLAM\, etc and how we leverage Python.
+DTEND:20250517T210000Z
+LOCATION:Room 320
+DTSTART:20250517T200000Z
+SUMMARY:[open-spaces] 3D and Computer Vision Meet
+UID:61d1e5bd-a5f3-59ca-93f1-04edb108900a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Love fantasy sports? Obsessed with stats? Come join the Fantasy Sports Analytics Open Space!\r\n\r\nWhether you're a fantasy sports veteran\, a Python data junkie\, or just curious about how data and analytics power modern fantasy leagues\, this is your spot. We'll chat about drafting strategies\, predictive modeling\, player projections\, win probability tools\, platforms with (private) APIs and good data sets\, leveraging betting lines and how to turn your Python skills into fantasy sport victories.\r\n\r\nBring your qu…
+DTEND:20250516T160000Z
+LOCATION:Room 308
+DTSTART:20250516T150000Z
+SUMMARY:[open-spaces] Fantasy Sports Analytics Meetup
+UID:373821c7-94f9-5a52-985e-4abd7b926701
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hey there\, my name is Cristián and I work at The Qt Company.\r\nI'd like for people using Qt via PySide or PyQt to gather and share their experience and feedback. Additionally\, I'd like to announce a new Qt and Python project that we are working on to hopefully make available later this year.
+DTEND:20250517T190000Z
+LOCATION:Room 309
+DTSTART:20250517T180000Z
+SUMMARY:[open-spaces] Let's talk about the Qt Framework
+UID:b0e039cc-0759-549f-af05-75360bda66d7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Let's chat about using Nix with Python! Reproducible Python dev envs\, building packages with nix\, any cool projects or challenges\, or if you're just interested in learning more!
+DTEND:20250517T190000Z
+LOCATION:Room 318
+DTSTART:20250517T180000Z
+SUMMARY:[open-spaces] NixOS + Python = ♥️
+UID:4878dd2a-f1f8-5398-b5d2-626ce9c00475
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:t-strings are in Python 3.14 and they offer a chance for Python to build a broad ecosystem of implementations and interoperability. We have a chance for common tooling that dramatically increases developer experience.\r\n\r\nCome hang out\, talk about how we can invent this together:\r\n\r\n- HTML templating that taps into static analysis and type checking like TSX\, but is also interoperable with all the great systems already in place\r\n- What does tooling need in order to find the structure?\r\n- What should the stan…
+DTEND:20250517T154500Z
+LOCATION:Room 320
+DTSTART:20250517T150000Z
+SUMMARY:[open-spaces] t-strings: Let's build powerful templating together
+UID:2bda4d5e-9e80-5881-bf8b-56e30e56bb0d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Do you identify as a "Nebraska" maintainer? Have you been thanklessly maintaining Open Source projects that large companies depend on? I want to hear your story! My name is Chad Whitacre\, Head of Open Source at Sentry and director of the Open Source Pledge. I recently launched a YouTube show called Open Path about Open Source sustainability and more. I want to include perspectives from maintainers in future episodes\, so we will be filming this session. Let's bring some attention to the Open Source sustaina…
+DTEND:20250517T180000Z
+LOCATION:Room 315
+DTSTART:20250517T170000Z
+SUMMARY:[open-spaces] "Nebraska" Maintainers Round-table
+UID:938adf1e-9101-57a4-ad39-dde6b911504d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Do you have thoughts on how to make the Python community more inclusive\, diverse\, and equitable? The members of the Diversity and Inclusion Working Group of the Python Software Foundation would love to meet you. Please come join us for a discussion about the importance of D&I work in strengthening the global Python community.
+DTEND:20250517T190000Z
+LOCATION:Room 321
+DTSTART:20250517T180000Z
+SUMMARY:[open-spaces] Diversity and Inclusion Working Group
+UID:7abd2581-270a-5748-88ea-780bb8e1c347
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Anyone curious about the world of speech to text /audio language models? Come share ideas\, problems and solutions!
+DTEND:20250517T150000Z
+LOCATION:Room 309
+DTSTART:20250517T140000Z
+SUMMARY:[open-spaces] 🗣️Speech To Text
+UID:4ad61e05-0079-545f-b3e0-ba1634093f16
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Stuck on sprints? Story points getting you down? T-shirt sizes don't seem to fit your tasks? Come to this session to learn about a surprisingly simple new way to estimate effort that is actually useful\, and will radically transform how your team communicates.
+DTEND:20250517T160000Z
+LOCATION:Room 318
+DTSTART:20250517T150000Z
+SUMMARY:[open-spaces] Actually Usable Estimation with Quantified Tasks
+UID:438d639f-6a7b-53f1-ad9e-8044ffcbe676
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Like SQL and Python? Join us! \r\nLike DuckDB? Join us!\r\n\r\nHow do you combine SQL and Python? Let's learn from each other and share our SQL "war" stories.
+DTEND:20250517T200000Z
+LOCATION:Room 316
+DTSTART:20250517T190000Z
+SUMMARY:[open-spaces] DuckDB <3 Python
+UID:d9adc9ce-a51c-59c9-8abf-165cac518e46
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Do you have any idea about what we can\, as a community\, promote Python to more people? Or are you interested in education in Python and would like to get more support? The members of the Education and Outreach Working Group of the Python Software Foundation would love to listen and collaborate with you. Please come join us!
+DTEND:20250516T170000Z
+LOCATION:Room 315
+DTSTART:20250516T160000Z
+SUMMARY:[open-spaces] Education and Outreach Working Group Open Space
+UID:71b0aa78-e3d0-5016-abb1-1e31d07f09b1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come have English tea and biscuits with Cheuk. Let's talk about Python\, community and PyCharm over an aromatic brew. Everyone is welcomed to my tea party.
+DTEND:20250516T210000Z
+LOCATION:Room 308
+DTSTART:20250516T200000Z
+SUMMARY:[open-spaces] Tea with Cheuk
+UID:dc90e4c7-b3a4-567c-89f9-89d9d72662f9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Pyrefly team will be available to answer questions about types in your code and packages your rely on. We can also help set up Pyrefly in your IDE and answer any questions you have about using the type checker.
+DTEND:20250517T210000Z
+LOCATION:Room 321
+DTSTART:20250517T200000Z
+SUMMARY:[open-spaces] Help using Python types and getting Pyrefly type checking working in your IDE
+UID:97c7340b-bec0-5fbb-92ec-bad8ae179e36
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Meet at room 321\, then leave for the hike promptly at 4:05pm.\r\n\r\nWe'll hike part of the Three Rivers Heritage Trail starting at the convention center and returning to the convention center. We can either go to Point State Fountain Park or Mr. Rogers Memorial based on popular vote.\r\n\r\nRain probability is 15% at 4pm\, so odds are on our side 😀
+DTEND:20250516T210000Z
+LOCATION:Room 321
+DTSTART:20250516T200000Z
+SUMMARY:[open-spaces] Hike a bit of Three Rivers Heritage Trail
+UID:33394468-0220-5a5f-8bf4-4b3653a7c49d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Easy run/walk down to Point State Park (where the three rivers meet) and back.\r\n\r\nI (Matt Harrison) will be outside the conference center at 6:55 am and leave at 7. Join me if you are interested.
 DTEND:20250517T120000Z
 LOCATION:Meet at entrance to conference center (outside doors)
@@ -332,84 +372,12 @@ SUMMARY:[open-spaces] Testing and Fuzzing with Hypothesis!
 UID:35127111-7f0c-5b96-b499-3a304630d460
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Curious about functional programming in Python? Come hang out at the Functional Programming Open Space!\r\n\r\nWhether you're an FP enthusiast\, a Pythonista wanting to write cleaner\, more expressive code\, or just someone wondering what the fuss is about map\, filter\, and reduce\, this session’s for you.\r\n\r\nWe’ll talk about immutability\, pure functions\, higher-order functions\, recursion\, functional libraries\, and how to sneak in FP habits at work. No prior experience necessary — bring your questions\, favorite FP …
-DTEND:20250517T140000Z
-LOCATION:Room 308
-DTSTART:20250517T130000Z
-SUMMARY:[open-spaces] Functional Programming Open Space
-UID:0e339a2c-cea0-55f8-aca8-3bb0eecb5294
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:WheelNext is an open-source initiative (https://github.com/wheelnext & https://wheelnext.dev/) aiming to improve the user experience in the Python packaging ecosystem\, specifically around the scientific computing and machine/deep learning space. Come and help us design the future of Python Packaging
-DTEND:20250516T190000Z
-LOCATION:Room 316
-DTSTART:20250516T180000Z
-SUMMARY:[open-spaces] WheelNext - Let's re-invent the Wheel
-UID:1f393417-6bf3-5a06-a6d2-c3e2f5c6ec6f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Do you have or are interested in a career in aviation? Pilots\, fleet management\, weather\, maintenance\, engineering and simulation\, plane spotting\, or a big fan of going up and down. All are welcome.
-DTEND:20250517T190000Z
-LOCATION:Room 308
-DTSTART:20250517T180000Z
-SUMMARY:[open-spaces] Python in Aviation
-UID:31f4d046-ed73-5e6d-ad3f-eff169a609f9
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The PSF & Meetups Discussion is organized by the PSF board. We’re looking to make this year’s PyCon US session into a jumping off point for a global conversation that we hope to see happen regularly in lots of places around the world – as well as online. If you’ve got ideas or want to be involved in this conversation\, please email community-organizing@pyfound.org
-DTEND:20250518T180000Z
-LOCATION:Room 310/311
-DTSTART:20250518T170000Z
-SUMMARY:[open-spaces] PSF & Meetups Discussion
-UID:171711db-b144-5dba-a7f3-016dd6b104a6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This meetup is for people who build awesome websites with Python or people who want to learn more about building awesome websites with Python. We'll have Jeff Triplett from the Django community and Meagen Voss from the Wagtail community to will provide overviews on their web frameworks. And we'll leave plenty of time for questions and for everyone else to share their favorite web tools too.\r\n\r\nFind out how we can build a newer better\, Internet together with Python!
-DTEND:20250517T200000Z
-LOCATION:Room 318
-DTSTART:20250517T190000Z
-SUMMARY:[open-spaces] Web Dev Tools with Django & Wagtail
-UID:196342cd-4326-5913-a160-e3c44a7bdfd0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Python in the physical world: manufacturing\, energy\, water\, robotics\, data centers\, telco\, buildings\, transportation\, logistics\, warehouses\, agriculture\, etc..
-DTEND:20250517T160000Z
-LOCATION:Room 309
-DTSTART:20250517T150000Z
-SUMMARY:[open-spaces] Physical World Python
-UID:0bbef8d5-e7df-5943-88a2-f701c73a8b7a
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Come learn what’s new and upcoming for supply chain security in the Python ecosystem. This open space will be relevant to both maintainers and users. A mix of longer presentations\, lightning talks and open discussion will include overviews of new best practices and plans for the future.\r\n\r\nSign up for lightning talks here:\r\n\r\nhttps://forms.gle/B3HanjcJHvC5ToFh6
 DTEND:20250517T163000Z
 LOCATION:Room 321
 DTSTART:20250517T143000Z
 SUMMARY:[open-spaces] Supply-Chain Security
 UID:e9b1b500-786f-5300-b472-aabb3f9bf7b3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Do you love Python but are stuck using SQL? Have you discovered tips and tricks for data engineering in Python that you want to share? Are there aspects of data engineering where you haven't found a good Python-native solution?\r\n\r\nIf you said yes to any of those questions—or if you just want to hear what the community has to say—come discuss the future of Python-first data engineering. Data engineers\, data scientists\, and anybody else who works with data are welcome.
-DTEND:20250517T210000Z
-LOCATION:Room 315
-DTSTART:20250517T200000Z
-SUMMARY:[open-spaces] Data engineering in Python the right way
-UID:800e06f3-b3ec-57ff-8eb6-9ad788082fb4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Open forum for discussing popular libraries and approaches for exposing C++ code to Python.\r\nLet's share challenges\, find out what's worked for others and brainstorm what would help us go further.
-DTEND:20250516T210000Z
-LOCATION:Room 318
-DTSTART:20250516T200000Z
-SUMMARY:[open-spaces] nanobind\, pybind11 and other C++ binding libraries
-UID:95a17004-8ec7-5cc1-b9b7-1c3cbed5feb4
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Clouds are bad. ☁️🙁\r\nSun is good. ☀️😀\r\n\r\nAre you running python on premises: self hosted servers\, private data center\, in a broom closet\, etc.? Meet with others to discuss the how and why of operating outside the major cloud providers
-DTEND:20250516T170000Z
-LOCATION:Room 308
-DTSTART:20250516T160000Z
-SUMMARY:[open-spaces] On Premise Python
-UID:38ce42cc-8946-52ac-80b8-5b5d565f27e1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:CUDA Python and beyond\, let's talk about the way you're using Python and magic math boxes together. \r\n\r\nYou'll likely find the talks leading up to this open space in Ballroom BC starting at 10:30 a.m. of interest:\r\n\r\n10:30 - Scale Smarter\, Not Harder\, with cuPyNumeric.\r\n\r\n11:15 - When GPUs Make Python Slower: Patterns and Pitfalls\r\n\r\n12:00 - GPU Programming in Pure Python
@@ -428,22 +396,6 @@ SUMMARY:[open-spaces] Current & Displaced Federal Data Professionals Open Space
 UID:4eba28ff-b511-5456-984e-9260943c9470
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:A chance to share what's good (and bad) about using AI as part of a data science workfow
-DTEND:20250516T190000Z
-LOCATION:Room 308
-DTSTART:20250516T180000Z
-SUMMARY:[open-spaces] AI for data science
-UID:f333fd46-cea6-548b-9dc6-57560ff7bfc3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Teaching\, explaining\, tutoring\, or mentoring? Let’s meet up and share all the tricks\, tips\, and tools we’ve learned. What worked? What didn’t? I want to know your secrets!
-DTEND:20250516T180000Z
-LOCATION:Room 316
-DTSTART:20250516T170000Z
-SUMMARY:[open-spaces] Educators: Share Your Secrets
-UID:d126bc30-2d3d-5b25-9968-7257f9851425
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Join Kelly and Sean from the Teaching Python podcast for a live recording of the show! We want this to be an interactive session with YOU. Come share your experiences with AI in your classroom\, teaching\, or education content.\r\n\r\nYou are welcome to join to observe\, participate\, or stage a -hostile- gentle takeover of our post-production processes. :)
 DTEND:20250516T210000Z
 LOCATION:Room 309
@@ -460,52 +412,12 @@ SUMMARY:[open-spaces] Rust in Python Open Space
 UID:afc1ad79-b3ff-522c-993c-b6502664da33
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Connect with fellow Comprehensive Knowledge Archive Network (CKAN) users\, contributors\, and newcomers for updates\, lightning talks\, and casual conversation. Whether you're deep into data or new to CKAN\, stop by to share ideas and help shape what’s next.\r\n\r\nCKAN Project Update - Ian Ward\r\nCKAN POSE Project Update - Jamaica Jones\r\nTexas Water Data Hub Overview - Ben Bright\r\nWestern PA Regional Data Center (WPRDC) Overview - David Walker\r\nAutomagical Metadata Inferencing from Raw Data - Joel Natividad\r\nOpen D…
-DTEND:20250517T220000Z
-LOCATION:Room 309
-DTSTART:20250517T200000Z
-SUMMARY:[open-spaces] CKAN Community
-UID:96ade699-a799-5e12-9df8-bd2f3bef1fce
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:The initial Python learning experience for folks who are entirely new to programming can be a rough experience. The official Python tutorial is written for programmers who are new to Python\, not new programmers. There are a number of tools available that can help with this\, but there's no definitive officially supported workflow to address this issue. I want to encourage the conversation about what we can do to improve this process. I want to know what beginners are successfully using to learn\, and what ed…
 DTEND:20250516T160000Z
 LOCATION:Room 309
 DTSTART:20250516T150000Z
 SUMMARY:[open-spaces] Making Python Better for New Programmers
 UID:e9f64d36-fc54-5e7e-8d4f-7de98916770c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:When you think ORM\, do you feel like 😩 or 😆?\r\n\r\nIf you're on either side (or in between) come and chat about your ORM experience. Also\, we'll talk about a way to stop re-implementing similar database operations each time you start a new project.
-DTEND:20250517T210000Z
-LOCATION:Room 316
-DTSTART:20250517T200000Z
-SUMMARY:[open-spaces] ORM OMG!
-UID:b4a03490-b966-5803-8978-5c755fc1f914
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Do you use python for scientific research studies? \r\n\r\nI am a biomedical research engineer at the University of Pittsburgh and use python for building systems to run experiments for neurotechnology clinical trials (including brain-computer interface research). This is an open discussion and meetup for fellow researchers\, scientists and engineers in academia. Stop by to talk about code\, science\, Pittsburgh\, or just wish me a happy birthday!
-DTEND:20250516T200000Z
-LOCATION:Room 309
-DTSTART:20250516T190000Z
-SUMMARY:[open-spaces] Python for Science & Research
-UID:9f0456ce-6a21-5065-b7de-f0633eb92f99
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:HI PYCON I'M TIMMY! I'm confused\, is this anthrocon? Where's all the fursuits?\r\n\r\nFurry or curious? Just bored but not ready to go bar hopping or to your hotel? Wondering if it's okay to fursuit to your company Halloween party? Maybe discuss your experiences with overlapping furry hobbies and professional spheres. Network with other furries in the Python community.\r\n\r\nIntentionally scheduled soon before the bowling furmeet Saturday at 7pm at AMF Mt Lebanon lanes :3\r\n\r\nI'll have a bag of candy bars to hand …
-DTEND:20250517T220000Z
-LOCATION:Room 308
-DTSTART:20250517T210000Z
-SUMMARY:[open-spaces] IT mullet: Business in the front\, fursuit tail in the back
-UID:1f100852-9448-5c9e-a370-20f51df25baa
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Are you building\, or interested in building AWS architecture using CDK? \r\n\r\nCome share your thoughts\, troubles\, tricks and triumphs! \r\n\r\nLet’s discuss how to\, or how not to\, be pythonic about building with CDK.
-DTEND:20250517T210000Z
-LOCATION:Room 318
-DTSTART:20250517T200000Z
-SUMMARY:[open-spaces] Architecting in AWS Python+CDK. ☁️➕🐍
-UID:18e02935-7bb3-5277-b0d6-ffe4782bd550
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:RobotPy is a volunteer project that maintains Python libraries that high school students can use to control their robots in the FIRST Robotics Competition (and FIRST Tech Challenge starting in 2027).\r\n\r\nThis turns out to be a lot of work and encompasses a lot of different skillsets: pybind11/nanobind\, native packaging and cross-compilation\, pytest customization\, translating from Java/C++ to Python\, github actions\, documentation\, vscode extension development\, maybe asyncio/NoGIL\, and more.\r\n\r\nDo you work wi…
@@ -516,14 +428,6 @@ SUMMARY:[open-spaces] RobotPy: Python for the FIRST Robotics Competition
 UID:f6c890ec-d436-5866-b07f-c5bc408827f0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:How are you predicting and modeling with the crown jewels (CSV or excel)?\r\n\r\nCome meet other users.
-DTEND:20250516T200000Z
-LOCATION:Room 318
-DTSTART:20250516T190000Z
-SUMMARY:[open-spaces] Tabular ML (sklearn\, xgboost\, catboost\, & friends)
-UID:b5d5f1cf-696a-5548-9054-ea7db2d234e9
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:This open space is for those that are interested in electronics and organizing your electronics collection\, come join an open space.  I will demo my working prototype\, ic_ocr_cataloger and talk about my challenges.  Bring your stories\, experience\, and own interests to contribute to the conversation.
 DTEND:20250517T210000Z
 LOCATION:Room 309
@@ -532,28 +436,172 @@ SUMMARY:[open-spaces] Python\, Electronics\, datasheets\, and component OCR
 UID:30e850ec-48c3-5f0a-9113-4fbbdba8a799
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Come share your tips and tricks for CTF problems. Don't know what CTF is? Come learn about these fun activities for learning and sharpening cyber security skills.
+DESCRIPTION:A space to meet other tabular (data analysts\, data scientists\, programmers) users.
 DTEND:20250516T190000Z
-LOCATION:Room 309
+LOCATION:Room 318
 DTSTART:20250516T180000Z
-SUMMARY:[open-spaces] CTF tips & tricks
-UID:76e774b8-e5d7-5f5e-83f4-df4f3209d548
+SUMMARY:[open-spaces] All things tabular (Pandas\, Polars\, duckdb...)
+UID:e36b0393-f0bf-51c3-9fcf-db15dbef729d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Lets discuss the latest trends in 3D Reconstruction\, Computer Vision\, SFM\, SLAM\, etc and how we leverage Python.
-DTEND:20250517T210000Z
-LOCATION:Room 320
-DTSTART:20250517T200000Z
-SUMMARY:[open-spaces] 3D and Computer Vision Meet
-UID:61d1e5bd-a5f3-59ca-93f1-04edb108900a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Do you like outer space? And doing outer space things with Python? Like doing science\, processing data\, controlling spacecraft\, designing and running missions. So do we. Let's talk about doing outer space things with Python.
-DTEND:20250516T160000Z
+DESCRIPTION:If you are building an MCP server or want to learn from others come join this open space!
+DTEND:20250517T190000Z
 LOCATION:Room 316
-DTSTART:20250516T150000Z
-SUMMARY:[open-spaces] Outer Space Open Space
-UID:3d0e58f9-c107-5f0e-bf52-52f23191e82e
+DTSTART:20250517T180000Z
+SUMMARY:[open-spaces] All things MCP!
+UID:8ad553da-6668-5bda-94ec-7d99cf275496
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Get ready for an engaging hour as we dive into all things data engineering.\r\n\r\n​Chat data engineering\, connect with peers and throw down some hot takes.\r\n\r\n​Don’t miss this great opportunity to learn\, network\, and unwind with the community!
+DTEND:20250516T200000Z
+LOCATION:Room 308
+DTSTART:20250516T190000Z
+SUMMARY:[open-spaces] Data Engineering Meetup: PyCon 2025
+UID:de87d576-170f-5f0b-9b5f-45f11f7c1630
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Have you or your team scaled a python-based service\, are interested in doing so\, or just curious? Let's talk tech stacks\, ideas\, and pitfalls! :)
+DTEND:20250516T210000Z
+LOCATION:Room 320
+DTSTART:20250516T200000Z
+SUMMARY:[open-spaces] Scaling Python: What's the secret sauce?
+UID:1b46dd2e-712f-56f6-b18b-b0b0a9bddef0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Excited by music and what you can do with Python in the creative process?\r\nJoin us and talk about Python and MIDI\, audio synthesis\, and other related topics and experiences that you wish to share.  There’s plenty of room for contributions in the Python space in these areas\, in addition to plenty of tools to help.
+DTEND:20250516T200000Z
+LOCATION:Room 320
+DTSTART:20250516T190000Z
+SUMMARY:[open-spaces] Pythonic Music 🎼 MIDI\, Synthesis and more
+UID:d3bb1ec0-42dd-568d-9151-e0cb4b8ad914
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:There are rumors that a mysterious sticker is making the rounds at PyCon. Some say it's just another piece of conference swag\, but if you stare at it long enough\, it appears to be hiding something.\r\n\r\nIf you are the kind who can't resist pulling on loose threads to see what unravels\, join us!\r\n\r\nWe have stickers!
+DTEND:20250516T180000Z
+LOCATION:Room 308
+DTSTART:20250516T170000Z
+SUMMARY:[open-spaces] Mysterious Sticker
+UID:146dafbd-a2bb-5c8f-ab5b-2e011d71e511
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Deployment is one of the sticking points in learning (and using) Django. [django-simple-deploy](https://django-simple-deploy.readthedocs.io/en/latest/) solves this problem by automating deployment to a variety of hosting platforms. We keep up with each platform's docs\, so your deployment works the first time you try. If you'd like to learn more about the project\, offer feedback\, or start contributing\, please stop by!
+DTEND:20250518T160000Z
+LOCATION:Room 315
+DTSTART:20250518T150000Z
+SUMMARY:[open-spaces] Simplifying initial Django deployments
+UID:a01f671f-6da8-5e06-b706-3f5e8c838cb5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Python language implementations and tooling (interpreters\, compilers\, typecheckers\, linters\, codemods\, etc) are intimately tied to the details of the language\, and often to the internals of CPython. This leads to a large amount of work every time a new python version comes out\, to reflect the changes in the language.\r\n\r\nThis is a space for developers of these projects to compare notes\, and discuss ways in which some of this work can be developed more collaboratively. People interested in the space are welc…
+DTEND:20250517T160000Z
+LOCATION:Room 321
+DTSTART:20250517T150000Z
+SUMMARY:[open-spaces] Keeping Up With CPython: Alternative implementations and language tools
+UID:00b8978f-9854-5c1c-8507-e15ddb28175d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come chat with the team building the new super-fast Astral type checker\, ty! Topics could include: ty's architecture and design goals\, your hopes and dreams for Python typing\, contributing to ty\, or whatever else is on your mind!
+DTEND:20250517T150000Z
+LOCATION:Room 316
+DTSTART:20250517T140000Z
+SUMMARY:[open-spaces] Astral’s type checker\, ty
+UID:31bd5c2b-d2c4-5e2b-aad3-fcf3ffd5c261
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come enjoy the beauty and the madness of the Eurovision Song Contest!
+DTEND:20250517T200000Z
+LOCATION:Room 321
+DTSTART:20250517T190000Z
+SUMMARY:[open-spaces] Songs for Europe
+UID:b18c68c5-2410-5d9a-b586-2c1c64547a82
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come enjoy the beauty and the madness of the Eurovision Song Contest! All levels of appreciation welcome -- from first-time Eurovision-curious to serious year-long fans!
+DTEND:20250517T210000Z
+LOCATION:Room 308
+DTSTART:20250517T200000Z
+SUMMARY:[open-spaces] Songs for Europe
+UID:b18c68c5-2410-5d9a-b586-2c1c64547a82
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join this PyCon Open Space on GPU Python programming\, where we'll discuss how to leverage GPU acceleration in Python using CuPy\, Numba CUDA\, and RAPIDS to achieve faster results for compute-heavy tasks such as data science\, AI\, and scientific computing. This self-organized gathering offers a perfect opportunity to discuss real-world applications\, share experiences\, troubleshoot common challenges\, and learn how these powerful tools can help you implement custom algorithms that aren't easily described by com…
+DTEND:20250517T180000Z
+LOCATION:Room 316
+DTSTART:20250517T170000Z
+SUMMARY:[open-spaces] GPU Programming in Python
+UID:8a4a5336-784d-595e-98b8-d1bef1626d16
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Connect with the authors of many of your favorite Python books. Come meet us\, ask questions\, and even get autographs.\r\n\r\nThis is also a great opportunity if you’ve ever thought about writing a Python book and want to learn more about the process.
+DTEND:20250517T194500Z
+LOCATION:Room 308
+DTSTART:20250517T181500Z
+SUMMARY:[open-spaces] Python Book Author Meet-and-Greet
+UID:2a769d2e-faa0-58ea-9905-a97afd26a97c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Let's talk about the most replicatable database\, CouchDB
+DTEND:20250516T170000Z
+LOCATION:PSF Couch
+DTSTART:20250516T160000Z
+SUMMARY:[open-spaces] Chat about CouchDB
+UID:92ca7c88-4400-5469-8a75-43d8d6136675
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Curious about functional programming in Python? Come hang out at the Functional Programming Open Space!\r\n\r\nWhether you're an FP enthusiast\, a Pythonista wanting to write cleaner\, more expressive code\, or just someone wondering what the fuss is about map\, filter\, and reduce\, this session’s for you.\r\n\r\nWe’ll talk about immutability\, pure functions\, higher-order functions\, recursion\, functional libraries\, and how to sneak in FP habits at work. No prior experience necessary — bring your questions\, favorite FP …
+DTEND:20250517T140000Z
+LOCATION:Room 308
+DTSTART:20250517T130000Z
+SUMMARY:[open-spaces] Functional Programming Open Space
+UID:0e339a2c-cea0-55f8-aca8-3bb0eecb5294
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The PSF & Meetups Discussion is organized by the PSF board. We’re looking to make this year’s PyCon US session into a jumping off point for a global conversation that we hope to see happen regularly in lots of places around the world – as well as online. If you’ve got ideas or want to be involved in this conversation\, please email community-organizing@pyfound.org
+DTEND:20250518T180000Z
+LOCATION:Room 310/311
+DTSTART:20250518T170000Z
+SUMMARY:[open-spaces] PSF & Meetups Discussion
+UID:171711db-b144-5dba-a7f3-016dd6b104a6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Open forum for discussing popular libraries and approaches for exposing C++ code to Python.\r\nLet's share challenges\, find out what's worked for others and brainstorm what would help us go further.
+DTEND:20250516T210000Z
+LOCATION:Room 318
+DTSTART:20250516T200000Z
+SUMMARY:[open-spaces] nanobind\, pybind11 and other C++ binding libraries
+UID:95a17004-8ec7-5cc1-b9b7-1c3cbed5feb4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pandas has been the erstwhile go-to default for data professionals but with new packages like polars\, ibis etc. there are great new options. Come debate what are the pros/cons of each and where the community is headed
+DTEND:20250517T180000Z
+LOCATION:Room 321
+DTSTART:20250517T170000Z
+SUMMARY:[open-spaces] Which Data Package? pandas\, polars\, ibis\, duckdb ?
+UID:2fedb5c9-e27e-5e66-87a5-6927e3eedf31
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:HI PYCON I'M TIMMY! I'm confused\, is this anthrocon? Where's all the fursuits?\r\n\r\nFurry or curious? Just bored but not ready to go bar hopping or to your hotel? Wondering if it's okay to fursuit to your company Halloween party? Maybe discuss your experiences with overlapping furry hobbies and professional spheres. Network with other furries in the Python community.\r\n\r\nIntentionally scheduled soon before the bowling furmeet Saturday at 7pm at AMF Mt Lebanon lanes :3\r\n\r\nI'll have a bag of candy bars to hand …
+DTEND:20250517T220000Z
+LOCATION:Room 308
+DTSTART:20250517T210000Z
+SUMMARY:[open-spaces] IT mullet: Business in the front\, fursuit tail in the back
+UID:1f100852-9448-5c9e-a370-20f51df25baa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:When you think ORM\, do you feel like 😩 or 😆?\r\n\r\nIf you're on either side (or in between) come and chat about your ORM experience. Also\, we'll talk about a way to stop re-implementing similar database operations each time you start a new project.
+DTEND:20250517T210000Z
+LOCATION:Room 316
+DTSTART:20250517T200000Z
+SUMMARY:[open-spaces] ORM OMG!
+UID:b4a03490-b966-5803-8978-5c755fc1f914
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:How are you predicting and modeling with the crown jewels (CSV or excel)?\r\n\r\nCome meet other users.
+DTEND:20250516T200000Z
+LOCATION:Room 318
+DTSTART:20250516T190000Z
+SUMMARY:[open-spaces] Tabular ML (sklearn\, xgboost\, catboost\, & friends)
+UID:b5d5f1cf-696a-5548-9054-ea7db2d234e9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:It's pretty easy to build an engaging data app or document locally\, but finding ways to deploy feels challenging  - especially for those on a budget. I'd love to hear what challenges you've faced and what approaches or solutions have unblocked you.
@@ -564,27 +612,11 @@ SUMMARY:[open-spaces] Challenges to deploying data science apps and docs
 UID:04616182-99bf-5982-8c22-bab96d3ff582
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Love fantasy sports? Obsessed with stats? Come join the Fantasy Sports Analytics Open Space!\r\n\r\nWhether you're a fantasy sports veteran\, a Python data junkie\, or just curious about how data and analytics power modern fantasy leagues\, this is your spot. We'll chat about drafting strategies\, predictive modeling\, player projections\, win probability tools\, platforms with (private) APIs and good data sets\, leveraging betting lines and how to turn your Python skills into fantasy sport victories.\r\n\r\nBring your qu…
-DTEND:20250516T160000Z
-LOCATION:Room 308
-DTSTART:20250516T150000Z
-SUMMARY:[open-spaces] Fantasy Sports Analytics Meetup
-UID:373821c7-94f9-5a52-985e-4abd7b926701
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:If you know\, you know.\r\nIf you don't know\, then drop in and practice team coding using a timer (https://mobti.me) to rotate through three roles: Navigator\, Driver\, and Next.
-DTEND:20250516T230000Z
-LOCATION:Room 309
-DTSTART:20250516T220000Z
-SUMMARY:[open-spaces] Ensemble (mob) programming
-UID:64ae53bf-1bb2-5762-acae-6df9ab512630
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Let's chat about using Nix with Python! Reproducible Python dev envs\, building packages with nix\, any cool projects or challenges\, or if you're just interested in learning more!
-DTEND:20250517T190000Z
+DESCRIPTION:Come play board games! Bring a game to share or come learn a new one!
+DTEND:20250517T210000Z
 LOCATION:Room 318
-DTSTART:20250517T180000Z
-SUMMARY:[open-spaces] NixOS + Python = ♥️
-UID:4878dd2a-f1f8-5398-b5d2-626ce9c00475
+DTSTART:20250517T200000Z
+SUMMARY:[open-spaces] Board Games!!!
+UID:3ca36944-1960-54c0-84d7-bc65780d58b3
 END:VEVENT
 END:VCALENDAR
