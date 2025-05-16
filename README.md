@@ -77,6 +77,7 @@ ICS Links
 * https://aaronsewall.github.io/pycon_us_ics/hometown_heroes.ics
 * https://aaronsewall.github.io/pycon_us_ics/language_summit.ics
 * https://aaronsewall.github.io/pycon_us_ics/maintainers_summit.ics
+* https://aaronsewall.github.io/pycon_us_ics/packaging_summit.ics
 * https://aaronsewall.github.io/pycon_us_ics/typing_summit.ics
 
 To subscribe via Google Calendar you can use the following links:
@@ -119,4 +120,5 @@ Summit/Hatchery Agendas
 * https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/hometown_heroes.ics
 * https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/language_summit.ics
 * https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/maintainers_summit.ics
+* https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/packaging_summit.ics
 * https://calendar.google.com/calendar/r?cid=webcal://aaronsewall.github.io/pycon_us_ics/typing_summit.ics
