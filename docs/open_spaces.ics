@@ -164,6 +164,22 @@ SUMMARY:[open-spaces] Education and Outreach Working Group Open Space
 UID:71b0aa78-e3d0-5016-abb1-1e31d07f09b1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Come enjoy the beauty and the madness of the Eurovision Song Contest!
+DTEND:20250517T200000Z
+LOCATION:Room 321
+DTSTART:20250517T190000Z
+SUMMARY:[open-spaces] Songs for Europe
+UID:b18c68c5-2410-5d9a-b586-2c1c64547a82
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come enjoy the beauty and the madness of the Eurovision Song Contest! All levels of appreciation welcome -- from first-time Eurovision-curious to serious year-long fans!
+DTEND:20250517T210000Z
+LOCATION:Room 308
+DTSTART:20250517T200000Z
+SUMMARY:[open-spaces] Songs for Europe
+UID:b18c68c5-2410-5d9a-b586-2c1c64547a82
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:An opportunity for software maintainers who are still supporting Python 2.x to talk with people who are still using Python 2.x. What do users need before we can migrate? What do maintainers need to know or get before we can fully deprecate 2.x support? What funding might be necessary to make these happen? A supportive and nonjudgmental discussion facilitated by Sumana Harihareswara.
 DTEND:20250518T160000Z
 LOCATION:Room 308
