@@ -20,6 +20,14 @@ SUMMARY:[open-spaces] Neurodivergent Pythonista Social Space
 UID:92150ebe-0038-5588-9a41-013223dccb10
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:If you are building an MCP server or want to learn from others come join this open space!
+DTEND:20250517T190000Z
+LOCATION:Room 316
+DTSTART:20250517T180000Z
+SUMMARY:[open-spaces] All things MCP!
+UID:8ad553da-6668-5bda-94ec-7d99cf275496
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:t-strings are in Python 3.14 and they offer a chance for Python to build a broad ecosystem of implementations and interoperability. We have a chance for common tooling that dramatically increases developer experience.\r\n\r\nCome hang out\, talk about how we can invent this together:\r\n\r\n- HTML templating that taps into static analysis and type checking like TSX\, but is also interoperable with all the great systems already in place\r\n- What does tooling need in order to find the structure?\r\n- What should the stan…
 DTEND:20250517T154500Z
 LOCATION:Room 320
@@ -140,6 +148,22 @@ SUMMARY:[open-spaces] Tea with Cheuk
 UID:dc90e4c7-b3a4-567c-89f9-89d9d72662f9
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Hey there\, my name is Cristián and I work at The Qt Company.\r\nI'd like for people using Qt via PySide or PyQt to gather and share their experience and feedback. Additionally\, I'd like to announce a new Qt and Python project that we are working on to hopefully make available later this year.
+DTEND:20250517T190000Z
+LOCATION:Room 309
+DTSTART:20250517T180000Z
+SUMMARY:[open-spaces] Let's talk about the Qt Framework
+UID:b0e039cc-0759-549f-af05-75360bda66d7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Do you use CoPilot\, Cursor\, ChatGPT? Don’t use them but want to learn more?\r\n\r\nCome talk about different uses of LLMs\, share stories with others in a round table discussion. \r\n\r\nAll experiences welcome.
+DTEND:20250517T190000Z
+LOCATION:Room 315
+DTSTART:20250517T180000Z
+SUMMARY:[open-spaces] Coding with LLMs
+UID:70ce054b-3d7e-524a-9ae3-74478095dc11
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Let’s discuss how Python is being used in advocacy\, activism\, and social impact work. Whether you're working with data for policy change\, building tools for nonprofits\, or civic engagement\, join us to share projects\, tools\, and ideas.
 DTEND:20250516T170000Z
 LOCATION:Room 309
@@ -164,6 +188,14 @@ SUMMARY:[open-spaces] Help using Python types and getting Pyrefly type checking 
 UID:97c7340b-bec0-5fbb-92ec-bad8ae179e36
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Meet at room 321\, then leave for the hike promptly at 4:05pm.\r\n\r\nWe'll hike part of the Three Rivers Heritage Trail starting at the convention center and returning to the convention center. We can either go to Point State Fountain Park or Mr. Rogers Memorial based on popular vote.\r\n\r\nRain probability is 15% at 4pm\, so odds are on our side 😀
+DTEND:20250516T210000Z
+LOCATION:Room 321
+DTSTART:20250516T200000Z
+SUMMARY:[open-spaces] Hike a bit of Three Rivers Heritage Trail
+UID:33394468-0220-5a5f-8bf4-4b3653a7c49d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Open-space discussion about free-threaded Python (PEP 703)\, implementation details and migration support (https://py-free-threading.github.io/).
 DTEND:20250516T190000Z
 LOCATION:Room 315
@@ -180,7 +212,7 @@ SUMMARY:[open-spaces] Chat about CouchDB
 UID:92ca7c88-4400-5469-8a75-43d8d6136675
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Are you a data analyst\, engineer\, or scientist using Python in your day-to-day work? This meetup is for you!\r\n\r\n\r\nJoin fellow practitioners for an hour of open conversation about the tools\, trends\, and challenges shaping enterprise data today. Bring your wins\, challenges\, and war stories: What are you building? What's keeping you up at night? What new tools or trends are you watching?\r\n\r\n\r\nShare best practices\, clever hacks\, and real-world lessons—whether you're wrangling pipelines\, running analysis\, train…
+DESCRIPTION:Are you a data scientist\, engineer\, or analyst using Python in your day-to-day work? This meetup is for you!\r\n\r\nJoin fellow practitioners for an hour of open conversation about the tools\, trends\, and challenges shaping enterprise data today. Bring your wins\, challenges\, and war stories: What are you building? What's keeping you up at night? What new tools or trends are you watching? Connect\, learn\, and exchange ideas with others navigating the ever-evolving Python data landscape!
 DTEND:20250516T220000Z
 LOCATION:Room 315
 DTSTART:20250516T210000Z
@@ -228,7 +260,7 @@ SUMMARY:[open-spaces] PSF & Meetups Discussion
 UID:171711db-b144-5dba-a7f3-016dd6b104a6
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Python in the physical world: manufacturing\, energy\, water\, robotics\, data centers\, buildings\, transportation\, logistics\, warehouses\, agriculture\, etc..
+DESCRIPTION:Python in the physical world: manufacturing\, energy\, water\, robotics\, data centers\, telco\, buildings\, transportation\, logistics\, warehouses\, agriculture\, etc..
 DTEND:20250517T160000Z
 LOCATION:Room 309
 DTSTART:20250517T150000Z
@@ -332,7 +364,23 @@ SUMMARY:[open-spaces] ORM OMG!
 UID:b4a03490-b966-5803-8978-5c755fc1f914
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:RobotPy is a volunteer project that maintains Python libraries that high school students can use to control their robots in the FIRST Robotics Competition (and FIRST Tech Challenge starting in 2027).\r\n\r\nThis turns out to be a lot of work and encompasses a lot of different skillsets: pybind11/nanobind\, native packaging and cross-compilation\, pytest customization\, translating from Java/C++ to Python\, github actions\, documentation\, vscode extension development\, and more.\r\n\r\nDo you work with (or are your kids …
+DESCRIPTION:Do you use python for scientific research studies? \r\n\r\nI am a biomedical research engineer at the University of Pittsburgh and use python for building systems to run experiments for neurotechnology clinical trials (including brain-computer interface research). This is an open discussion and meetup for fellow researchers\, scientists and engineers in academia. Stop by to talk about code\, science\, Pittsburgh\, or just wish me a happy birthday!
+DTEND:20250516T200000Z
+LOCATION:Room 309
+DTSTART:20250516T190000Z
+SUMMARY:[open-spaces] Python for Science & Research
+UID:9f0456ce-6a21-5065-b7de-f0633eb92f99
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:HI PYCON I'M TIMMY! I'm confused\, is this anthrocon? Where's all the fursuits?\r\n\r\nFurry or curious? Just bored but not ready to go bar hopping or to your hotel? Wondering if it's okay to fursuit to your company Halloween party? Maybe discuss your experiences with overlapping furry hobbies and professional spheres. Network with other furries in the Python community.\r\n\r\nIntentionally scheduled soon before the bowling furmeet Saturday at 7pm at AMF Mt Lebanon lanes :3\r\n\r\nI'll have a bag of candy bars to hand …
+DTEND:20250517T220000Z
+LOCATION:Room 308
+DTSTART:20250517T210000Z
+SUMMARY:[open-spaces] IT mullet: Business in the front\, fursuit tail in the back
+UID:1f100852-9448-5c9e-a370-20f51df25baa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:RobotPy is a volunteer project that maintains Python libraries that high school students can use to control their robots in the FIRST Robotics Competition (and FIRST Tech Challenge starting in 2027).\r\n\r\nThis turns out to be a lot of work and encompasses a lot of different skillsets: pybind11/nanobind\, native packaging and cross-compilation\, pytest customization\, translating from Java/C++ to Python\, github actions\, documentation\, vscode extension development\, maybe asyncio/NoGIL\, and more.\r\n\r\nDo you work wi…
 DTEND:20250517T200000Z
 LOCATION:Room 309
 DTSTART:20250517T190000Z
@@ -388,11 +436,19 @@ SUMMARY:[open-spaces] Fantasy Sports Analytics Meetup
 UID:373821c7-94f9-5a52-985e-4abd7b926701
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Hey there\, my name is Cristián and I work at The Qt Company.\r\nI'd like for people using Qt via PySide or PyQt to gather and share their experience and feedback. Additionally\, I'd like to announce a new Qt and Python project that we are working on to hopefully make available later this year.
-DTEND:20250517T190000Z
+DESCRIPTION:If you know\, you know.\r\nIf you don't know\, then drop in and practice team coding using a timer (https://mobti.me) to rotate through three roles: Navigator\, Driver\, and Next.
+DTEND:20250516T230000Z
 LOCATION:Room 309
-DTSTART:20250517T180000Z
-SUMMARY:[open-spaces] Let's talk about the Qt Framework
-UID:b0e039cc-0759-549f-af05-75360bda66d7
+DTSTART:20250516T220000Z
+SUMMARY:[open-spaces] Ensemble (mob) programming
+UID:64ae53bf-1bb2-5762-acae-6df9ab512630
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come play board games! Bring a game to share or come learn a new one!
+DTEND:20250517T210000Z
+LOCATION:Room 318
+DTSTART:20250517T200000Z
+SUMMARY:[open-spaces] Board Games!!!
+UID:3ca36944-1960-54c0-84d7-bc65780d58b3
 END:VEVENT
 END:VCALENDAR

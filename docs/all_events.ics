@@ -2020,14 +2020,15 @@ TRANSP:OPAQUE
 UID:0fa9eef2-9177-542a-b71b-a8bae092562d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: lightning-talks\nName: [Lightning Talks](/2025/events/lightning-talks/)\n<p><a href="/2025/events/lightning-talks/">Lightning Talks</a></p>\n
+DESCRIPTION:Section: talks\nKind: lightning-talks\nName: Lightning Talks\nhttps://us.pycon.org/2025/schedule/presentation/170/\n<p>Lightning talks are a maximum duration of 5 minutes on any topic of interest to other Python people. It doesn't have to be about something that you wrote\, it can be something that you learned\, or a technique you think other people will be interested in.</p>\n<p>Read more about Lightning Talks <a href="/2025/events/lightning-talks/">on our event page</a>.</p>\n<p>Submit a Lightning Talk for this session <a href="/signup/lightning-talks/">Here!</a></p>\nSpeakers:\nHosted by Abigail\, Chris\, Cristián\, and Lorena\n
 DTEND:20250517T130000Z
 LOCATION:Hall B
 DTSTART:20250517T120000Z
 STATUS:CONFIRMED
-SUMMARY:[lightning-talks] [Lightning Talks](/2025/events/lightning-talks/)
+SUMMARY:[lightning-talks] Lightning Talks
 TRANSP:OPAQUE
 UID:dbb5320c-e6b1-5f5c-8819-6c25c2531101
+URL:https://us.pycon.org/2025/schedule/presentation/170/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: talks\nKind: plenary\nName: Steering Council Panel\n<p><a href="/2025/about/keynote-speakers#python-steering-council">Steering Council Panel</a></p>\n
