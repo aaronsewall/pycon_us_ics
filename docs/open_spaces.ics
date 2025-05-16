@@ -36,6 +36,14 @@ SUMMARY:[open-spaces] Data Engineering Meetup: PyCon 2025
 UID:de87d576-170f-5f0b-9b5f-45f11f7c1630
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Have you or your team scaled a python-based service\, are interested in doing so\, or just curious? Let's talk tech stacks\, ideas\, and pitfalls! :)
+DTEND:20250516T210000Z
+LOCATION:Room 320
+DTSTART:20250516T200000Z
+SUMMARY:[open-spaces] Scaling Python: What's the secret sauce?
+UID:1b46dd2e-712f-56f6-b18b-b0b0a9bddef0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:An open questions session with Leonard Richardson\, the maintainer of screen-scraping library Beautiful Soup. If you've ever used or tried to use it\, share your questions\, confusions\, stuff you've made\, concerns\, ideas\, offers of help\, etc. with Leonard in person. If we don't have a ton of questions\, we might do some impromptu usability testing to check whether the new type hints help you use the library. Facilitated by Sumana Harihareswara.
 DTEND:20250518T190000Z
 LOCATION:Room 315
@@ -146,6 +154,14 @@ LOCATION:Room 308
 DTSTART:20250517T181500Z
 SUMMARY:[open-spaces] Python Book Author Meet-and-Greet
 UID:2a769d2e-faa0-58ea-9905-a97afd26a97c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Pyrefly team will be available to answer questions about types in your code and packages your rely on. We can also help set up Pyrefly in your IDE and answer any questions you have about using the type checker.
+DTEND:20250517T210000Z
+LOCATION:Room 321
+DTSTART:20250517T200000Z
+SUMMARY:[open-spaces] Help using Python types and getting Pyrefly type checking working in your IDE
+UID:97c7340b-bec0-5fbb-92ec-bad8ae179e36
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Open-space discussion about free-threaded Python (PEP 703)\, implementation details and migration support (https://py-free-threading.github.io/).
@@ -260,6 +276,14 @@ SUMMARY:[open-spaces] Current & Displaced Federal Data Professionals Open Space
 UID:4eba28ff-b511-5456-984e-9260943c9470
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:A chance to share what's good (and bad) about using AI as part of a data science workfow
+DTEND:20250516T190000Z
+LOCATION:Room 308
+DTSTART:20250516T180000Z
+SUMMARY:[open-spaces] AI for data science
+UID:f333fd46-cea6-548b-9dc6-57560ff7bfc3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Teaching\, explaining\, tutoring\, or mentoring? Let’s meet up and share all the tricks\, tips\, and tools we’ve learned. What worked? What didn’t? I want to know your secrets!
 DTEND:20250516T180000Z
 LOCATION:Room 316
@@ -322,6 +346,14 @@ LOCATION:Room 318
 DTSTART:20250516T190000Z
 SUMMARY:[open-spaces] Tabular ML (sklearn\, xgboost\, catboost\, & friends)
 UID:b5d5f1cf-696a-5548-9054-ea7db2d234e9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This open space is for those that are interested in electronics and organizing your electronics collection\, come join an open space.  I will demo my working prototype\, ic_ocr_cataloger and talk about my challenges.  Bring your stories\, experience\, and own interests to contribute to the conversation.
+DTEND:20250517T210000Z
+LOCATION:Room 309
+DTSTART:20250517T200000Z
+SUMMARY:[open-spaces] Python\, Electronics\, datasheets\, and component OCR
+UID:30e850ec-48c3-5f0a-9113-4fbbdba8a799
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Come share your tips and tricks for CTF problems. Don't know what CTF is? Come learn about these fun activities for learning and sharpening cyber security skills.

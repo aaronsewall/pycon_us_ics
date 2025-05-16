@@ -1028,12 +1028,12 @@ UID:33cb1b80-173d-599c-aa61-0399ade7298a
 URL:https://us.pycon.org/2025/schedule/presentation/90/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: Keynote - Dr. Kali L. Jordan\n<p><a href="/2025/about/keynote-speakers#dr-kari-l-jordan">Dr. Kari L. Jordan</a>\n<br><span style="font-size: smaller\; font-weight: normal\;">Keynote</span></p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: Keynote - Dr. Kari L. Jordan\n<p><a href="/2025/about/keynote-speakers#dr-kari-l-jordan">Dr. Kari L. Jordan</a>\n<br><span style="font-size: smaller\; font-weight: normal\;">Keynote</span></p>\n
 DTEND:20250518T200000Z
 LOCATION:Hall B
 DTSTART:20250518T191500Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] Keynote - Dr. Kali L. Jordan
+SUMMARY:[plenary] Keynote - Dr. Kari L. Jordan
 TRANSP:OPAQUE
 UID:b44fc0e3-7d56-5f5c-ac41-956867061d0d
 END:VEVENT
@@ -1200,7 +1200,7 @@ UID:89f80e02-1c58-5567-b4f6-42edbe185319
 URL:https://us.pycon.org/2025/schedule/presentation/83/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: talk\nName: Who Tests the Testers? Making and Testing Pipelines\nhttps://us.pycon.org/2025/schedule/presentation/28/\n<p>You likely have a good pipeline that either runs tests\, lints\, or deployments for your project.</p>\n<p>But when it comes to changing that pipeline\, how sure are you that it works before taking those changes live?</p>\n<hr />\n<p>In this talk\, we'll explore why it doesn't have to be the case that "there's no devops for devops".</p>\n<p>We'll give a quick run down of what pipelines are\, and why they should be used\, before we give an example where it can be hard to know whether making changes to a pipeline will fail\, and why that can be the case.</p>\n<p>Then\, we'll showcase tools and methodologies that can be used for testing\, creating\, and simulating pipelines\, so you too can setup a system to always be sure that your pipeline changes won't cause any water damage.</p>\nSpeakers:\nEvan Kohilas\n<p>Evan is an Serial International Speaker and Senior Software Engineer whose passions lie in improving the developer experience by enhancing code health\, optimising workflows\, and working towards nohumanerrors.com</p>\n<p>When he's not thinking about security\, informatics\, or giving talks about his many projects\, you'll find him nomming on Subway cookies\, or chasing bunny rabbits.</p>
+DESCRIPTION:Section: talks\nKind: talk\nName: Who Tests the Testers? Making and Testing Pipelines\nhttps://us.pycon.org/2025/schedule/presentation/28/\n<p>You likely have a good pipeline that either runs tests\, lints\, or deployments for your project.</p>\n<p>But when it comes to changing that pipeline\, how sure are you that it works before taking those changes live?</p>\n<hr />\n<p>In this talk\, we'll explore why it doesn't have to be the case that "there's no devops for devops".</p>\n<p>We'll give a quick run down of what pipelines are\, and why they should be used\, before we give an example where it can be hard to know whether making changes to a pipeline will fail\, and why that can be the case.</p>\n<p>Then\, we'll showcase tools and methodologies that can be used for testing\, creating\, and simulating pipelines\, so you too can setup a system to always be sure that your pipeline changes won't cause any water damage.</p>\nSpeakers:\nEvan Kohilas\n<p>Evan is a serial international speaker and engineering productivity advocate who values frictionless simplicity\, taming tech debt\, thinking in systems\, and tightening feedback loops – all to improve the developer experience and achieve nohumanerrors.com</p>\n<p>When he's not working on his next talk or project idea\, you may catch him as the Assistant Director for PyCon Australia\, dodging magpies while bike riding\, chasing frisbees\, or defending subway cookies.</p>
 DTEND:20250516T210000Z
 LOCATION:Ballroom BC
 DTSTART:20250516T203000Z

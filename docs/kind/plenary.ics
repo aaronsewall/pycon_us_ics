@@ -34,12 +34,12 @@ TRANSP:OPAQUE
 UID:3d930c8b-a9eb-525d-8dcd-ff696fd2e68a
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: plenary\nName: Keynote - Dr. Kali L. Jordan\n<p><a href="/2025/about/keynote-speakers#dr-kari-l-jordan">Dr. Kari L. Jordan</a>\n<br><span style="font-size: smaller\; font-weight: normal\;">Keynote</span></p>\n
+DESCRIPTION:Section: talks\nKind: plenary\nName: Keynote - Dr. Kari L. Jordan\n<p><a href="/2025/about/keynote-speakers#dr-kari-l-jordan">Dr. Kari L. Jordan</a>\n<br><span style="font-size: smaller\; font-weight: normal\;">Keynote</span></p>\n
 DTEND:20250518T200000Z
 LOCATION:Hall B
 DTSTART:20250518T191500Z
 STATUS:CONFIRMED
-SUMMARY:[plenary] Keynote - Dr. Kali L. Jordan
+SUMMARY:[plenary] Keynote - Dr. Kari L. Jordan
 TRANSP:OPAQUE
 UID:b44fc0e3-7d56-5f5c-ac41-956867061d0d
 END:VEVENT
