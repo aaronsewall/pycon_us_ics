@@ -773,15 +773,15 @@ UID:348ce11b-f9ba-5931-a93b-cd5546c2ba63
 URL:https://us.pycon.org/2025/schedule/presentation/129/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: charla\nName: Transformando la atención médica: RPA al servicio de pacientes y médicos.\nhttps://us.pycon.org/2025/schedule/presentation/33/\n<p>En el ámbito de la salud\, cada minuto cuenta. Cuando llegamos a una consulta o enfrentamos una emergencia médica\, lo último que esperamos es ser detenidos por barreras administrativas. Sé lo frustrante que es estar en una situación donde lo único que se desea es atención inmediata\, pero en cambio\, nos encontramos atrapados en largos procesos administrativos. En esta charla\, exploraremos cómo la Automatización Robótica de Procesos (RPA) puede ser la clave para transformar estas experiencias\, devolviendo tiempo a los pacientes\, reduciendo el estrés y mejorando la calidad de atención en hospitales. \nAl reducir hasta un 80% de las tareas repetitivas y administrativas\, médicos y personal de la salud pueden concentrarse en lo realmente importante\, la atención al paciente.</p>\nSpeakers:\nNadia Ayala Hernández\n<p>Nadia Ayala Hernández es una apasionada de la tecnología especializada en desarrollo de software\, Robotic Process Automation (RPA)\, Optical Character Recognition (OCR) y soluciones en la nube. Colabora estrechamente con equipos multidisciplinarios para implementar soluciones robustas que impulsen la transformación digital.\nSu enfoque va más allá de la tecnología. Nadia cree firmemente en el poder de la tecnología para empoderar a las personas\, permitiéndoles dedicar su tiempo a actividades de alto valor estratégico. Este compromiso con la mejora de vida a través de soluciones a la medida se refleja en cada proyecto que lidera\, donde prioriza tanto el impacto humano como el organizacional.</p>
+DESCRIPTION:Section: talks\nKind: charla\nName: Iterando de forma eficiente en Python con Itertools\nhttps://us.pycon.org/2025/schedule/presentation/169/\n<p>Python viene con muchas herramientas poderosas “incluidas de fábrica”\, y entre ellas se encuentran sus estructuras de bucle. Pero usarlas correctamente no siempre es tan sencillo como parece. En esta charla exploraremos el módulo itertools\, una colección de funciones diseñadas para que escribas bucles más inteligentes\, no más complejos. A través de ejemplos prácticos y casos del mundo real\, veremos cómo aprovechar itertools para escribir código más eficiente y expresivo. Al finalizar\, tendrás a tu disposición un conjunto de herramientas que te ayudarán a dominar tus bucles en Python.</p>\nSpeakers:\nAndres Pineda\n<p>Husband &amp\; Father 3x | He/Him | 💻 Coder | 🚀 Dev Community Contributor | Enjoy 🎶☕🍺🥩 Bringing #a11y to apps one at the time @RealPython and @PythonSDQ</p>
 DTEND:20250517T204500Z
 LOCATION:Room 310/311
 DTSTART:20250517T201500Z
 STATUS:CONFIRMED
-SUMMARY:[charla] Transformando la atención médica: RPA al servicio de pacientes y médicos.
+SUMMARY:[charla] Iterando de forma eficiente en Python con Itertools
 TRANSP:OPAQUE
 UID:818fc0cd-726b-50de-a155-7668142a4691
-URL:https://us.pycon.org/2025/schedule/presentation/33/
+URL:https://us.pycon.org/2025/schedule/presentation/169/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: talks\nKind: break\nName: Break\n<p>Break</p>\n
