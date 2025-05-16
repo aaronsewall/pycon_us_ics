@@ -68,6 +68,22 @@ SUMMARY:[open-spaces] "Nebraska" Maintainers Round-table
 UID:938adf1e-9101-57a4-ad39-dde6b911504d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:There are dozens of us! Come say hi\, talk about anything\, or just show up and listen. \r\n\r\nAnyone is welcome!
+DTEND:20250517T180000Z
+LOCATION:Room 318
+DTSTART:20250517T170000Z
+SUMMARY:[open-spaces] LGBTQ Hangout
+UID:6b81035c-c168-59cf-90e6-1f943a11c57d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Excited by music and what you can do with Python in the creative process?\r\nJoin us and talk about Python and MIDI\, audio synthesis\, and other related topics and experiences that you wish to share.  There’s plenty of room for contributions in the Python space in these areas\, in addition to plenty of tools to help.
+DTEND:20250516T200000Z
+LOCATION:Room 320
+DTSTART:20250516T190000Z
+SUMMARY:[open-spaces] Pythonic Music 🎼 MIDI\, Synthesis and more
+UID:d3bb1ec0-42dd-568d-9151-e0cb4b8ad914
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Stuck on sprints? Story points getting you down? T-shirt sizes don't seem to fit your tasks? Come to this session to learn about a surprisingly simple new way to estimate effort that is actually useful\, and will radically transform how your team communicates.
 DTEND:20250517T160000Z
 LOCATION:Room 318
@@ -234,6 +250,14 @@ LOCATION:Meet at entrance to conference center (outside doors)
 DTSTART:20250517T110000Z
 SUMMARY:[open-spaces] Easy Run/Walk down to Point State Park
 UID:66581d04-5c5a-50f8-bdfe-97cde92b59f2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Whether you're an enthusiastic Hypothesis user curious about our upcoming secret project\, or just dipping your toes into randomized testing and want to find out what all the fuss is about... come hang out and talk to us!\r\n\r\nCompliments and complaints equally welcome\, we just want to hear from users and non-users alike.\r\n\r\nhttps://hypothesis.readthedocs.io/ to find out more.
+DTEND:20250517T180000Z
+LOCATION:Room 320
+DTSTART:20250517T170000Z
+SUMMARY:[open-spaces] Testing and Fuzzing with Hypothesis!
+UID:35127111-7f0c-5b96-b499-3a304630d460
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Curious about functional programming in Python? Come hang out at the Functional Programming Open Space!\r\n\r\nWhether you're an FP enthusiast\, a Pythonista wanting to write cleaner\, more expressive code\, or just someone wondering what the fuss is about map\, filter\, and reduce\, this session’s for you.\r\n\r\nWe’ll talk about immutability\, pure functions\, higher-order functions\, recursion\, functional libraries\, and how to sneak in FP habits at work. No prior experience necessary — bring your questions\, favorite FP …
@@ -426,6 +450,14 @@ LOCATION:Room 309
 DTSTART:20250516T180000Z
 SUMMARY:[open-spaces] CTF tips & tricks
 UID:76e774b8-e5d7-5f5e-83f4-df4f3209d548
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lets discuss the latest trends in 3D Reconstruction\, Computer Vision\, SFM\, SLAM\, etc and how we leverage Python.
+DTEND:20250517T210000Z
+LOCATION:Room 320
+DTSTART:20250517T200000Z
+SUMMARY:[open-spaces] 3D and Computer Vision Meet
+UID:61d1e5bd-a5f3-59ca-93f1-04edb108900a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Do you like outer space? And doing outer space things with Python? Like doing science\, processing data\, controlling spacecraft\, designing and running missions. So do we. Let's talk about doing outer space things with Python.
