@@ -252,12 +252,28 @@ SUMMARY:[open-spaces] WheelNext - Let's re-invent the Wheel
 UID:1f393417-6bf3-5a06-a6d2-c3e2f5c6ec6f
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Do you have or are interested in a career in aviation? Pilots\, fleet management\, weather\, maintenance\, engineering and simulation\, plane spotting\, or a big fan of going up and down. All are welcome.
+DTEND:20250517T190000Z
+LOCATION:Room 308
+DTSTART:20250517T180000Z
+SUMMARY:[open-spaces] Python in Aviation
+UID:31f4d046-ed73-5e6d-ad3f-eff169a609f9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:The PSF & Meetups Discussion is organized by the PSF board. We’re looking to make this year’s PyCon US session into a jumping off point for a global conversation that we hope to see happen regularly in lots of places around the world – as well as online. If you’ve got ideas or want to be involved in this conversation\, please email community-organizing@pyfound.org
 DTEND:20250518T180000Z
 LOCATION:Room 310/311
 DTSTART:20250518T170000Z
 SUMMARY:[open-spaces] PSF & Meetups Discussion
 UID:171711db-b144-5dba-a7f3-016dd6b104a6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This meetup is for people who build awesome websites with Python or people who want to learn more about building awesome websites with Python. We'll have Jeff Triplett from the Django community and Meagen Voss from the Wagtail community to will provide overviews on their web frameworks. And we'll leave plenty of time for questions and for everyone else to share their favorite web tools too.\r\n\r\nFind out how we can build a newer better\, Internet together with Python!
+DTEND:20250517T200000Z
+LOCATION:Room 318
+DTSTART:20250517T190000Z
+SUMMARY:[open-spaces] Web Dev Tools with Django & Wagtail
+UID:196342cd-4326-5913-a160-e3c44a7bdfd0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Python in the physical world: manufacturing\, energy\, water\, robotics\, data centers\, telco\, buildings\, transportation\, logistics\, warehouses\, agriculture\, etc..
