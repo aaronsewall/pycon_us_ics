@@ -12,6 +12,14 @@ SUMMARY:[open-spaces] Education and Outreach Working Group Open Space
 UID:71b0aa78-e3d0-5016-abb1-1e31d07f09b1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Are you neurodivergent or questioning? Would you like to meet other friendly people at Pycon? You are welcome at the neurodivergent social space! It can be tough as a neurodivergent person to meet others at a large conference like Pycon\, and not everyone may understand neurodivergent ways of socializing--this is our space to build some relationships!\r\n\r\nIf you would like\, bring something that shows your personality or come willing to tell us what something about something you are interested in (personal or…
+DTEND:20250516T210000Z
+LOCATION:Room 316
+DTSTART:20250516T200000Z
+SUMMARY:[open-spaces] Neurodivergent Pythonista Social Space
+UID:92150ebe-0038-5588-9a41-013223dccb10
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:The PSF & Meetups Discussion is organized by the PSF board. We’re looking to make this year’s PyCon US session into a jumping off point for a global conversation that we hope to see happen regularly in lots of places around the world – as well as online. If you’ve got ideas or want to be involved in this conversation\, please email community-organizing@pyfound.org
 DTEND:20250518T180000Z
 LOCATION:Room 310/311
@@ -84,6 +92,14 @@ SUMMARY:[open-spaces] Free-threaded Python
 UID:85b1786f-d3b2-53db-b08b-6277a332a649
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Come share your tips and tricks for CTF problems. Don't know what CTF is? Come learn about these fun activities for learning and sharpening cyber security skills.
+DTEND:20250516T190000Z
+LOCATION:Room 309
+DTSTART:20250516T180000Z
+SUMMARY:[open-spaces] CTF tips & tricks
+UID:76e774b8-e5d7-5f5e-83f4-df4f3209d548
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Impacted by resignations\, RIFs\, or cuts to grants and contracts? Join us for an Open Space focused on community\, support\, and shared purpose. We'll hold discussion space on career pivots\, personal resilience\, and how we can continue to uphold and advance public-sector data\, programming\, and AI innovation. Can’t make the session? Email elaynemorrison@gmail.com to receive the shared resource list and stay connected.
 DTEND:20250517T180000Z
 LOCATION:Room 308
@@ -114,5 +130,13 @@ LOCATION:Room 308
 DTSTART:20250518T150000Z
 SUMMARY:[open-spaces] Still on Python 2?
 UID:33285fb6-cdfb-5d3d-aee3-20ea9baf820d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:WheelNext is an open-source initiative (https://github.com/wheelnext & https://wheelnext.dev/) aiming to improve the user experience in the Python packaging ecosystem\, specifically around the scientific computing and machine/deep learning space. Come and help us design the future of Python Packaging
+DTEND:20250516T190000Z
+LOCATION:Room 316
+DTSTART:20250516T180000Z
+SUMMARY:[open-spaces] WheelNext - Let's re-invent the Wheel
+UID:1f393417-6bf3-5a06-a6d2-c3e2f5c6ec6f
 END:VEVENT
 END:VCALENDAR
