@@ -1690,14 +1690,15 @@ UID:064d2598-0b74-552f-8777-1270881d55c6
 URL:https://us.pycon.org/2025/schedule/presentation/20/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: talks\nKind: lightning-talks\nName: [Lightning Talks](/2025/events/lightning-talks/)\n<p><a href="/2025/events/lightning-talks/">Lightning Talks</a></p>\n
+DESCRIPTION:Section: talks\nKind: lightning-talks\nName: Lightning Talks\nhttps://us.pycon.org/2025/schedule/presentation/168/\n<p>Lightning talks are a maximum duration of 5 minutes on any topic of interest to other Python people. It doesn't have to be about something that you wrote\, it can be something that you learned\, or a technique you think other people will be interested in.</p>\n<p>Read more about Lightning Talks <a href="/2025/events/lightning-talks/">on our event page</a>.</p>\n<p>Submit a Lightning Talk for this session <a href="/signup/lightning-talks/">Here!</a></p>\nSpeakers:\nHosted by Abigail\, Chris\, Cristián\, and Lorena\n
 DTEND:20250516T230000Z
 LOCATION:Hall B
 DTSTART:20250516T220000Z
 STATUS:CONFIRMED
-SUMMARY:[lightning-talks] [Lightning Talks](/2025/events/lightning-talks/)
+SUMMARY:[lightning-talks] Lightning Talks
 TRANSP:OPAQUE
 UID:7911a2fe-90e2-5884-a9a5-ffbca4979c3f
+URL:https://us.pycon.org/2025/schedule/presentation/168/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Section: events\nKind: informational\nName: Registration Desk Closes\n<p>Registration Desk Closes</p>\n
