@@ -76,6 +76,22 @@ SUMMARY:[open-spaces] LGBTQ Hangout
 UID:6b81035c-c168-59cf-90e6-1f943a11c57d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Python and RF nerdery.
+DTEND:20250516T200000Z
+LOCATION:Room 316
+DTSTART:20250516T190000Z
+SUMMARY:[open-spaces] Gnu Radio/ Ham Radio
+UID:2be82b2e-2366-59c9-8d84-18ce3331a41b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Do you have thoughts on how to make the Python community more inclusive\, diverse\, and equitable? The members of the Diversity and Inclusion Working Group of the Python Software Foundation would love to meet you. Please come join us for a discussion about the importance of D&I work in strengthening the global Python community.
+DTEND:20250517T190000Z
+LOCATION:Room 321
+DTSTART:20250517T180000Z
+SUMMARY:[open-spaces] Diversity and Inclusion Working Group
+UID:7abd2581-270a-5748-88ea-780bb8e1c347
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Excited by music and what you can do with Python in the creative process?\r\nJoin us and talk about Python and MIDI\, audio synthesis\, and other related topics and experiences that you wish to share.  There’s plenty of room for contributions in the Python space in these areas\, in addition to plenty of tools to help.
 DTEND:20250516T200000Z
 LOCATION:Room 320
@@ -194,6 +210,14 @@ LOCATION:Room 308
 DTSTART:20250517T181500Z
 SUMMARY:[open-spaces] Python Book Author Meet-and-Greet
 UID:2a769d2e-faa0-58ea-9905-a97afd26a97c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come play board games! Bring a game to share or come learn a new one!
+DTEND:20250517T210000Z
+LOCATION:Room 318
+DTSTART:20250517T200000Z
+SUMMARY:[open-spaces] Board Games!!!
+UID:3ca36944-1960-54c0-84d7-bc65780d58b3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Pyrefly team will be available to answer questions about types in your code and packages your rely on. We can also help set up Pyrefly in your IDE and answer any questions you have about using the type checker.
@@ -420,6 +444,14 @@ SUMMARY:[open-spaces] IT mullet: Business in the front\, fursuit tail in the bac
 UID:1f100852-9448-5c9e-a370-20f51df25baa
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Are you building\, or interested in building AWS architecture using CDK? \r\n\r\nCome share your thoughts\, troubles\, tricks and triumphs! \r\n\r\nLet’s discuss how to\, or how not to\, be pythonic about building with CDK.
+DTEND:20250517T210000Z
+LOCATION:Room 318
+DTSTART:20250517T200000Z
+SUMMARY:[open-spaces] Architecting in AWS Python+CDK. ☁️➕🐍
+UID:18e02935-7bb3-5277-b0d6-ffe4782bd550
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:RobotPy is a volunteer project that maintains Python libraries that high school students can use to control their robots in the FIRST Robotics Competition (and FIRST Tech Challenge starting in 2027).\r\n\r\nThis turns out to be a lot of work and encompasses a lot of different skillsets: pybind11/nanobind\, native packaging and cross-compilation\, pytest customization\, translating from Java/C++ to Python\, github actions\, documentation\, vscode extension development\, maybe asyncio/NoGIL\, and more.\r\n\r\nDo you work wi…
 DTEND:20250517T200000Z
 LOCATION:Room 309
@@ -492,11 +524,11 @@ SUMMARY:[open-spaces] Ensemble (mob) programming
 UID:64ae53bf-1bb2-5762-acae-6df9ab512630
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Come play board games! Bring a game to share or come learn a new one!
-DTEND:20250517T210000Z
+DESCRIPTION:Let's chat about using Nix with Python! Reproducible Python dev envs\, building packages with nix\, any cool projects or challenges\, or if you're just interested in learning more!
+DTEND:20250517T190000Z
 LOCATION:Room 318
-DTSTART:20250517T200000Z
-SUMMARY:[open-spaces] Board Games!!!
-UID:3ca36944-1960-54c0-84d7-bc65780d58b3
+DTSTART:20250517T180000Z
+SUMMARY:[open-spaces] NixOS + Python = ♥️
+UID:4878dd2a-f1f8-5398-b5d2-626ce9c00475
 END:VEVENT
 END:VCALENDAR
