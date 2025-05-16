@@ -500,6 +500,14 @@ SUMMARY:[open-spaces] Keeping Up With CPython: Alternative implementations and l
 UID:00b8978f-9854-5c1c-8507-e15ddb28175d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Maybe you ignored the signs. Maybe you missed the cues. Maybe you haven't realized something was hidden in plain sight in the sticker exchange table. Don't worry! By reading this\, you are one step closer to discovering the truth. If you have already taken the first step\, come share your progress\, ask questions\, or work with other people seeking answers. And if you have found the truth\, come get the solution sticker!
+DTEND:20250517T170000Z
+LOCATION:Room 308
+DTSTART:20250517T160000Z
+SUMMARY:[open-spaces] Mysterious Sticker
+UID:146dafbd-a2bb-5c8f-ab5b-2e011d71e511
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Come chat with the team building the new super-fast Astral type checker\, ty! Topics could include: ty's architecture and design goals\, your hopes and dreams for Python typing\, contributing to ty\, or whatever else is on your mind!
 DTEND:20250517T150000Z
 LOCATION:Room 316
