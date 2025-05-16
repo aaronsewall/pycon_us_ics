@@ -29,11 +29,19 @@ UID:171711db-b144-5dba-a7f3-016dd6b104a6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Get ready for an engaging hour as we dive into all things data engineering.\r\n\r\n​Chat data engineering\, connect with peers and throw down some hot takes.\r\n\r\n​Don’t miss this great opportunity to learn\, network\, and unwind with the community!
-DTEND:20250516T190000Z
+DTEND:20250516T200000Z
 LOCATION:Room 308
-DTSTART:20250516T180000Z
+DTSTART:20250516T190000Z
 SUMMARY:[open-spaces] Data Engineering Meetup: PyCon 2025
 UID:de87d576-170f-5f0b-9b5f-45f11f7c1630
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come juggle with us! No experience necessary\, we will teach you. Or bring your awesome skillz. Bring props if you have them.  We will have beanbag balls to use.
+DTEND:20250517T210000Z
+LOCATION:West Atrium
+DTSTART:20250517T194500Z
+SUMMARY:[open-spaces] Juggling!
+UID:4b74e7f4-d132-5f1f-94b0-079a6947f51e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Come have English tea and biscuits with Cheuk. Let's talk about Python\, community and PyCharm over an aromatic brew. Everyone is welcomed to my tea party.
@@ -116,12 +124,12 @@ SUMMARY:[open-spaces] Simplifying initial Django deployments
 UID:a01f671f-6da8-5e06-b706-3f5e8c838cb5
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Come juggle with us! No experience necessary\, we will teach you. Or bring your awesome skillz. Bring props if you have them.  We will have beanbag balls to use.
-DTEND:20250517T210000Z
-LOCATION:West Atrium
-DTSTART:20250517T194500Z
-SUMMARY:[open-spaces] Juggling!
-UID:4b74e7f4-d132-5f1f-94b0-079a6947f51e
+DESCRIPTION:Do you like outer space? And doing outer space things with Python? Like doing science\, processing data\, controlling spacecraft\, designing and running missions. So do we. Let's talk about doing outer space things with Python.
+DTEND:20250516T160000Z
+LOCATION:Room 316
+DTSTART:20250516T150000Z
+SUMMARY:[open-spaces] Outer Space Open Space
+UID:3d0e58f9-c107-5f0e-bf52-52f23191e82e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:An opportunity for software maintainers who are still supporting Python 2.x to talk with people who are still using Python 2.x. What do users need before we can migrate? What do maintainers need to know or get before we can fully deprecate 2.x support? What funding might be necessary to make these happen? A supportive and nonjudgmental discussion facilitated by Sumana Harihareswara.

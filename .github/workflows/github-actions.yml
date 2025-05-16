@@ -3,7 +3,8 @@ name: ICS Generator
 on:
   push:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '45 11-23 * * *'
+    - cron: '45 0-1 * * *'
 
 permissions:
   contents: write
@@ -48,7 +49,7 @@ jobs:
         if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
         run: poetry install --no-interaction --no-root
       #----------------------------------------------
-      # install your root project, if required
+      # install your root project, if required your-command    # 8 PM–9 PM ET (00–01 UTC next day)'
       #----------------------------------------------
       - name: Install library
         run: poetry install --no-interaction
