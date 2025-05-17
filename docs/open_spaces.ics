@@ -196,6 +196,14 @@ SUMMARY:[open-spaces] Outer Space Open Space
 UID:3d0e58f9-c107-5f0e-bf52-52f23191e82e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Whether you've heard about Golang as a solution for cloud development and want pointers on getting started\, or you're a Gopher in diaspora here among the Pythons\, come chat\, share\, and learn.
+DTEND:20250518T190000Z
+LOCATION:Room 319
+DTSTART:20250518T180000Z
+SUMMARY:[open-spaces] Go
+UID:281c8e3a-32ab-5de1-8d11-ccfea01ff277
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:An opportunity for software maintainers who are still supporting Python 2.x to talk with people who are still using Python 2.x. What do users need before we can migrate? What do maintainers need to know or get before we can fully deprecate 2.x support? What funding might be necessary to make these happen? A supportive and nonjudgmental discussion facilitated by Sumana Harihareswara.
 DTEND:20250518T160000Z
 LOCATION:Room 308
@@ -306,6 +314,14 @@ LOCATION:Room 315
 DTSTART:20250517T200000Z
 SUMMARY:[open-spaces] Data engineering in Python the right way
 UID:800e06f3-b3ec-57ff-8eb6-9ad788082fb4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Informal discussion among those of us who use Python (particularly PyVISA) to automate control of real-world electronic test equipment hardware (e.g oscilloscopes\, power supplies\, spectrum analyzers\, etc.)
+DTEND:20250517T230000Z
+LOCATION:Room 315
+DTSTART:20250517T220000Z
+SUMMARY:[open-spaces] Test Equipment Automation
+UID:f3e7e35c-bfa7-5b77-b3bf-2c7089728b03
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Clouds are bad. ☁️🙁\r\nSun is good. ☀️😀\r\n\r\nAre you running python on premises: self hosted servers\, private data center\, in a broom closet\, etc.? Meet with others to discuss the how and why of operating outside the major cloud providers
@@ -610,6 +626,14 @@ LOCATION:Room 320
 DTSTART:20250516T200000Z
 SUMMARY:[open-spaces] Scaling Python: What's the secret sauce?
 UID:1b46dd2e-712f-56f6-b18b-b0b0a9bddef0
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us for an informal open space where community experts share their real-world experiences with AI evaluation systems. This isn't a structured talk - it's a chance to hear honest stories about what works\, what fails\, and how practitioners actually tackle the messy realities of evaluating AI systems in production.\r\n\r\nWhat to Expect: We'll create a comfortable environment to ask questions and learn from practitioners who have battled with the challenges of evaluating LLMs\, RAG systems\, and other AI applic…
+DTEND:20250518T180000Z
+LOCATION:Room 319
+DTSTART:20250518T170000Z
+SUMMARY:[open-spaces] Geeking Out about AI Evals
+UID:dd2bac51-4d77-5439-96ed-19644fab0285
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Most people learn debugging by dealing with whatever bugs happen to show up in their code. py-bugger lets you introduce specific kinds of bugs into your code\, so you can practice debugging in an intentional way. It's useful for teachers\, trainers\, and independent learners. py-bugger is in early development\, so come help shape the vision for this new tool. py-bugger.readthedocs.io
