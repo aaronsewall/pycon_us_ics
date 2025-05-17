@@ -356,6 +356,14 @@ SUMMARY:[open-spaces] Architecting in AWS Python+CDK. ☁️➕🐍
 UID:18e02935-7bb3-5277-b0d6-ffe4782bd550
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:pyOpenSci is a non profit organization that supports researchers in creating\, contributing to and building better\, more reusable code and software. \r\nWe have been working on beginner friend packaging resources and also lessons that support our beginner-friendly sprints. Join us and provide input on what you want to see pyOpenSci focus on in the next year.  \r\n\r\n Topics may include:\r\n* Lessons on packaging and packaging security\r\n* Tools and approaches that you want more support\, training and learning resour…
+DTEND:20250518T190000Z
+LOCATION:Room 316
+DTSTART:20250518T180000Z
+SUMMARY:[open-spaces] 🌸  pyOpenSci 🌸 Python\, packaging and making sharing code easier for everyone\, everywhere.
+UID:33788659-2841-52f4-9c05-87c7e1976cac
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Lets discuss the latest trends in 3D Reconstruction\, Computer Vision\, SFM\, SLAM\, etc and how we leverage Python.
 DTEND:20250517T210000Z
 LOCATION:Room 320
@@ -402,6 +410,14 @@ LOCATION:Room 318
 DTSTART:20250517T160000Z
 SUMMARY:[open-spaces] Discussing LLM guardrails
 UID:dbfd60a7-e448-50d9-bd97-c28a5b6650cb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Working on a video game?\r\nCurious about making games in Python or other game engines?\r\nJust passionate about video games?\r\nCome hang out!
+DTEND:20250518T160000Z
+LOCATION:Room 310/311
+DTSTART:20250518T150000Z
+SUMMARY:[open-spaces] Game Devs
+UID:67e0fa42-5a36-52e0-a2e5-7907a95ae643
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Do you identify as a "Nebraska" maintainer? Have you been thanklessly maintaining Open Source projects that large companies depend on? I want to hear your story! My name is Chad Whitacre\, Head of Open Source at Sentry and director of the Open Source Pledge. I recently launched a YouTube show called Open Path about Open Source sustainability and more. I want to include perspectives from maintainers in future episodes\, so we will be filming this session. Let's bring some attention to the Open Source sustaina…
