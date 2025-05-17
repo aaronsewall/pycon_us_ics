@@ -108,6 +108,14 @@ SUMMARY:[open-spaces] Climbing The Stack
 UID:cada514b-3453-5e50-80dd-37c8265046c2
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Do you have strong feelings about LangChain? Do you struggle to understand why Google provides two separate APIs to call the same Gemini models? Are you tired of hearing the word "agentic" (or do you love it)?\r\n\r\nThen this is the space for you! Come talk about infra and platforms for building with LLMs and GenAI.
+DTEND:20250518T160000Z
+LOCATION:Room 316
+DTSTART:20250518T150000Z
+SUMMARY:[open-spaces] Let's talk LLMOps
+UID:b8bc3493-50de-55dc-9de1-b1f673450f4d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Do you have or are interested in a career in aviation? Pilots\, fleet management\, weather\, maintenance\, engineering and simulation\, plane spotting\, or a big fan of going up and down. All are welcome.
 DTEND:20250517T190000Z
 LOCATION:Room 308
@@ -138,6 +146,14 @@ LOCATION:Room 309
 DTSTART:20250517T130000Z
 SUMMARY:[open-spaces] Research Software Engineers meetup
 UID:2b24b75a-ea0c-515c-8ef9-3473c4675531
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Chat about the portable Python distribution that uv\, hatch\, poetry\, and others can install\, why you'd want to use it\, and any issues you're having with it. (General discussion about building and packaging Python etc. also welcome.)
+DTEND:20250518T170000Z
+LOCATION:Room 309
+DTSTART:20250518T163000Z
+SUMMARY:[open-spaces] python-build-standalone
+UID:0a6ddf6c-bc95-588a-a038-b43efcd70d9e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The game is simple. \r\n\r\nThe round ends when only one person is standing\, The person with the most points wins. \r\n\r\nPeople will “face off” in pairs\, count to three\, and then display either a 1 or a 2. If you both display a 1\, you both stay in the game and receive 2 points each.  \r\n\r\nYou cannot play the same player 2 times in a row. \r\n\r\nIf you display a 2 you knock the other player out and receive 4 points. \r\n\r\nCome in with or without a strategy. Perhaps make teammates and plan a strategy together.
@@ -226,6 +242,14 @@ LOCATION:Room 315
 DTSTART:20250517T180000Z
 SUMMARY:[open-spaces] Coding with LLMs
 UID:70ce054b-3d7e-524a-9ae3-74478095dc11
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:OpenAPI specifications let you define your web APIs. The new Arazzo specification lets you define workflows or sequences of those API calls. Come chat about all things OpenAPI with one of the authors of the Arazzo spec!
+DTEND:20250518T180000Z
+LOCATION:Room 318
+DTSTART:20250518T170000Z
+SUMMARY:[open-spaces] OpenAPI and Arazzo specifications
+UID:65a95895-de2b-5adc-87be-3ef14b37b1de
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Open-space discussion about free-threaded Python (PEP 703)\, implementation details and migration support (https://py-free-threading.github.io/).
@@ -378,6 +402,14 @@ LOCATION:Room 321
 DTSTART:20250517T180000Z
 SUMMARY:[open-spaces] Diversity and Inclusion Working Group
 UID:7abd2581-270a-5748-88ea-780bb8e1c347
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Do you have thoughts or ideas on keeping Python accessible broadly? Do you have insights on how we can provide accommodations for people with disabilities or special needs? Let's discuss how to keep the Python community\, especially at events and conferences\, openly accessible to a wide audience.
+DTEND:20250518T160000Z
+LOCATION:Room 320
+DTSTART:20250518T150000Z
+SUMMARY:[open-spaces] Accessibility Solutions
+UID:79bb29e1-650e-59fe-a92a-aedfbd8d5082
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Stuck on sprints? Story points getting you down? T-shirt sizes don't seem to fit your tasks? Come to this session to learn about a surprisingly simple new way to estimate effort that is actually useful\, and will radically transform how your team communicates.
@@ -612,12 +644,12 @@ SUMMARY:[open-spaces] Keeping Up With CPython: Alternative implementations and l
 UID:00b8978f-9854-5c1c-8507-e15ddb28175d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Deployment is one of the sticking points in learning (and using) Django. [django-simple-deploy](https://django-simple-deploy.readthedocs.io/en/latest/) solves this problem by automating deployment to a variety of hosting platforms. We keep up with each platform's docs\, so your deployment works the first time you try. If you'd like to learn more about the project\, offer feedback\, or start contributing\, please stop by!
-DTEND:20250518T160000Z
-LOCATION:Room 315
-DTSTART:20250518T150000Z
-SUMMARY:[open-spaces] Simplifying initial Django deployments
-UID:a01f671f-6da8-5e06-b706-3f5e8c838cb5
+DESCRIPTION:If you worked through the puzzles in the Mother of Exiles sticker\, come learn more about the project and collect solution stickers. If you finished all the puzzles\, come get the special prize sticker. If you have not tried yet\, come get started. You can continue solving after PyCon US ends.
+DTEND:20250518T150000Z
+LOCATION:Room 309
+DTSTART:20250518T140000Z
+SUMMARY:[open-spaces] Mysterious Sticker
+UID:146dafbd-a2bb-5c8f-ab5b-2e011d71e511
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Come chat with the team building the new super-fast Astral type checker\, ty! Topics could include: ty's architecture and design goals\, your hopes and dreams for Python typing\, contributing to ty\, or whatever else is on your mind!
@@ -626,6 +658,14 @@ LOCATION:Room 316
 DTSTART:20250517T140000Z
 SUMMARY:[open-spaces] Astral’s type checker\, ty
 UID:31bd5c2b-d2c4-5e2b-aad3-fcf3ffd5c261
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Deployment is one of the sticking points in learning (and using) Django. [django-simple-deploy](https://django-simple-deploy.readthedocs.io/en/latest/) solves this problem by automating deployment to a variety of hosting platforms. We keep up with each platform's docs\, so your deployment works the first time you try. If you'd like to learn more about the project\, offer feedback\, or start contributing\, please stop by!
+DTEND:20250518T160000Z
+LOCATION:Room 315
+DTSTART:20250518T150000Z
+SUMMARY:[open-spaces] Simplifying initial Django deployments
+UID:a01f671f-6da8-5e06-b706-3f5e8c838cb5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Come enjoy the beauty and the madness of the Eurovision Song Contest!
@@ -692,6 +732,14 @@ SUMMARY:[open-spaces] nanobind\, pybind11 and other C++ binding libraries
 UID:95a17004-8ec7-5cc1-b9b7-1c3cbed5feb4
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Inspired by Marc Gibbon's Talk "Finding 2.0" (https://us.pycon.org/2025/schedule/presentation/158/) \, in which he shared his personal journey with cancer and finding his own version 2.0\, this open space is geared towards discussing how we can all share ideas about how we can find our version 2.0.
+DTEND:20250517T220000Z
+LOCATION:Room 321
+DTSTART:20250517T210000Z
+SUMMARY:[open-spaces] Finding 2.0 Support Group
+UID:f9d6d431-fcbc-55bc-92e5-0fde7eaabad9
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Pandas has been the erstwhile go-to default for data professionals but with new packages like polars\, ibis etc. there are great new options. Come debate what are the pros/cons of each and where the community is headed
 DTEND:20250517T180000Z
 LOCATION:Room 321
@@ -746,6 +794,14 @@ LOCATION:Room 309
 DTSTART:20250517T170000Z
 SUMMARY:[open-spaces] Challenges to deploying data science apps and docs
 UID:04616182-99bf-5982-8c22-bab96d3ff582
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Live to code\, love to roam? Come connect at the Digital Nomads Open Space!\r\n\r\nWhether you work from cafés in Lisbon\, beaches in Bali\, or your favorite local park — this open space is for anyone balancing a love of travel and remote work with Python and tech.\r\n\r\nShare tips on visas\, gear setups\, managing client time zones\, and finding great WiFi. Whether you’re a seasoned nomad or just curious about the lifestyle\, join us for a casual chat with other wandering coders.
+DTEND:20250517T220000Z
+LOCATION:Room 320
+DTSTART:20250517T210000Z
+SUMMARY:[open-spaces] Digital Nomads Open Space
+UID:85802b4e-3177-535a-9a51-5251501a7825
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Come play board games! Bring a game to share or come learn a new one!
