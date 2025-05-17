@@ -100,9 +100,9 @@ SUMMARY:[open-spaces] Python for Advocacy\, Activism\, and Civics
 UID:64de3ba0-689a-5c82-970d-cae016b327c7
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:We'll meet up in room 315 and depart at 5:10pm to head to FA Climbing Station Square to boulder together. New and experienced boulderers welcome!
-DTEND:20250517T220000Z
-LOCATION:Room 315
+DESCRIPTION:We'll meet up and depart at 5:10pm to head to FA Climbing Station Square to boulder together. New and experienced boulderers welcome!
+DTEND:20250517T233000Z
+LOCATION:Meet *outside* room 315
 DTSTART:20250517T210000Z
 SUMMARY:[open-spaces] Climbing The Stack
 UID:cada514b-3453-5e50-80dd-37c8265046c2
@@ -164,14 +164,6 @@ SUMMARY:[open-spaces] Programmers Dilemma! A Game Theory Experiment
 UID:54d325c0-1139-5872-87e1-3eb22f5be313
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Want to get better\, or help others do so?\r\nWant to know how to start\, or help others do so?
-DTEND:20250518T180000Z
-LOCATION:Room 309
-DTSTART:20250518T170000Z
-SUMMARY:[open-spaces] Presenters/Speakers
-UID:b0aacd63-f45d-5296-8bb3-ad51b2fb3479
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Connect with fellow Comprehensive Knowledge Archive Network (CKAN) users\, contributors\, and newcomers for updates\, lightning talks\, and casual conversation. Whether you're deep into data or new to CKAN\, stop by to share ideas and help shape what’s next.\r\n\r\nCKAN Project Update - Ian Ward\r\nCKAN POSE Project Update - Jamaica Jones\r\nTexas Water Data Hub Overview - Ben Bright\r\nWestern PA Regional Data Center (WPRDC) Overview - David Walker\r\nAutomagical Metadata Inferencing from Raw Data - Joel Natividad\r\nOpen D…
 DTEND:20250517T220000Z
 LOCATION:Room 309
@@ -216,6 +208,14 @@ DESCRIPTION:If you know\, you know.\r\nIf you don't know\, then drop in and prac
 DTEND:20250516T230000Z
 LOCATION:Room 309
 DTSTART:20250516T220000Z
+SUMMARY:[open-spaces] Ensemble (mob) programming
+UID:64ae53bf-1bb2-5762-acae-6df9ab512630
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Back by popular demand\r\nWe'll break up into groups of 3 to 5\, each with their own instance of https://mobti.me\r\nand rotate through the roles of: Driver\, Navigator\, and Next.
+DTEND:20250518T170000Z
+LOCATION:Room 309
+DTSTART:20250518T160000Z
 SUMMARY:[open-spaces] Ensemble (mob) programming
 UID:64ae53bf-1bb2-5762-acae-6df9ab512630
 END:VEVENT
@@ -756,6 +756,14 @@ SUMMARY:[open-spaces] Chat about CouchDB
 UID:92ca7c88-4400-5469-8a75-43d8d6136675
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:An open space to discuss Plotly\, data viz\, and data app development. We will also share info about the development sprint planned for Monday.
+DTEND:20250517T230000Z
+LOCATION:Room 308
+DTSTART:20250517T220000Z
+SUMMARY:[open-spaces] Plotly Data Visualization Meet & Greet
+UID:5583740f-b18f-59ce-860b-0989d3170d61
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Curious about functional programming in Python? Come hang out at the Functional Programming Open Space!\r\n\r\nWhether you're an FP enthusiast\, a Pythonista wanting to write cleaner\, more expressive code\, or just someone wondering what the fuss is about map\, filter\, and reduce\, this session’s for you.\r\n\r\nWe’ll talk about immutability\, pure functions\, higher-order functions\, recursion\, functional libraries\, and how to sneak in FP habits at work. No prior experience necessary — bring your questions\, favorite FP …
 DTEND:20250517T140000Z
 LOCATION:Room 308
@@ -770,6 +778,14 @@ LOCATION:Room 310/311
 DTSTART:20250518T170000Z
 SUMMARY:[open-spaces] PSF & Meetups Discussion
 UID:171711db-b144-5dba-a7f3-016dd6b104a6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Want to get better\, or help others do so?\r\nWant to know how to start\, or help others do so?\r\n(Not just for PyCon US)
+DTEND:20250518T180000Z
+LOCATION:Room 309
+DTSTART:20250518T170000Z
+SUMMARY:[open-spaces] All Presenters/Speakers
+UID:1b206e6a-3ace-505b-852b-81ad85c43796
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Open forum for discussing popular libraries and approaches for exposing C++ code to Python.\r\nLet's share challenges\, find out what's worked for others and brainstorm what would help us go further.
@@ -796,7 +812,7 @@ SUMMARY:[open-spaces] Which Data Package? pandas\, polars\, ibis\, duckdb ?
 UID:2fedb5c9-e27e-5e66-87a5-6927e3eedf31
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Come discuss!
+DESCRIPTION:Let's discuss testing! Unit? Integration? Contract? TDD? None?
 DTEND:20250518T160000Z
 LOCATION:Room 309
 DTSTART:20250518T150000Z
@@ -820,7 +836,7 @@ SUMMARY:[open-spaces] ORM OMG!
 UID:b4a03490-b966-5803-8978-5c755fc1f914
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Come discuss!
+DESCRIPTION:Come discuss improving: developer experience – engineering productivity – mitigating human errors – modern software engineering – taming tech debt
 DTEND:20250518T150000Z
 LOCATION:Room 308
 DTSTART:20250518T140000Z
