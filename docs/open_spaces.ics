@@ -244,6 +244,14 @@ SUMMARY:[open-spaces] Juggling!
 UID:4b74e7f4-d132-5f1f-94b0-079a6947f51e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Join us to share your lessons learned and answering any questions from folks who want to know more about being a technomad.\r\n\r\nTopics include things like\r\n- Connectivity\r\n- Power and Light\r\n- Food\, Water\, Shelter\r\n- Pace of travel\r\n- Getting acclimated to new placecs
+DTEND:20250518T160000Z
+LOCATION:Room 318
+DTSTART:20250518T150000Z
+SUMMARY:[open-spaces] Technomad -- folks who live and work on the road
+UID:6fbec8e1-2866-59b9-81dd-4a24e4b67612
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Do you use CoPilot\, Cursor\, ChatGPT? Don’t use them but want to learn more?\r\n\r\nCome talk about different uses of LLMs\, share stories with others in a round table discussion. \r\n\r\nAll experiences welcome.
 DTEND:20250517T190000Z
 LOCATION:Room 315
@@ -308,6 +316,14 @@ SUMMARY:[open-spaces] Physical World Python
 UID:0bbef8d5-e7df-5943-88a2-f701c73a8b7a
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:The Pydantic team are here to answer your questions about Pydantic AI. Come learn how to build AI agents\, the more ideas of things you want to try the better!\r\n\r\nCaveat: no polar bears will be present.
+DTEND:20250518T160000Z
+LOCATION:Room 319
+DTSTART:20250518T150000Z
+SUMMARY:[open-spaces] Come play with Pydantic AI agents!
+UID:0e253e39-2716-5676-a840-815db6dfb9a3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Do you love Python but are stuck using SQL? Have you discovered tips and tricks for data engineering in Python that you want to share? Are there aspects of data engineering where you haven't found a good Python-native solution?\r\n\r\nIf you said yes to any of those questions—or if you just want to hear what the community has to say—come discuss the future of Python-first data engineering. Data engineers\, data scientists\, and anybody else who works with data are welcome.
 DTEND:20250517T210000Z
 LOCATION:Room 315
@@ -338,6 +354,14 @@ LOCATION:Room 316
 DTSTART:20250516T170000Z
 SUMMARY:[open-spaces] Educators: Share Your Secrets
 UID:d126bc30-2d3d-5b25-9968-7257f9851425
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Q & A for the Unlearning SQL talk
+DTEND:20250518T200000Z
+LOCATION:Room 315
+DTSTART:20250518T190000Z
+SUMMARY:[open-spaces] Unlearning SQL
+UID:afabc913-fb75-59c1-a8f6-5640194944c9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Do you use python for scientific research studies? \r\n\r\nI am a biomedical research engineer at the University of Pittsburgh and use python for building systems to run experiments for neurotechnology clinical trials (including brain-computer interface research). This is an open discussion and meetup for fellow researchers\, scientists and engineers in academia. Stop by to talk about code\, science\, Pittsburgh\, or just wish me a happy birthday!
@@ -538,6 +562,14 @@ LOCATION:Room 321
 DTSTART:20250517T143000Z
 SUMMARY:[open-spaces] Supply-Chain Security
 UID:e9b1b500-786f-5300-b472-aabb3f9bf7b3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Eurovision spillover!
+DTEND:20250517T220000Z
+LOCATION:Room 315
+DTSTART:20250517T210000Z
+SUMMARY:[open-spaces] Song For Europe
+UID:357ab209-4ee5-52d6-8d8e-cf3083b5100c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:CUDA Python and beyond\, let's talk about the way you're using Python and magic math boxes together. \r\n\r\nYou'll likely find the talks leading up to this open space in Ballroom BC starting at 10:30 a.m. of interest:\r\n\r\n10:30 - Scale Smarter\, Not Harder\, with cuPyNumeric.\r\n\r\n11:15 - When GPUs Make Python Slower: Patterns and Pitfalls\r\n\r\n12:00 - GPU Programming in Pure Python
