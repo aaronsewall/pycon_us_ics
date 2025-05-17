@@ -180,6 +180,14 @@ SUMMARY:[open-spaces] CKAN Community
 UID:96ade699-a799-5e12-9df8-bd2f3bef1fce
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Meet other PyCon attendees who run Python at scale! This open space dives into High Performance Computing (HPC) workflows\, use cases\, and pain points. We'll swap tips on distributed programming frameworks like mpi4py\, dealing with HPC job schedulers like Slurm\, and the intersection of Python and HPC packaging systems like Spack and softenv. Bring your toughest cluster tales and clever hacks\; from kernel-writing wizards to beginning computational scientists\, this session is open to anyone doing science at s…
+DTEND:20250518T150000Z
+LOCATION:Room 321
+DTSTART:20250518T140000Z
+SUMMARY:[open-spaces] Python on HPC Supercomputers
+UID:f7bd8f68-03c8-5726-992e-417e72eddfc8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Come share your tips and tricks for CTF problems. Don't know what CTF is? Come learn about these fun activities for learning and sharpening cyber security skills.
 DTEND:20250516T190000Z
 LOCATION:Room 309
@@ -218,6 +226,14 @@ LOCATION:Room 309
 DTSTART:20250516T220000Z
 SUMMARY:[open-spaces] Ensemble (mob) programming
 UID:64ae53bf-1bb2-5762-acae-6df9ab512630
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Curious about GPU-accelerated data science in Python? Join us for an open discussion on RAPIDS — a suite of open-source tools like cuDF and cuML that bring pandas- and scikit-learn-like APIs to the GPU. All experience levels welcome!\r\n\r\nSome topics:\r\n- Interoperation with the CUDA Python & PyData ecosystems\r\n- Zero code change with cudf.pandas / cuml.accel (import *magic*)\r\n- Polars GPU backend\, XGBoost\, ...\r\n- Bring your questions!
+DTEND:20250518T160000Z
+LOCATION:Room 321
+DTSTART:20250518T150000Z
+SUMMARY:[open-spaces] GPU Accelerated Data Science with RAPIDS
+UID:d88e122c-9376-5754-a30c-aac543ecb924
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Back by popular demand\r\nWe'll break up into groups of 3 to 5\, each with their own instance of https://mobti.me\r\nand rotate through the roles of: Driver\, Navigator\, and Next.
