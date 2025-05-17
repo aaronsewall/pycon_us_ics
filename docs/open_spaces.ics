@@ -308,14 +308,6 @@ SUMMARY:[open-spaces] Diversity and Inclusion Working Group
 UID:7abd2581-270a-5748-88ea-780bb8e1c347
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Anyone curious about the world of speech to text /audio language models? Come share ideas\, problems and solutions!
-DTEND:20250517T150000Z
-LOCATION:Room 309
-DTSTART:20250517T140000Z
-SUMMARY:[open-spaces] 🗣️Speech To Text
-UID:4ad61e05-0079-545f-b3e0-ba1634093f16
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Stuck on sprints? Story points getting you down? T-shirt sizes don't seem to fit your tasks? Come to this session to learn about a surprisingly simple new way to estimate effort that is actually useful\, and will radically transform how your team communicates.
 DTEND:20250517T160000Z
 LOCATION:Room 318
@@ -402,6 +394,14 @@ LOCATION:Room 308
 DTSTART:20250517T170000Z
 SUMMARY:[open-spaces] Current & Displaced Federal Data Professionals Open Space
 UID:4eba28ff-b511-5456-984e-9260943c9470
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Let's talk about the use of Python in different humanitarian aid contexts! Both internationally and domestically.
+DTEND:20250517T220000Z
+LOCATION:Room 309
+DTSTART:20250517T210000Z
+SUMMARY:[open-spaces] The Red Cross and Other Humanitarian Organizations
+UID:c154a47a-5333-5911-ba4b-97f7d1654cd7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join Kelly and Sean from the Teaching Python podcast for a live recording of the show! We want this to be an interactive session with YOU. Come share your experiences with AI in your classroom\, teaching\, or education content.\r\n\r\nYou are welcome to join to observe\, participate\, or stage a -hostile- gentle takeover of our post-production processes. :)
