@@ -28,6 +28,14 @@ SUMMARY:[open-spaces] Gnu Radio/ Ham Radio
 UID:2be82b2e-2366-59c9-8d84-18ce3331a41b
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Join us for a 5K fun run along the river (approximately 9:30 per mile pace) with enough time to make it to breakfast and lighting talks! Meet outside the East Lobby of the Conference Center at 6:20 am for stretching. Departing at 6:30 am SHARP!
+DTEND:20250517T111500Z
+LOCATION:Conference Center East Lobby
+DTSTART:20250517T102000Z
+SUMMARY:[open-spaces] Fun Run 5K
+UID:a6976728-d733-5da6-8c93-8b4c5ba9a848
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Building and launching a product on your own?\r\nWorking at a small startup?\r\nCurious/Interested in any of the above?\r\n\r\nChat\, hang out\, network\, seek advice\, etc
 DTEND:20250517T160000Z
 LOCATION:Room 315
