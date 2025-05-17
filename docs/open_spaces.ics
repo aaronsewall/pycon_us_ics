@@ -84,6 +84,14 @@ SUMMARY:[open-spaces] Python Typing: Improving Types in the ecosystem\, 2025 typ
 UID:5b376455-9fdf-5a1e-a083-27b61b47ae72
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Some of you might have some tips\, tricks\, or really cool things in your dotfiles. I may\, too.\r\n\r\nLet's hang out and talk about the ways we do\, have\, or will configure our shells and other things.
+DTEND:20250518T190000Z
+LOCATION:Room 309
+DTSTART:20250518T180000Z
+SUMMARY:[open-spaces] Dotfile Nerds
+UID:2c9d3067-c1f9-5b2c-a981-753b6b7b9e33
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Let’s discuss how Python is being used in advocacy\, activism\, and social impact work. Whether you're working with data for policy change\, building tools for nonprofits\, or civic engagement\, join us to share projects\, tools\, and ideas.
 DTEND:20250516T170000Z
 LOCATION:Room 309
@@ -196,6 +204,14 @@ SUMMARY:[open-spaces] Beautiful Soup: Ask Me Anything
 UID:b0e3251f-097c-50de-b01c-1db9759443f7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:All things 3d Printing for nerds and newbs alike.
+DTEND:20250517T200000Z
+LOCATION:Room 308
+DTSTART:20250517T190000Z
+SUMMARY:[open-spaces] 3d Printing
+UID:62f5b696-f55f-509f-8d53-d550fe002c37
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Come juggle with us! No experience necessary\, we will teach you. Or bring your awesome skillz. Bring props if you have them.  We will have beanbag balls to use.
 DTEND:20250517T210000Z
 LOCATION:West Atrium
@@ -242,6 +258,14 @@ LOCATION:Room 316
 DTSTART:20250516T180000Z
 SUMMARY:[open-spaces] WheelNext - Let's re-invent the Wheel
 UID:1f393417-6bf3-5a06-a6d2-c3e2f5c6ec6f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:It's like tennis\, but smaller. No previous experience or equipment required. We'll meet up in the room after the closing session\, and go to a nearby park where there are courts.
+DTEND:20250518T230000Z
+LOCATION:Room 309
+DTSTART:20250518T213000Z
+SUMMARY:[open-spaces] Pickleball
+UID:5ce02723-fc7d-551b-9099-7a775b70c19d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Python in the physical world: manufacturing\, energy\, water\, robotics\, data centers\, telco\, buildings\, transportation\, logistics\, warehouses\, agriculture\, etc..
@@ -340,6 +364,14 @@ SUMMARY:[open-spaces] "Nebraska" Maintainers Round-table
 UID:938adf1e-9101-57a4-ad39-dde6b911504d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:if you are from asia or live now \r\nor plan to visit asia.\r\n\r\nwe can make connections\, ask
+DTEND:20250518T190000Z
+LOCATION:Room 308
+DTSTART:20250518T180000Z
+SUMMARY:[open-spaces] PAO\, PyhtonAsia community and make connections
+UID:43b95f87-5393-58c4-b370-90d77e94590e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Do you have thoughts on how to make the Python community more inclusive\, diverse\, and equitable? The members of the Diversity and Inclusion Working Group of the Python Software Foundation would love to meet you. Please come join us for a discussion about the importance of D&I work in strengthening the global Python community.
 DTEND:20250517T190000Z
 LOCATION:Room 321
@@ -370,6 +402,14 @@ LOCATION:Room 316
 DTSTART:20250518T173000Z
 SUMMARY:[open-spaces] Black Python Devs
 UID:f73110ef-b790-5a30-a450-380104b983ae
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Use Vim?  Neovim?   Just the bindings in those other editors?\r\n\r\nCome share your fancy macros\, how you manage your vim wiki\, and help the people just trying to quit.\r\n\r\nWe'll use https://leancoffee.org/ to organize the conversation:\r\n* write a post-it for what you want to talk about\r\n* put a check-mark on the post-its you'd like to cheer for\r\n..and we'll try to talk about topics in check-mark cardinality order!
+DTEND:20250517T220000Z
+LOCATION:Room 318
+DTSTART:20250517T210000Z
+SUMMARY:[open-spaces] Vim
+UID:9e5e5493-4ac1-5183-b394-3ed2f64e280f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Do you have any idea about what we can\, as a community\, promote Python to more people? Or are you interested in education in Python and would like to get more support? The members of the Education and Outreach Working Group of the Python Software Foundation would love to listen and collaborate with you. Please come join us!
