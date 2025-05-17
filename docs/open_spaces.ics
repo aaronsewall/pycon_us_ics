@@ -12,6 +12,30 @@ SUMMARY:[open-spaces] Neurodivergent Pythonista Social Space
 UID:92150ebe-0038-5588-9a41-013223dccb10
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Young professionals unite! This is a space to hang out\, talk about Python\, and meet other people early in their career. Best meme of the hour wins ☠️
+DTEND:20250518T180000Z
+LOCATION:Room 308
+DTSTART:20250518T170000Z
+SUMMARY:[open-spaces] Young Professionals Meetup!
+UID:473182ca-4c07-5ce8-80b4-c6671d9cbb21
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come chat with the team building marimo\, a reproducible notebook that aims to replace Jupyter\, Streamlit\, Papermill as a unified tool. Topics could include: getting started\, versioning with git\, sharing notebooks as apps and/or scripts\, your hopes and dreams for data science/notebooks\, contributing to marimo\, or whatever else is on your mind!
+DTEND:20250517T170000Z
+LOCATION:Room 315
+DTSTART:20250517T160000Z
+SUMMARY:[open-spaces] Reproducible notebooks with marimo!
+UID:f403ff52-1528-5257-8c61-67956683cf1a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come chat with the team building marimo\, a reproducible notebook that aims to replace Jupyter\, Streamlit\, Papermill as a unified tool. Topics could include: getting started\, versioning with git\, sharing notebooks as apps and/or scripts\, your hopes and dreams for data science/notebooks\, contributing to marimo\, or whatever else is on your mind!
+DTEND:20250518T150000Z
+LOCATION:Room 315
+DTSTART:20250518T140000Z
+SUMMARY:[open-spaces] Reproducible notebooks with marimo!
+UID:f403ff52-1528-5257-8c61-67956683cf1a
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:There are dozens of us! Come say hi\, talk about anything\, or just show up and listen. \r\n\r\nAnyone is welcome!
 DTEND:20250517T180000Z
 LOCATION:Room 318
@@ -100,20 +124,28 @@ SUMMARY:[open-spaces] AI for data science
 UID:f333fd46-cea6-548b-9dc6-57560ff7bfc3
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The game is simple. \r\n\r\nThe round ends when only one person is standing\, The person with the most points wins. \r\n\r\nPeople will “face off” in pairs\, count to three\, and then display either a 1 or a 2. If you both display a 1\, you both stay in the game and receive 2 points each.  \r\n\r\nYou cannot play the same player 2 times in a row. \r\n\r\nIf you display a 2 you knock the other player out and receive 4 points. \r\n\r\nCome in with or without a strategy. Perhaps make teammates and plan a strategy together.
-DTEND:20250517T220000Z
-LOCATION:Room 316
-DTSTART:20250517T210000Z
-SUMMARY:[open-spaces] Game Theory Experiment
-UID:9bd641d0-52cd-5d20-b200-c08d089a0e48
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Do you write software for research? Then you might be a research software engineer.
 DTEND:20250517T140000Z
 LOCATION:Room 309
 DTSTART:20250517T130000Z
 SUMMARY:[open-spaces] Research Software Engineers meetup
 UID:2b24b75a-ea0c-515c-8ef9-3473c4675531
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The game is simple. \r\n\r\nThe round ends when only one person is standing\, The person with the most points wins. \r\n\r\nPeople will “face off” in pairs\, count to three\, and then display either a 1 or a 2. If you both display a 1\, you both stay in the game and receive 2 points each.  \r\n\r\nYou cannot play the same player 2 times in a row. \r\n\r\nIf you display a 2 you knock the other player out and receive 4 points. \r\n\r\nCome in with or without a strategy. Perhaps make teammates and plan a strategy together.
+DTEND:20250517T220000Z
+LOCATION:Room 316
+DTSTART:20250517T210000Z
+SUMMARY:[open-spaces] Programmers Dilemma! A Game Theory Experiment
+UID:54d325c0-1139-5872-87e1-3eb22f5be313
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Want to get better\, or help others do so?\r\nWant to know how to start\, or help others do so?
+DTEND:20250518T180000Z
+LOCATION:Room 309
+DTSTART:20250518T170000Z
+SUMMARY:[open-spaces] Presenters/Speakers
+UID:b0aacd63-f45d-5296-8bb3-ad51b2fb3479
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Connect with fellow Comprehensive Knowledge Archive Network (CKAN) users\, contributors\, and newcomers for updates\, lightning talks\, and casual conversation. Whether you're deep into data or new to CKAN\, stop by to share ideas and help shape what’s next.\r\n\r\nCKAN Project Update - Ian Ward\r\nCKAN POSE Project Update - Jamaica Jones\r\nTexas Water Data Hub Overview - Ben Bright\r\nWestern PA Regional Data Center (WPRDC) Overview - David Walker\r\nAutomagical Metadata Inferencing from Raw Data - Joel Natividad\r\nOpen D…
@@ -332,6 +364,14 @@ SUMMARY:[open-spaces] DuckDB <3 Python
 UID:d9adc9ce-a51c-59c9-8abf-165cac518e46
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Join us for our annual Black Python Devs open space. A chance for us to all get to get her in a room to celebrate our successes and support each others struggles. And of course we will get our group picture at the end!
+DTEND:20250518T183000Z
+LOCATION:Room 316
+DTSTART:20250518T173000Z
+SUMMARY:[open-spaces] Black Python Devs
+UID:f73110ef-b790-5a30-a450-380104b983ae
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Do you have any idea about what we can\, as a community\, promote Python to more people? Or are you interested in education in Python and would like to get more support? The members of the Education and Outreach Working Group of the Python Software Foundation would love to listen and collaborate with you. Please come join us!
 DTEND:20250516T170000Z
 LOCATION:Room 315
@@ -476,6 +516,14 @@ SUMMARY:[open-spaces] Data Engineering Meetup: PyCon 2025
 UID:de87d576-170f-5f0b-9b5f-45f11f7c1630
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Curious how coding can help journalists with reporting? \r\n\r\nwant to share your hot tip on making data wrangling easier? \r\n\r\ncome hang out with your fellow coding journalists after the marshall project keynote
+DTEND:20250518T150000Z
+LOCATION:Room 310/311
+DTSTART:20250518T140000Z
+SUMMARY:[open-spaces] Computer Assisted Reporting and Investigative journalism
+UID:12331b0a-d74a-5326-a435-ce9f7cfc1da0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Have you or your team scaled a python-based service\, are interested in doing so\, or just curious? Let's talk tech stacks\, ideas\, and pitfalls! :)
 DTEND:20250516T210000Z
 LOCATION:Room 320
@@ -612,6 +660,14 @@ SUMMARY:[open-spaces] Which Data Package? pandas\, polars\, ibis\, duckdb ?
 UID:2fedb5c9-e27e-5e66-87a5-6927e3eedf31
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Come discuss!
+DTEND:20250518T160000Z
+LOCATION:Room 309
+DTSTART:20250518T150000Z
+SUMMARY:[open-spaces] Testing!
+UID:41ba61fc-2cae-5170-a22b-3d739dc8ac96
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:HI PYCON I'M TIMMY! I'm confused\, is this anthrocon? Where's all the fursuits?\r\n\r\nFurry or curious? Just bored but not ready to go bar hopping or to your hotel? Wondering if it's okay to fursuit to your company Halloween party? Maybe discuss your experiences with overlapping furry hobbies and professional spheres. Network with other furries in the Python community.\r\n\r\nIntentionally scheduled soon before the bowling furmeet Saturday at 7pm at AMF Mt Lebanon lanes :3\r\n\r\nI'll have a bag of candy bars to hand …
 DTEND:20250517T220000Z
 LOCATION:Room 308
@@ -626,6 +682,14 @@ LOCATION:Room 316
 DTSTART:20250517T200000Z
 SUMMARY:[open-spaces] ORM OMG!
 UID:b4a03490-b966-5803-8978-5c755fc1f914
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come discuss!
+DTEND:20250518T150000Z
+LOCATION:Room 308
+DTSTART:20250518T140000Z
+SUMMARY:[open-spaces] Engineering Productivity
+UID:a91731d6-4828-5883-bd41-b63415f1a7f7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:How are you predicting and modeling with the crown jewels (CSV or excel)?\r\n\r\nCome meet other users.
