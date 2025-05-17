@@ -828,12 +828,28 @@ SUMMARY:[open-spaces] Engineering Productivity
 UID:a91731d6-4828-5883-bd41-b63415f1a7f7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Let’s chat about software engineering management. Challenges with business teams? Hiring? Resourcing? Team organization? Growth? Great success stories? Let’s get together and share our experiences and tips.
+DTEND:20250518T190000Z
+LOCATION:Room 321
+DTSTART:20250518T180000Z
+SUMMARY:[open-spaces] Software Engineering Managers Meetup
+UID:7585a5a9-e196-53d5-865b-0959ad32e3f3
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:How are you predicting and modeling with the crown jewels (CSV or excel)?\r\n\r\nCome meet other users.
 DTEND:20250516T200000Z
 LOCATION:Room 318
 DTSTART:20250516T190000Z
 SUMMARY:[open-spaces] Tabular ML (sklearn\, xgboost\, catboost\, & friends)
 UID:b5d5f1cf-696a-5548-9054-ea7db2d234e9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A one hour intro class to historically-informed LED saber combat
+DTEND:20250518T190000Z
+LOCATION:garden outside 315
+DTSTART:20250518T180000Z
+SUMMARY:[open-spaces] Intro to Lightsaber Combat
+UID:3a29eadd-5377-5571-8036-ce870f58956b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:It's pretty easy to build an engaging data app or document locally\, but finding ways to deploy feels challenging  - especially for those on a budget. I'd love to hear what challenges you've faced and what approaches or solutions have unblocked you.

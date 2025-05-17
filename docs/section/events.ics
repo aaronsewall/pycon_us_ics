@@ -394,12 +394,12 @@ TRANSP:OPAQUE
 UID:88a493a9-e364-5006-8365-d7a17f255cea
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Section: events\nKind: event\nName: Introduction to Sprints Workshop\n<p>Introduction to Sprints Workshop</p>\n
+DESCRIPTION:Section: events\nKind: event\nName: CANCELLED: <s>Introduction to Sprints Workshop</s>\n<p>CANCELLED: <s>Introduction to Sprints Workshop</s></p>\n
 DTEND:20250518T233000Z
 LOCATION:Room 402
 DTSTART:20250518T213000Z
 STATUS:CONFIRMED
-SUMMARY:[event] Introduction to Sprints Workshop
+SUMMARY:[event] CANCELLED: <s>Introduction to Sprints Workshop</s>
 TRANSP:OPAQUE
 UID:3ecc9f2e-545c-5ed8-b5c7-e5ce4ddc7aa5
 END:VEVENT
