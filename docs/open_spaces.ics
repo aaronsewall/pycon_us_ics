@@ -100,6 +100,14 @@ SUMMARY:[open-spaces] AI for data science
 UID:f333fd46-cea6-548b-9dc6-57560ff7bfc3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:The game is simple. \r\n\r\nThe round ends when only one person is standing\, The person with the most points wins. \r\n\r\nPeople will “face off” in pairs\, count to three\, and then display either a 1 or a 2. If you both display a 1\, you both stay in the game and receive 2 points each.  \r\n\r\nYou cannot play the same player 2 times in a row. \r\n\r\nIf you display a 2 you knock the other player out and receive 4 points. \r\n\r\nCome in with or without a strategy. Perhaps make teammates and plan a strategy together.
+DTEND:20250517T220000Z
+LOCATION:Room 316
+DTSTART:20250517T210000Z
+SUMMARY:[open-spaces] Game Theory Experiment
+UID:9bd641d0-52cd-5d20-b200-c08d089a0e48
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Do you write software for research? Then you might be a research software engineer.
 DTEND:20250517T140000Z
 LOCATION:Room 309
@@ -476,6 +484,14 @@ SUMMARY:[open-spaces] Scaling Python: What's the secret sauce?
 UID:1b46dd2e-712f-56f6-b18b-b0b0a9bddef0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Most people learn debugging by dealing with whatever bugs happen to show up in their code. py-bugger lets you introduce specific kinds of bugs into your code\, so you can practice debugging in an intentional way. It's useful for teachers\, trainers\, and independent learners. py-bugger is in early development\, so come help shape the vision for this new tool. py-bugger.readthedocs.io
+DTEND:20250517T170000Z
+LOCATION:Room 309
+DTSTART:20250517T160000Z
+SUMMARY:[open-spaces] py-bugger: An intentional way to practice debugging.
+UID:66cc6a12-bf9e-5be1-adb0-63e7ec8072f8
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Excited by music and what you can do with Python in the creative process?\r\nJoin us and talk about Python and MIDI\, audio synthesis\, and other related topics and experiences that you wish to share.  There’s plenty of room for contributions in the Python space in these areas\, in addition to plenty of tools to help.
 DTEND:20250516T200000Z
 LOCATION:Room 320
@@ -492,12 +508,12 @@ SUMMARY:[open-spaces] Mysterious Sticker
 UID:146dafbd-a2bb-5c8f-ab5b-2e011d71e511
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Deployment is one of the sticking points in learning (and using) Django. [django-simple-deploy](https://django-simple-deploy.readthedocs.io/en/latest/) solves this problem by automating deployment to a variety of hosting platforms. We keep up with each platform's docs\, so your deployment works the first time you try. If you'd like to learn more about the project\, offer feedback\, or start contributing\, please stop by!
-DTEND:20250518T160000Z
-LOCATION:Room 315
-DTSTART:20250518T150000Z
-SUMMARY:[open-spaces] Simplifying initial Django deployments
-UID:a01f671f-6da8-5e06-b706-3f5e8c838cb5
+DESCRIPTION:Maybe you ignored the signs. Maybe you missed the cues. Maybe you haven't realized something was hidden in plain sight in the sticker exchange table. Don't worry! By reading this\, you are one step closer to discovering the truth. If you have already taken the first step\, come share your progress\, ask questions\, or work with other people seeking answers. And if you have found the truth\, come get the solution sticker!
+DTEND:20250517T170000Z
+LOCATION:Room 308
+DTSTART:20250517T160000Z
+SUMMARY:[open-spaces] Mysterious Sticker
+UID:146dafbd-a2bb-5c8f-ab5b-2e011d71e511
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Python language implementations and tooling (interpreters\, compilers\, typecheckers\, linters\, codemods\, etc) are intimately tied to the details of the language\, and often to the internals of CPython. This leads to a large amount of work every time a new python version comes out\, to reflect the changes in the language.\r\n\r\nThis is a space for developers of these projects to compare notes\, and discuss ways in which some of this work can be developed more collaboratively. People interested in the space are welc…
@@ -508,12 +524,12 @@ SUMMARY:[open-spaces] Keeping Up With CPython: Alternative implementations and l
 UID:00b8978f-9854-5c1c-8507-e15ddb28175d
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Maybe you ignored the signs. Maybe you missed the cues. Maybe you haven't realized something was hidden in plain sight in the sticker exchange table. Don't worry! By reading this\, you are one step closer to discovering the truth. If you have already taken the first step\, come share your progress\, ask questions\, or work with other people seeking answers. And if you have found the truth\, come get the solution sticker!
-DTEND:20250517T170000Z
-LOCATION:Room 308
-DTSTART:20250517T160000Z
-SUMMARY:[open-spaces] Mysterious Sticker
-UID:146dafbd-a2bb-5c8f-ab5b-2e011d71e511
+DESCRIPTION:Deployment is one of the sticking points in learning (and using) Django. [django-simple-deploy](https://django-simple-deploy.readthedocs.io/en/latest/) solves this problem by automating deployment to a variety of hosting platforms. We keep up with each platform's docs\, so your deployment works the first time you try. If you'd like to learn more about the project\, offer feedback\, or start contributing\, please stop by!
+DTEND:20250518T160000Z
+LOCATION:Room 315
+DTSTART:20250518T150000Z
+SUMMARY:[open-spaces] Simplifying initial Django deployments
+UID:a01f671f-6da8-5e06-b706-3f5e8c838cb5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Come chat with the team building the new super-fast Astral type checker\, ty! Topics could include: ty's architecture and design goals\, your hopes and dreams for Python typing\, contributing to ty\, or whatever else is on your mind!
