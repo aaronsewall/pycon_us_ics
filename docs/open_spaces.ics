@@ -117,9 +117,9 @@ UID:b8bc3493-50de-55dc-9de1-b1f673450f4d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Do you have or are interested in a career in aviation? Pilots\, fleet management\, weather\, maintenance\, engineering and simulation\, plane spotting\, or a big fan of going up and down. All are welcome.
-DTEND:20250517T190000Z
-LOCATION:Room 308
-DTSTART:20250517T180000Z
+DTEND:20250518T150000Z
+LOCATION:Room 316
+DTSTART:20250518T140000Z
 SUMMARY:[open-spaces] Python in Aviation
 UID:31f4d046-ed73-5e6d-ad3f-eff169a609f9
 END:VEVENT
@@ -378,6 +378,14 @@ LOCATION:Room 320
 DTSTART:20250517T150000Z
 SUMMARY:[open-spaces] t-strings: Let's build powerful templating together
 UID:2bda4d5e-9e80-5881-bf8b-56e30e56bb0d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:We will discuss the problem of ensuring the responsible and safe operation of AI applications\, particularly those utilizing LLMs. These systems are currently LLMs that perform classification tasks on incoming requests from users and either accept or deny them.
+DTEND:20250517T170000Z
+LOCATION:Room 318
+DTSTART:20250517T160000Z
+SUMMARY:[open-spaces] Discussing LLM guardrails
+UID:dbfd60a7-e448-50d9-bd97-c28a5b6650cb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Do you identify as a "Nebraska" maintainer? Have you been thanklessly maintaining Open Source projects that large companies depend on? I want to hear your story! My name is Chad Whitacre\, Head of Open Source at Sentry and director of the Open Source Pledge. I recently launched a YouTube show called Open Path about Open Source sustainability and more. I want to include perspectives from maintainers in future episodes\, so we will be filming this session. Let's bring some attention to the Open Source sustaina…
