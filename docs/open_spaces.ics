@@ -468,14 +468,6 @@ SUMMARY:[open-spaces] Python Skill-Building
 UID:ed7fb815-d89a-55d0-b83f-797398f35e26
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ask a teenager anything within reason!\r\nWe are not all brainrot!\r\nAsk questions and talk to me!\r\nLearn brainrot!\r\n\r\n\r\n\r\n\r\nDisclaimer: the description is pretty satire but yea just ask me anything!
-DTEND:20250518T210000Z
-LOCATION:Room 308
-DTSTART:20250518T200000Z
-SUMMARY:[open-spaces] Ask a teenager anything!
-UID:17c0823f-f47c-51a7-b5f5-eb4dc9c9963d
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Teaching\, explaining\, tutoring\, or mentoring? Let’s meet up and share all the tricks\, tips\, and tools we’ve learned. What worked? What didn’t? I want to know your secrets!
 DTEND:20250516T180000Z
 LOCATION:Room 316
@@ -860,6 +852,14 @@ SUMMARY:[open-spaces] All things MCP!
 UID:8ad553da-6668-5bda-94ec-7d99cf275496
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ask a teenager anything within reason!\r\nWe are not all brainrot!\r\nAsk questions and talk to me!\r\nLearn brainrot!\r\n\r\nBRING YOUR BEST MEMES\r\n\r\n\r\nDisclaimer: the description is pretty satire but yea just ask me anything!
+DTEND:20250518T204000Z
+LOCATION:Room 308
+DTSTART:20250518T200000Z
+SUMMARY:[open-spaces] Ask a teenager anything! BRING MEMES!!
+UID:b16cc698-c278-53c8-a82c-723600234e29
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Get ready for an engaging hour as we dive into all things data engineering.\r\n\r\n​Chat data engineering\, connect with peers and throw down some hot takes.\r\n\r\n​Don’t miss this great opportunity to learn\, network\, and unwind with the community!
 DTEND:20250516T200000Z
 LOCATION:Room 308
@@ -1074,6 +1074,14 @@ LOCATION:Room 321
 DTSTART:20250517T170000Z
 SUMMARY:[open-spaces] Which Data Package? pandas\, polars\, ibis\, duckdb ?
 UID:2fedb5c9-e27e-5e66-87a5-6927e3eedf31
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Phipps Conservatory and Botanical Gardens is a public garden in Pittsburgh known for its historic glasshouse\, themed plant exhibits\, and commitment to sustainability. Founded in 1893\, it features indoor and outdoor gardens\, seasonal flower shows\, and innovative green buildings. Phipps also offers educational programs and promotes environmental awareness through science\, design\, and community engagement.\r\n\r\nMeet at Phipps after the keynote! it is only open until 5pm today.
+DTEND:20250518T210000Z
+LOCATION:Phipps Conservatory
+DTSTART:20250518T200000Z
+SUMMARY:[open-spaces] Phipps Conservatory and Botanical Gardens Trip
+UID:cd3d8e36-7782-5d82-93bd-a90043a95c4a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Let's discuss testing! Unit? Integration? Contract? TDD? None?
