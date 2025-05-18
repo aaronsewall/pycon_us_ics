@@ -140,6 +140,14 @@ SUMMARY:[open-spaces] Web Dev Tools with Django & Wagtail
 UID:196342cd-4326-5913-a160-e3c44a7bdfd0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Let's get together and talk about what Twisted has been doing in the past year. Topics may include the recent WebSockets implementation and the upcoming deployment of PSF funds for paid maintenance\, but any topics from users\, maintainers\, or curious potential users would also be great!
+DTEND:20250518T150000Z
+LOCATION:Room 318
+DTSTART:20250518T140000Z
+SUMMARY:[open-spaces] Twisted Community
+UID:f2a12c19-c3e3-5bad-bec4-83352eab3652
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:A chance to share what's good (and bad) about using AI as part of a data science workfow
 DTEND:20250516T190000Z
 LOCATION:Room 308
@@ -276,14 +284,6 @@ SUMMARY:[open-spaces] Juggling!
 UID:4b74e7f4-d132-5f1f-94b0-079a6947f51e
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Join us to share your lessons learned and answering any questions from folks who want to know more about being a technomad.\r\n\r\nTopics include things like\r\n- Connectivity\r\n- Power and Light\r\n- Food\, Water\, Shelter\r\n- Pace of travel\r\n- Getting acclimated to new placecs
-DTEND:20250518T160000Z
-LOCATION:Room 318
-DTSTART:20250518T150000Z
-SUMMARY:[open-spaces] Technomad -- folks who live and work on the road
-UID:6fbec8e1-2866-59b9-81dd-4a24e4b67612
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Do you use CoPilot\, Cursor\, ChatGPT? Don’t use them but want to learn more?\r\n\r\nCome talk about different uses of LLMs\, share stories with others in a round table discussion. \r\n\r\nAll experiences welcome.
 DTEND:20250517T190000Z
 LOCATION:Room 315
@@ -386,6 +386,14 @@ LOCATION:Room 316
 DTSTART:20250516T170000Z
 SUMMARY:[open-spaces] Educators: Share Your Secrets
 UID:d126bc30-2d3d-5b25-9968-7257f9851425
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A quick and cozy open space discussing and interacting with Entertainment Robots\, sentiment analysis\, context dependent communication\, and Natural Language Processing. (Ft. AIBO)
+DTEND:20250518T163000Z
+LOCATION:Outside the staff outside
+DTSTART:20250518T160000Z
+SUMMARY:[open-spaces] Entertainment Robots and the Pragmatics of Contextual Analysis.
+UID:13e63749-b2ab-53f5-9e42-31238e9ee92d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Q & A for the Unlearning SQL talk
