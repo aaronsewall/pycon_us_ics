@@ -324,6 +324,14 @@ SUMMARY:[open-spaces] Juggling!
 UID:4b74e7f4-d132-5f1f-94b0-079a6947f51e
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Come to have Mullie's ice cream with Cheuk\, we will meet at the registration (or where it was) after the closing ceremony (after the Sprint project introductions). If you don't know what is a sprint that happens on Monday\, come and Cheuk will explain it over an ice cream.
+DTEND:20250518T220000Z
+LOCATION:Room 308
+DTSTART:20250518T210000Z
+SUMMARY:[open-spaces] [Outing\, see description] Ice Cream sprint
+UID:514947db-4a0d-5b23-a380-11c61f9abf28
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Do you use CoPilot\, Cursor\, ChatGPT? Don’t use them but want to learn more?\r\n\r\nCome talk about different uses of LLMs\, share stories with others in a round table discussion. \r\n\r\nAll experiences welcome.
 DTEND:20250517T190000Z
 LOCATION:Room 315
@@ -386,14 +394,6 @@ LOCATION:Room 316
 DTSTART:20250516T180000Z
 SUMMARY:[open-spaces] WheelNext - Let's re-invent the Wheel
 UID:1f393417-6bf3-5a06-a6d2-c3e2f5c6ec6f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The conference might be wrapping up\, but the conversations don’t have to! If you’re still around and looking to unwind\, come join us for a casual post-PyCon dinner & drinks hangout.\r\n\r\nEveryone’s welcome—whether you're flying solo or with friends\, come hang out! 🐍🍻🌮 (We will wait until 17.20pm and then head out)\r\n\r\nGroup chat: https://chat.whatsapp.com/Is1AbXC5UP5DEXt6gvCeYv
-DTEND:20250518T212000Z
-LOCATION:Outside Hall B\, or join the whatsapp group
-DTSTART:20250518T210000Z
-SUMMARY:[open-spaces] Let's grab some food/drinks!
-UID:d097ff7b-c80f-5ba2-8fb0-4385968d9179
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:It's like tennis\, but smaller. No previous experience or equipment required. We'll meet up in the room after the closing session\, and go to a nearby park where there are courts.
@@ -468,6 +468,14 @@ SUMMARY:[open-spaces] Python Skill-Building
 UID:ed7fb815-d89a-55d0-b83f-797398f35e26
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Ask a teenager anything within reason!\r\nWe are not all brainrot!\r\nAsk questions and talk to me!\r\nLearn brainrot!\r\n\r\n\r\n\r\n\r\nDisclaimer: the description is pretty satire but yea just ask me anything!
+DTEND:20250518T210000Z
+LOCATION:Room 308
+DTSTART:20250518T200000Z
+SUMMARY:[open-spaces] Ask a teenager anything!
+UID:17c0823f-f47c-51a7-b5f5-eb4dc9c9963d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Teaching\, explaining\, tutoring\, or mentoring? Let’s meet up and share all the tricks\, tips\, and tools we’ve learned. What worked? What didn’t? I want to know your secrets!
 DTEND:20250516T180000Z
 LOCATION:Room 316
@@ -490,14 +498,6 @@ LOCATION:Outside the staff room
 DTSTART:20250518T160000Z
 SUMMARY:[open-spaces] Entertainment Robots and the Pragmatics of Contextual Analysis.
 UID:13e63749-b2ab-53f5-9e42-31238e9ee92d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ask a teenager anything within reason!\r\nWe are not all brainrot!\r\nAsk questions and talk to me!\r\nLearn brainrot!\r\n\r\n\r\n\r\n\r\nDisclaimer: the description is pretty satire but yea just ask me anything!
-DTEND:20250518T211200Z
-LOCATION:4th floor under the tents!
-DTSTART:20250518T202000Z
-SUMMARY:[open-spaces] Ask a teenager anything within reason!
-UID:363657db-007d-5e23-ae05-1ddb38e15c43
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Q & A for the Unlearning SQL talk
@@ -666,6 +666,14 @@ LOCATION:Room 315
 DTSTART:20250516T160000Z
 SUMMARY:[open-spaces] Education and Outreach Working Group Open Space
 UID:71b0aa78-e3d0-5016-abb1-1e31d07f09b1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The conference might be wrapping up\, but the conversations don’t have to! If you’re still around and looking to unwind\, come join us for a casual post-PyCon dinner & drinks hangout in the city close to the venue (pay for your own food)\r\n\r\nEveryone’s welcome—whether you're flying solo or with friends\, come hang out! 🐍🍻🌮 (We will wait until 17.20pm and then head out to a dinner spot)\r\n\r\nGroup chat: https://chat.whatsapp.com/Is1AbXC5UP5DEXt6gvCeYv
+DTEND:20250518T212000Z
+LOCATION:Outside Hall B\, or join the whatsapp group
+DTSTART:20250518T210000Z
+SUMMARY:[open-spaces] Food & Drinks
+UID:55058783-d9f2-5e6f-959c-3280d5810e4f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Come have English tea and biscuits with Cheuk. Let's talk about Python\, community and PyCharm over an aromatic brew. Everyone is welcomed to my tea party.
