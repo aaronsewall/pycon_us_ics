@@ -332,6 +332,14 @@ SUMMARY:[open-spaces] Coding with LLMs
 UID:70ce054b-3d7e-524a-9ae3-74478095dc11
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Curious how Python is being used (or could be used) in the real estate or construction world? From data models and energy efficiency to proptech\, project management\, or generative design—let’s gather and swap stories\, challenges\, and ideas.\r\n\r\nWhether you’re in the industry or just intrigued by the possibilities\, come hang out with others exploring the intersection of Python and the built environment.
+DTEND:20250518T210000Z
+LOCATION:Room 318
+DTSTART:20250518T200000Z
+SUMMARY:[open-spaces] Python for Real Estate & Construction
+UID:7958b1e9-44ed-57c6-915c-223a16ede89f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:OpenAPI specifications let you define your web APIs. The new Arazzo specification lets you define workflows or sequences of those API calls. Come chat about all things OpenAPI with one of the authors of the Arazzo spec!
 DTEND:20250518T180000Z
 LOCATION:Room 318
@@ -378,6 +386,14 @@ LOCATION:Room 316
 DTSTART:20250516T180000Z
 SUMMARY:[open-spaces] WheelNext - Let's re-invent the Wheel
 UID:1f393417-6bf3-5a06-a6d2-c3e2f5c6ec6f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The conference might be wrapping up\, but the conversations don’t have to! If you’re still around and looking to unwind\, come join us for a casual post-PyCon dinner & drinks hangout.\r\n\r\nEveryone’s welcome—whether you're flying solo or with friends\, come hang out! 🐍🍻🌮 (We will wait until 17.20pm and then head out)\r\n\r\nGroup chat: https://chat.whatsapp.com/Is1AbXC5UP5DEXt6gvCeYv
+DTEND:20250518T212000Z
+LOCATION:Outside Hall B\, or join the whatsapp group
+DTSTART:20250518T210000Z
+SUMMARY:[open-spaces] Let's grab some food/drinks!
+UID:d097ff7b-c80f-5ba2-8fb0-4385968d9179
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:It's like tennis\, but smaller. No previous experience or equipment required. We'll meet up in the room after the closing session\, and go to a nearby park where there are courts.
@@ -428,6 +444,14 @@ SUMMARY:[open-spaces] Python for Hardware Folks
 UID:42b40363-54cd-552d-a54f-754675197d48
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Bridging the gap between teams? Introducing devops to data scientists?  Is it full of frustration or has it gone swimingly? Holding a space for the hybrid role.  Whether you're a data scientist who now knows too much\, or a data/software engineer who wishes others would just get on board\, come chat and build community.
+DTEND:20250518T190000Z
+LOCATION:Lounge area on third floor between 309 and 308
+DTSTART:20250518T180000Z
+SUMMARY:[open-spaces] Headache or Harmony: Engineering meets Data Science
+UID:f272a13f-2684-5eaa-afeb-04c78aa3d361
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Clouds are bad. ☁️🙁\r\nSun is good. ☀️😀\r\n\r\nAre you running python on premises: self hosted servers\, private data center\, in a broom closet\, etc.? Meet with others to discuss the how and why of operating outside the major cloud providers
 DTEND:20250516T170000Z
 LOCATION:Room 308
@@ -466,6 +490,14 @@ LOCATION:Outside the staff room
 DTSTART:20250518T160000Z
 SUMMARY:[open-spaces] Entertainment Robots and the Pragmatics of Contextual Analysis.
 UID:13e63749-b2ab-53f5-9e42-31238e9ee92d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ask a teenager anything within reason!\r\nWe are not all brainrot!\r\nAsk questions and talk to me!\r\nLearn brainrot!\r\n\r\n\r\n\r\n\r\nDisclaimer: the description is pretty satire but yea just ask me anything!
+DTEND:20250518T211200Z
+LOCATION:4th floor under the tents!
+DTSTART:20250518T202000Z
+SUMMARY:[open-spaces] Ask a teenager anything within reason!
+UID:363657db-007d-5e23-ae05-1ddb38e15c43
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Q & A for the Unlearning SQL talk
@@ -786,6 +818,14 @@ LOCATION:Room 309
 DTSTART:20250517T200000Z
 SUMMARY:[open-spaces] Python\, Electronics\, datasheets\, and component OCR
 UID:30e850ec-48c3-5f0a-9113-4fbbdba8a799
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Calling all climate-curious Pythonistas! Whether you're building tools to fight climate change\, wrangling data for a greener future\, or just wondering how Python fits into the climate tech puzzle\, we’d love to hang out!
+DTEND:20250518T200000Z
+LOCATION:Room 318
+DTSTART:20250518T190000Z
+SUMMARY:[open-spaces] Python for Climate Tech
+UID:47934485-0024-5a68-ad2a-8e7eeaea38a3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Putting Python to work to make the energy transition happen. Renewable energy\, storage\, energy efficiency\, distributed energy resources -- maybe even alternative futures like degrowth or solarpunk? All welcome: professionals\, amateurs\, academics\, and the curious.
