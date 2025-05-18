@@ -68,6 +68,14 @@ SUMMARY:[open-spaces] Startups & Solopreneurs
 UID:da3217a4-0814-5068-b84f-cdfda5cb6119
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:We’re gathering our favorite Vim plugins and command-line tools — from productivity boosters to hidden gems.\r\n\r\n🛠️ What’s in your toolkit?\r\nDrop your must-haves in the comments or join the conversation!
+DTEND:20250518T200000Z
+LOCATION:Room 320
+DTSTART:20250518T190000Z
+SUMMARY:[open-spaces] 🚀 Vim & CLI Power Users – Let's Share Tools!
+UID:be8f39de-4244-5cd2-a616-75c09ebfaa0f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:In 2020 I decided I'd be vegan by 2030. I'm almost there. I've done a lot of reading and thinking and I am very happy to discuss your (likely very valid!) questions and concerns. I'd love to chat with you. - Trey
 DTEND:20250518T173700Z
 LOCATION:4th floor tables (under the tents)
@@ -404,6 +412,14 @@ SUMMARY:[open-spaces] Test Equipment Automation
 UID:f3e7e35c-bfa7-5b77-b3bf-2c7089728b03
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Share your experience with using Python as a hardware maker - robots\, art\, manufacturing\, and anything in between.  Show and tell encouraged!
+DTEND:20250518T170000Z
+LOCATION:Room 316
+DTSTART:20250518T160000Z
+SUMMARY:[open-spaces] Python for Hardware Folks
+UID:42b40363-54cd-552d-a54f-754675197d48
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Clouds are bad. ☁️🙁\r\nSun is good. ☀️😀\r\n\r\nAre you running python on premises: self hosted servers\, private data center\, in a broom closet\, etc.? Meet with others to discuss the how and why of operating outside the major cloud providers
 DTEND:20250516T170000Z
 LOCATION:Room 308
@@ -674,6 +690,14 @@ LOCATION:Room 315
 DTSTART:20250517T210000Z
 SUMMARY:[open-spaces] Song For Europe
 UID:357ab209-4ee5-52d6-8d8e-cf3083b5100c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🚀 GDSFactory is a Python library for designing chips — including Photonics\, Analog\, Quantum\, MEMS\, as well as PCBs and 3D-printable objects.\r\n\r\nOur mission is to make hardware design accessible\, intuitive\, and fun\, empowering everyone to build the future of technology.\r\n\r\n💻 Next week (Monday–Thursday)\, we'll be sprinting on GDSFactory!\r\nJoin us on GitHub to discuss the open PyCon issue and contribute — whether it’s fixing a typo\, cleaning up code\, or adding new features. Everyone is welcome!
+DTEND:20250518T210000Z
+LOCATION:Room 320
+DTSTART:20250518T200000Z
+SUMMARY:[open-spaces] GDSFactory: Build the future of quantum and integrated circuit design — with Python.
+UID:29695033-bda5-5258-8307-d111d053d77e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:CUDA Python and beyond\, let's talk about the way you're using Python and magic math boxes together. \r\n\r\nYou'll likely find the talks leading up to this open space in Ballroom BC starting at 10:30 a.m. of interest:\r\n\r\n10:30 - Scale Smarter\, Not Harder\, with cuPyNumeric.\r\n\r\n11:15 - When GPUs Make Python Slower: Patterns and Pitfalls\r\n\r\n12:00 - GPU Programming in Pure Python
