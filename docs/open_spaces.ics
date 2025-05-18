@@ -332,6 +332,14 @@ SUMMARY:[open-spaces] Free-threaded Python
 UID:85b1786f-d3b2-53db-b08b-6277a332a649
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Interested in writing\, or are you already a writer? Let's talk about all things writing: how to get started\, where it's going\, where to publish\, writing books\, and of course: "will we be replaced by AI?" The author Bruce Eckel will be there as well as any other writers who join and all can offer opinions and experiences.
+DTEND:20250518T210000Z
+LOCATION:Room 316
+DTSTART:20250518T200000Z
+SUMMARY:[open-spaces] The Writer's Nook
+UID:d06e10e5-4104-5015-ae4f-c019be9720b4
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Are you a data scientist\, engineer\, or analyst using Python in your day-to-day work? This meetup is for you!\r\n\r\nJoin fellow practitioners for an hour of open conversation about the tools\, trends\, and challenges shaping enterprise data today. Bring your wins\, challenges\, and war stories: What are you building? What's keeping you up at night? What new tools or trends are you watching? Connect\, learn\, and exchange ideas with others navigating the ever-evolving Python data landscape!
 DTEND:20250516T220000Z
 LOCATION:Room 315
@@ -581,9 +589,9 @@ UID:d9adc9ce-a51c-59c9-8abf-165cac518e46
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Join us for our annual Black Python Devs open space. A chance for us to all get to get her in a room to celebrate our successes and support each others struggles. And of course we will get our group picture at the end!
-DTEND:20250518T183000Z
-LOCATION:Room 316
-DTSTART:20250518T173000Z
+DTEND:20250518T190000Z
+LOCATION:Room 318
+DTSTART:20250518T180000Z
 SUMMARY:[open-spaces] Black Python Devs
 UID:f73110ef-b790-5a30-a450-380104b983ae
 END:VEVENT
@@ -866,6 +874,14 @@ LOCATION:Room 315
 DTSTART:20250518T150000Z
 SUMMARY:[open-spaces] Simplifying initial Django deployments
 UID:a01f671f-6da8-5e06-b706-3f5e8c838cb5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sprints are cool! You should do them! \r\n\r\nCome as we try to explain sprints and answer questions without prior preparation or slides.\r\n\r\nMaintainers\, please come and help explain it.
+DTEND:20250518T230000Z
+LOCATION:Room 310/311
+DTSTART:20250518T220000Z
+SUMMARY:[open-spaces] a worse ad-hoc intro to sprints
+UID:05828193-d22a-53a4-967e-d19cae486083
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Come enjoy the beauty and the madness of the Eurovision Song Contest!
