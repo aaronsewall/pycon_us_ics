@@ -2280,7 +2280,7 @@ BEGIN:VEVENT
 DESCRIPTION:Section: events\nKind: event\nName: Job Fair and Poster Sessions\n<p>Job Fair and Poster Sessions</p>\n
 DTEND:20250518T170000Z
 LOCATION:Hall A
-DTSTART:20250518T133000Z
+DTSTART:20250518T140000Z
 STATUS:CONFIRMED
 SUMMARY:[event] Job Fair and Poster Sessions
 TRANSP:OPAQUE

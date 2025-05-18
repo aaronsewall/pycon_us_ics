@@ -68,6 +68,14 @@ SUMMARY:[open-spaces] Startups & Solopreneurs
 UID:da3217a4-0814-5068-b84f-cdfda5cb6119
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:In 2020 I decided I'd be vegan by 2030. I'm almost there. I've done a lot of reading and thinking and I am very happy to discuss your (likely very valid!) questions and concerns. I'd love to chat with you. - Trey
+DTEND:20250518T173700Z
+LOCATION:4th floor tables (under the tents)
+DTSTART:20250518T170000Z
+SUMMARY:[open-spaces] Ask a Friendly Meat-Loving Vegan
+UID:f51964d8-d5f3-5225-8e60-3f777ea2c02d
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Are you a software engineer\, data engineer\, cybersecurity specialist\, cloud engineer\, or other employee in the first few years of your career? Are you someone with more years under their belt that wants to share what they've experienced and learned? \r\n\r\nPlease stop by with questions or comments for discussion related to career or personal development\, coding practices\, navigating new work environments\, and any other related topics.
 DTEND:20250517T150000Z
 LOCATION:Room 308
@@ -260,6 +268,14 @@ SUMMARY:[open-spaces] Beautiful Soup: Ask Me Anything
 UID:b0e3251f-097c-50de-b01c-1db9759443f7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:I found this great used bookstore last year and invite anyone interested to visit it with me again this year!\r\n\r\nMeet by the info desk. Located approximately 3.5 miles from the convention center\, in the Oakland neighborhood. We will take Lyft/s to get there unless enough people with cars are willing to drive.
+DTEND:20250518T200000Z
+LOCATION:Room 321
+DTSTART:20250518T190000Z
+SUMMARY:[open-spaces] Caliban Book Shop
+UID:0fc662d8-f4d5-574e-b121-1f18bdb7a969
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:SeleniumBase is a Python web automation framework with lots of powerful features built-in\, such as handling 2-factor login (MFA)\, test reports\, real-time dashboards\, CAPTCHA-bypass abilities\, and reliable test automation. With over 10K GitHub Stars (https://github.com/seleniumbase/SeleniumBase)\, SeleniumBase offers several features that other test automation frameworks don't have. Come learn how it works\, and be sure to ask lots of questions! This Open Space will be run by the maintainer of SeleniumBase: M…
 DTEND:20250518T150000Z
 LOCATION:Room 319
@@ -380,6 +396,14 @@ SUMMARY:[open-spaces] On Premise Python
 UID:38ce42cc-8946-52ac-80b8-5b5d565f27e1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Let's chat about Python skill-building over lunch on the roof. Hosted by Trey Hunner of Python Morsels (one of many Python skill-building resources). The rooftop terrace can be reached via any of he 4 doors on either side of the long 3rd walkway.
+DTEND:20250518T170000Z
+LOCATION:4th floor tables (under the tents)
+DTSTART:20250518T163000Z
+SUMMARY:[open-spaces] Python Skill-Building
+UID:ed7fb815-d89a-55d0-b83f-797398f35e26
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Teaching\, explaining\, tutoring\, or mentoring? Let’s meet up and share all the tricks\, tips\, and tools we’ve learned. What worked? What didn’t? I want to know your secrets!
 DTEND:20250516T180000Z
 LOCATION:Room 316
@@ -492,6 +516,14 @@ SUMMARY:[open-spaces] "Nebraska" Maintainers Round-table
 UID:938adf1e-9101-57a4-ad39-dde6b911504d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Teahouse Hosting is now doing static hosting! Come ask the creators questions or create a website.
+DTEND:20250518T180000Z
+LOCATION:Room 316
+DTSTART:20250518T170000Z
+SUMMARY:[open-spaces] Hosting with Teahouse
+UID:24d115e8-4cce-5cad-a1c7-a4367bed89bf
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:if you are from asia or live now \r\nor plan to visit asia.\r\n\r\nwe can make connections\, ask
 DTEND:20250518T190000Z
 LOCATION:Room 308
@@ -596,6 +628,14 @@ SUMMARY:[open-spaces] Testing and Fuzzing with Hypothesis!
 UID:35127111-7f0c-5b96-b499-3a304630d460
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Start your day with coffee. Good coffee. And if you’re feeling adventurous\, try the Orange Espresso.  We’ll chat and walk to the keynote after that :)\r\n\r\n\r\nhttps://maps.app.goo.gl/Mrqm4rK862xUzR4S9?g_st=ic
+DTEND:20250517T124000Z
+LOCATION:La Prima cafe
+DTSTART:20250517T113000Z
+SUMMARY:[open-spaces] Orange Espresso chat
+UID:1e6d1094-840a-5a46-b9ec-14df19bc45d1
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Come learn what’s new and upcoming for supply chain security in the Python ecosystem. This open space will be relevant to both maintainers and users. A mix of longer presentations\, lightning talks and open discussion will include overviews of new best practices and plans for the future.\r\n\r\nSign up for lightning talks here:\r\n\r\nhttps://forms.gle/B3HanjcJHvC5ToFh6
 DTEND:20250517T163000Z
 LOCATION:Room 321
@@ -644,6 +684,14 @@ SUMMARY:[open-spaces] Live Recording: AI in Education and CS classrooms
 UID:7f231990-48d0-5a35-b581-9b9de96ae0dd
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Are you an artist of any kind? Come hang out!
+DTEND:20250518T190000Z
+LOCATION:Room 320
+DTSTART:20250518T180000Z
+SUMMARY:[open-spaces] Artist Meetup
+UID:8a593a85-baab-56df-946a-9522f1ecde28
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Rust is part of the Python ecosystem now—for those of you who are interested in Rust in Python come to join the discussion and learn more.
 DTEND:20250517T160000Z
 LOCATION:Room 308
@@ -682,6 +730,14 @@ LOCATION:Room 309
 DTSTART:20250517T200000Z
 SUMMARY:[open-spaces] Python\, Electronics\, datasheets\, and component OCR
 UID:30e850ec-48c3-5f0a-9113-4fbbdba8a799
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Putting Python to work to make the energy transition happen. Renewable energy\, storage\, energy efficiency\, distributed energy resources -- maybe even alternative futures like degrowth or solarpunk? All welcome: professionals\, amateurs\, academics\, and the curious.
+DTEND:20250518T160000Z
+LOCATION:Room 318
+DTSTART:20250518T150000Z
+SUMMARY:[open-spaces] Python and the Energy Transition
+UID:5da22e63-a295-5686-b7f5-ce641640f26a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A space to meet other tabular (data analysts\, data scientists\, programmers) users.
@@ -844,12 +900,28 @@ SUMMARY:[open-spaces] Plotly Data Visualization Meet & Greet
 UID:5583740f-b18f-59ce-860b-0989d3170d61
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Come learn how to embed Python inside a batch file\, no dependencies.
+DTEND:20250518T170000Z
+LOCATION:Room 315
+DTSTART:20250518T160000Z
+SUMMARY:[open-spaces] PyBatch
+UID:1187547f-3a44-56f4-b942-561a9bfd228e
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Curious about functional programming in Python? Come hang out at the Functional Programming Open Space!\r\n\r\nWhether you're an FP enthusiast\, a Pythonista wanting to write cleaner\, more expressive code\, or just someone wondering what the fuss is about map\, filter\, and reduce\, this session’s for you.\r\n\r\nWe’ll talk about immutability\, pure functions\, higher-order functions\, recursion\, functional libraries\, and how to sneak in FP habits at work. No prior experience necessary — bring your questions\, favorite FP …
 DTEND:20250517T140000Z
 LOCATION:Room 308
 DTSTART:20250517T130000Z
 SUMMARY:[open-spaces] Functional Programming Open Space
 UID:0e339a2c-cea0-55f8-aca8-3bb0eecb5294
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Recent scientific research has uncovered some interesting aspects of consciousness. What all life forms are conscious? Is consciousness fundamental or emergent? Aren't qualia crazy?
+DTEND:20250518T180000Z
+LOCATION:Room 320
+DTSTART:20250518T170000Z
+SUMMARY:[open-spaces] Consciousness
+UID:8eb868fe-0256-5902-9ded-e83fc35984da
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The PSF & Meetups Discussion is organized by the PSF board. We’re looking to make this year’s PyCon US session into a jumping off point for a global conversation that we hope to see happen regularly in lots of places around the world – as well as online. If you’ve got ideas or want to be involved in this conversation\, please email community-organizing@pyfound.org
