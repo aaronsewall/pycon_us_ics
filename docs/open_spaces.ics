@@ -284,6 +284,14 @@ SUMMARY:[open-spaces] SeleniumBase Deep Dive
 UID:b4da4bc2-09b7-5927-b7a2-639313d1dc16
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Come discuss the struggles that you\, your team\, and/or your organization encounter when trying to adopt Python's type system. Do you or someone in control simply not like types? Do they seem like too much trouble or risk to adopt? Is it an educational issue\, or do people not understand the value? Contrarian opinions are welcome -- the goal is to understand the challenges and hurdles.
+DTEND:20250518T190000Z
+LOCATION:Room 310/311
+DTSTART:20250518T180000Z
+SUMMARY:[open-spaces] Types: What is Preventing Adoption?
+UID:9474d995-6334-562f-a76d-ceaa2e852e4c
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:All things 3d Printing for nerds and newbs alike.
 DTEND:20250517T200000Z
 LOCATION:Room 308
@@ -410,6 +418,14 @@ LOCATION:Room 316
 DTSTART:20250516T170000Z
 SUMMARY:[open-spaces] Educators: Share Your Secrets
 UID:d126bc30-2d3d-5b25-9968-7257f9851425
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:An open space to discuss Plotly and Dash for data app development. Also\, learn about the Sprints on Monday.
+DTEND:20250518T180000Z
+LOCATION:Room 321
+DTSTART:20250518T170000Z
+SUMMARY:[open-spaces] Plotly Data Viz - Meet & Greet
+UID:0d07160f-0ed5-5ae3-9d81-564a8d5096b3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A quick and cozy open space discussing and interacting with Entertainment Robots\, sentiment analysis\, context dependent communication\, and Natural Language Processing. (Ft. AIBO)
