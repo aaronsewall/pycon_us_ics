@@ -276,6 +276,14 @@ SUMMARY:[open-spaces] Beautiful Soup: Ask Me Anything
 UID:b0e3251f-097c-50de-b01c-1db9759443f7
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Bring your A game and maybe a game and we will be SET! Will have an assortment of game generes and lengths 🎲♥️
+DTEND:20250518T230000Z
+LOCATION:Room 308
+DTSTART:20250518T220000Z
+SUMMARY:[open-spaces] More boardgames!
+UID:23e8de16-97fb-5247-94df-6507633cdfe0
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:I found this great used bookstore last year and invite anyone interested to visit it with me again this year!\r\n\r\nMeet by the info desk. Located approximately 3.5 miles from the convention center\, in the Oakland neighborhood. We will take Lyft/s to get there unless enough people with cars are willing to drive.
 DTEND:20250518T200000Z
 LOCATION:Room 321
@@ -454,7 +462,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A quick and cozy open space discussing and interacting with Entertainment Robots\, sentiment analysis\, context dependent communication\, and Natural Language Processing. (Ft. AIBO)
 DTEND:20250518T163000Z
-LOCATION:Outside the staff outside
+LOCATION:Outside the staff room
 DTSTART:20250518T160000Z
 SUMMARY:[open-spaces] Entertainment Robots and the Pragmatics of Contextual Analysis.
 UID:13e63749-b2ab-53f5-9e42-31238e9ee92d
