@@ -492,6 +492,14 @@ SUMMARY:[open-spaces] Entertainment Robots and the Pragmatics of Contextual Anal
 UID:13e63749-b2ab-53f5-9e42-31238e9ee92d
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Let’s talk about event sourcing
+DTEND:20250518T220000Z
+LOCATION:Room 315
+DTSTART:20250518T210000Z
+SUMMARY:[open-spaces] Event sourcing
+UID:41b668f6-cb59-55be-8333-f4e97c84d90f
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Q & A for the Unlearning SQL talk
 DTEND:20250518T200000Z
 LOCATION:Room 315
